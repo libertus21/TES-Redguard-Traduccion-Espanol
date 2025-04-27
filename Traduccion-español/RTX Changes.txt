@@ -1,0 +1,25 @@
+2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
+2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
+3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+2203	bbyc	Gracias. Hablaremos más tarde.
+2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
+2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
+2206	bema	Absolutamente. Sin ofender, pero Hammerfell necesita algo de ley y orden.
+2207	bemc	El Imperio lo ha hecho bien en su conquista de Hammerfell, ¿no crees?
+2218	bgr1	¡Quédate atrás, Daedra-get!
+2227	bh2a	El valiente espadachín regresa. ¿En qué puedo ayudaros?
+2228	bh2c	Hola de nuevo, Capitán Brennan.
+2229	bh3a	Cualquier cosa por tu bien, Cyrus
+2230	bh3c	Brennan, ¿tienes un minuto?
+2236	bh6a	¡Cyrus! Justo el hombre que estaba buscando.
+2238	bh6c	Una palabra por favor, Capitán
+2239	bisa	Me temo que no. Antes de que el Imperio limpiara las cosas, Stros M'Kai era un paraíso pirata, evitado por mercaderes honestos como yo.
+2240	bisc	Busco a mi hermana, Iszara. ¿Quizás hayas oído hablar de ella?
+2241	blga	Otros capitanes me dicen que los bandidos que quedan se han organizado contra las medidas enérgicas del Imperio contra el contrabando y la piratería. 
+2242	blgc	Los piratas que nos atacaron hablaron de una «Liga Inquieta». ¿Has oído hablar de ellos?
+2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
+2249	bocc	¿Cómo le ha ido a Stros M'Kai con sus nuevos amos imperiales? 
+2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
+2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
+2262	bzz2	A tu salud, muchacho.

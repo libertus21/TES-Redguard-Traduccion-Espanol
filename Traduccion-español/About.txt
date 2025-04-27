@@ -1,0 +1,4 @@
+0.1
+
+Traduccion al español de Redguard.
+
