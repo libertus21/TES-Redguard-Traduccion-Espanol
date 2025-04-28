@@ -1,3 +1,50 @@
+4555	xa01	A de los a-a-apes que salen con sus madres
+4556	xa02	B de los b-b-bultos que revientan por placer
+4557	xa03	C de las aguas donde navegan los marinos
+4558	xa04	D de los d-d-dedos que exploran sus lenguas
+4559	xa05	E de las anguilas que ¡hip! desayunan
+4560	xa06	F de las pulgas que invaden sus calzones
+4561	xa07	G del grog que tragan a ¡litrazos!
+4562	xa08	H de los pelos en sus verrugas asquerosas
+4563	xa09	I de lo que s-s-sacan con los dedos
+4564	xa10	J de los t-t-tirones que dan en las cuerdas
+4565	xa11	K de los g-g-gatos que ahogan en bolsas
+4566	xa12	L del amor que dan a las cabras ¡beee!
+4567	xa13	M de las marcas de cincuenta latigazos
+4568	xa14	N de su ingenio... ¿qué ingenio? ¡No tienen
+4569	xa15	O de los océanos donde se pierden"
+4570	xa16	P de la s-s-sífilis y encías podridas
+4571	xa17	Q de las nalgas que merecen golpes
+4572	xa18	R está mal, ¡y siem-pre lo estarán!
+4573	xa19	S es hediondo, como sus sobacos
+4574	xa20	T de las garrapatas que ¡glup! comen pulgas
+4575	xa21	U de las urgentes necesidades viriles
+4576	xa22	V de los vegetales que nunca comerán
+4577	xa23	W de los gorgojos en sus galletas
+4578	xa24	Tres letras y el alfabeto se acabó... ¿o no?
+4579	xa25	X marca equis en sus ma-ma-mapases
+4580	xa26	Y, ¡ay! ¿Por qué-é termina esta canción?
+4581	xa27	Z de las mujeres... ¿zoqué? ¡Zoantrópicas!
+4582	xa28	¡Y ahora... ¡hip!... cantemos to-to-todo otra vez! (¡Tararí-tá!)
+4616	xh1a	No. me llamo Crendal.
+4617	xh1c	Me llamo Cyrus. ¿Estás bien?
+4619	xh2b	Oh no. Es el chico de las preguntas.
+4620	xh2c	Más despacio, Crendal.
+4642	xch2	Ella flota a través de mis sueños, con la mayor facilidad... La dama gorda y tuerta de rodillas perfumadas...
+4643	xch3	¡Ey! ¡Redguard! ¿Qué tal un trago?
+4644	xch4	¡¿Qué demonios...?!
+4645	xch5	¡Llévate esto a otra parte, ahora!
+4646	xch6	¡A por ellos!
+4647	xch7	¡Será mejor que corras, Redguard!
+4648	xgr1	Debo estar viendo cosas
+4649	xgr2	¡¿que!?
+4651	xgr4	¡Ah! No hagas ruido, ¿quieres?
+4652	xgr5	Vete, ¿por qué no?
+4653	xgr6	¡Vete a mendigar a otra parte, gremlin!
+4654	xgr7	¿cambiarte en qué? ¿Cómo demonios voy a hacer eso? Ya estas bastante mal
+4655	xch8	¡Guau! ¡Eeeee-zee, amigo! ¡Un tío podría hacerse daño con esa cosa!
+4657	xxa2	¡Oye! ¡Deja de seguirme!
+4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
 2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
