@@ -1,7 +1,20 @@
+1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
+1426	5amc	¿Alguna idea de porque estan importante este amuleto?
 1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
+1431	5coa	Por aquí tenemos a alguien que necesita que le hagan algo. Por allá tenemos a alguien que busca trabajo.
+1432	5cob	¿Y cómo se encuentran? ¡Ahí es donde entro yo!.
+1433	5coc	Usted se llama a sí mismo contratista. ¿Qué significa eso?.
 1434	5cra	Siempre me he mantenido al margen de la política. Es malo para los negocios.
 1435	5crb	¡Corona, Antepasado, me da igual, mientras su moneda sea cierta! Mi filosofía es, lo hecho, hecho está, vive y deja vivir, la hierba siempre es más verde, ¿sabes?
 1436	5crc	Parece que los Crown se están tomando muy mal su derrota.
+1437	5dra	Nuestro amistoso lagarto local, no es que tenga nada contra él. O ella... lo que sea.
+1438	5drb	Nunca se sabe con esos Argonianos. Dirige el Draggin Tale, la taberna en la plaza del pueblo.
+1440	5dta	¡El único abrevadero de la ciudad! Siga las rampas cuesta arriba hasta la plaza del pueblo
+1441	5dtb	Un consejo de amigo: ten cuidado. Los Antepasados son muy susceptibles estos días.
+1442	5dtc	He quedado con un amigo en el Draggin' Tale. ¿Puedes indicarme como llegar?
+1443	5fia	¡Claro que sí! Estoy... ¡asombrado de verte! Había oído que hubo algún malentendido con el Gobernador. ¿Quizá te buscaban los imperiales?
+1444	5fib	Nunca he hecho caso de rumores, en cualquier caso. Aquí están tus 200 de oro, como prometí.
+1445	5fic	Entregué el amuleto como querías. Creo que me debes dinero.
 1446	5fra	Se podría decir que sí. Aunque no deberías decírselo a la cara. Están muy susceptibles últimamente.
 1447	5frc	Supongo que los antepasados siguen saboreando la victoria en la guerra civil, ¿eh?.
 1448	5fta	¡Claro que lo hicieron! Y a los Antepasados les gusta reventar el Draggin' Tale por si alguien lo duda.
@@ -10,6 +23,9 @@
 1451	5fxa	¡Atrápalos, muchacho!
 1452	5fxb	¡Eso es enseñarles, Redguard!
 1453	5fxd	¡Vienen más, muchacho!
+1454	5gpa	Justo en la cima de la colina. No tiene pérdida. La estructura más grandiosa de Stros M'Kai, quizá de toda Hammerfell.
+1455	5gpb	Era toda una atracción turística antes de los... lamentables incidentes recientes. 
+1456	5gpc	¿Dónde puedo encontrar el Palacio del Gobernador?
 1457	5gra	¡Ahora será mejor que te alejes de mí...!
 1458	5grb	Ve a molestar a otro.
 1459	5grd	¡no entiendo ninguna palabra!
@@ -38,11 +54,40 @@
 1489	5lga	¡Malditos sean ellos y sus sangrientas costumbres! Han hecho más por arruinar Stros M'Kai que los Antepasados y el Imperio juntos.
 1490	5lgb	Si no fuera por ellos, esta ciudad estaría en paz hace meses.
 1491	5lgc	¿Qué sabes de un grupo de rufianes que se hacen llamar la Liga Inquieta?
+1492	5lra	Quemando o saqueando la mitad de los cargamentos que se dirigen a este puerto! ¡Incitando a los imperiales a una represión cada vez más despiadada!
+1493	5lrb	La Liga no parece darse cuenta de que la guerra ha terminado, y perdieron.
+1494	5lrc	¿Cómo es la Liga Inquieta responsable de arruinar Stros M'Kai?
+1495	5lwa	Depende de a quién preguntes. No lo sé.
+1496	5lwb	No soy uno de tus caballeros políticos, siempre metido en los asuntos de los demás... sólo soy un pobre trabajador.
+1497	5lwc	¿Estás diciendo que la Liga estaba aliada con las Coronas?
+1498	5lwd	Más vale pájaro en mano, ya sabes lo que dicen, ¡ja, ja!
+1499	5nga	Un viejo ermitaño inofensivo.Los más supersticiosos de mis conciudadanos repiten tontos rumores sobre él, pero yo no me fío de sus cuentos.
+1500	5ngb	Vive en la torre del viejo mago. Sólo tienes que seguir los bajíos del lado noroeste de la isla.
+1502	5noa	Pregunta, mi buen Cyrus. No tengo nada que ocultar.
+1503	5noc	Lo estoy considerando.Primero me gustaría hacer algunas preguntas adicionales.
 1504	5oca	Sin duda es mejor que la guerra, mi joven amigo. Aunque no te mentiré.
 1505	5ocb	Es difícil encontrar mano de obra honesta hoy en día. Los antepasados prefieren sonreír a levantar, y las Coronas ya no tienen espalda para eso.
 1506	5occ	No he estado en Hammerfell desde antes de la guerra. ¿Te gusta ser ciudadano del Imperio?
+1507	5p1a	Como he dicho, he tenido problemas para contratar para este trabajo, así que estoy subiendo la tarifa un poco.
+1508	5p1c	¿Cuánto ofreces por este trabajo?
+1509	5p2a	La paga es proporcional al peligro. La Torre de N'Gasta no está exactamente en la carretera principal, ¿sabes?
+1510	5p2b	Así que puedes tener algunos problemas para llegar. Nada que no puedas manejar, estoy seguro.  
+1511	5p2c	Eso es bastante alto para una simple entrega. ¿Cuál es el truco? 
+1512	5spa	Oh, ya sabes, le llaman nigromante, parlotean sobre que roba las almas de la gente, ejércitos de muertos vivientes, ese tipo de cosas.
+1513	5spb	Nada de lo que un tipo bien armado como tú deba preocuparse.
+1514	5spc	Qué supersticiones albergan los lugareños sobre este N'Gasta?
+1515	5w1a	Una tarea sencilla. Recoger un amuleto de N'Gasta y entregarlo en el Palacio del Gobernador.
+1516	5w1b	Para ser honesto, he tenido problemas para encontrar a alguien que acepte el trabajo.
+1517	5w1c	Háblame de este trabajo que tienes para mí.
+1518	5w1d	Pero estoy seguro de que un hombre robusto como tú no presta atención a tontas supersticiones locales.
+1519	5w2a	¿Estás interesado?.
+1520	5w2c	Refréscame la memoria sobre el trabajo para el que me contrataste.
 1521	5xx1	¡Quita tu culo de ahí!
 1522	5xx2	Guarda esa espada, Redguard. ¡Esto no es un patio de prácticas!
+1523	5ysa	¡Espléndido! Aquí tienes tus 100 oros. Tendré el resto para ti después de que entregues el amuleto al Gobernador.
+1524	5ysb	Um, estoy seguro de que no tendrás ningún problema, pero, uh, probablemente quieras hacer esto durante la luz del día.
+1525	5ysc	Claro. Aceptaré el trabajo.
+1528	6b1c	Hablaremos más tarde.
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
 2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
@@ -68,6 +113,7 @@
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+3534	ng4c	Todavía no.
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
 4557	xa03	C de las aguas donde navegan los marinos
