@@ -54,29 +54,47 @@
 4596	xa7c	No ha habido un caso de eso en doscientos años.
 4597	xara	Sólo digo que los que jugamos bien nuestras cartas podríamos abrir una buena tienda de cinturones.
 4598	xarc	¿Tampoco te gustan los Argonianos? ¿A quién sí te cae bien, Crendal?
+4599	xbya	¡Bien!
+4600	xbyc	Ya he tenido suficiente.
 4601	xcla	Aquí tienes una idea, Redguard... átate un cofre de oro al tobillo y húndete en el mar.
 4602	xclc	¿Alguna idea de cómo contactar con la Liga Inquieta?
 4603	xcta	No he dicho eso. Lo dije. No. Dije. Que. Richton lanza las Coronas en la cárcel, y los piratas en las Catacumbas. Yo no soy ni lo uno ni lo otro. Dudo que sus compinches pudieran llevarme de todos modos.
 4604	xctc	Tienes miedo de las Catacumbas, ¿eh?
+4605	xdla	¿Qué? ¡Soy más inteligente que tú, Redguard! Yo sí tengo un trozo del mapa. ¡Ja!  ¿Qué tal eso? ¡No creías que (hip) lo tuviera!
+4606	xdlc	Por supuesto, está mintiendo. No eres lo suficientemente inteligente como para haber conseguido un trozo del mapa.
 4607	xdra	¡Pahh! ¿A quién (hick) culpas por los tuyos, tipo duro? Yo conozco la historia de Dreekius... Sólo que nadie más la conoce. ¡Malditos Argonianos...! Los elfo oscuro tienen razón: ¡enjauladlos y dejad que se conviertan en ceniza!
 4608	xdrb	Bien, entonces. Acércate a ese bastardo escamoso y  pilla la gripe-- 
 4609	xdrc	Igual que un borracho culpa al cantinero de sus problemas-- 
 4610	xdta	¡Richton tiene a ese maldito lagarto, Dreekius, cobrando tres piezas de oro por un vino asqueroso de Valenwood! Me da escalofríos... Atrapando moscas en la barra con la lengua. No puedo relajarme con ese... hip... (slap), (slap) todo el rato.
 4611	xdtc	Sin duda has pasado mucho tiempo en la taberna local.
+4612	xfla	¡Ah, el Frasco de Lillandril! Todo lo bueno de la vida viene en un decantador
+4613	xflc	¿Has oído hablar del Frasco de Lillandril? Pareces un buscador de tesoros.
+4614	xgma	¡Que! ¡Que! Quiero decir..que. Ummmm. Malditos sean. Uhh. Otra mentira. Ahora vete Cyrus.
+4615	xgmc	No estoy tan seguro de eso. Les oí decir que tenía dos números, una X y un árbol largo. No significó mucho para mí, pero yo comprobaría su escondite si yo fuera usted..
 4616	xh1a	No. me llamo Crendal.
 4617	xh1c	Me llamo Cyrus. ¿Estás bien?
 4619	xh2b	Oh no. Es el chico de las preguntas.
 4620	xh2c	Más despacio, Crendal.
+4621	xhma	Shh. Hip. Esto te va a gustar, chico preguntón. Una noche me desmayé en el barco del viejo Trithik, mientras dormía. Me desperté temprano, buscando un trago... 
+4622	xhmb	¿Y sabes lo que encontré bajo su cama? ¡Un pedazo del mapa! Jaaa. Uhh. Shhh. Trithik ni debe saber que lo perdio.
+4623	xhmc	Eso es impresionante Crendal. ¿Cómo he podido dudar de ti? Dime... ¿cómo lo conseguiste?.
 4624	xisa	¡Claro que sí! Aunque no recuerdo nombres... Ah, pero ellas sí recuerdan el mío. Esas zorras adoran a Crendal... Me las llevo al huerto a todas, ya sabes, he he.
 4625	xisc	¿Has visto a una mujer llamada Iszara por aqui?
 4626	xlga	Esos malditos bastardos. Los maté a todos, sí señor. Un puñado de maricas de Redguard... hip... Quieren que me una a ellos, pero tengo demasiado en qué pensar... ¡Una carga pesada, te digo! Richton les tiene tirria. Tú ten cuidado.
 4627	xlgc	¿Qué sabes del grupo llamado Liga Inquieta?
 4628	xlta	¡Exacto! Es toda una sorpresa que los marineros no se queden más por aquí. Él... él... ¿Quién diablos está a cargo de eso?
 4629	xltc	¿Impuesto al alcohol?
+4630	xmpa	Oh, lo hizo, ¿verdad? Uuhhh...bueno...uh...¡está mintiendo! ¡Sí, ese lagarto está mintiendo!
+4631	xmpc	Dreekius me dijo que has encontrado una parte del mapa del Frasco de Lillandril.
 4632	xrca	Para nada, señor. Le pateé su gordo trasero. ¡No va a meterme en sus catacumbas!
 4633	xrcc	¿Richton no te da miedo?
 4634	xsma	Necesito beber para no volverme loco en este lugar. Esos blandengues de por aquí creen que pueden sacarle algo bueno. Pero no están sacando náaada. Náaada. Richton los tiene a todos cagados.
 4635	xsmc	Así que Stros M'Kai es una gran fiesta para ti, ¿eh?
+4636	xtca	Eso es imposible. Pah. ¡Hick! Sólo hablan, celosos de Crendal están. ¡No pueden saber dónde está!
+4637	xtcc	Tengo información que puede interesarte, Crendal. He oído a unos chicos decir que han encontrado tu trozo de mapa escondido.
+4638	xtma	¡Pah! No tienes nada que yo quiera, Redguard. Además, ni siquiera lo llevo encima, lo he escondido donde esos mariquitas no puedan encontrarlo.
+4639	xtmb	Y cuando lo use para encontrar el frasco, Richton y esas ratas de la Liga se inclinarán ante mí, y ese lagarto seguirá el camino del Príncipe.
+4640	xtmc	Con mucho gusto te quitaré ese trozo de mapa de las manos si no lo usas. ¿Hacemos un intercambio?
 4642	xch2	Ella flota a través de mis sueños, con la mayor facilidad... La dama gorda y tuerta de rodillas perfumadas...
 4643	xch3	¡Ey! ¡Redguard! ¿Qué tal un trago?
 4644	xch4	¡¿Qué demonios...?!
@@ -90,5 +108,6 @@
 4653	xgr6	¡Vete a mendigar a otra parte, gremlin!
 4654	xgr7	¿cambiarte en qué? ¿Cómo demonios voy a hacer eso? Ya estas bastante mal
 4655	xch8	¡Guau! ¡Eeeee-zee, amigo! ¡Un tío podría hacerse daño con esa cosa!
+4656	xxa1	¡Eh! ¡Tú! ¡Largo! ¡Lárgate!
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
