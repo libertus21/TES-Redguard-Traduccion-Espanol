@@ -1,3 +1,28 @@
+2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
+2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
+2203	bbyc	Gracias. Hablaremos más tarde.
+2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
+2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
+2206	bema	Absolutamente. Sin ofender, pero Hammerfell necesita algo de ley y orden.
+2207	bemc	El Imperio lo ha hecho bien en su conquista de Hammerfell, ¿no crees?
+2218	bgr1	¡Quédate atrás, Daedra-get!
+2227	bh2a	El valiente espadachín regresa. ¿En qué puedo ayudaros?
+2228	bh2c	Hola de nuevo, Capitán Brennan.
+2229	bh3a	Cualquier cosa por tu bien, Cyrus
+2230	bh3c	Brennan, ¿tienes un minuto?
+2236	bh6a	¡Cyrus! Justo el hombre que estaba buscando.
+2238	bh6c	Una palabra por favor, Capitán
+2239	bisa	Me temo que no. Antes de que el Imperio limpiara las cosas, Stros M'Kai era un paraíso pirata, evitado por mercaderes honestos como yo.
+2240	bisc	Busco a mi hermana, Iszara. ¿Quizás hayas oído hablar de ella?
+2241	blga	Otros capitanes me dicen que los bandidos que quedan se han organizado contra las medidas enérgicas del Imperio contra el contrabando y la piratería. 
+2242	blgc	Los piratas que nos atacaron hablaron de una «Liga Inquieta». ¿Has oído hablar de ellos?
+2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
+2249	bocc	¿Cómo le ha ido a Stros M'Kai con sus nuevos amos imperiales? 
+2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
+2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
+2262	bzz2	A tu salud, muchacho.
+3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
 4557	xa03	C de las aguas donde navegan los marinos
@@ -26,10 +51,32 @@
 4580	xa26	Y, ¡ay! ¿Por qué-é termina esta canción?
 4581	xa27	Z de las mujeres... ¿zoqué? ¡Zoantrópicas!
 4582	xa28	¡Y ahora... ¡hip!... cantemos to-to-todo otra vez! (¡Tararí-tá!)
+4596	xa7c	No ha habido un caso de eso en doscientos años.
+4597	xara	Sólo digo que los que jugamos bien nuestras cartas podríamos abrir una buena tienda de cinturones.
+4598	xarc	¿Tampoco te gustan los Argonianos? ¿A quién sí te cae bien, Crendal?
+4601	xcla	Aquí tienes una idea, Redguard... átate un cofre de oro al tobillo y húndete en el mar.
+4602	xclc	¿Alguna idea de cómo contactar con la Liga Inquieta?
+4603	xcta	No he dicho eso. Lo dije. No. Dije. Que. Richton lanza las Coronas en la cárcel, y los piratas en las Catacumbas. Yo no soy ni lo uno ni lo otro. Dudo que sus compinches pudieran llevarme de todos modos.
+4604	xctc	Tienes miedo de las Catacumbas, ¿eh?
+4607	xdra	¡Pahh! ¿A quién (hick) culpas por los tuyos, tipo duro? Yo conozco la historia de Dreekius... Sólo que nadie más la conoce. ¡Malditos Argonianos...! Los elfo oscuro tienen razón: ¡enjauladlos y dejad que se conviertan en ceniza!
+4608	xdrb	Bien, entonces. Acércate a ese bastardo escamoso y  pilla la gripe-- 
+4609	xdrc	Igual que un borracho culpa al cantinero de sus problemas-- 
+4610	xdta	¡Richton tiene a ese maldito lagarto, Dreekius, cobrando tres piezas de oro por un vino asqueroso de Valenwood! Me da escalofríos... Atrapando moscas en la barra con la lengua. No puedo relajarme con ese... hip... (slap), (slap) todo el rato.
+4611	xdtc	Sin duda has pasado mucho tiempo en la taberna local.
 4616	xh1a	No. me llamo Crendal.
 4617	xh1c	Me llamo Cyrus. ¿Estás bien?
 4619	xh2b	Oh no. Es el chico de las preguntas.
 4620	xh2c	Más despacio, Crendal.
+4624	xisa	¡Claro que sí! Aunque no recuerdo nombres... Ah, pero ellas sí recuerdan el mío. Esas zorras adoran a Crendal... Me las llevo al huerto a todas, ya sabes, he he.
+4625	xisc	¿Has visto a una mujer llamada Iszara por aqui?
+4626	xlga	Esos malditos bastardos. Los maté a todos, sí señor. Un puñado de maricas de Redguard... hip... Quieren que me una a ellos, pero tengo demasiado en qué pensar... ¡Una carga pesada, te digo! Richton les tiene tirria. Tú ten cuidado.
+4627	xlgc	¿Qué sabes del grupo llamado Liga Inquieta?
+4628	xlta	¡Exacto! Es toda una sorpresa que los marineros no se queden más por aquí. Él... él... ¿Quién diablos está a cargo de eso?
+4629	xltc	¿Impuesto al alcohol?
+4632	xrca	Para nada, señor. Le pateé su gordo trasero. ¡No va a meterme en sus catacumbas!
+4633	xrcc	¿Richton no te da miedo?
+4634	xsma	Necesito beber para no volverme loco en este lugar. Esos blandengues de por aquí creen que pueden sacarle algo bueno. Pero no están sacando náaada. Náaada. Richton los tiene a todos cagados.
+4635	xsmc	Así que Stros M'Kai es una gran fiesta para ti, ¿eh?
 4642	xch2	Ella flota a través de mis sueños, con la mayor facilidad... La dama gorda y tuerta de rodillas perfumadas...
 4643	xch3	¡Ey! ¡Redguard! ¿Qué tal un trago?
 4644	xch4	¡¿Qué demonios...?!
@@ -45,28 +92,3 @@
 4655	xch8	¡Guau! ¡Eeeee-zee, amigo! ¡Un tío podría hacerse daño con esa cosa!
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
-2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
-2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
-2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
-3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
-2203	bbyc	Gracias. Hablaremos más tarde.
-2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
-2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
-2206	bema	Absolutamente. Sin ofender, pero Hammerfell necesita algo de ley y orden.
-2207	bemc	El Imperio lo ha hecho bien en su conquista de Hammerfell, ¿no crees?
-2218	bgr1	¡Quédate atrás, Daedra-get!
-2227	bh2a	El valiente espadachín regresa. ¿En qué puedo ayudaros?
-2228	bh2c	Hola de nuevo, Capitán Brennan.
-2229	bh3a	Cualquier cosa por tu bien, Cyrus
-2230	bh3c	Brennan, ¿tienes un minuto?
-2236	bh6a	¡Cyrus! Justo el hombre que estaba buscando.
-2238	bh6c	Una palabra por favor, Capitán
-2239	bisa	Me temo que no. Antes de que el Imperio limpiara las cosas, Stros M'Kai era un paraíso pirata, evitado por mercaderes honestos como yo.
-2240	bisc	Busco a mi hermana, Iszara. ¿Quizás hayas oído hablar de ella?
-2241	blga	Otros capitanes me dicen que los bandidos que quedan se han organizado contra las medidas enérgicas del Imperio contra el contrabando y la piratería. 
-2242	blgc	Los piratas que nos atacaron hablaron de una «Liga Inquieta». ¿Has oído hablar de ellos?
-2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
-2249	bocc	¿Cómo le ha ido a Stros M'Kai con sus nuevos amos imperiales? 
-2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
-2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
-2262	bzz2	A tu salud, muchacho.
