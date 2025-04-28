@@ -1,3 +1,50 @@
+445	?amu	Amuleto
+452	?atb	Cuerpo de A'tor
+469	?bms	Batalla de Stros M'Kai
+479	?brw	Brawl
+489	?bye	adiós
+490	?by2	adiós
+497	?cav	Cavernas
+500	?clg	Contactar con la Liga
+507	?cro	Coronas
+537	?dwg	Engranaje enano
+544	?emp	Imperio
+547	?exc	Escape de las catacumbas
+560	?flk	Frasco de Lillandril
+568	?fxd	Arreglar el Observatorio
+588	?gpl	Política gremial
+589	?grc	Gobernador Richton
+612	?hmo	Madre de Hayle
+618	?hyk	Ayude a los Yokudan
+626	?iil	Iszara en la Liga
+629	?imp	Imperiales
+635	?isf	Iszara está a salvo
+647	?jal	Cárcel
+648	?jnl	Ingreso en la Liga
+665	?lgb	Liga de Restless.
+678	?lpl	Mucha gente
+694	?mgu	Gremio de magos
+696	?mlg	Conoci la Liga
+725	?obs	Observatorio
+726	?occ	Ocupación
+738	?pal	Palacio
+740	?pat	Príncipe A'tor
+755	?prn	Idea absurda
+762	?rai	Redadas
+771	?rlg	Liga Inquieta
+779	?scf	Algo que puede comprender
+789	?sig	Signo de la Serpiente
+793	?slg	Gema del alma
+796	?smd	Guarida del Contrabandista
+811	?std	Estudios
+820	?tav	Taberna
+821	?tbs	Subsistencia ligada a la tesis
+837	?trb	Problemas
+845	?tol	No les dije nada
+849	?tvl	Las bóvedas del tesoro
+854	?voa	Archimago Voa
+856	?vor	Anillo de Voa
+937	?yoc	Campamento Yokudan
 1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
 1426	5amc	¿Alguna idea de porque estan importante este amuleto?
 1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
@@ -98,9 +145,79 @@
 1526	5zz1	¿Terminaste el trabajo, hombre? 
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
+2049	ab1c	Gracias, Avik.
+2060	agpc	¿Tiene el Gremio de Magos mucha influencia en Stros M'Kai?
+2061	agpa	¡Ya no! El Archimago Voa era un Corona, la mano derecha de A'tor, pero ambos perecieron en la batalla de Stros M'Kai. Jaganvir es un sucesor indigno del puesto de Archimago, si me preguntas a mí.
+2062	agrc	¿Qué les hizo el Gobernador a los Yokudan?
+2063	agra	¡Asesinó al joven Hayle! ¡Luego tachó al resto de traidores y les ordenó abandonar Stros M'Kai!
+2064	agrb	Yokudanos involucrados en la política de los Redguard, ¡una idea absurda!
+2070	ah5a	¡Cyrus! ¡Te las arreglaste para romper el hechizo!
+2071	ah5c	Gracias a tu amigo, Joto .
+2072	ahmc	Su madre está muy afectada por la muerte de su hijo.
+2073	ahma	Sí, pero no es sólo eso. Saban aún no ha completado el ritual del entierro, aunque el muchacho lleva semanas bajo tierra
+2074	ahyc	Echas de menos a Hayle, ¿verdad?
+2075	ahya	Solía encantarle escucharme tocar. Una de las pocas personas de por aquí que lo hacía. Apropiado, supongo, para alguien nacido bajo el signo de la Serpiente
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
 2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
+2079	aj1a	Esta noticia... no es una sorpresa. ¿Quién salvará a Stros M'Kai?
+2080	aj1c	Me temo que Joto no lo logró. Intenté rescatarlo, pero los imperiales...
+2081	aj2c	Lo primero es lo primero. Todavía tengo que encontrar a mi hermana
+2082	aj3c	Ese es mi trabajo.
+2083	ajgc	¿Jaganvir es el nuevo Archimago?
+2084	ajga	Sí, un sapo sin carácter, un lacayo perfecto para todos los caprichos del Gobernador. Aún así, un mago de formidable poder, a pesar de sus defectos personales.
+2085	ajlc	La cárcel ¿Dónde está?
+2086	ajla	Cerca del Palacio. No dejan entrar a nadie a ver a los prisioneros, ya lo he intentado.
+2087	ajlb	Supongo que debería estar agradecido de que no lo mataran, ¿eh? ¡Infames asesinos!
+2088	al1c	Yo mismo me crucé con un par de ellos de camino a la ciudad. Unos tipos bastante agradables, aunque hablaban demasiado. ¿Qué querían de ti?
+2089	al1a	Estaban haciendo preguntas sobre una mujer. No era asunto mío y no quería darle más problemas a su pobre madre, así que no les dije nada.
+2090	al1b	Oye, ahora recuerdo por qué el nombre de tu hermana me sonaba tanto... era a ella a quien buscaban.
+2092	al2a	Sí, creo que sí. ¿Por qué?
+2093	al3c	Ella es mi hermana.
+2094	al3d	Parece que ella a desaparecido.
+2095	al3a	Oh cielos. Lamento escuchar eso.
+2102	amgc	Pareces saber mucho sobre el Gremio de Magos.
+2103	amga	Sí, de hecho soy miembro, aunque no lo pensarías al mirarme, ¿verdad? Ahora estoy jubilado, pero mi amigo Joto me mantenía al tanto de la política del gremio.
+2104	amgb	Eso fue hasta que esos malditos imperiales lo arrestaron.
+2107	angc	Cuéntame más de N'Gasta
+2108	anga	Mientras el Príncipe A'tor estuvo vivo, era un nombre para asustar a los niños, poco más..
+2109	angb	Pero nuestro nuevo amo imperial ha permitido que el terrible poder del nigromante se extienda sin control hasta que la trampa de su alma nos amenaza a todos.
+2112	ap1c	¿Por qué lo dices?
+2113	ap1a	No has pasado mucho tiempo en Hammerfell, ¿verdad hijo?
+2114	ap2c	No. Nací en Sentinel, pero dejé Hammerfell cuando era... muy joven. No he vuelto en años.
+2115	ap2a	Eso pensaba... has cogido un poco de acento, al oeste de High Rock, ¿tengo razón? Bueno, como iba diciendo, el sentimiento contra los Yokudan es más profundo que la política, incluso en una guerra civil.
+2116	ap2b	Ninguno de los dos bandos se rebajó a permitir que los Yokudan se unieran a sus filas..
+2117	ap2d	¡Incluso la Liga Inquieta era demasiado buena para ellos! Pero todo eso se acabó. El orgullo Redguard nos ha hecho esclavos del Emperador.
+2118	ap3c	Creía que nunca habías oído hablar de la Liga Inquieta.
+2119	ap3a	Nadie presta atención a un viejo encantador de serpientes despotricando contra el Imperio. Pero la Liga... ése sí que es un tema de conversación peligroso... para cualquiera.
+2120	ap3b	Incluidos jóvenes espadachines de la Guardia Roja con aire mercenario.
+2121	apac	¿Por qué el Príncipe A'tor permitió que N'Gasta se quedara en Stros M'Kai?
+2122	apaa	No lo sé. El padre de A'tor, Thassad, permitió por primera vez que N'Gasta ocupara la torre del viejo mago, pero entonces parecía bastante inofensivo.
+2123	apab	El Gremio de Magos se quejó de las investigaciones no autorizadas, pero tenían poca influencia con el viejo Thassad. La guerra civil mantuvo ocupado a A'tor hasta su prematura muerte.
+2124	arlc	Dime lo que sabes de esta Liga Inquieta.
+2125	arla	Si fuera tan sabio como mis años, me callaría y te daría los buenos días.
+2126	arlb	Pero no eres un espía imperial, y no te pareces en nada a los matones de la Liga que aparecieron tras el asesinato de Hayle.
+2127	asga	Me temo que no puedo ayudarte. No tengo habilidades para contrarrestar esa hechicería. Debes buscar a otro miembro del gremio para que te ayude.
+2128	asgc	¿Qué puedes decirme sobre las gemas de alma? ¿Sabías que el alma del príncipe A'tor fue colocada en una gema de alma justo antes de su muerte?
+2129	askc	Tu serpiente parece apreciarte.
+2130	aska	No hay nada que hacer, en realidad. Al viejo Slinky le encanta bailar.
+2133	asnc	¿Lazo del alma? ¿Qué quieres decir?
+2134	asna	Ahora que el Príncipe está muerto, ese gusano asqueroso ha tejido una trampa mágica a través de Stros M'Kai para alimentar su hambre de almas.
+2135	asnb	A menos que seas enterrado en tierra consagrada, tu alma irá directamente a N'Gasta si mueres. Por eso Saban aún teme por su hijo asesinado
+2136	assc	¿El signo de la Serpiente? ¿Parte de la religión Yokudan?
+2137	assa	Es el signo estelar de su nacimiento. Los Yokudan creen que las estrellas guían tu destino, desde el nacimiento hasta la muerte y el más allá.
+2138	attc	Insinúas que había algo que podías haberles dicho a esos miembros de la Liga. ¿Te importaría decírmelo?
+2139	atta	Bueno... Iszara conoció a Hayle aquí y se fueron juntos... el día que murió. En ese momento, pensé que era sólo una cita romántica, nada que ver con su asesinato.
+2140	attb	Pero entonces la Liga empezó a husmear por aquí. No puedo imaginarme de qué se trata todo esto, pero no vi sentido en sumar a la Liga a los problemas de los Yokudanos.
+2141	atbc	¿Por qué arrestaron a tu amigo Joto?
+2142	atba	¿Necesitan una razón? Un día los soldados vinieron a por él, y desde entonces se pudre en la cárcel.
+2143	avoc	El Archimago Voa era leal al Príncipe, entonces.
+2144	avoa	El principal asesor del Príncipe. Pero su sustituto Jaganvir, es una desgracia para la memoria de A'tor.
+2145	aycc	¿Dónde está el campamento Yokudan?
+2146	ayca	No estoy seguro. Fuera de la ciudad en algún lugar, velando la tumba de Hayle. Su pobre madre está fuera de sí de dolor.
+2150	aysc	Si, desafortunadamente los Yokudanos siempre han sido tratados como forasteros, en todo Hammerfell.
+2151	aysa	Un prejuicio sin sentido, ya que su religión se remonta a las primeras tradiciones Redguard
+2152	aysb	Pero nuestro nuevo gobernador ha hecho cosas mucho peores que simplemente cobrarles de más por la harina.
 2203	bbyc	Gracias. Hablaremos más tarde.
 2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
 2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
@@ -122,8 +239,205 @@
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
+2510	d1da	Pensé que un elfo loco estaba trabajando en eso
+2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
+2512	d1ia	¿Y ahora qué?
+2513	d1ic	Iszara está a salvo, Dreekius, tanto como cualquiera puede estarlo del Imperio. Ella está en el escondite junto con el resto de la Liga
+2514	d1sa	Los otros, por supuesto... los que no están despellejados a escala. Vemos que las tribus de Septim no estarán mucho tiempo satisfechas con los tronos de los hombres y la raza mayor.
+2515	d1sc	¿Cuál es su especialidad?
+2516	d2ia	¿Qué te hace falta?
+2517	d2ic	Están esperandome a que consiga todo lo necesario para que el Príncipe regrese
+2518	d2sa	Un día vendrán al Pantano Negro. Los argonianos ya perdimos tierras una vez cuando no conocíamos a nuestro enemigo
+2519	d3ia	Ya veo.
+2520	d3ic	Necesito un hechicero lo suficientemente poderoso para extraer el alma del Príncipe de la gema
+2521	d3sa	Hay otros lugares como universidades, el ejército, el gremio mágico, pero mi objetivo es trazar la geografía del deseo del hombre, que se traza más fácilmente cuando está borracho y parloteando.
+2522	d3sc	Ya veo. ¿Y qué mejor lugar para aprender las necesidades de los hombres que en la barra?
+2523	d4ia	Ya veo
+2524	d4ic	Necesito la gema misma.
+2525	da1a	¿Qué vas a entregar?
+2526	da1c	Oye, Dreekius, tengo un trabajo de entrega que me llevará al Palacio seguro
+2527	da2a	¿Ya lo tienes?
+2528	da2c	Un amuleto para el Gobernador.
+2529	da3a	No olvides traer algo de oro para pagar al barquero, Cyrus. Y ten cuidado
+2530	da3c	Todavía no. Tengo que recogerlo en la isla del nigromante
+2531	da4c	Gracias, Dreekius, lo haré
+2532	da5a	Entonces entrégalo, y quizás mientras estés allí puedas hacer algunas preguntas sobre tu hermana
+2533	da5c	Sí, lo conseguí del nigromante yo mismo.
+2534	dara	Mil millas de pantano, ciénaga y hedor no son atractivas para la mayoría de los humanos, y el terror a la gripe Knahaten aún mantiene a raya a la mayoría. Pero nuestros días de prueba llegarán.
+2535	darc	¿Cómo han resistido tanto tiempo al Imperio los habitantes de Black Marsh?
+2536	dbma	Sí, lo hizo, y luego se ocultó bien después de todo eso, hasta hace tres meses.
+2537	dbmc	Así que Iszara sí sobrevivió a la Batalla de Stros M'Kai.
+2538	dbyc	Será mejor que me vaya. ¿Podemos hablar más tarde?
+2539	dbya	Cuando quieras, cuando quieras.
+2540	dc1a	País de goblins
+2541	dc1c	Descubrí las cavernas bajo la ciudad.
+2542	dc2c	Sí, pero no he ido muy lejos. Tengo la sensación de que volveré
+2543	dcla	Prueba en el faro de Saintsport
+2544	dclc	Dreekius, necesito ponerme en contacto con la Liga Restless.
+2545	dcra	Su fuego ha desaparecido desde que perdieron al Príncipe. Pocos muestran sus caras en Stros M'Kai. Algunos se han marchado a tierra firme. Algunos pocos conspiran y planean todavía, alimentando sueños desvanecidos.
+2546	dcrc	Háblame de las Coronas.
+2550	de1a	Un consejo: ten cuidado con la Tribu de Dragones del Emperador. El Rey Guerrero Tiber Septim no tolera la rebelión.
+2551	de2a	Y el Gobernador Richton ha prometido ejecución sumaria a cualquiera que tome las armas para oponerse a su gobierno.
+2552	de3a	Incluso si él fuera responsable, tal vez sería prudente proceder con cautela.
+2553	de3c	Ni lo soñaría. A menos que sea el responsable de la desaparición de mi hermana
+2554	de4c	Cautelosamente, ¿eh? Si supiera cómo hacerlo
+2555	df1a	¿Eres aficionado a la astrología?
+2556	df1c	El Observatorio está arreglado. Ahora puedo usar el telescopio
+2557	df2c	Me ayudará de alguna manera, estoy seguro
+2558	dfoa	El impuesto imperial sobre el licor me ha obligado a servir a todos, incluso a los villanos ancestrales de esta ciudad
+2559	dfoc	Los Forebears parecen disfrutar de tu lugar
+2560	dg1c	Tengo la gema de alma, Dreekius. Y otra cabeza de dragón para tu pared que te traeré más tarde
+2561	dg2a	Buena suerte, Cy.
+2562	dg2c	Ahora necesito encontrar a alguien que pueda hacer magia de gema de alma.
+2563	dg3a	Bien, bien
+2564	dg3c	Encontré una vieja gitana que puede hacer magia de gema de alma
+2565	dg4a	Estoy seguro de que encontrarás una manera.
+2566	dg4c	El cuerpo del Príncipe está cubierto por un hechizo de estasis. Necesito deshacerme de él.
+2567	dh0a	Por cierto, el capitán con el que viniste te estaba buscando. su nombre era Brennan.
+2568	dh1a	Lo sé. Tenía a Tobías hecho un tonto por creer que vendrías
+2569	dh1c	TABERNERO, BIENVENIDO. SOY CYRUS.
+2570	dh2a	Yo soy el que pasó de contrabando su carta para él. El Imperio ha estado vigilando todos los envíos desde este puerto; supuse que nuestras posibilidades eran escasas.
+2571	dh2c	¿Por qué?
+2572	dh3c	Muchas gracias, entonces.
+2574	dh5c	Muchas gracias entonces, Dreekius.
+2575	dh6a	¿Cómo estás, Cy?
+2576	dh6c	Hola, DREEKIUS.
+2577	dh7a	La Guardia Roja. Bien. Me alegro de verte, otra vez
+2578	dh7c	¿Cómo estás, Dreekius?
+2582	dh9a	¡Cyrus! Escuché que Lord Rotund te atrapó, pero que escapaste. Ten cuidado, sin embargo. Las patrullas imperiales están por todas partes ahora. Richton está furioso de nuevo. ¡JEJE! ¡Buen chico!
+2583	dh9c	Hola, Dreekius.
+2584	dhaa	Ah, y Siona también quiere verte. Se está convirtiendo en el tipo más buscado de la ciudad, ahora, eh?
+2585	dhba	Esperaba que pudieras estar allí para despedirlo, pero sin duda estabas demasiado ocupado; de todos modos, dejó esto para ti.
+2586	dhbc	Confío en que nuestro capitán haya logrado salir de la ciudad, sano y salvo.
+2587	dhcc	Gracias.
+2588	dhda	Tobías dijo que eso podría facilitar tu búsqueda. ¿Cómo va, entonces?
+2589	dhka	Nunca está de más tener un mago de tu lado.
+2590	dhkc	He ayudado a los yokudanos a resolver su problema. La gitana cree que ahora me debe una.
+2591	di1a	Frecuentaba mucho este establecimiento antes de la batalla en la bahía de Hunding; no tanto después, por supuesto.
+2592	di1c	¿QUÉ PUEDE DECIRME DE ISZARA?
+2593	di2a	Era muy ferviente, tu cría, y odiaba al Imperio sin disimularlo. Después de la ocupación, desapareció por un tiempo...
+2594	di2c	Por supuesto...?
+2595	di3a	No, estoy hablando de antes de eso, justo después de la batalla. Muchos Coronas se hicieron desaparecer entonces.
+2596	di3b	Iszara fue una de ellas; no la vi durante varias semanas después. Más tarde apareció, necesitada de un trago y divagando, decidida a tomar alguna decisión
+2597	di3c	Desapareció hace tres meses.
+2598	di4a	Vinieron los imperiales y la dejé salir por la ventana. No la he visto desde entonces
+2599	di4c	¿Y entonces?
+2600	dima	No específicamente por Iszara... los imperiales tenían una lista de disidentes que buscaban. Su nombre estaba allí, con nombres de muchas otras Coronas. Desde entonces sólo veo Forebears aquí.
+2601	dimc	¿Dijiste que los imperiales vinieron aquí buscando a Iszara la última noche que la viste?
+2602	dj1a	¿En serio? Muy patriótico para alguien que cree que, veamos, Hammerfell sin rey ha seguido su camino
+2603	dj1c	He hecho mía la causa de la Liga, Dreekius
+2604	dj2a	¿Qué planea hacer la Liga?
+2605	dj2c	Las cosas son diferentes ahora
+2606	dj3c	Vamos a traer de vuelta al Príncipe A'tor y recuperar el reino, por supuesto.
+2610	dl1a	Hay un bretón en la ciudad, completamente ebrio, llamado Crendal. Hace unas semanas estuvo aquí jactándose de tener una parte del mapa.
+2611	dl1c	Mucha gente está buscando el frasco. ¿Alguien en particular?
+2612	dl2a	Sí, pero Crendal es un borracho, así que haz de ello lo que quieras.
+2613	dl2c	Un mapa que muestra dónde está enterrado el frasco.
+2614	dm1a	Y?
+2615	dm1c	Bueno, conocí a la Liga
+2616	dm2a	¿Qué dijeron de tu hermana?
+2617	dm2c	Evidentemente, Iszara era un miembro importante. Parecen un poco desarrapados, pero hay algo en su líder que me preocupa
+2618	dm3c	Llevan un tiempo buscándola ellos mismos. Sólo me dejaron entrar en el escondite para averiguar lo que sabía
+2619	do1a	Hammerfell es aún una frontera confrictiva del territorio humano. Dicen que algunos todavía luchan contra el Imperio en el continente.
+2620	do1c	La ocupación, al parecer, está tardando en consolidarse, con la Liga rondando y los Imperiales aún a la caza de Coronas rebeldes... 
+2621	do2a	Todo el mundo salvaje, como los Reinos Elfos y las Tierras Bestiales... esperan a ver qué ocurre finalmente aquí, en la última región de los hombres
+2622	do2c	¿Se demora así la expansión del Imperio?
+2623	doba	No sé mucho acerca de los enanos, Cyrus, nadie realmente lo sabe. Tal vez quieras hablar con Lakene, sin embargo. Es más enano que el Gobernador
+2624	dobc	He estado en el Observatorio Enano. Este elfo loco de allí necesita que lo arreglen. Creo que puedo sacar algo de él una vez que esté hecho
+2625	dpaa	Quita esa mirada de tu cara, Cyrus. Si hay que hacerlo, encuentra la forma de que te inviten a entrar, no de que te arrastren como a un lisiado maltrecho
+2626	dpac	Quizá debería echar un vistazo al Palacio
+2627	dq1a	Nunca lo contaré.
+2628	dq1c	Le enseñé al hermano Nidal el diario de Kithral que encontré en las cavernas. Se molesto, pero me contó un secreto
+2629	dq2c	El sacerdote tiene el cuerpo del príncipe A'tor escondido en el templo.
+2630	dq3c	Y está cubierto por una especie de barrera mágica para evitar que sufra daño, algo que el Archimago lanzó sobre el Príncipe justo antes de que ambos fueran asesinados por el dragón
+2631	dq4c	Kithral menciona el anillo del Archimago en su diario, y que tuvo que encontrarlo para Iszara. Supongo que debería volver y buscarlo antes de terminar
+2632	dr1a	Sospecho que fui más un obstáculo que una víctima. Las incursiones parecían cosa del pasado; pero tu desventura podría ser un presagio de los nuevos problemas de los que murmuran los marineros.
+2633	dr1c	Yo mismo fui víctima de estas redadas.
+2634	dr2a	La Liga está reuniendo de nuevo sus fuerzas... o eso dicen los rumores
+2636	dr3a	Es cierto, suena poco probable. Pero son Daggerlads, la Liga Restless, y juran volver a hacer la guerra
+2637	dr3c	¿Una segunda batalla de Stros M'Kai?
+2638	drla	Una tribu humana de mala reputación, pero cuya determinación es algo que puedo comprender.
+2639	drlb	Sus incursiones perturban mis operaciones de contrabando, y a menudo mi naturaleza justa; el vino de Valenwood es difícil de conseguir, ya ves, pero sobre eso no tengo nada peor que decir
+2640	drlc	¿Qué opina de la Liga de los Restless?
+2651	ds1a	Oh, no. Simplemente observé sus impulsos de clan, que cualquier argoniano podría admirar, estando acostumbrados, como estamos, a honrar los intereses del clan sobre nuestros propios asuntos privados.
+2652	ds1b	¿Es tu primera visita a Stros M'Kai, Cyrus?
+2653	ds1c	¿Simpatizas con la Liga, entonces?
+2654	ds2a	¿Pero para el malestar de la sangre similar...?
+2655	ds2c	Sí, pero la ocupación hace que no lo parezca tanto. Con los estandartes imperiales en alto en el puerto parece cualquier otra ciudad vasalla de Cyrodiil
+2656	ds3a	Tu apatía es decididamente reptiliana...
+2657	ds3c	La única sangre que me importa es la de mi hermana. Por lo que a mí respecta, la nueva Hammerfell sin rey ha seguido su camino
+2658	ds4c	No sé cómo tomarme eso, viniendo de ti
+2659	ds7a	¿Te refieres a mí? Yo no vago, Redguard; esto es un estudio asentado para mí, del que añadiré riqueza de sabiduría cuando regrese a mi clan.
+2660	ds7c	¿Cómo, entonces, se las arregla un argoniano para abandonar su tribu y vagar por Tamriel?
+2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era anterior, porque esa magia era muy propensa al error
+2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición de las gemas de alma. Deberías preguntar a alguien del gremio para saber más
+2663	dslc	¿Has oído hablar de las gemas del alma, Dreekius? Necesito hacerme con una
+2665	dt1a	Que siga siendo sólo 'juego' y no me importará que vuelva a ocurrir. Los Forebears tienen sus problemas, así que no es de extrañar que vengan aquí buscando compartirlos.
+2666	dt1c	Perdón por jugar con espadas
+2667	dt2a	Practica todo lo que quieras, salvo el golpe mortal. Y cuidado con los muebles, por favor
+2668	dt2c	Fue una buena práctica
+2669	dtaa	Bienvenido al Draggin' Tale, por cierto, subsistencia de tesis mía, donde hay buen oído y cerveza a partes iguales. ¿Qué puedo hacer por usted?
+2670	dtab	Siempre dispuesto a escuchar, piel suav; que la aventura sea mía. Compartiré los pensamientos que pueda.
+2671	dtac	Una copa estaría bien. Usaré tus oídos más tarde, tal vez.
+2672	dtba	esta taberna, por supuesto, a la vez lugar y subsidio de mis estudios. Además de un buen almacén de licores.
+2673	dtbc	¿De qué estás hablando?
+2674	dtra	Querían hacer una audiencia con el Gobernador, pero está demasiado ocupado todavía para ellos
+2675	dtrb	Demasiado ocupado para recibir a estos 'aliados de honor' en Palacio durante su espera, lo que puede explicar sus susceptibles disposiciones aquí
+2676	dtrc	¿Qué les preocupa tanto a estos Forebears?
+2677	du1a	¿Así que no viste señales de ella en las Catacumbas?
+2678	du1c	Creo que me escapé demasiado fácil, como si tal vez el Gobernador me estuviera vigilando, esperando que lo lleve a Iszara
+2679	du2c	Había una sección cerrada para mí, es cierto, pero no creo que ella estuviera allí
+2680	du3c	El Gobernador admitió que la habría ejecutado si hubiera sabido dónde encontrarla. No creo que le importara lo suficiente como para mentirme
+2681	dv1a	Ese bicho también te ha atrapado, ¿eh? Mucha gente en esta isla lo está buscando... incluso el Imperio, según he oído
+2682	dv1b	¿El mago del Príncipe A'tor?
+2683	dv1c	Me he topado con la leyenda del Frasco de Lillandril
+2684	dv2a	El rumor es que lo quieren para una invasión a la Isla Summerset, les ayudaria a disipar sus defensas mágicas.
+2685	dv2b	Tal vez deberías preguntarle al Hermano Nidal al respecto.
+2686	dv2c	¿Para qué lo querrían?
+2687	dv3a	Al menos, ten en cuenta que el lugar donde está enterrado el frasco es bien buscado por partes más dudosas que tú
+2688	dv7c	Encontré el anillo mencionado en el diario del Hermano Kithral. Perteneció al Archimago Voa
+2689	dv8c	Creo que así es. Me pregunto por qué el anillo es tan importante
+2690	dw1a	¿Cómo?
+2691	dw1c	He estado en el escondite de la Liga. Dicen que Iszara estaba en la Liga, y mencionan que se estaban preparando para un contraataque contra el Imperio, pero que ella lo impidió...
+2692	dw2c	Les robó una gema de alma. Si puedo encontrarlo, puedo encontrarla a ella
+2693	dx1a	Cosas menores, eso es todo, y casi nada ahora que los hombres del Gobernador me tienen tan vigilado.
+2694	dx1c	Dreekius, mencionaste haber participado en algunas operaciones de contrabando... 
+2695	dx2a	La dirige un tipo del norte, un tipo que se enfada rápido, y sólo habla con los miembros de la guarida
+2696	dx2c	¿Qué puedes decirme sobre la Guarida de los Contrabandistas?
+2698	dx4a	Lo han cambiado desde que el Imperio puso sus ojos en la Draggin' Tale.Pero estoy seguro de que a algunos por ahí se les podría convencer para que lo revelen
+2699	dx4c	¿Cuál seria la contraseña de la Guarida de Contrabandistas?
+2700	dxa1	Disculpe. Los dueños sólo pueden estar detrás de la barra
+2701	dxa2	Al frente para el servicio, por favor.
+2702	dxa3	¡Paciencia, paciencia! Si se quita de mi camino, enseguida estoy con usted.
+2703	dxa4	Baja de ahí. 
+2704	dxa5	¿Tu madre te dejó subirte a los muebles?
+2705	dxa6	No se baila en los muebles de este bar, señor
+2706	dy1a	Sí, oí que el Gobernador los expulsó de la ciudad. ¿Qué están haciendo ahora?
+2707	dy1c	Me encontré con algunos Yokudans fuera de la ciudad.
+2708	dy2c	Están ocupados enterrando a los suyos.
+2709	dy3a	Bien, bien.
+2710	dy3c	El muerto está en problemas. El lazo del alma del nigromante amenaza con reclamar la suya, pero la gitana mantiene a raya su maldad. He decidido ayudarles
+2711	dz1a	¿Ves la cabeza, allí?
+2712	dz1c	Hay una sección secreta de las Catacumbas que necesito explorar. Creo que la gema de alma está ahí, en el tesoro del dragón
+2713	dz1b	Asoló mi pueblo de Noota Nara de vuelta a casa. Quemó sus muros hasta los cimientos
+2714	dz2a	Mis padres tostaron las puntas de sus lanzas en el fuego del dragón - ese encantamiento atravesará al dragón como ningún otro, ya sabes.
+2715	dz2b	Golpea de esa manera, y enviarás a la mascota del Emperador a la eternidad.
+2716	dz3c	Gracias por el consejo, Dreekius.
+2717	dzz1	¿Qué será viajero?
+2718	dzz2	¿Cuál es su veneno?
+2719	dzz3	Cyrus. ¿Puedo ayudarle?
+2720	dzz4	¿Qué puedo hacer por ti, Cyrus?
+2721	dzz5	He visto espadas antes. Puedes guardar esa.
+2722	dzz6	¡Caballeros! ¡Caballeros! ¡Llévenlo afuera, por favor!
+2723	dzz7	¡Ten cuidado! Acabamos de limpiar el lugar
+2724	dzz8	¿Lo rompes? ¡Lo pagas!
+2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
+2726	dzz0	¿No tienen nada más que hacer?
+2902	fthc	Gracias.
+3044	hfrc	Hablame sobre las Coronas.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 3534	ng4c	Todavía no.
+4223	tk2c	¿Qué puede decirme de Iszara?
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
 4557	xa03	C de las aguas donde navegan los marinos
