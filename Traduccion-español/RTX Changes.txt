@@ -45,6 +45,8 @@
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
 937	?yoc	Campamento Yokudan
+1045	052a	Redguard. Solo hay una salida. A través de mí.
+1046	052b	Hablas demasiado, gato.
 1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
 1426	5amc	¿Alguna idea de porque estan importante este amuleto?
 1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
@@ -239,6 +241,14 @@
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
+2283	c502	No tenemos mucho tiempo antes de que vengan a buscarte.
+2284	c504	Primero tienes que decirme qué sabes de mi hermana. Me temo que está en grave peligro.
+2285	c506	¿Cómo es posible? 
+2286	c509	¿Así que la enviaste allí?
+2287	c512	Pero Iszara no quiso escuchar.
+2288	c514	¿La precaución no funcionó?
+2289	c518	Así que abandonó toda esperanza de encontrar el frasco y fue igual con el nigromante-- 
+2291	c525	Bastardo. ¡Tú... bastardo!
 2510	d1da	Pensé que un elfo loco estaba trabajando en eso
 2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
 2512	d1ia	¿Y ahora qué?
@@ -437,6 +447,44 @@
 3044	hfrc	Hablame sobre las Coronas.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 3534	ng4c	Todavía no.
+3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
+3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
+3913	q508	Joto solo conoce a un hechicero que puede hacer eso: N'Gasta, un nigromante poderoso.
+3914	q510	No, no, no. Joto no es tonto. Joto le advirtió a la hermana: no confíes en el gusano oscuro N'Gasta. Poderoso, sí, es N'Gasta... pero malvado. Ladrón de almas. Viejo y cruel.
+3915	q513	No. Es tu hermana. Tú la conoces. Y ama al Príncipe, así que... tenía que intentarlo. Entonces Joto le dijo: Joto conoce una precaución... protección contra el malvado N'Gasta.
+3916	q515	No. Pobre Iszara. Sin paciencia. Joto le dijo: el Frasco de Lillandril, magia élfica antigua, aquí en esta isla--
+3917	q516	¿Pero dónde? El frasco se perdió hace muchos, muchos años, así que buscamos y buscamos, pero... pocas pistas, muy lento, Iszara no podía esperar.
+3918	q517	Encontramos algo, un trozo de mapa, creo que muestra dónde buscar, pero solo un trozo --
+3919	q519	Sí, eso creo. Pero Joto siguió buscando, y encontró otro trozo del mapa.
+3920	q520	Pero antes de que Joto pudiera mostrárselo, Iszara desapareció. Luego los Imperiales encontraron a Joto y lo metieron aquí.
+3921	q521	Pero... Joto aún tiene el trozo de mapa. Lo escondió de los guardias. Aquí. Te lo muestro--
+3922	q522	Toma esto, encuentra el frasco. Luego ve con N'Gasta, encuentra a Iszara allí, creo-- 
+3924	q524	Encuentra... a Iszara...
+3925	qc0c	Pero te juro que te sacaré de aquí si me ayudas a encontrar a Iszara.
+3926	qc1a	Shhhh -- ¡que los guardias nos oirán!" 
+3927	qc1b	No te emociones tanto, pequeñín, Joto está pensando.
+3928	qc2a	¿Cambiar qué?
+3929	qc3a	¿Y tú qué?
+3930	qc3b	¿Quieres algo? ¿De Joto?
+3931	qc4a	¿Qué quieres decir?
+3932	qc4b	¿Cambiarte a qué?
+3933	qc5a	Lo siento, Joto no te entiende.  
+3935	qc5d	Esto no le dice nada a Joto.
+3936	qc5e	Joto no comprende.
+3937	qc5f	Genuina, Joto está seguro, pero no es esclarecedora.
+3938	qc6a	¡¿Qué?! Oh. Joto ya ve. El truco favorito de Jaganvir. Joto se pregunta qué habrás hecho para molestar a este Archimago.
+3939	qc6b	Bueno, Joto se encarga de esto, no hay problema.TAYN-SOMA-NEAH-OOSH-M'KTAL.
+3940	qc6d	¡Ahí estás!
+3941	qc7a	¡Por los Señores! ¡El hermano de Iszara!
+3942	qc7c	Gracias. Soy Cyrus --
+3943	qc8a	Bueno... sí. Como tu hermana, Cyrus sabe dónde encontrar problemas. ¿Cómo llegaste aquí? ¿Y puedes sacar a Joto?
+3944	qc8c	Sí, sí, y estoy aquí porque me dijeron que puedes ayudarme a encontrar a Iszara.
+3945	qc9a	Sí. Joto entiende el problema.
+3946	qc9c	Tal vez. Pero las llaves son un problema. Y yo tendría más posibilidades de escapar solo.
+3947	qzz1	Bueno. ¿Qué tenemos aquí?
+3948	qzz2	¿De dónde has salido?
+3949	qzz3	¿Un gremlin? Ven aquí, pequeñín.
+3966	r204	¿Qué?
 4223	tk2c	¿Qué puede decirme de Iszara?
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
