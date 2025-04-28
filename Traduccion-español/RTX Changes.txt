@@ -1,6 +1,7 @@
 1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
 1426	5amc	¿Alguna idea de porque estan importante este amuleto?
 1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
+1429	5chb	Salve, Cyrus.
 1431	5coa	Por aquí tenemos a alguien que necesita que le hagan algo. Por allá tenemos a alguien que busca trabajo.
 1432	5cob	¿Y cómo se encuentran? ¡Ahí es donde entro yo!.
 1433	5coc	Usted se llama a sí mismo contratista. ¿Qué significa eso?.
@@ -46,6 +47,13 @@
 1474	5h4c	Y, por cierto, ya he aceptado el trabajo del mismísimo nigromante.
 1475	5h5a	¡Espléndido! Aquí están tus 100 de oro. Tendré el resto para ti después de que entregues el amuleto al Gobernador.
 1476	5h5c	Es un gusano gordo y baboso.
+1477	5h6a	Así que tú eres el Cyrus del que he oído hablar. ¿Cómo has...?
+1478	5h6c	Y, por cierto, ya he aceptado el trabajo del nigromante en persona.
+1479	5h7a	¡Claro que sí! Estoy... ¡asombrado de verte! Había oído que hubo algún malentendido con el Gobernador
+1480	5h7b	¿Quizá te buscaban los imperiales? Sin embargo, nunca me fío de los rumores. Aquí están tus 200 de oro, como prometí.
+1481	5h7c	Y ya he entregado el amuleto al Gobernador. Parece que me debes dinero.
+1482	5h8a	¡Oh! ¡Casi me olvido del anticipo original! Aquí tienes otros 100 oros.Ojalá tengas tiempo suficiente para gastarlas.
+1483	5h8c	¿Esto es todo lo que valió mi molestia?
 1484	5h9a	¡Hola tú también, Cyrus!
 1485	5h9c	kontaro, hola
 1486	5isa	Me temo que no la conozco. ¡Sólo soy un simple trabajador!.
@@ -87,6 +95,8 @@
 1523	5ysa	¡Espléndido! Aquí tienes tus 100 oros. Tendré el resto para ti después de que entregues el amuleto al Gobernador.
 1524	5ysb	Um, estoy seguro de que no tendrás ningún problema, pero, uh, probablemente quieras hacer esto durante la luz del día.
 1525	5ysc	Claro. Aceptaré el trabajo.
+1526	5zz1	¿Terminaste el trabajo, hombre? 
+1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
