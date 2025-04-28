@@ -1,3 +1,48 @@
+1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
+1434	5cra	Siempre me he mantenido al margen de la política. Es malo para los negocios.
+1435	5crb	¡Corona, Antepasado, me da igual, mientras su moneda sea cierta! Mi filosofía es, lo hecho, hecho está, vive y deja vivir, la hierba siempre es más verde, ¿sabes?
+1436	5crc	Parece que los Crown se están tomando muy mal su derrota.
+1446	5fra	Se podría decir que sí. Aunque no deberías decírselo a la cara. Están muy susceptibles últimamente.
+1447	5frc	Supongo que los antepasados siguen saboreando la victoria en la guerra civil, ¿eh?.
+1448	5fta	¡Claro que lo hicieron! Y a los Antepasados les gusta reventar el Draggin' Tale por si alguien lo duda.
+1449	5ftb	A algunos Coronas poco generosos les gusta señalar las banderas imperiales que ondean sobre el Palacio y los soldados imperiales que patrullan las calles. Pero no es asunto mío, ¡ja, ja!
+1450	5ftc	Llevo años en el norte, pero estaba bastante seguro de que los Antepasados ganaron la guerra
+1451	5fxa	¡Atrápalos, muchacho!
+1452	5fxb	¡Eso es enseñarles, Redguard!
+1453	5fxd	¡Vienen más, muchacho!
+1457	5gra	¡Ahora será mejor que te alejes de mí...!
+1458	5grb	Ve a molestar a otro.
+1459	5grd	¡no entiendo ninguna palabra!
+1460	5gre	¿Qué fue eso?
+1461	5grf	¿Algún mago ha perdido a su familiar, pequeño? ¡Vete ya! Regresa al gremio!.
+1462	5grg	¡¿Cambiarte de nuevo...?! ¿Qué brujeria es esta? ¡A un mago contigo, gremlin! ¡Vete!.
+1463	5h0a	Cyrus, se suponía que ibas a entregar el amuleto. Teníamos un trato.
+1464	5h0c	kotaro, hola
+1465	5h1a	¡Hola, marinero! ¿Puedo hablar contigo?
+1466	5h1b	¡Saludos, forastero! ¡Justo el hombre que buscaba!
+1467	5h1d	¡Tú! ¡Una palabra, por favor!
+1468	5h1e	¡Saludos, forastero!
+1469	5h2a	La pregunta es, ¡qué puedo hacer yo por ti! El joven forastero de la ciudad, intrépido, despreocupado y sin pretensiones, un poco ligero de bolso, tal vez.
+1470	5h2b	Tengo una proposición que puede resultarle atractiva. Pero primero, permítame presentarme: ¡Kotaro, contratista de Stros M'Kai, a su servicio!
+1471	5h2c	¿Qué puedo hacer por ti, amigo?
+1472	5h3c	Cyrus, encantando.
+1473	5h4a	¿Lo... hiciste? Hmmm. ¿Qué aspecto tenía, entonces? ¿Hm?
+1474	5h4c	Y, por cierto, ya he aceptado el trabajo del mismísimo nigromante.
+1475	5h5a	¡Espléndido! Aquí están tus 100 de oro. Tendré el resto para ti después de que entregues el amuleto al Gobernador.
+1476	5h5c	Es un gusano gordo y baboso.
+1484	5h9a	¡Hola tú también, Cyrus!
+1485	5h9c	kontaro, hola
+1486	5isa	Me temo que no la conozco. ¡Sólo soy un simple trabajador!.
+1487	5isb	Podrías probar con Dreekius en el Draggin' Tale. Casi todo el mundo en Stros M'Kai pasa por su puerta eventualmente.
+1488	5isc	Me pregunto si conoces a mi hermana, Iszara. He venido a Stros M'Kai para saber qué le ha pasado
+1489	5lga	¡Malditos sean ellos y sus sangrientas costumbres! Han hecho más por arruinar Stros M'Kai que los Antepasados y el Imperio juntos.
+1490	5lgb	Si no fuera por ellos, esta ciudad estaría en paz hace meses.
+1491	5lgc	¿Qué sabes de un grupo de rufianes que se hacen llamar la Liga Inquieta?
+1504	5oca	Sin duda es mejor que la guerra, mi joven amigo. Aunque no te mentiré.
+1505	5ocb	Es difícil encontrar mano de obra honesta hoy en día. Los antepasados prefieren sonreír a levantar, y las Coronas ya no tienen espalda para eso.
+1506	5occ	No he estado en Hammerfell desde antes de la guerra. ¿Te gusta ser ciudadano del Imperio?
+1521	5xx1	¡Quita tu culo de ahí!
+1522	5xx2	Guarda esa espada, Redguard. ¡Esto no es un patio de prácticas!
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
 2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
