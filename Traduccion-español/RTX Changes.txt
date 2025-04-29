@@ -201,6 +201,28 @@
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
 1716	7801	un poco de privacidad.
+1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
+1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
+1968	9fla	¿Por qué? ¿Quieres unirte?
+1969	9flc	¿Cómo los encuentro?
+1970	9fxa	Bien, justo después de salir de aquí, vas al faro y haces una señal a la Liga.
+1971	9fxc	Correcto. ¿Cómo los encuentro? 
+1972	9h1a	Bajo el Palacio. Antiguas catacumbas. Bonito lugar para pudrirse y morir.
+1973	9h1c	¿Donde estoy Boquita?
+1974	9h2a	Yo no, amigo. No voy a ninguna parte. Me rompieron las piernas y no puedo caminar.
+1975	9h2c	Tenemos que salir de aquí.
+1976	9h3c	¡MALDITO! ESTÁ MUERTO. TENGO QUE ENCONTRAR UNA FORMA DE SALIR DE AQUI. O ACABARÉ COMO ÉL.
+1977	9ila	¡Malditos informantes! Sí. Iszara es una de nosotros. Está en la lista de Richton. 
+1978	9ilc	Richton dijo que Iszara está en la Liga ¿es verdad? dimelo.
+1979	9isa	Quién sabe. No desde que llegué aquí, hace unas semanas.
+1980	9isc	¿Hubo alguna vez una mujer joven aquí abajo?
+1981	9lga	¿La Liga? Somos una especie en extinción, hombre. Como todo lo demás en esta ciudad desde que Richton llegó. Puede que no seamos mucho... pero somos todo lo que queda.
+1982	9lgc	La Liga... ¿Qué pasa con la Liga?
+1983	9lha	Lighthouse. Como dije. Whoo. Se está haciendo de noche aquí. Me estoy cansando mucho. Y toma. Toma esta llave.
+1984	9lhb	¡SOLO ESCUCHA! CREO QUE ESTOY PERDIENDO... TOMA LA MALDITA LLAVE.... ¡NO LA DEJES AQUÍ! VE AL FARO. AVISA A LA LIGA.
+1988	9wha	JSólo otro héroe de la Liga. Pero no me ejecutaron... un poco de tortura, interrogatorio, y luego me dejaron morir en este agujero. Aunque los engañé. Me tragué la llave. La tengo justo aquí. ¿La ves?
+1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
+1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 2049	ab1c	Gracias, Avik.
 2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
 2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
