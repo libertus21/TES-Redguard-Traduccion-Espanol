@@ -220,9 +220,13 @@
 1982	9lgc	La Liga... ¿Qué pasa con la Liga?
 1983	9lha	Lighthouse. Como dije. Whoo. Se está haciendo de noche aquí. Me estoy cansando mucho. Y toma. Toma esta llave.
 1984	9lhb	¡SOLO ESCUCHA! CREO QUE ESTOY PERDIENDO... TOMA LA MALDITA LLAVE.... ¡NO LA DEJES AQUÍ! VE AL FARO. AVISA A LA LIGA.
+1985	9lhc	El Faro. Sí. Continúa.
+1986	9lqc	¿POR QUÉ? ¿QUÉ PASA CON EL...
+1987	9lxc	¿PARA QUÉ SIRVE LA LLAVE? ¿CUÁL ES LA SEÑAL? ¡HEY! ¿TÚ...? maldicion...
 1988	9wha	JSólo otro héroe de la Liga. Pero no me ejecutaron... un poco de tortura, interrogatorio, y luego me dejaron morir en este agujero. Aunque los engañé. Me tragué la llave. La tengo justo aquí. ¿La ves?
 1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
+1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
 2049	ab1c	Gracias, Avik.
 2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
 2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
