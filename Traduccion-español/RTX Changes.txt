@@ -967,6 +967,18 @@
 4069	sysc	Tobías. ¿Le conoces?
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
 4223	tk2c	¿Qué puede decirme de Iszara?
+4460	vh1a	¿Vienes a presumir de tu triunfo?
+4461	vh2a	¿Y qué hay de mis hombres? ¿Qué pasa con ellos?
+4462	vh2c	Acabemos con esto. ¿Por el bien de mi hermana? 
+4463	vh3a	Estábamos atacando esa nave por su conocida lealtad Imperial, que--
+4464	vh3c	Esos hombres no me dieron opción.
+4465	vh4a	Incluso si añades a sus bajas.
+4466	vh4c	Esa es tu guerra y no voy a participar.
+4467	vh5a	 Cyrus. Yo... también quiero encontrar a Iszara.
+4468	vh5c	Sigues de pie.... Olvídalo.
+4469	vh6a	Estás herido. Toma esta venda.
+4470	vh7a	Por tu buena voluntad. Y mi vida perdonada.
+4474	vzz3	No más. Guárdalo.
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
 4557	xa03	C de las aguas donde navegan los marinos
