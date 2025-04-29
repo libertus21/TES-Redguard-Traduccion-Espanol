@@ -744,6 +744,77 @@
 3550	nh3a	Hola, Cyrus.
 3707	ohwc	Hola..
 3709	ohxc	Hola.
+3830	pb1c	gracias, PRNELL.
+3831	pbfa	Realmente no debería, pero... está bien. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
+3832	pbfc	¿Me podrías prestar tu bandera por un momento?
+3833	pbla	Para que todos sepan que el barco está aquí, por supuesto. ¿Qué te parece si grito por los tejados? 
+3834	pblb	Cuando veo un barco, salgo a la pasarela y agito mi bandera, para que Favis sepa que tiene que tocar la campana. No hay nada tan satisfactorio como eso.
+3835	pblc	¿Porque Favis maneja la campana?
+3836	pbld	TE HACE SENTIR COMO UN DIOS, ONDEANDO ESA BANDERA Y ESCUCHANDO LA CAMPANA SONAR POR TODA LA CIUDAD. LÁSTIMA QUE NO PUEDA DEJARTE PROBARLO, PERO ÚLTIMAMENTE NO LLEGAN MUCHOS BARCOS AL PUERTO.
+3837	pcla	Pronto lo sabrás, la Guarida del Contrabandista está conectada con la Liga de alguna manera.
+3838	pclb	No directamente, o estaría fuera del negocio ahora, con el gordito en un alboroto. Pero estoy seguro de que aún podrían ponerse en contacto con la Liga. .
+3839	pclc	pensaba que la Restless League estaba proscrita. ¿Cómo te pondrías en contacto con ellos? 
+3840	pe1a	Puedo ver los galeones y los comerciantes de especias perfectamente con este catalejo! Pero aparte de eso... Quiero decir, no puedo andar por la ciudad con un telescopio en el ojo.
+3841	pe1c	Así que no puedes ver sin tu ocular-- 
+3842	pe2a	Me estoy riendo mientras hablamos. ¿Podrías encontrarlo por mí, muchacho? Es una extraña soledad cuando el comienzo de tu visión está a medio centenar de metros.
+3843	pe2c	Aunque podría ser divertido.
+3844	pe3c	Te lo encontraré, Prnell, no te preocupes.
+3846	pefc	Creo que he encontrado tu monoculo. ¿Es éste?
+3847	pema	Lo hacían. No abiertamente, como los Corona, pero esa nunca ha sido la forma de ser de la Liga. Volar el buque insignia de Richton, más en su línea.
+3848	pemb	Lo vi arder desde aquí mismo, un espectáculo asombroso. ¿Pero qué logró? El Imperio sigue aquí y no he oído nada de la Liga hasta hoy
+3849	pemc	¿La Liga está luchando contra la ocupación Imperial?
+3850	pfba	Claro, eres nuevo en la ciudad. No te han presentado al gobernador Richton.
+3851	pfbc	¿Gordito? ¿A quién te refieres?
+3852	pfva	¡Ha! Le gustaría pensar que sí. Maldita molestia es lo que es. Siempre lloriqueando por tener que tocar el timbre.
+3853	pfvb	Ayer mismo me hizo bajar, quejándose de que estaba rota. "Ya no suena tan fuerte como antes, Prnell". ¡Claro! La vieja cabra está sorda como una tapia, ése es el único problema.
+3854	pfvc	¿Favis es amigo tuyo?
+3855	ph1a	¿Quién anda ahí? ¿Qué quieres?
+3856	ph1c	Buenas, señor. ¿Podría hablar con usted un momento?
+3857	ph2a	¿Importarme? ¡Por qué me iba a importar! Por cierto, soy Prnell. ¡Pregunte sin miedo, muchacho!
+3858	ph2c	Me llamo Cyrus. Me gustaría hacerle unas preguntas, si no le importa.
+3859	ph3a	¿Eh? ¡Deja de murmurar y habla, hijo!
+3860	ph3c	hola Prnell.
+3861	ph4a	¡No hace falta gritar, por Hunding! Puedo estar ciego, ¡pero no sordo!  
+3862	ph4c	¡Prnell! ¡Holaaaaaaaaaaaaaaaaaaa! 
+3863	ph5a	¡Bendito seas! ¿Cómo podré agradecertelo, Cyrus muchacho? ¡Ya sé! Te dejaré izar la bandera.
+3864	ph5b	Será nuestro pequeño secreto, ¿eh? ¡Vamos, tómala! Tóooómalo. ¡Una oportunidad así no se presenta todos los días!
+3865	ph5c	Prnell, encontré tu monóculo. Aquí tienes.
+3866	ph6a	¡Por supuesto, Cyrus mi niño, por supuesto! No te estaba tomando el pelo con lo de la bandera, ¿verdad? Hace que la vida valga la pena, incluso a mi edad.
+3867	ph6c	Aquí tienes, Prnell. Gracias por prestármela.
+3868	pi2a	¡Un momento! Quizá la Restless League también va tras ti. ¿Qué habrá hecho Iszara para enfurecerlos tanto?
+3869	pi3a	Nunca me dijiste que había desaparecido, Cyrus. Además, esto fue hace meses, y mi memoria ya no es lo que era.
+3870	pi3b	Como decía, un par de esos tipos vinieron preguntando por ella, pero sin respeto, a diferencia de ti. Me miraron con mala cara, queriendo asustar a un viejo.
+3871	pi3c	¿También? ¿Quieres decir que la Restless League persigue a mi hermana? ¿Por qué no lo dijiste antes?
+3872	pisa	¿Iszara? ¡Y tú eres Cyrus, su hermano! Por supuesto.seguro te pareces a ella, habría notado el parecido familiar..
+3873	pisb	Pero sin mi monóculo, me temo que no puedo verte muy bien. La verdad, hace mucho que no veo a Iszara por aquí.
+3874	pisc	¿Conoces a mi hermana, Iszara?
+3875	pisd	¡Nadie tiene derecho a hablarme así! No me extraña que tengan tan mala reputación.
+3876	plaa	Sólo si había visto a Iszara, que sepan si alguna vez lo hice. ¡Ja! Como si fuera a decirles algo, después de que entraran aquí amenazando.
+3877	plab	Parecían creer que les había robado algo. Si eso es cierto, no me extraña que haya desaparecido. O la encontraron... o ella se está asegurando de que no lo hagan.
+3878	plac	¿Qué querían saber esos tipos de la Restless League?
+3879	plra	Terroristas, piratas, todo eso. No hay duda de que no se puede jugar con ellos. El Gordito lo descubrió por sí mismo. Pero entonces, al Imperio tampoco le gusta que se metan con ellos. .
+3880	plrc	¿Qué reputación tiene la Liga?
+3881	pnoa	Como quieras, muchacho. Pero no sabes lo que te pierdes.
+3882	pnoc	Gracias Prnell, pero tal vez en otra ocasión.
+3885	ppsa	Me temo que no, Cyrus.
+3886	ppsc	¿Conoces la contraseña?
+3890	prla	¿Fuiste tú? Lo vi todo, a través de mi telescopio, ya sabes. Aunque no fue una gran batalla. ¡Ja, realmente le diste a esos rufianes lo que querían!
+3891	prlc	¿Has oído hablar de un grupo llamado la Restless League? Mi barco fue atacado por un par de ellos en el camino aquí.
+3892	psda	Debajo de la tienda de Maiko. Pero no es tan sencillo. Nadie entra sin una contraseña.
+3893	psdc	¿Dónde está la Guarida del Contrabandista?
+3894	psma	No tengo nada que decirte que no puedas oír de nadie en la ciudad.
+3895	psmb	 Este era el corazón de la resistencia de la Corona, pero míralo ahora. Cuando encierras a cada partidario de la Corona o de la Liga, no queda mucho.
+3896	psmc	¿Cómo le va a la ciudad con los imperiales al mando?
+3897	pw1a	Barcos, hijo. Aviso a la ciudad cuando un mercante llega al puerto.
+3898	pw1b	Me recuerda un poco a mis días de marinero, vigilando desde la cofa, ¡pero ahora estoy atrapado en este trabajo!
+3899	pw1c	¿Qué estás buscando ahí arriba?
+3900	pw2a	¡Porque los barcos son lo único que puedo ver! Perdí mi monoculo por aquí en alguna parte y el catalejo de aquí no es una buena alternativa. 
+3901	pw2c	¿Por qué?
+3902	pxy1	Oye, jovencito. ¿A dónde crees que vas con eso?
+3903	pxy2	No puedo dejar que te lo lleves, muchacho. Debe quedarse aquí, o no podré hacer mi trabajo..
+3904	pxy3	Realmente no debería, pero... de acuerdo. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
+3905	pysa	¡Ese es el espíritu! Pronto verás de lo que hablo. ¡No hay nada igual, te lo aseguro!
+3906	pysc	De acuerdo, aceptaré tu oferta.
 3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
 3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
 3913	q508	Joto solo conoce a un hechicero que puede hacer eso: N'Gasta, un nigromante poderoso.
