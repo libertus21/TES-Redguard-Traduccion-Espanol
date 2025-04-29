@@ -312,6 +312,12 @@
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
+2276	c402	No soy una Corona. Iszara es mi hermana.
+2277	c405	¿Iba a traer de vuelta al Príncipe? 
+2278	c410	¿Pero...?
+2279	c413	¿Funcionó?
+2280	c416	¿Qué le pasó a Iszara?
+2281	c418	No por mucho tiempo.
 2282	c423	Atrás, chispita, ya me iba. Tengo todo lo que quería saber.
 2283	c502	No tenemos mucho tiempo antes de que vengan a buscarte.
 2284	c504	Primero tienes que decirme qué sabes de mi hermana. Me temo que está en grave peligro.
@@ -515,6 +521,19 @@
 2724	dzz8	¿Lo rompes? ¡Lo pagas!
 2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
 2726	dzz0	¿No tienen nada más que hacer?
+2795	f401	Siento no habértelo dicho antes, pero al Archimago Jaganvir le preocupa que el Imperio cierre el gremio si nos pillan ayudando a los Coronas.
+2796	f403	Bien. Tu hermana vino aquí con el soulgem. Ella estaba frenética e insistía en hablar con uno de la cábala superior.
+2797	f404	Le preocupaba que la siguieran y necesitaba restablecer al Príncipe A'tor lo antes posible.
+2798	f406	¿Para qué crees que era la gema alma, un recuerdo de su amor perdido? 
+2799	f407	Mira, el Archimago Voa puso el alma de A'tor en la gema para salvarlo del Imperio, ¿ves?
+2800	f408	De algún modo, la RESTLESS LEAGUE se hizo con él y lo utilizó para reunir partidarios con los que recuperar el reino.
+2801	f409	De todos modos, Iszara se cansó de esperar a que se produjera el ataque, así que robó la gema y vino aquí a hacer las cosas.
+2802	f411	Pero como el Archimago murió en la batalla, no quedó nadie con poder suficiente para restaurar al Príncipe.
+2803	f412	Iszara estaba aterrorizada. Entonces uno de nuestros miembros, un Acólito llamado Joto, decidió que intentaría ayudarla a encontrar otra forma de restaurar al príncipe
+2804	f414	Iszara estuvo aquí noche y día investigando con Joto, rebuscando en pergaminos y libros de hechizos para encontrar alguna pista que les ayudara.
+2805	f415	Pero el Imperio debe haberse dado cuenta. Un Elfo Oscuro vino un día a hablar con Jaganvir y lo siguiente que sabes es que Joto está en la cárcel de la ciudad por traición al Imperio.
+2806	f417	No sé si se escapó o la atraparon junto con Joto o qué. Es el único que podría decírtelo y se está pudriendo en una celda.
+2807	f419	You're crazy if you think you're going to break into the city jail! The Empire has--
 2809	f421	¡Arquimago Jaganvir! Yo sólo estaba---
 2840	fh1c	Hola.
 2902	fthc	Gracias.
