@@ -1,3 +1,4 @@
+178	$140	Lakene dijo the Imperial's are searching for the ancient technological treasures of the Dwarves in the ruins in the mountains.
 445	?amu	Amuleto
 452	?atb	Cuerpo de A'tor
 469	?bms	Batalla de Stros M'Kai
@@ -35,8 +36,12 @@
 694	?mgu	Gremio de magos
 696	?mlg	Conoci la Liga
 701	?mys	Misterio
+702	?mur	Asesinato
+703	?mus	Musica
 725	?obs	Observatorio
 726	?occ	Ocupación
+735	?oqi	Incidente en el Casco Antiguo
+736	?oqr	Casco Antiguo
 738	?pal	Palacio
 740	?pat	Príncipe A'tor
 755	?prn	Idea absurda
@@ -57,6 +62,7 @@
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
 937	?yoc	Campamento Yokudan
+939	?yol	Chico Yokudan
 942	?yud	Has estado en Den
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
@@ -163,6 +169,8 @@
 1528	6b1c	Hablaremos más tarde.
 1716	7801	un poco de privacidad.
 2049	ab1c	Gracias, Avik.
+2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
+2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
 2060	agpc	¿Tiene el Gremio de Magos mucha influencia en Stros M'Kai?
 2061	agpa	¡Ya no! El Archimago Voa era un Corona, la mano derecha de A'tor, pero ambos perecieron en la batalla de Stros M'Kai. Jaganvir es un sucesor indigno del puesto de Archimago, si me preguntas a mí.
 2062	agrc	¿Qué les hizo el Gobernador a los Yokudan?
@@ -172,8 +180,8 @@
 2071	ah5c	Gracias a tu amigo, Joto .
 2072	ahmc	Su madre está muy afectada por la muerte de su hijo.
 2073	ahma	Sí, pero no es sólo eso. Saban aún no ha completado el ritual del entierro, aunque el muchacho lleva semanas bajo tierra
-2074	ahyc	Echas de menos a Hayle, ¿verdad?
-2075	ahya	Solía encantarle escucharme tocar. Una de las pocas personas de por aquí que lo hacía. Apropiado, supongo, para alguien nacido bajo el signo de la Serpiente
+2074	ahyc	Echas de menos Hayle, ¿verdad?
+2075	ahya	Le encantaba escucharme tocar. Una de las pocas personas de por aquí que lo hacía. Apropiado, supongo, para alguien nacido bajo el signo de la Serpiente.
 2076	aisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 2077	aisa	El nombre me suena, hijo, pero me temo que no puedo ayudarte.
 2078	aisb	Ya no hay muchos jóvenes que tengan oído para los cantos de serpiente.
@@ -193,12 +201,22 @@
 2093	al3c	Ella es mi hermana.
 2094	al3d	Parece que ella a desaparecido.
 2095	al3a	Oh cielos. Lamento escuchar eso.
+2096	algc	¿Conoce un grupo llamado Liga Inquieta?
+2097	alga	No puedo decir que lo sea, pero soy muy reservado. Con los yokudanos expulsados de Stros M'Kai, no tengo muchos amigos aquí en la ciudad.
+2098	algb	Probablemente tenga que hacer las maletas y marcharme, pronto.
+2099	amdc	¿Las tropas imperiales han asesinado a gente en Stros M'Kai?
+2100	amda	Ach, cuando llegaron a tierra, fue fuego y espada en el casco antiguo. Al menos así podrían fingir que luchaban contra los incondicionales de la Corona.
+2101	amdb	Pero matar a ese inocente chico Yokudan... si yo tuviera veinte años menos, ¡se lo haría pagar a alguien!!
 2102	amgc	Pareces saber mucho sobre el Gremio de Magos.
 2103	amga	Sí, de hecho soy miembro, aunque no lo pensarías al mirarme, ¿verdad? Ahora estoy jubilado, pero mi amigo Joto me mantenía al tanto de la política del gremio.
 2104	amgb	Eso fue hasta que esos malditos imperiales lo arrestaron.
+2105	amuc	Tocas muy bien.
+2106	amua	Gracias, hijo. Nadie me visita desde que esos demonios imperiales asesinaron a ese muchacho Yokudan. ¡Así es, demonios imperiales! ¡Y no me importa quién lo sepa!
 2107	angc	Cuéntame más de N'Gasta
 2108	anga	Mientras el Príncipe A'tor estuvo vivo, era un nombre para asustar a los niños, poco más..
 2109	angb	Pero nuestro nuevo amo imperial ha permitido que el terrible poder del nigromante se extienda sin control hasta que la trampa de su alma nos amenaza a todos.
+2110	aoqc	¿Está el Casco Antiguo completamente destruido?
+2111	aoqa	Bien podría ser. Fue sellada mientras los Imperiales buscaban «leales a la Corona» en cada casa. Ahora no es mas que un pueblo fantasma.
 2112	ap1c	¿Por qué lo dices?
 2113	ap1a	No has pasado mucho tiempo en Hammerfell, ¿verdad hijo?
 2114	ap2c	No. Nací en Sentinel, pero dejé Hammerfell cuando era... muy joven. No he vuelto en años.
@@ -218,6 +236,8 @@
 2128	asgc	¿Qué puedes decirme sobre las gemas de alma? ¿Sabías que el alma del príncipe A'tor fue colocada en una gema de alma justo antes de su muerte?
 2129	askc	Tu serpiente parece apreciarte.
 2130	aska	No hay nada que hacer, en realidad. Al viejo Slinky le encanta bailar.
+2131	asmc	¿Cómo le ha ido a Stros M'Kai bajo el dominio imperial?
+2132	asma	Las cosas se han ido al garete, no me importa quién lo sepa. Hay asesinatos en las calles ¿dónde acabará todo, dime eso? ¿Dónde acabará?
 2133	asnc	¿Lazo del alma? ¿Qué quieres decir?
 2134	asna	Ahora que el Príncipe está muerto, ese gusano asqueroso ha tejido una trampa mágica a través de Stros M'Kai para alimentar su hambre de almas.
 2135	asnb	A menos que seas enterrado en tierra consagrada, tu alma irá directamente a N'Gasta si mueres. Por eso Saban aún teme por su hijo asesinado
@@ -231,7 +251,10 @@
 2143	avoc	El Archimago Voa era leal al Príncipe, entonces.
 2144	avoa	El principal asesor del Príncipe. Pero su sustituto Jaganvir, es una desgracia para la memoria de A'tor.
 2145	aycc	¿Dónde está el campamento Yokudan?
-2146	ayca	No estoy seguro. Fuera de la ciudad en algún lugar, velando la tumba de Hayle. Su pobre madre está fuera de sí de dolor.
+2146	ayca	No estoy seguro. Quizas fuera de la ciudad en algún lugar, Su pobre madre está fuera de sí de dolor aun velando la tumba de Hayle.
+2147	aylc	Háblame de este chico asesinado.
+2148	ayla	Se llamaba Hayle, pobre muchacho. Su familia sigue acampada fuera de la ciudad, esperando a que termine su ritual funerario.
+2149	aylb	Los yokudanos nunca fueron bien vistos por aquí, pero el gobernador Richton fue demasiado lejos.
 2150	aysc	Si, desafortunadamente los Yokudanos siempre han sido tratados como forasteros, en todo Hammerfell.
 2151	aysa	Un prejuicio sin sentido, ya que su religión se remonta a las primeras tradiciones Redguard
 2152	aysb	Pero nuestro nuevo gobernador ha hecho cosas mucho peores que simplemente cobrarles de más por la harina.
