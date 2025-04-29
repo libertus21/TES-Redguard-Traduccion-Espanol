@@ -1,17 +1,25 @@
-178	$140	Lakene dijo the Imperial's are searching for the ancient technological treasures of the Dwarves in the ruins in the mountains.
+178	$140	Lakene dice que los Imperiales están buscando los tesoros tecnológicos antiguos de los Enanos en las ruinas de las montañas.
 445	?amu	Amuleto
 452	?atb	Cuerpo de A'tor
 469	?bms	Batalla de Stros M'Kai
+470	?bod	Cuerpo felizmente perdido
 479	?brw	Brawl
+483	?btd	Barco Dañado
 489	?bye	adiós
 490	?by2	adiós
 497	?cav	Cavernas
 500	?clg	Contactar con la Liga
 507	?cro	Coronas
+508	?crt	Crendal el Ladrón
+509	?cwr	Guerra civil
+511	?cvw	Guerra civil
+526	?dod	No te mueras
+534	?drt	Cuento Draggin
 537	?dwg	Engranaje enano
 539	?dwr	Ruinas enanas
 544	?emp	Imperio
 547	?exc	Escape de las catacumbas
+550	?fat	El gordito
 560	?flk	Frasco de Lillandril
 561	?fly	Máquinas voladoras
 567	?fxo	Arreglar el observatorio
@@ -28,44 +36,58 @@
 635	?isf	Iszara está a salvo
 647	?jal	Cárcel
 648	?jnl	Ingreso en la Liga
+659	?lan	Paisajismo
 662	?leg	Liga
 664	?lg2	Liga
 665	?lgb	Liga de Restless.
+673	?liz	Lagarto
 675	?lok	Medallón
 678	?lpl	Mucha gente
+690	?map	Mapa del flasco
 694	?mgu	Gremio de magos
 696	?mlg	Conoci la Liga
 701	?mys	Misterio
 702	?mur	Asesinato
 703	?mus	Musica
+724	?obb	Obsesión
 725	?obs	Observatorio
 726	?occ	Ocupación
 735	?oqi	Incidente en el Casco Antiguo
 736	?oqr	Casco Antiguo
 738	?pal	Palacio
+739	?pas	Contraseña
 740	?pat	Príncipe A'tor
+744	?pie	Pieza
+750	?pra	Oracion
+753	?prk	parque
 755	?prn	Idea absurda
+758	?pss	Contraseña
 762	?rai	Redadas
 771	?rlg	Liga Inquieta
 779	?scf	Algo que puede comprender
 780	?sdc	Carruajes de vapor
 789	?sig	Signo de la Serpiente
+790	?sil	Silencio
 793	?slg	Gema del alma
 796	?smd	Guarida del Contrabandista
+802	?sou	Lazo del alma
 811	?std	Estudios
 820	?tav	Taberna
 821	?tbs	Subsistencia ligada a la tesis
+823	?tem	Templo
 837	?trb	Problemas
 841	?tkb	El barco de Trithik
 845	?tol	No les dije nada
 849	?tvl	Las bóvedas del tesoro
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
+858	?war	guerra
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
 942	?yud	Has estado en Den
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
+1397	3hac	¿WHY WAS ISZARA WITH HAYLE?
 1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
 1426	5amc	¿Alguna idea de porque estan importante este amuleto?
 1427	5b1c	Hablaremos más tarde.
@@ -333,7 +355,7 @@
 2556	df1c	El Observatorio está arreglado. Ahora puedo usar el telescopio
 2557	df2c	Me ayudará de alguna manera, estoy seguro
 2558	dfoa	El impuesto imperial sobre el licor me ha obligado a servir a todos, incluso a los villanos ancestrales de esta ciudad
-2559	dfoc	Los Forebears parecen disfrutar de tu lugar
+2559	dfoc	Los Antepasados parecen disfrutar de tu lugar
 2560	dg1c	Tengo la gema de alma, Dreekius. Y otra cabeza de dragón para tu pared que te traeré más tarde
 2561	dg2a	Buena suerte, Cy.
 2562	dg2c	Ahora necesito encontrar a alguien que pueda hacer magia de gema de alma.
@@ -370,7 +392,7 @@
 2597	di3c	Desapareció hace tres meses.
 2598	di4a	Vinieron los imperiales y la dejé salir por la ventana. No la he visto desde entonces
 2599	di4c	¿Y entonces?
-2600	dima	No específicamente por Iszara... los imperiales tenían una lista de disidentes que buscaban. Su nombre estaba allí, con nombres de muchas otras Coronas. Desde entonces sólo veo Forebears aquí.
+2600	dima	No específicamente por Iszara... los imperiales tenían una lista de disidentes que buscaban. Su nombre estaba allí, con nombres de muchas otras Coronas. Desde entonces sólo veo Antepasados aquí.
 2601	dimc	¿Dijiste que los imperiales vinieron aquí buscando a Iszara la última noche que la viste?
 2602	dj1a	¿En serio? Muy patriótico para alguien que cree que, veamos, Hammerfell sin rey ha seguido su camino
 2603	dj1c	He hecho mía la causa de la Liga, Dreekius
@@ -420,7 +442,7 @@
 2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era anterior, porque esa magia era muy propensa al error
 2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición de las gemas de alma. Deberías preguntar a alguien del gremio para saber más
 2663	dslc	¿Has oído hablar de las gemas del alma, Dreekius? Necesito hacerme con una
-2665	dt1a	Que siga siendo sólo 'juego' y no me importará que vuelva a ocurrir. Los Forebears tienen sus problemas, así que no es de extrañar que vengan aquí buscando compartirlos.
+2665	dt1a	Que siga siendo sólo 'juego' y no me importará que vuelva a ocurrir. Los Antepasados tienen sus problemas, así que no es de extrañar que vengan aquí buscando compartirlos.
 2666	dt1c	Perdón por jugar con espadas
 2667	dt2a	Practica todo lo que quieras, salvo el golpe mortal. Y cuidado con los muebles, por favor
 2668	dt2c	Fue una buena práctica
@@ -431,7 +453,7 @@
 2673	dtbc	¿De qué estás hablando?
 2674	dtra	Querían hacer una audiencia con el Gobernador, pero está demasiado ocupado todavía para ellos
 2675	dtrb	Demasiado ocupado para recibir a estos 'aliados de honor' en Palacio durante su espera, lo que puede explicar sus susceptibles disposiciones aquí
-2676	dtrc	¿Qué les preocupa tanto a estos Forebears?
+2676	dtrc	¿Qué les preocupa tanto a estos Antepasados?
 2677	du1a	¿Así que no viste señales de ella en las Catacumbas?
 2678	du1c	Creo que me escapé demasiado fácil, como si tal vez el Gobernador me estuviera vigilando, esperando que lo lleve a Iszara
 2679	du2c	Había una sección cerrada para mí, es cierto, pero no creo que ella estuviera allí
@@ -481,10 +503,123 @@
 2724	dzz8	¿Lo rompes? ¡Lo pagas!
 2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
 2726	dzz0	¿No tienen nada más que hacer?
+2840	fh1c	Hola.
 2902	fthc	Gracias.
 2978	gl1c	¿Qué sabes de la Liga Restless?
+3020	hata	Nunca abiertamente, porque entonces incluso las Coronas pensaban que la Liga no era de fiar. Ahora son la última esperanza de Hammerfell.
+3021	hatb	La muerte de A'tor los envió a la clandestinidad, y el fuego de dragón los mantiene allí
+3022	hatc	¿Así que A'tor tenía tratos con la Liga Inquieta, entonces?
+3023	hb1c	Gracias, Trithik. Tengo que irme.
+3024	hbda	Por lo que parece, sí. Me desperté una mañana y la tabla central estaba rota. Espero que lo repare pronto.
+3025	hbdc	¿Lakene dijo que tu barco fue dañado por vándalos?
+3026	hboa	En la medida en que el fondo del mar pueda reclamarlo antes de que lo haga el nigromante, eso es todo. Que su alma descanse tranquila del lazo del alma
+3027	hboc	¿Cómo puedes estar agradecido de que el cuerpo del príncipe A'tor se perdiera en el mar?
+3028	hc1a	¿Ah, sí? Lo debería haber sabido. Ese está por debajo incluso de un ancestro.
+3029	hc1c	Parece que encontré a tu ladrón. A Crendal se le escapó que tiene tu parte del mapa.
+3030	hc2a	Dos números, una X y la anotación "árbol largo", eso es todo lo que recuerdo. Si lo encuentras, quédate con él. Ya estoy muy viejo para esas cosas.
+3031	hc2c	Tal vez pueda recuperarlo. ¿Qué había en el mapa?
+3032	hc3c	Quizás pueda hacer que Crendal lo busque por mí. Gracias por tu ayuda, Trithik.
+3033	hcra	A través de sus agentes, sí. Pero temo que el Gobernador Provisional es un trago especialmente amargo.
+3034	hcrb	La sangre ha dejado de correr, aunque solo por falta de objetivos, y los Coronas que sobreviven aún permanecen en silencio.
+3035	hcrc	¿Tiber Septim ha hecho sufrir mucho a las Coronas por su resistencia?
+3036	hdda	La trampa espera a los que no lo hacen
+3037	hddc	¿Debería temer a la muerte más de lo normal, entonces?
+3038	hdga	Bandera y hueso, joven Guardia Rojo. Busca el Casco Viejo si quieres ver la obra de ambos
+3039	hdgc	Este dragón... ¿una metáfora imperial, quizás?
+3040	hfka	La leyenda es más antigua que la Guardia Roja. Muchos han buscado y fracasado, pero ¿quién puede resistirse al atractivo de un tesoro perdido?
+3041	hfkb	En mi juventud, yo también busqué el frasco. Fui mas afortunado que la mayoría, porque una vez poseí una parte de la verdad
+3042	hfkc	He oído historias de un frasco mágico enterrado en algún lugar de Stros M'Kai
+3043	hfoa	Profanadores del trono, todos. Cómplices del invasor, y la vergüenza de Hunding.
 3044	hfrc	Hablame sobre las Coronas.
+3045	hg1a	¡Los huesos de Hunding! ¡Una rata orco!!
+3046	hg2a	¡Que te den, criatura!
+3048	hg4a	¡Balbucea a los justos, despreciable!
+3049	hg5a	¡Vete! ¡Vete de aquí!
+3050	hg6a	¡Fuera de aquí!
+3052	hg8a	¡Cámbiame! Hunding te convertirá en piedra si no te apresuras a ir a la fría oscuridad
+3053	hg8b	¡No molestes más a los hombres, nix-bane! ¡Asquerosa bestia podrida! ¡Maniquí de estiércol de troll! ¡Maldita mancha!
+3054	hgoa	Y peores, pero no debes preocuparte por ellos. Están condenados a la suciedad y ya no molestan a la Guardia Roja
+3055	hgoc	¿Hay duendes bajo Stros M'Kai?
+3056	hh1a	Y el mío es Trithik, muchacho.
+3057	hh1c	Hola, mi nombre es Cyrus.
+3058	hh2a	Todavía vivo.
+3059	hh2c	Hola de nuevo, Trithik.
+3060	hh3a	Por supuesto, muchacho.
+3061	hh3c	¿Trithik? ¿Puedo molestarte de nuevo?
+3062	hhua	No puede, o no quiere, porque mantiene a los trasgos fuera de Stros M'Kai, fuera y debajo de él. Tal es la gracia de Frandar Hunding que aún los ciega
+3063	hhuc	Vi la Estatua de Hunding de camino al puerto. Me sorprende que Richton aún no la haya arrasado
+3064	hi1a	No sé el nombre, pero se han perdido muchos desde que llegó el dragón
+3065	hi1c	Estoy buscando a mi hermana, Iszara. ¿Quizás la has visto?
+3066	hi2a	Si ella estaba con las Coronas, la contaría entre las bajas. La matanza de Richton fue elegante sólo en su minuciosidad
+3067	hi2c	Ella desapareció hace tres meses
+3068	hima	La confusión suele seguir a la conquista, pero si Septim tiene un plan para Hammerfell, no lo ha dejado claro.
+3069	himb	Sospecho que hay un plan mayor que el simple terror constante, porque Richton tiene hombres por toda la isla, no solo aquí en Stros M'Kai.
+3070	himc	¿Qué planean hacer los Imperiales aquí?
+3071	hl1a	Eran el cáncer necesario de una nación dividida y en guerra. Crecidos en las fronteras donde la piel del reino es más disputada por la espada extranjera...
+3072	hl1b	Hombres intrépidos, cuyos nombres se suspiran con odio con demasiada frecuencia.
+3073	hl1c	El barco que me trajo aquí fue asediado por unos bribones llamados la Liga Inquieta. ¿Qué sabes de ellos?
+3074	hl2a	No te equivoques mucho con ellos, pues hasta el Príncipe los conocia
+3076	hmpa	No. Desde que mi casa en el casco antiguo fue destruida, me he quedado en mi barco.
+3077	hmpb	Arriesgué mi vida para salvar ese mapa, y fui justamente recompensado por mi indigna obsesión cuando me lo robaron hace unas semanas. Me alegro de que ya no esté
+3078	hmpc	Tal vez, pero parece un reto digno. ¿Todavía tienes el mapa?
+3079	hnca	Un mal del oeste, asentado en los bajios de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así que no te mueras
+3080	hncc	Háblame del nigromante
+3082	ho1a	Y así han caído los Guardia Rojos. Los ancianos enseñan a los jóvenes, ¿y quién puede culparlos por aprender? El verdadero Guardia Rojo arriesga su vida por honor, orgullo y espíritu.
+3083	ho1c	¿Por qué indigna? Un mapa a un artefacto mágico de valor incalculable parece un premio digno.
+3084	ho2a	Tanto como lo hace un mapa perdido, mercenario. Solo creí justo advertirte contra buscar la riqueza del frasco por avaricia. El mundo es más grande que tu bolsa de oro.
+3085	ho2c	La ideología no marca el lugar, viejo.
+3086	ho3c	Sí, sí. “Una espada vendida es una espada manchada contra la causa verdadera.” No importa por qué quiero el frasco, Trithik.
+3087	hoqa	Fue la última resistencia de los leales a la Corona, y el gobernador Richton lo destruyó. Todavía arde, todo ceniza y fuego de dragón. Pocos escaparon al incidente
+3088	hoqc	¿Qué pasó con el casco antiguo?
+3089	hpia	No, muchacho, un trozo de un mapa, que supuestamente muestra su ubicación. Digo un trozo de verdad, pero eso no es más que un viejo hablando, pues el mapa puede no conducir a nada, aunque estuviera entero.
+3090	hpic	¿El frasco está hecho pedazos?
+3091	hpla	No, a menos que tengas algo que Richton desee.
+3092	hplc	¿Entonces no puedo entrar al Palacio?
+3093	hpra	En el templo del Bendito Arkay. El hermano Nidal está a cargo allí, y conocía a casi todos en el pueblo. Quizás sepa algo sobre tu hermana.
+3094	hprc	¿Dónde debo rezar?
+3095	hpxa	«A'tor fue asesinado en el mar, y allí se perdió su cuerpo, afortunadamente. Ya ha comenzado la profecía obligatoria de su regreso, dicha en voz baja, un mal sustituto de la verdadera esperanza en esta temporada.
+3096	hpxb	La Guardia Roja debería saberlo mejor, estar ciegos ante presagios desesperados. El hijo de Thassad nos ha dejado, viento en popa y tristemente, para no volver jamás.
+3097	hpxc	¿Qué le hicieron los imperiales al Príncipe?
+3098	hr1a	¿Crendal, eh? ¡Rastrero hijo de un chucho Ancestro! Era parte de un mapa que, supuestamente, mostraba la ubicación del Frasco de Lillandril.
+3099	hr1b	En mi juventud fui algo así como un cazador de tesoros.
+3100	hr1c	Un tal Crendal se estaba jactando de un mapa que te robó. ¿Estaba mintiendo?
+3101	hr2a	Dos números, una X y la anotación "árbol largo", eso es todo lo que recuerdo. Si lo encontrás, quedátelo. Ya estoy muy viejo para esas cosas.
+3102	hr2c	¿Recordás qué había en el mapa?
+3103	hr3c	Quizás pueda hacer que Crendal lo busque por mí. Gracias por tu ayuda, Trithik.
+3104	hria	Bien dicho, muchacho, pero yo te aconsejaría no hacerlo. Los Imperiales no toleran a ningún Redguard en el Palacio, a menos que seas un Forebear, y tú tienes demasiadas pocas piernas para serlo.
+3105	hric	Tal vez debería hablar con este Richton, entonces.
+3106	hsha	Ni un día de viaje. Sólo tienes que seguir el camino sobre el puente
+3107	hshc	¿Qué tan al oeste están los bajíos?
+3108	hsia	No puedo hablar por el resto de Hammerfell, pero aquí una confesión así es, en el mejor de los casos, un martirio. En Stros M'Kai reina una persecución silenciosa.
+3109	hsic	¿Ni siquiera puede un Guardia Rojo admitir abiertamente su lealtad a las Coronas?
+3110	hsma	La derrota se lee en cada rostro nativo, muchacho. La guerra le costó mucho a la ciudad, incluyendo su voz.
+3111	hsmb	Las Coronas ya no existen, tan desprovistas de rey como Yokuda, perdidas ahora en una canción que nadie cantará, no sea que Richton la oiga. Demasiado, el Gobernador es la razón de que Stros M'Kai esté tan callado
+3112	hsmc	Parece tranquilo aquí, especialmente para un puerto ciudad. ¿Cómo le va a Stros M'Kai bajo el dominio imperial?
+3113	hssa	La maldición del nigromante, que se retuerce en la cercanía, a solo una muerte de distancia. Su magia arrebata tu alma si pereces, para alimentar algún acto aún más oscuro.
+3114	hssc	¿Qué es el "lazo del alma”?
+3115	htea	En la plaza del pueblo, a orillas del estanque
+3116	htec	¿Dónde está el templo?
+3117	hw1a	¿Por qué si no estarías aquí, en esta narración? Estás...
+3118	hw1c	No dije nada sobre redención o...
+3119	hw2a	«En su preocupación por la sangre, en la sangre como cierre. Te aseguro que se derramará antes de que encuentres a tu hermana. Una oración puede hacerte bien
+3120	hw2c	¿Cómo pueden ser los dos iguales?
+3121	hwra	Leo algo más que miedo en tu rostro, Redguard, ya sea retribución o redención. Ay, a veces son lo mismo. Ninguna puede venir sin heridas
+3122	hwrc	Temo que la desaparición de mi hermana tenga algo que ver con la guerra civil... .
+3123	hxx1	Muchacho.
+3124	hxx2	dias oscuros, CYRUS.
+3126	hxx4	¡A por ellos, muchacho! ¡Haznos sentir orgullosos!
+3127	hxx5	¡Rápido, Redguard! ¡No podrán contigo!
+3128	hxx6	¡Muerte al Emperador!
+3129	hxx7	¡Mátalos, Guardia Rojo!
+3130	hyka	La primera tierra. De donde vinieron los Redguards, en tiempos del bendito Hunding»
+3131	hykc	No he oído hablar de Yokuda desde mi infancia
+3132	hzz1	¿Y bien...?
+3133	hzz2	¿muchacho...?
+3134	hzz3	CYRUS, Muchacho.
+3135	hzz4	No practiques aquí, muchacho. Date un paseo fuera de la ciudad donde no amenaces a la gente del pueblo
+3253	kh2c	KRISANDRA, Hola.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+3317	kzz3	OH... Hola.
 3325	lb1c	Hablaremos más tarde.
 3326	ldra	¡Poder! Antes de que te des cuenta, tendremos carruajes a vapor y máquinas voladoras; por alguna razón, todo el Imperio está interesado en los enanos
 3327	ldrb	Claro, claro, el Príncipe A'tor, Arkay bendiga su alma, podría haber dicho que eran peligrosos y que deberíamos dejar en paz a las civilizaciones muertas, pero, demonios, hombre, hay progreso que hacer.
@@ -550,7 +685,65 @@
 3394	lzz3	Si?
 3395	lzz4	Bonita hoja. Pero no me gusta que me la agiten, ni siquiera en broma.
 3396	mb1c	Gracias MARIAH.
+3397	mcha	¡Saludos, forastero!
+3399	mchd	Hola, Cyrus..
+3400	mcla	Podrías probar en la guarida del contrabandista, los he visto allí de vez en cuando.
+3401	mclc	¿Alguna idea de cómo puedo ponerme en contacto con la Liga Restless?
+3402	mcra	Eso soy. Aunque no tan apasionado como muchos otros. Me alegro de que la guerra haya terminado. La vida sigue y los tiempos cambian. Intentaré mantener nuestra dulce ciudad tan justa como pueda ser...
+3403	mcrc	Sólo puedo suponer que eres un Corona
+3404	mcta	Esperemos que sólo estuviera viendo a Maiko, la cartógrafa, y no a los chicos de la Guarida del Contrabandista de abajo
+3405	mctc	¿El Cartógrafo? Me pregunto qué querría allí
+3406	mcwa	Especialmente esta. Primero A'tor y las Coronas derrotan a los Antepasados, luego llega el Imperio... Es demasiado para estas paredes de manejar
+3407	mcwc	Las guerras nunca han sido buenas para una ciudad
+3408	mfla	Sólo los cuentos. Perdido en la isla por los elfos hace mucho tiempo. El sueño de un cazador de tesoros
+3409	mflc	Mariah, ¿sabes algo del Frasco de Lillandril?
+3410	mfoa	Los Antepasados afirman ser los primeros descendientes de Hammerfell, mientras que las Coronas remontan su linaje a los primeros gobernantes
+3411	mfob	Ha sido así durante generaciones. Y Tiber Septim intenta, donde muchos han fracasado, unir el mundo de Tamriel.
+3412	mfoc	Suenas como si no guardaras rencor a los Antepasados... o al Imperio en realidad
+3413	mfta	¡Una pelea!
+3414	mftb	¡Socorro! ¡Los imperiales han vuelto!
+3415	mftd	¡Huye, Redguard!
+3416	mgca	¡¿Cambiarte de nuevo?! Eso me supera, cielo. Busca un mago para eso
+3417	mgra	¡Hola! No tengas miedo.
+3418	mgrb	¡Eso es muy tierno!
+3419	mgrd	Oh, vaya. ¿Qué pasó entonces?
+3420	mgre	Será mejor que vuelvas a las cuevas, querida, antes de que Hunding te vea. ¡Te convertirá en piedra!
+3421	mgrf	¿Qué fue eso, querida?
+3425	mh1a	Sí, me llamo Mariah. ¿Qué puedo hacer por usted?
+3426	mh1c	Disculpe señorita, ¿podemos hablar?
+3427	mh2a	¿Qué puedo hacer por usted?
+3428	mh2c	Disculpa, Mariah
+3429	misa	Solía verla por ahí. Pero eso fue hace tiempo. La última vez que la vi...
+3430	misb	Mmm... Se dirigía hacia el Cartógrafo. Nunca la volví a ver...
+3431	misd	...Y eso fue hace tres meses si fuera un día.
+3432	misc	¿Conoces a una mujer llamada Iszara?
+3433	mkta	Es uno de los miembros del templo. Le encantaba el parque. Se quedaba mirando la cascada y escribía en su diario. Un Corona apasionado. Pero ahora que lo dices, hace meses que no le veo
+3434	mktc	¿Qué decías de Kithral?
+3435	mlga	Me dan miedo, francamente. Han existido desde los días de Thassad, y nadie parece saber mucho sobre ellos.
+3436	mlgb	Parecen permanecer lo más callados posible, no como los piratas habituales, hay algo más en ellos
+3437	mlgc	¿Qué sabes de este grupo de la Liga Restless?
+3438	mlsa	Puede que el embellecimiento de la ciudad no sea una de las preocupaciones de Lord Richton, pero aún así necesita darse los aires adecuados, por si su Emperador, Tiber Septim, alguna vez le echa un vistazo
+3439	mlsb	A todos los líderes les gustan sus jardines llenos y el olor del éxito en el aire
+3440	mlsc	Me sorprende que Richton permita que continúe esa práctica.
+3441	mpka	¡Al lado de la cascada! Me da vergüenza que no te hayas dado cuenta... Tendré que dedicarle más tiempo. La gente realmente lo disfruta, especialmente ese chico Arkay, Kithral
+3442	mpkc	¿Dónde está el parque?
+3443	mpla	A Richton no le gustan los huéspedes no invitados, y no hay forma de colarse que yo sepa.
+3444	mplc	¿Alguna idea de cómo puedo entrar en el Palacio?
+3445	mpwa	Oh, no. Me mantengo alejado de ese tipo de problemas
+3446	mpwc	Y ¿No sabrás por casualidad la contraseña de la guarida, verdad?
+3447	msda	Debajo del Cartógrafo. He visto entrar y salir de allí a todo tipo de personas, incluso a los llamados "miembros de la Liga" de vez en cuando. Espero que Iszara no haya acabado allí
+3448	msdc	¿Qué sabes de esta Guarida de Contrabandistas?
+3449	msma	No tanto como antes. Me paso el día haciendo jardinería. Antes de la guerra civil éramos más. La plaza del pueblo y el parque eran muy bonitos. Pero hago lo que puedo
+3450	msmc	¿Y qué te depara la vida en Stros M'Kai?
+3451	mzz1	¿Señor?
+3452	mzz2	Disculpe.
+3453	mzz3	Buen ánimo, señor
+3454	mzz4	¿Qué crees que estás haciendo con eso, muchacho? Guárdalo ahora mismo.
+3521	nf1c	Háblame de los Antepasados.
 3534	ng4c	Todavía no.
+3550	nh3a	Hola, Cyrus.
+3707	ohwc	Hola..
+3709	ohxc	Hola.
 3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
 3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
 3913	q508	Joto solo conoce a un hechicero que puede hacer eso: N'Gasta, un nigromante poderoso.
@@ -589,6 +782,87 @@
 3948	qzz2	¿De dónde has salido?
 3949	qzz3	¿Un gremlin? Ven aquí, pequeñín.
 3966	r204	¿Qué?
+3989	sbra	Escucha, Cyrus, resulta que soy amigo de un par de guardias de Fatboy, y les oí hablar de pagar a Brennan para que tendiera una trampa a "aquel Redguard que tanto persigue el Gobernador"
+3990	sbrb	Hablaremos más tarde. Ten cuidado.
+3991	sbrc	¿Hay algo que deba saber sobre Brennan?
+3992	scha	Hola, marinero.
+3993	schb	Cyrus, cariño
+3995	scla	Peligroso asunto ese, pero es tu pellejo... Hay negocios turbios en el sótano de Maiko, la Guarida del Contrabandista se llama. Podrían estar conectados con esos piratas de la Liga
+3996	sclc	Esta Liga Inquieta... ¿cómo podría contactar con ellos?
+3997	scra	Apoyaron al Príncipe A'tor tras la muerte de su padre. Verdaderos patriotas de la Guardia Roja, es una lástima
+3998	scrc	Cuéntame más sobre las Coronas
+3999	scta	Ahí es donde Fatboy lanza las Coronas que puede atrapar. Bajo el Palacio... donde vive el dragón.
+4000	sctc	Estas catacumbas... ¿son una especie de mazmorra?
+4001	scwa	Bueno, no quiero divulgar chismes, y menos a su hermano, pero dicen que era amiga del Príncipe
+4002	scwb	Buenos amigos, ¿sabes? Así que no es de extrañar que desapareciera cuando el gordito  llegó a la ciudad
+4003	scwc	¿Estuvo mi hermana involucrada en la guerra civil de alguna manera?
+4004	scxc	Gracias, SIONA.
+4005	sdga	Así es como Fatboy venció a los Crowns. Los imperiales, al menos, creen que el dragón sigue ahí abajo, descansando en el mar real de monedas...
+4006	sdgc	¿VIVE UN DRAGÓN EN LAS CATACUMBAS?
+4007	sdra	Bueno, no es mal tipo para ser un lagarto, sólo que él y yo no coincidimos en la amistad de los muslos, por así decirlo
+4008	sdrb	Pero conoce a todo el mundo en esta isla, no hay duda.
+4009	sdrc	Entonces, ¿no te gusta Dreekius?
+4010	sdta	Claro, Siona lo conoce perfectamente. Solía ser uno de mis favoritos hasta que ese maldito camarero lagarto se puso todopoderoso conmigo... ¿este amigo tiene nombre?
+4011	sdtc	Un amigo ha quedado conmigo en el Draggin Tale. ¿Lo conoces?
+4012	sfoa	¡Antepasados! ¡Bah! ¡Y a mí me llaman puta! Vendieron al Príncipe y nos dejaron con las calles llenas de soldados extranjeros y sin una pizca de honradez en todo el reino.
+4013	sfoc	¿Qué hay de estos Antepasados. ¿Quiénes son?
+4014	sfta	Perdón. Quiero decir, su Alteza Imperial, el Gobernador Provisional Lord Richton
+4015	sftb	¡Mátalos, Redguard!
+4016	sftc	El gordito?
+4017	sftd	¡Llévalo hasta el Palacio, Guardia Rojo!
+4018	sfte	¡Cuidado, Redguard!
+4019	sfza	Una chica está tratando de trabajar aquí, amigos.
+4020	sgra	[chillidos]
+4021	sgrb	Shoo! Shoo!¡Dejadme en paz!!
+4022	sgrd	¡Ay! Eres repugnante!
+4023	sgre	¡Encuentra un mago entonces!
+4024	sh1c	¿Puedo molestarla un momento, señorita?
+4025	sh2a	¿Señora, dice? Debes de ser nueva en la ciudad. Además, Siona te habría recordado
+4026	sh2c	Cyrus, a su servicio.
+4027	sh3a	No me puedo quejar, pero los imperiales no dan la misma satisfacción.
+4028	sh3c	¿Cómo va el negocio, mi señora Siona?
+4029	sh4a	Ah, Cyrus, no deberías burlarte así de una chica.
+4030	sh4c	Siona, querida, estás más guapa que nunca.
+4031	sh5a	Ven a darle un beso a Siona, dulce muchacho.
+4032	sh5c	Hola de nuevo, mi señora.
+4033	sh6a	¡Cyrus, no seas tan extravagante! Por cierto, el Capitán Brennan te está buscando.
+4034	sh6b	Pero si yo fuera tú, me mantendría alejado de él. ¡Es un traidor!
+4035	sh6c	Hola, Siona. ¿Me extrañaste?
+4036	sh7a	Hola a todos.
+4037	sh8a	Hola.
+4038	sh9a	Bonito día, ¿verdad?
+4039	sisa	Iszara, sí, veo el parecido familiar. Aunque no puedo decir que la conozca. Estaba metida en los problemas que tuvimos cuando mataron al joven príncipe
+4040	sisc	¿Conoce a una joven llamada Iszara? Mi hermana, la última vez que la vieron fue hace tres meses
+4041	slga	Dicen luchar contra el Imperio, pero parecen más interesados en el saqueo, por lo que he podido ver. Sin embargo, se empeñan en atacar a los Antepasados, así que supongo que no son del todo malos
+4042	slgc	¿Has oído algo sobre un grupo llamado la Liga Inquieta?
+4043	slza	No conozco su política, pero ese Dreekius es una maldita molestia para nosotras, las trabajadoras.
+4044	slzb	Tiene delirios de grandeza, ese. Ahora ahí no queda nadie más que los Forebears, de todos modos, ¡y yo no me haría cargo de su descendencia ni por un carro lleno de oro!
+4045	slzc	Este camarero lagarto... ¿es argoniano?
+4046	smka	La cartógrafa local. Su tienda está cerca de la plaza del pueblo
+4047	smkc	¿Maiko? ¿Quién es esa?
+4048	snoa	Como quieras, no es asunto de Siona, ¿verdad?
+4049	snoc	Preferiría guardarme eso para mí
+4050	spla	El palacio del pobre príncipe muerto, querrás decir. Sigue subiendo por la colina, no tiene pérdida. Pero no esperes entrar a hurtadillas
+4051	splc	¿Dónde está el Palacio del Gobernador?
+4052	spra	A'tor fue asesinado por los Imperiales, eso es lo que pasó. Un joven simpático, tampoco demasiado orgulloso para quitarse el sombrero ante Siona. Ah, qué pena, qué pena
+4053	sprc	El Príncipe... ¿qué le pasó?
+4054	srca	Es malo, lo es, Siona puede decirlo. Una vez me invitó a subir al Palacio, pero no volveré
+4055	srcb	Tal vez Siona no sea una dama fina, pero es una honesta chica trabajadora, y no le gusta ser tratada como basura.
+4056	srcd	Y definitivamente no le gusta ser observada por esa sombra escurridiza de orejas puntiagudas.
+4057	srcc	Háblame de este Richton
+4058	ssha	El asesino mascota del gordito, Dram.Un necrófago de las profundidades de Morrowind, según cuentan.  
+4059	sshb	Esos ojos rojos suyos, observándome... No, Siona no volverá al Palacio, ni por toda la moneda de Hammerfell
+4060	sshc	¿Quién es esta sombra de la que hablas?
+4061	ssma	Que es mejor mantener la boca cerrada, o acabar en las Catacumbas. O algo peor
+4062	ssmc	¿Cuáles son las noticias en torno a Stros M'Kai en estos días?
+4063	stba	¿Conoces a Tobías?
+4064	stbb	Uno de mis mejores clientes, y no miento. Cualquier amigo de Tobías es amigo de Siona. Estaré encantado de ayudarte en lo que pueda
+4065	stbc	Mi amigo Tobías me dijo que te buscara.
+4066	stra	Ya sabes, la guerra civil entre las Coronas y los Antepasados. Realmente no eres de por aquí, ¿verdad?
+4067	strc	Tal vez puedas ayudarme. Cuéntame más sobre los recientes 'problemas' en Stros M'Kai
+4068	sysa	¿Hunding odiaba a los duendes? ¡Claro que le conozco!
+4069	sysc	Tobías. ¿Le conoces?
+4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
 4223	tk2c	¿Qué puede decirme de Iszara?
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
