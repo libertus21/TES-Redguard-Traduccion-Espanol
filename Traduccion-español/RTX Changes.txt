@@ -8,12 +8,18 @@
 500	?clg	Contactar con la Liga
 507	?cro	Coronas
 537	?dwg	Engranaje enano
+539	?dwr	Ruinas enanas
 544	?emp	Imperio
 547	?exc	Escape de las catacumbas
 560	?flk	Frasco de Lillandril
+561	?fly	Máquinas voladoras
+567	?fxo	Arreglar el observatorio
 568	?fxd	Arreglar el Observatorio
+570	?gam	Juegos de azar en la guarida
+581	?gmp	Dame la contraseña
 588	?gpl	Política gremial
 589	?grc	Gobernador Richton
+594	?gvl	Dar medallón
 612	?hmo	Madre de Hayle
 618	?hyk	Ayude a los Yokudan
 626	?iil	Iszara en la Liga
@@ -21,10 +27,14 @@
 635	?isf	Iszara está a salvo
 647	?jal	Cárcel
 648	?jnl	Ingreso en la Liga
+662	?leg	Liga
+664	?lg2	Liga
 665	?lgb	Liga de Restless.
+675	?lok	Medallón
 678	?lpl	Mucha gente
 694	?mgu	Gremio de magos
 696	?mlg	Conoci la Liga
+701	?mys	Misterio
 725	?obs	Observatorio
 726	?occ	Ocupación
 738	?pal	Palacio
@@ -33,6 +43,7 @@
 762	?rai	Redadas
 771	?rlg	Liga Inquieta
 779	?scf	Algo que puede comprender
+780	?sdc	Carruajes de vapor
 789	?sig	Signo de la Serpiente
 793	?slg	Gema del alma
 796	?smd	Guarida del Contrabandista
@@ -40,15 +51,18 @@
 820	?tav	Taberna
 821	?tbs	Subsistencia ligada a la tesis
 837	?trb	Problemas
+841	?tkb	El barco de Trithik
 845	?tol	No les dije nada
 849	?tvl	Las bóvedas del tesoro
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
 937	?yoc	Campamento Yokudan
+942	?yud	Has estado en Den
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
 1425	5ama	Eso es entre N'Gasta y el Gobernador. A mí sólo me pagan por encontrar un repartidor
 1426	5amc	¿Alguna idea de porque estan importante este amuleto?
+1427	5b1c	Hablaremos más tarde.
 1428	5cha	¡Ese es un buen dinero el que estás malgastando, Cyrus, todavía dando vueltas por aquí!
 1429	5chb	Salve, Cyrus.
 1431	5coa	Por aquí tenemos a alguien que necesita que le hagan algo. Por allá tenemos a alguien que busca trabajo.
@@ -147,6 +161,7 @@
 1526	5zz1	¿Terminaste el trabajo, hombre? 
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
+1716	7801	un poco de privacidad.
 2049	ab1c	Gracias, Avik.
 2060	agpc	¿Tiene el Gremio de Magos mucha influencia en Stros M'Kai?
 2061	agpa	¡Ya no! El Archimago Voa era un Corona, la mano derecha de A'tor, pero ambos perecieron en la batalla de Stros M'Kai. Jaganvir es un sucesor indigno del puesto de Archimago, si me preguntas a mí.
@@ -444,8 +459,73 @@
 2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
 2726	dzz0	¿No tienen nada más que hacer?
 2902	fthc	Gracias.
+2978	gl1c	¿Qué sabes de la Liga Restless?
 3044	hfrc	Hablame sobre las Coronas.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
+3325	lb1c	Hablaremos más tarde.
+3326	ldra	¡Poder! Antes de que te des cuenta, tendremos carruajes a vapor y máquinas voladoras; por alguna razón, todo el Imperio está interesado en los enanos
+3327	ldrb	Claro, claro, el Príncipe A'tor, Arkay bendiga su alma, podría haber dicho que eran peligrosos y que deberíamos dejar en paz a las civilizaciones muertas, pero, demonios, hombre, hay progreso que hacer.
+3328	ldrc	¿Qué espera encontrar allí el Imperio?
+3329	lfla	¡Espera! ¡Sólo espera! Esos enanos compensaron su falta de magia de otras maneras. ¡La magia es la muleta del mundo!
+3330	lflb	¿Por qué construir un puente mejor cuando un mago puede teletransportarte al otro lado? Las cosas han sido iguales durante miles de años, y pronto se acabará
+3331	lflc	¿Máquinas voladoras? ¿Estás bien?
+3332	lfxa	Si es enano, la respuesta está en las ruinas. Y no voy a desafiar a los hombres de Richton ahí arriba
+3333	lfxc	YEres bueno con la llave inglesa y sabes mucho sobre estos enanos. ¿Alguna idea para arreglar el Observatorio?
+3335	lg2a	Yo... no sé lo que estás diciendo..
+3337	lg4a	No llevo comida encima, lo siento
+3338	lg5a	Eh, ¿qué?
+3340	lg7a	Oh, estas bajo un hechizo. Necesitarás otro mago para remediarlo. O esperar que no dure para siempre.
+3341	lgla	¡Oh, menos mal! ¡La has conseguido! ¡Estoy salvada! ¡Nunca más volveré a esa Guarida, no señor!
+3342	lglb	¡No más para mí! Pero inténtalo tú mismo... la contraseña que necesitas es 'cuchara'. Ten cuidado, Cyrus. Y gracias de nuevo.
+3343	lglc	Ok, Lakene. Aquí está tu medallón. Ahora dime la contraseña
+3344	lgma	¡Cálmate, por favor! No sé nada. Sólo he estado allí para jugar un par de veces.
+3345	lgmb	¡He oído que la Liga va allí, pero no los he visto ni a ellos ni a esa tal Iszara! Te lo juro. Y si mi esposa se entera de las apuestas... ...¡estaré muerto!
+3346	lgmc	¿Te juegas el medallón de plata de tu mujer? No es bueno. Dime lo que quiero saber. ¿Qué sabes acerca de Iszara, la Liga, y que Den!
+3347	lgpa	Claro, claro. Pero tienes que ayudarme primero, Cyrus. Por favor. Recupera mi medallón de plata de ese tramposo de Rollo y te daré la contraseña. Te lo juro. Por favor.
+3348	lgpc	Entonces sólo dame la contraseña, y yo me encargo a partir de ahí.
+3349	lh1a	Lakene. Eres nuevo aquí, ¿no?
+3350	lh1c	Hola soy Cyrus. ¿Y tú eres?
+3351	lh2a	Oh... tú otra vez.
+3352	lh2b	¿Has encontrado mi medallón?
+3354	lisa	Iszara. El nombre me suena. Pero no puedo decir que sí
+3355	lisc	¿Sabes algo de una mujer llamada Iszara?
+3356	llga	Nada. ¿Quién ha dicho que lo sepa?
+3358	lllc	Ok, Lakene. Aquí está tu medallón. Sé que has estado jugando en la Guarida del Contrabandista, Lakene. Y necesito entrar allí 
+3359	lmya	Las ruinas. En las montañas. Enanos, marinero. Muertos hace mucho tiempo. Un antiguo tesoro tecnológico.
+3360	lmyb	El Imperio está buscando en el mundo tal conocimiento. Puede que lo hayan encontrado aquí
+3361	lmyc	¿El verdadero misterio? Huh, ya he oído demasiados.
+3362	lp1a	No sé de qué me estás hablando
+3363	lp1c	¿Conoces la contraseña de la Guarida del Contrabandista?
+3364	lp2a	Demasiado para el honor de la Guardia Roja! Teníamos un trato, Cyrus. Nada de contraseña hasta que consiga el medallón
+3365	lp2c	No he podido conseguir el medallón. Dame la contraseña
+3366	lroa	Un tipo apestoso, tramposo en las cartas. ¡Ganó ese medallón con engaños, el asqueroso barriga de polvo!
+3368	lsca	Así es. Los enanos sabían cómo usar el vapor. Puedes reírte, pero es una fuerza poderosa y Richton tiene a sus chicos mirándolo ahora mismo.
+3369	lscb	Puede que el Imperio tenga lo que necesita para conquistar todo Tamriel antes de lo que crees
+3370	lscc	Carruajes a vapor, ¿eh?
+3371	lsda	Nunca he estado allí.
+3372	lsdc	¿Qué sabes de la Guarida de los Contrabandistas?
+3373	lsma	Soy lo que a todo el mundo le gusta llamar el Sr. Manitas. De hecho, estoy maldito por ello.
+3374	lsmb	Ah... y por cierto... si ves a un hombre llamado Trithik, dile que iré a su barco cuando tenga tiempo
+3375	lsxc	Si veo al tipo, se lo diré.
+3376	lsmd	Y en cuanto a lo que me mantiene en Stros M'Kai, con el Imperio y Richton y todo... bueno, he vivido aquí mucho tiempo, tengo amigos y raíces aquí...
+3377	lsme	Y Stros M'Kai tiene raíces profundas... historia antigua... ahí está el verdadero misterio.
+3378	lsmc	¿Y qué te mantiene en Stros M'Kai?
+3379	ltba	No estoy seguro, la verdad. Creo que ha tenido algunos vándalos por la noche
+3380	ltbc	¿Qué le pasa al barco de Trithik?
+3382	lxx2	¿Ya encontraste mi medallón?
+3383	lxx3	Me alegro de verte, Cyrus.
+3385	lxx5	Cuidado.
+3386	lxx6	¡No he hecho nada malo!
+3387	lxx7	¿Qué pasa, Redguard?
+3388	lxx8	Hola. ¿Puedo ayudarle en algo?
+3389	lyda	Maldita sea. ¿Dónde has oído eso?
+3390	lydb	Mira, eso no es algo de lo que esté orgulloso, así que baja la voz. Vamos a mover esta conversación en otro lugar
+3391	lydc	Sé que has estado apostando en la Guarida del Contrabandista, Lakene. Y necesito entrar allí
+3392	lzz1	Hola.
+3393	lzz2	Discúlpeme. ¿Puedo ayudarle en algo?
+3394	lzz3	Si?
+3395	lzz4	Bonita hoja. Pero no me gusta que me la agiten, ni siquiera en broma.
+3396	mb1c	Gracias MARIAH.
 3534	ng4c	Todavía no.
 3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
 3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
@@ -574,3 +654,4 @@
 4656	xxa1	¡Eh! ¡Tú! ¡Largo! ¡Lárgate!
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
+4669	yb1c	Hablaremos más tarde.
