@@ -470,7 +470,7 @@
 3330	lflb	¿Por qué construir un puente mejor cuando un mago puede teletransportarte al otro lado? Las cosas han sido iguales durante miles de años, y pronto se acabará
 3331	lflc	¿Máquinas voladoras? ¿Estás bien?
 3332	lfxa	Si es enano, la respuesta está en las ruinas. Y no voy a desafiar a los hombres de Richton ahí arriba
-3333	lfxc	YEres bueno con la llave inglesa y sabes mucho sobre estos enanos. ¿Alguna idea para arreglar el Observatorio?
+3333	lfxc	Y Eres bueno con la llave inglesa y sabes mucho sobre estos enanos. ¿Alguna idea para arreglar el Observatorio?
 3335	lg2a	Yo... no sé lo que estás diciendo..
 3337	lg4a	No llevo comida encima, lo siento
 3338	lg5a	Eh, ¿qué?
@@ -490,6 +490,7 @@
 3354	lisa	Iszara. El nombre me suena. Pero no puedo decir que sí
 3355	lisc	¿Sabes algo de una mujer llamada Iszara?
 3356	llga	Nada. ¿Quién ha dicho que lo sepa?
+3357	llgc	¿Qué sabes acerca de la Liga de los Inquietos?
 3358	lllc	Ok, Lakene. Aquí está tu medallón. Sé que has estado jugando en la Guarida del Contrabandista, Lakene. Y necesito entrar allí 
 3359	lmya	Las ruinas. En las montañas. Enanos, marinero. Muertos hace mucho tiempo. Un antiguo tesoro tecnológico.
 3360	lmyb	El Imperio está buscando en el mundo tal conocimiento. Puede que lo hayan encontrado aquí
