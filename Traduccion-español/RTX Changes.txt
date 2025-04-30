@@ -54,8 +54,10 @@
 614	?hsg	Ayuda con la gema del alma
 618	?hyk	Ayude a los Yokudan
 626	?iil	Iszara en la Liga
+628	?imn	No estoy seguro
 629	?imp	Imperiales
 635	?isf	Iszara está a salvo
+642	?ith	Creo que lo sabes.
 645	?izp	Iszara y el Príncipe
 647	?jal	Cárcel
 648	?jnl	Ingreso en la Liga
@@ -890,8 +892,95 @@
 2806	f417	No sé si se escapó o la atraparon junto con Joto o qué. Es el único que podría decírtelo y se está pudriendo en una celda.
 2807	f419	You're crazy if you think you're going to break into the city jail! The Empire has--
 2809	f421	¡Arquimago Jaganvir! Yo sólo estaba---
+2810	fapa	Falicia. Y ya ha pasado demasiado tiempo. Creo que el gremio tiene prejuicios contra los elfos por el hecho de que vivimos tanto tiempo--
+2811	fapb	Y tenemos el potencial de alcanzar alturas con las que ningún mago humano podría soñar, a menos que siga el camino de la putrefacción, como hacen tantos, pero supongo que sólo estoy siendo amargada.
+2812	fapc	¿Cuánto tiempo tienes que ser aprendiz, Ms....?
+2813	fapd	Algún día llegaré a Archimago, y tal vez no sea demasiado pronto considerando que ahora hay una vacante.
+2814	fara	Un humano llamado Jaganvir, un verdadero caso difícil. En realidad no tiene suficientes secretos para ser Archimago, pero el último murió en la Batalla de Stros M'Kai, así que había un vacío que llenar.
+2815	farc	¿Quién es el Archimago?
+2816	fb1a	Me llamo Falicia. Estaré aquí
+2818	fb2a	Gracias a ti.
+2819	fb2c	Gracias, Falicia.
+2820	fb3a	Vuelve otra vez.
+2821	fb3c	ADIOS PAPU.
+2822	fbaa	Una escuela de guerra creada por el Imperio para poner a prueba a sus magos de batalla; un gremio de magos de élite, en realidad.
+2823	fbab	El archimago Jaganvir ha puesto sus ojos en la Battlespire recientemente, aunque no entiendo por qué alguien querría juntarse con esos perdedores.
+2824	fbac	¿Qué es el Battlespire?
+2825	fbsa	No el Gremio de Magos, sólo el antiguo Archimago Voa. Era nacionalista además de miembro del gremio, y no pudo evitarlo. Lo mataron por política mundana.
+2826	fbsc	¿El Gremio de Magos ayudó a los Coronas en la batalla?
+2827	fbya	Pociones mágicas de todo tipo.
+2829	fbyc	¿Qué se vende?
+2830	fema	De eso no estoy en libertad de decir. Digamos que el Archimago Jaganvir está tratando de mantenerse en su lado bueno. Tiene sus codiciosos ojos puestos en la Battlespire.
+2831	femc	¿Ha interferido el Imperio con el Gremio de Magos?
+2832	ffla	No eres el primero en preguntar. Todo el mundo parece pensar que el Gremio de Magos tiene acceso a toda la magia de la tierra.
+2833	fflb	Lamento decir que el frasco no ha aparecido desde hace siglos. Perdido en esta isla hace mucho tiempo por los elfos fundadores del frasco, que naufragaron aquí.
+2834	fflc	He oído que un antiguo artefacto, el Frasco de Lillandril, se perdió en esta isla hace mucho tiempo. Sabes de qué pieza hablo.
+2835	ffld	Huyeron de la Isla Summerset con el frasco, esperando comprar el santuario del Clan Direnni en Roca Alta, pero los mares sólo los trajeron hasta aquí. Algunos dicen que hay un mapa.
+2836	fgta	Se... supone que no debo hablar de eso.
+2837	fgtc	He oído que uno de sus miembros se metió en problemas con el Gobernador.
 2840	fh1c	Hola.
+2845	fhea	Claro. 25 de oro por favor.
+2846	fhec	Tomaré una poción curativa.
+2847	fima	Mi aprendizaje aquí ha durado varios años, y aún no he conocido a ningún miembro llamado Iszara. Pero, quién sabe, muchos miembros de la cábala superior son de los reservados.
+2848	fimc	Lo dudo, pero puede que sí.
+2849	fira	Bien, son 25 de oro.
+2850	firc	Necesitaré una poción de piel de hierro.
+2851	fisa	El nombre no me suena, señor; ¿podría haber sido miembro del gremio?
+2852	fisc	Busco a una joven llamada Iszara.
+2853	fita	No...imposible...Izara no robo nada.
+2854	fitc	Por favor, Falicia, creo que sabes por qué te lo pregunto. Iszara desapareció poco después de robar la gema de alma de la Liga Revoltosa. Creo que puede haber venido aquí con ella
+2855	fjga	No te lo diría si lo supiera. No habla con mundanos, y está demasiado ocupado estudiando para el Battlespire como para dejarse ver últimamente.
+2856	fjgc	¿Crees que Jaganvir sabe algo de Iszara?
+2857	flaa	La sangre guardia rojo de Voa sacó lo mejor de él. Murió en la Batalla de Stros M'Kai luchando junto al Príncipe
+2858	flac	¿Qué le pasó al último Archimago?
+2859	fm1a	¿Este, o la propia institución? Esta es bastante nueva, doscientos años y cuarto más. Los magos modernos llegaron tarde a Hammerfell.
+2860	fm1c	¿Cuántos años tiene el Gremio de Magos?
+2861	fm2a	Pero incluso ellos aceptaron finalmente la noción de un auspicio más controlado y consciente para la magia. El Gremio de Magos fue una reacción a la magia masiva de antaño, cuando la magia era salvaje y desequilibrada.
+2862	fm2c	Los Redguards tienen fuertes tradiciones.
+2863	fm3a	Cuando eres estudiante abrazas la línea institucional... si quieres graduarte.
+2864	fm3c	Muy moderno para un elfo.
+2865	fmpa	Bueno, nadie lo ha visto. Las historias dicen que fue roto en cuatro pedazos. Incluso se dice que uno de los trozos estaba inscrito en el fondo de una caja de plata con forma de barco.
+2866	fmpc	¿Qué hay del mapa del frasco?
+2867	fnnc	Ahora mismo no.
+2868	fnoa	No recuerdo a nadie con ese nombre, pero viene tanta gente a diario que no me extraña.
+2869	fnob	Y yo sería la única que trabaja en la tienda, ya que mi aprendizaje, por alguna cruel razón, parece relegado al comercio minorista.
+2870	fnoc	Es poco probable, pero puede que haya sido clienta de su tienda.
+2874	fpoc	Pociones curativas, pociones de fuerza y pociones de piel de hierro.
+2879	frla	Me temo que no. El Gremio de Magos intenta mantenerse al margen de la política.
+2880	frlc	¿Sabes algo de la Liga Revoltoso?
+2881	frxa	Me temo que no.
+2882	frxc	¿Sabes algo del anillo del archimago Voa?
+2883	frya	No te lo diría si lo supiera. No habla con mundanos.
+2884	fryc	¿Crees que Jaganvir sabe algo sobre el anillo de Voa? 
+2885	fs1a	Estoy demasiado ocupado estudiando como para prestarle mucha atención. Además, con el Imperio aquí, las calles parecen algo peligrosas.
+2886	fs1c	¿Qué clase de ciudad es Stros M'Kai? 
+2887	fs2a	Si quieres saber la verdad, los espacios abiertos me ponen nervioso. Muchos elfos del bosque son así, ya sabes.
+2888	fs2c	¿Así que nunca sales del gremio?
+2889	fs3a	Nuestro segundo cielo, el verde medio. Digamos que no deambulo lo suficiente por Stros M'Kai como para saber tanto de él.
+2890	fs3c	TEchan de menos el dosel de los árboles de Valenwood...
+2891	fsga	Mmm, er, nada... ¿Por qué lo preguntas?
+2892	fsgc	¿Qué sabes de las gemas del alma, Falicia?
+2895	fsta	Aquí mismo. 25 piezas de oro.
+2896	fstc	¿Qué tal una poción de fuerza?.
+2897	ft1a	Supongo que yo también lo siento. Espero que pudiera ayudarte a encontrar a tu hermana.
+2898	ft1c	Intenté liberar a Joto pero no lo consiguió.
+2899	ft2c	«Él me puso en el camino correcto. Necesito encontrar el Frasco de Lillandril.
+2901	ftha	No parece que tengas el oro.Vete a chambear, vago y feo.
 2902	fthc	Gracias.
+2903	fuca	Claro. Estarás justo después de mí, en cuanto tengas diez años de aprendizaje a tus espaldas y puedas lanzar un hechizo de 'alterar la realidad'.
+2904	fucb	El nuevo Archimago, Jaganvir, no habla con nadie, y haría que todos los demás en el gremio hicieran lo mismo, excepto yo, ya que dirijo la tienda.
+2905	fucc	Tal vez podría hablar con alguien de la cábala superior...
+2906	fyla	Baja la voz, ¿quieres? Te diré lo que sé.....
+2907	fylc	¡No me mientas, chica! ¡Iszara robó una gema de alma de la Liga Revoltosa y creo que vino aquí con ella! Si no me lo dices...
+2908	fyy1	¡Por favor! ¡Esto no es un campo de atletismo!
+2909	fyy2	¡Señor! ¡no seas infantil!
+2910	fyy3	¡Basta! Eso no es gracioso!
+2911	fyy4	Por favor, para. Me meterás en problemas
+2912	fzz1	Buen dia.
+2913	fzz2	¿Busca algo?
+2914	fzz3	¿Puedo ayudarle?
+2923	fyy5	Guarda eso, por favor. Este no es lugar para mostrar un pene.
+2924	fyy6	Señor. Por favor, señor. No está permitido estar detrás del mostrador.
 2942	gbxc	Me lo quedo.
 2978	gl1c	¿Qué sabes de la Liga revoltoso.?
 2999	gnmc	Tendré que pensarlo.
@@ -1416,6 +1505,7 @@
 3811	ox38	A veces mi Yoku es malo. Ella decía: "no será difícil, porque el hijo está aquí'… o decía: "porque el hijo estará aquí'
 3813	ox40	Dice que lo sabrás
 3814	ox41	Madre le ayudará cuando esté listo.
+3815	oy1a	Gracias.
 3830	pb1c	gracias, PRNELL.
 3831	pbfa	Realmente no debería, pero... está bien. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
 3832	pbfc	¿Me podrías prestar tu bandera por un momento?
@@ -1614,6 +1704,7 @@
 4068	sysa	¿Hunding odiaba a los duendes? ¡Claro que le conozco!
 4069	sysc	Tobías. ¿Le conoces?
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
+4135	tb4a	No estoy seguro.
 4223	tk2c	¿Qué puede decirme de Iszara?
 4460	vh1a	¿Vienes a presumir de tu triunfo?
 4461	vh2a	¿Y qué hay de mis hombres? ¿Qué pasa con ellos?
