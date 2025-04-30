@@ -434,8 +434,21 @@
 1552	6gmc	Prefiero quedarme con el libro. ¿Puedo pagarte por hacer el mapa?
 1553	6gva	No quiero hablar de estas cosas.
 1554	6gvc	¿Es tan dura la vida bajo el Gobernador Imperial?
+1555	6h1a	¡No! ¡Bah! ¡Tú y tus preciosos elfos! ¡Largo!
+1556	6h1c	Maiko, ¿puedo hablar contigo un minuto?
+1557	6h2a	¡Vete, vete, estoy intentando trabajar! ¿Quieres que lo termine o no?
+1558	6h2c	Maiko, ¿ya está listo mi mapa?
+1559	6h3a	Sí, aquí está. Quienquiera que hiciera estas anotaciones era obviamente un cartógrafo entrenado, probablemente de la escuela de Mandri, a juzgar por las medidas de corrección del error transversal.
+1560	6h3b	Que este mapa le sirva bien, joven señor.
+1561	6h3c	MAIKO, ¿YA ESTÁ LISTO MI MAPA?
+1562	6h4a	No hay muchos jóvenes por aquí estos días, especialmente no tan bien hablados como tú. Soy Maiko, la cartógrafa local. ¿En qué puedo ayudarte?
+1563	6h4c	Buenos días. Soy Cyrus.
+1564	6h5a	Hola, Cyrus. Algo que pueda hacer por ti.
+1565	6h5c	hola, MAIKO.
 1566	6isa	Me temo que no. Últimamente no conozco a muchos jóvenes de la ciudad. Prefiero pasar el tiempo con mis mapas.
 1567	6isc	¿Conoce a una joven llamada Iszara?
+1568	6iwa	¡CIRUS! POR FAVOR, ¡NO LA HE VISTO! PUEDE QUE TENGA OTROS CONTACTOS POR AQUI, PERO NO SE NADA DE ESO. INTENTO NO HACER PREGUNTAS. POR FAVOR, DEJADME CON MIS MAPAS.
+1569	6iwc	Mariah me dijo que vio a Iszara dirigiéndose hacia aquí. No pongas a prueba mi paciencia. ¿¡Qué sabes tú!?
 1570	6lga	Hmm... ¿La alianza entre Daggerfall, Wayrest y Balfiera contra los Cyrodiils durante la Primera Era? No, no, esa era la Liga Inquieta... Lo siento, no estoy familiarizado con ella.
 1571	6lgc	¿Me pregunto si has oído hablar de la Liga Revoltosa?
 1572	6lla	Nunca lo dijeron. Tal vez deberías bajar y preguntarles tú mismo.
@@ -465,6 +478,10 @@
 1596	6tmb	Qué pérdida de tiempo y esfuerzo, ansiando un mítico frasco élfico, cuando la isla está llena de verdaderos misterios.
 1597	6tmc	¿Por qué no?
 1598	6zz1	Si?
+1599	6zz2	¿Y bien?
+1600	6zz3	Habla más alto. Tengo trabajo que hacer.
+1601	6zz4	Nada de armas aquí. Guárdala.
+1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
 1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
 1716	7801	un poco de privacidad.
 1717	7802	Un poco de luz de velas.
@@ -1041,6 +1058,7 @@
 2942	gbxc	Me lo quedo.
 2978	gl1c	¿Qué sabes de la Liga revoltoso.?
 2999	gnmc	Tendré que pensarlo.
+3018	gzz2	¿Sí?
 3020	hata	Nunca abiertamente, porque entonces incluso las Coronas pensaban que la Liga no era de fiar. Ahora son la última esperanza de Hammerfell.
 3021	hatb	La muerte de A'tor los envió a la clandestinidad, y el fuego de dragón los mantiene allí
 3022	hatc	¿Así que A'tor tenía tratos con la Liga Inquieta, entonces?
