@@ -135,19 +135,45 @@
 1049	0912	Y ahora las buenas noticias. Quizás recuerdes al grupo de chusma viciosa que nos ha causado tantos problemas.
 1050	0914	Cuyo escondite habría seguido siendo un misterio si un guardia rojo prematuramente muerto no me hubiera llevado hasta él.
 1051	0915	Llevará tiempo reunir un grupo de asalto, pero no preveo dificultades para limpiar toda la Liga en un ataque bien planeado.
+1058	1b1c	Eso es todo por ahora Favis. 
+1059	1bba	Bueno, no roto exactamente, pero seguro que no suena tan fuerte como antes. 
+1060	1bbb	Pero Prnell no dejaría que Lakene lo viera, ¿verdad? Insistió en hacerlo él mismo. Típico. 
+1061	1bbc	La campana no parece estar rota.
+1062	1bbd	Tardó medio día y luego tuvo el descaro de decirme que no tenía nada de malo.
 1063	1bla	No quiero serlo, pero estoy atascado con él. Maldito sea, culpa de Prnell. Me deja atrapado aquí mientras él se sienta en la brisa fresca y ve pasar la bahía de Hundin.
 1064	1blb	¿No cree que me gustaría ondear la bandera de vez en cuando? Es terco como una mula, y encima desagradecido.
 1065	1blc	¿Estás al mando de este campanario?
+1066	1boc	Lo he comprobado y a la campana no le pasa nada.
+1067	1boa	¡Buen chico! Tenía razón. Ese tonto de Prnell dijo que no necesitaba arreglo, pero yo sabía que lo necesitaba. Así que lo arreglaste, ¿eh? Bueno, estoy muy agradecido.
 1068	1c1a	Era la sede del poder de las Coronas. A'tor lideró las Coronas desde aquí tras la muerte de Thassad.
 1069	1c1b	Hemos sufrido mucho por ello desde que el joven Príncipe A'tor murió. Le quitó toda la esperanza a las Coronas, pero no toda la lucha.
 1070	1c1c	Stros M'Kai era un bastión de la Corona, ¿no es asi? 
 1071	1c2a	No, la batalla en el Casco Viejo hizo eso.
 1072	1c2c	¿No a todos?
+1073	1cta	You're a nosy young fellow, aren't you? The less you know about them the better.
+1074	1ctb	Si no le gustas a Richton, te mete en la cárcel. Si realmente no le gustas, te mete en las Catacumbas. Nadie sale vivo de allí.
+1075	1ctc	¿QUÉ HAY DE ESTAS CATACUMBAS?
+1076	1cxc	¿Lo has visto?
+1077	1dra	No con mis propios ojos, pero he oído hablar de él a los supervivientes. Dicen que Richton lo guarda en las catacumbas, alimentándolo con ligueros capturados..
+1078	1drc	Este dragón... ¿lo habéis visto?
+1079	1exc	¿Así que no la has visto?
+1080	1eya	¡Es perfecto! ¡Está tan ciego como el amor verdadero sin su monoculo! Supongo que la única manera que puede ver es a través de su telescopio maldito ahora.
+1081	1eyb	No. ¡Ahora nunca dejará la silla del telescopio! ¡Y yo nunca podré ondear la bandera!
+1082	1eyc	Prnell dijo que perdió su monoculo. ¿Lo has visto? 
 1083	1fba	Difícilmente una victoria antepasada. Fue el poder imperial el que derrotó a las Coronas, muchacho, no te equivoques.
 1084	1fbb	Los pocos que Richton trajo consigo se quedan en el palacio o beben hasta emborracharse.
 1085	1fbc	Esperaba ver Stros M'Kai lleno de Antepasados, después de su victoria.
 1086	1fbd	Podrías encontrártelos en el Draggin Tale, buscando problemas, así que tendrás que tener cuidado.
+1087	1fla	Tenemos que intercambiarnos. Uno de nosotros vigila los barcos, ondea la bandera cuando ve uno y el otro toca la campana para avisar a la gente.
+1088	1flb	Pero nunca me deja tomar mi turno en la atalaya. No le importan mis sentimientos, en absoluto.
+1089	1flc	No estoy seguro de seguirte. ¿A qué bandera te refieres?
+1090	1fld	Siempre sobre lo que Prnell quiere. ¡Hmph!
+1091	1fxa	¿LO VES? APENAS HACE RUIDO, ¿VERDAD? Y PRNELL DICE QUE NO PASA NADA. ¡HMPH!
+1092	1fxb	¡MUCHO MEJOR! GRACIAS, MUCHACHO.
 1093	1fxc	Ya me he topado con ellos, gracias. Buenos chicos. 
+1094	1gea	¿Mi amigo, dices? ¡Hmph! Está bien como elfos, pero seguro que sigue adelante.
+1095	1geb	Luego está Rollo, el empleado de Gerrick. Grosero como el día es largo, y perezoso para arrancar.
+1096	1gec	Tu amigo Gerrick, el tendero, me estaba hablando de ti.
 1097	1h1a	Cyrus, ¿eh? Nunca he oído hablar de ti. Debes ser nuevo por aquí. Me llamo Favis. Aunque todo el mundo me llama Todd Howard. 
 1098	1h1c	Saludos, anciano. Yo soy Cyrus.
 1099	1h2a	¿Quién eres? ¿Quién eres tú? Me resultas familiar.
@@ -172,6 +198,11 @@
 1118	1lma	¿Yo? ¡Ja! Si lo fuera, ¿crees que aún estaría aquí, con el precioso Gobernador Richton arrojando a todos los ligamayoristas conocidos a las Catacumbas? En mis días las cosas eran simples.
 1119	1lmb	Un Guardia Rojo era leal al rey y eso era todo. Toda esta nueva política - Coronas y Antepasados, Liga Revoltosa - no es para mí.
 1120	1lmc	¿No estás en la Liga Revoltosa?
+1121	1lxa	Yo tampoco. Ese Lakene, por otro lado, es el joven más hábil que he conocido.
+1122	1lxb	Puede arreglar cualquier cosa. Oye, tú también pareces un manitas. ¿Quizás podrías echarle un vistazo por mí?
+1123	1lxc	«No estoy seguro de haber conocido a Lakene.
+1124	1noa	Tampoco Prnell, pero eso no le detuvo, ¿verdad? Bueno.
+1125	1noc	No sé mucho sobre campanas, me temo.
 1126	1oqa	Las Coronas hicieron su última resistencia allí después de que el dragón destruyera la flota de A'tor. Bravuconadas sin sentido... deberían haber hecho lo que hizo la Liga.
 1127	1oqb	Y SE AGACHARON HASTA QUE LOS IMPERIALES BAJARON LA GUARDIA. EN CAMBIO, CAYERON LUCHANDO, HÉROES DE LA GUARDIA ROJA, PERO MUERTOS DE TODOS MODOS.
 1128	1oqc	Cuéntame qué pasó en el Casco Viejo.
@@ -183,13 +214,30 @@
 1134	1pra	¿Amigo? ¡Ja! Es ciego como un murciélago, pero ¿me dejará ondear la bandera? No. Demasiado sofocante ahí abajo, dice.
 1135	1prb	Te caerías de la silla, dice. Siempre alguna excusa. Ahora ha ido y ha roto el timbre. No sé por qué lo aguanto.
 1136	1prc	¿Prnell...? ¿Un amigo tuyo?
+1137	1r1a	No pareces uno de sus espías.
+1138	1r1c	¿Qué puede decirme del Gobernador Richton?
+1139	1r2a	De todas formas, soy demasiado mayor para preocuparme por esas cosas. Hmm. ¿Por qué me preocupaba?
+1140	1r2c	Puedes estar tranquilo.
+1141	1r3a	Oh sí: buen soldado, tal vez, pero una bestia sanguinaria de gobernante. Disfruta teniendo a Stros M'Kai bajo su pulgar, lo hace. No quedará mucho de él cuando termine.
+1143	1rla	A VECES TENGO QUE TOCAR EL TIMBRE CINCO MINUTOS ANTES DE QUE SE DESPIERTE Y SE PONGA EN MARCHA.
+1144	1rlb	Gerrick me hace vigilar que Rollo se levante antes de que deje de tocar la campana.
+1145	1rlc	Este Rollo parece un tipo interesante.
+1146	1rld	No sé por qué no voy a darle una patada en los pantalones, sería más fácil.
 1147	1rxa	No mucho. Nacionalistas Guardia Rojo devoradores de fuego... más de lo que la mayoría de la Corona podrían soportar. .
 1148	1rxb	Pero se han mantenido en silencio desde que el casco antiguo fue incendiado. Me pregunto por qué decidieron atacar tu barco.
 1149	1rxc	Mi nave fue atacada por dos miembros de la Liga Revoltosa cerca de Stros M'Kai. ¿Qué puede decirme de ellos? 
+1150	1sma	Tan malos como pueden ser. Parece tranquilo ahora, ¿no? La paz de la tumba, es... la mayoría de los jóvenes muertos o huidos.
+1151	1smb	Antiguamente, éste era el bullicioso corazón sur de Hammerfell. El puerto atestado de barcos, marineros de todas partes caminando por las calles.
+1152	1smd	Lo que ves ahora es el fantasma del viejo Stros M'Kai. Muerto, pero aún no lo sabe.
+1153	1smc	¿Cómo están las cosas en Stros M'Kai, bajo la ocupación imperial?
 1154	1tha	Ni yo. Los Antepasados preferían a Thassad antes que a su hijo A'tor, conocido simpatizante de la Liga. El propio Thassad no tenía paciencia con la Liga.
 1155	1thb	Los llamaron terroristas... puede que sea cierto, pero han demostrado más sentido común que los Corona en todo este sangriento lío.
 1156	1thc	La muerte del Rey Thassad fue inconveniente para muchos, pero nunca he oído hablar de juego sucio.
 1157	1xza	Ese Rollo. A veces tengo que tocar el timbre cinco minutos antes de que se despierte y se mueva.
+1158	1xzb	ese es rollo. A veces tengo que tocar el timbre cinco minutos antes de que se despierte y se ponga en marcha.
+1159	1xzc	DESCANSE. A ESA CAMPANA NO LE PASA NADA.
+1160	1ysa	¡Buen chico!
+1161	1ysc	Claro, me encantaría.
 1163	1zz2	Oye, jovencito.
 1165	1zz4	¡¿Oh?! ¡Ya veo! ¡Prnell te deja a ti ondear la bandera! ¿Y por qué?
 1166	1zz5	Porque es un infiel, rencoroso, cerebro negro... ¡Agh! ¡Que valla a mamar la teta de su mama! 
