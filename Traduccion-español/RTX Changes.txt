@@ -109,6 +109,7 @@
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
 942	?yud	Has estado en Den
+943	?vqa	¿Qué puerta es la correcta?
 957	0h2c	¿Y cómo te llamas?
 958	0h2a	¿Y cómo te llamas?
 959	0h3c	Hola de nuevo.
@@ -367,10 +368,40 @@
 1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
 1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
 1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
+1852	8qac	¿CUÁL ES LA PUERTA CORRECTA?
+1853	8qal	La puerta de la derecha.
+1854	8qar	La puerta de la izquierda.
+1855	8qbc	¿QUÉ PUERTA NO ES LA CORRECTA?
+1856	8qbl	La puerta de la izquierda.
+1857	8qbr	La puerta de la derecha
+1858	8qcc	¿QUÉ GUARDIA ESTÁ MINTIENDO?
+1859	8qcl	Es él.
+1860	8qcr	Es él.
+1861	8qdc	¿ERES EL GUARDIA QUE MIENTE?
+1862	8qdl	no
 1863	8qdr	Si
+1864	8qec	¿Es él el guardia que miente??
 1865	8qel	Si
+1867	8qfc	¿ESTÁ CLAVICUS VILE MINTIENDO?
 1869	8qfr	Si
+1870	8qgc	¿QUÉ PUERTA DIRÍA VILE QUE ES LA CORRECTA?
+1871	8qgl	ÉL NO ELEGIRÍA.
+1872	8qgr	ELEGIRÍA AMBOS.
+1873	8qhc	¿QUÉ PUERTA DIRÁ EL PERRO QUE ES LA CORRECTA?
+1874	8qhl	ÉL NO ELEGIRÍA.
+1875	8qhr	ELEGIRÍA AMBOS.
+1876	8qic	¿QUÉ PUERTA DIRÍA EL OTRO QUE ES LA CORRECTA?
+1877	8qil	La puerta de la izquierda.
+1878	8qir	La puerta de la izquierda.
+1879	8qjc	¿AMBAS PUERTAS CONDUCEN A LA MUERTE?
 1881	8qjr	SI
+1882	8qkc	¿QUÉ HAY DETRÁS DE ESTA PUERTA?
+1883	8qkl	LA PÉRDIDA DE TU ALMA.
+1884	8qkr	LA PÉRDIDA DE TU ALMA.
+1885	8qlc	¿QUÉ HAY DETRÁS DE LA OTRA PUERTA?
+1886	8qll	EL REGRESO DEL ALMA DE ISZARA.
+1887	8qlr	EL REGRESO DEL ALMA DE ISZARA.
+1895	8rdh	Sólo una pregunta. Sólo una. Elige sabiamente... ¡Hee hee!
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
