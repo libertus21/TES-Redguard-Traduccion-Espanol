@@ -51,6 +51,7 @@
 594	?gvl	Dar medallón
 610	?hlg	Curacion
 612	?hmo	Madre de Hayle
+614	?hsg	Ayuda con la gema del alma
 618	?hyk	Ayude a los Yokudan
 626	?iil	Iszara en la Liga
 629	?imp	Imperiales
@@ -268,7 +269,30 @@
 1181	2621	¿De verdad...? ¿que podría molestar a este?
 1196	260b	A cambio de su alma, ésta accedió a liberar a su amado Príncipe A'tor. Quizás consideres mis honorarios demasiado caros, pero ¿no puede el cliente juzgar mejor el verdadero valor de un servicio?
 1222	2gvc	¿Qué puedes decirme del Gobernador?
+1336	31gc	Es broma. Te lo diré por el camino. Cuéntale el plan a tu madre.
+1339	31sc	¿Qué puedes decirme sobre las gemas del alma, Saban?
+1341	32gc	No estoy muy seguro. Tendré que comprobarlo primero
+1342	32sc	¿Eres tan poderoso, Saban?
+1357	3b1c	Gracias, Saban..
+1359	3b2c	Adiós.
+1366	3e1c	Será difícil defenderse del Imperio
+1367	3e2c	¿Qué dijo?
+1370	3g1c	Saban, necesito tu ayuda con esta Gema del alma.
+1371	3g2c	Esta alma es del Príncipe A'tor y tengo su cuerpo
+1372	3g3c	Sí, pero está rodeado por una especie de campo de estasis
+1375	3g4c	El mago del Príncipe, Voa
+1378	3g6c	Sí. Está en el templo.
+1379	3g7c	No te preocupes. Puedo colar a tu madre entre los guardias
+1380	3g8c	No. I need you to get the League.
+1381	3g9c	Sí, pero tenemos que darnos prisa. Ve al faro y hazles una señal. Diles que es la hora de la revolución
+1388	3h1c	Dile que fue un placer
+1390	3h2c	Hola, Saban.
 1397	3hac	¿WHY WAS ISZARA WITH HAYLE?
+1400	3hec	¿Qué tipo de ayuda puedes dar?
+1403	3i1c	Quizá puedas ayudarme a encontrar a mi hermana, Iszara
+1405	3i2c	Saban, ¿podrías hablarme de la Liga Revoltosa?
+1408	3s1c	¿Planea quedarse aquí en Stros M'Kai?
+1412	3s2c	Pero el nigromante está muerto. Seguro que su magia ha pasado.
 1413	4h1c	Discúlpeme. ¿Es usted el Archimago?
 1414	4h2c	¿Me permite un momento?
 1415	4h3c	Esto no tomará mucho tiempo.
@@ -426,6 +450,7 @@
 1886	8qll	EL REGRESO DEL ALMA DE ISZARA.
 1887	8qlr	EL REGRESO DEL ALMA DE ISZARA.
 1895	8rdh	Sólo una pregunta. Sólo una. Elige sabiamente... ¡Hee hee!
+1896	8tha	YOU MUST BE A BIT THICK. TAKE A LITTLE WALK AND THINK THINGS OVER. COME BACK WHEN YOU'RE READY TO TALK SENSE. 
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -1351,8 +1376,46 @@
 3633	nzz3	Buena suerte, hijo.
 3634	nzz4	No debes mostrar esa espada aquí, hijo mío.
 3635	nzz7	Deja de hacer eso, muchacho
+3668	ogrb	¡Oye! ¡Aléjate de ahí, estúpido!
+3675	ogrj	¡No entiendo nada de eso, Cyrus!
+3680	ogro	¿Quieres decir que es Cyrus?
+3681	ogrp	Madre dice que esto es magia oriental, Cyrus; no puede romper el hechizo
+3682	ogrq	¡Tienes que encontrar un mago del gremio!
+3683	ogrr	Él te ayudará, Cyrus
 3707	ohwc	Hola..
 3709	ohxc	Hola.
+3727	omab	Por favor, no la molestes, Cyrus
+3732	omtb	Go away! Leave her alone.
+3749	os4a	¡Lo has conseguido, Cyrus!
+3774	ox01	Ella te lo agradece, Cyrus; el alma de Hayle ha pasado a las Orillas Lejanas
+3776	ox03	Ella desea saber si hay alguna manera de que pueda compensarte.
+3778	ox05	Mamá no la ha visto desde el día que vino con Hayle
+3779	ox06	Pero ella ve que la encontrarás
+3781	ox08	Dice que podrías encontrarlos...
+3782	ox09	... en el faro.
+3784	ox11	Madre dice que Stros M'Kai necesitará su ayuda.
+3785	ox12	Y la tuya.
+3786	ox13	La isla sigue en peligro
+3787	ox14	No es eso.
+3788	ox15	El Imperio debe irse.
+3790	ox17	Necesitaba la ayuda de madre, su magia
+3791	ox18	Pero madre estaba tan enojada con Hayle que envió a tu hermana lejos
+3792	ox19	Madre no sabe qué magia necesitaba tu hermana. Lo siento, Cyrus
+3794	ox21	¡Son más antiguas que los secretos orientales!
+3795	ox22	Las gemas del alma son magia engañosa
+3796	ox23	Se necesita un hechicero poderoso para usar una
+3797	ox24	Ella lo es.
+3798	ox25	¿Tienes un cuerpo?
+3799	ox26	¿Está listo?
+3800	ox27	¿Quién puso esto en el cuerpo?
+3802	ox29	La magia de Voa es fuerte.
+3803	ox30	Demasiado fuerte para mi madre, Cyrus. Tienes que encontrar una manera de liberar el cuerpo del campo de estasis
+3805	ox32	¡Yo también voy!
+3806	ox33	¿En serio?
+3807	ox34	¿Cuál es la señal?
+3811	ox38	A veces mi Yoku es malo. Ella decía: "no será difícil, porque el hijo está aquí'… o decía: "porque el hijo estará aquí'
+3813	ox40	Dice que lo sabrás
+3814	ox41	Madre le ayudará cuando esté listo.
 3830	pb1c	gracias, PRNELL.
 3831	pbfa	Realmente no debería, pero... está bien. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
 3832	pbfc	¿Me podrías prestar tu bandera por un momento?
