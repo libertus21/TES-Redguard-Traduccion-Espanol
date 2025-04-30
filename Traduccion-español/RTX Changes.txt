@@ -244,6 +244,20 @@
 1166	1zz5	Porque es un infiel, rencoroso, cerebro negro... ¡Agh! ¡Que valla a mamar la teta de su mama! 
 1167	1zz6	*¡No toques la cuerda de la campana! A menos que quieras ser recordado como el villano cobarde que asesinó a un anciano amable y obediente sólo para poder hacer el tonto con la campana de ese buen hombre.
 1168	1zz7	Un espadachín, ¿eh? Ve a mamar la teta de tu mama. No me molestes.
+1169	2603	¡Iszara es sólo otra entrada en el libro de almas perdidas, Maestro Cyrus! ¡Ahora pertenece al gran Lord Vile!
+1170	2605	Ella empeñó su alma a éste, a cambio de servicios, y, como no tenía uso inmediato, éste se la regaló a Lord Vile.
+1171	2607	Iszara llegó allí hace tres meses, rogándole a éste que la ayudara a liberar al príncipe A'tor de la gema alma. La niña oscura incluso había traído la gema alma con ella.
+1172	2608	Este le dijo que el acto podría llevarse a cabo, pero, conociendo el afán de un cliente, fue bastante franco sobre el alto precio de tales servicios.
+1173	2610	Eso es imposible, por supuesto.
+1174	2611	Hace tiempo que su alma fue entregada a Clavicus Vile, Señor Daedra patrón, en cuyo lejano reino reside ahora el alma de tu hermana.
+1175	2612	ÉSTE ADMITE HABER SIDO DILATORIO EN SU PARTE DEL TRATO, PUES LA FUERZA VITAL DEL PRÍNCIPE DESCANSA AÚN DENTRO DEL ALMA GEMA.-- 
+1176	2613	El mismo gema de alma que adorna el amuleto que entregaste a Lord Richton.
+1177	2614	Ah, bueno... este tiene años por delante para cumplir el trato.
+1178	2615	¿Y parece mezquino negarle a Lord Richton el placer de llevar el alma de su enemigo derrotado como una baratija? ¿No le parece?
+1179	2617	o...?
+1180	2619	Ahora, ahora. Deja que tu hermana sirva como un cuento con moraleja, Cyrus. ¿Repetirías sus errores jugando con esta? ¿Y propones intimidar a Lord Vile para que renuncie al alma de tu hermana? Considera esto--
+1181	2621	¿De verdad...? ¿que podría molestar a este?
+1196	260b	A cambio de su alma, ésta accedió a liberar a su amado Príncipe A'tor. Quizás consideres mis honorarios demasiado caros, pero ¿no puede el cliente juzgar mejor el verdadero valor de un servicio?
 1222	2gvc	¿Qué puedes decirme del Gobernador?
 1397	3hac	¿WHY WAS ISZARA WITH HAYLE?
 1413	4h1c	Discúlpeme. ¿Es usted el Archimago?
@@ -554,6 +568,15 @@
 2288	c514	¿La precaución no funcionó?
 2289	c518	Así que abandonó toda esperanza de encontrar el frasco y fue igual con el nigromante-- 
 2291	c525	Bastardo. ¡Tú... bastardo!
+2293	c601	¿Iszara? ¿Qué te pasa? ¡¿Iszara?! ¿Qué te ha pasado? ¡Despierta! ¡Iszara!
+2294	c602	¡¿Qué le hiciste, N'Gasta?!
+2295	c604	¿¡Qué le has hecho!?
+2296	c606	¿Qué promesa? ¿Qué servicio?
+2297	c609	Gusano. Si me la devuelves ahora, te doy mi palabra... ...de que no te hare daño.
+2298	c616	Worm, restaurala ahora.
+2299	c618	Te mataré, más rápido de lo que mereces, y yo mismo hablaré con Vile.
+2300	c620	Vile es mi negocio ahora. Tienes otras cosas de las que preocuparte.
+2301	c622	La pregunta es: ¿tu alma queda atrapada en tu propio néctar de almas después de morir, o se va directamente al infierno? Déjame ayudarte a averiguarlo.
 2302	c804	¿Eres la mascota de Richton?
 2303	c807	Tienes algo que necesito, dragón.
 2304	c811	Tal vez podamos negociar.
