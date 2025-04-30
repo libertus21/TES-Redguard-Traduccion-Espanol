@@ -80,6 +80,7 @@
 708	?nec	Nigromante
 718	?not	Todavía no.
 721	?ntl	Nacionalista
+722	?nyp	Di tu precio
 724	?obb	Obsesión
 725	?obs	Observatorio
 726	?occ	Ocupación
@@ -270,6 +271,7 @@
 1180	2619	Ahora, ahora. Deja que tu hermana sirva como un cuento con moraleja, Cyrus. ¿Repetirías sus errores jugando con esta? ¿Y propones intimidar a Lord Vile para que renuncie al alma de tu hermana? Considera esto--
 1181	2621	¿De verdad...? ¿que podría molestar a este?
 1196	260b	A cambio de su alma, ésta accedió a liberar a su amado Príncipe A'tor. Quizás consideres mis honorarios demasiado caros, pero ¿no puede el cliente juzgar mejor el verdadero valor de un servicio?
+1215	2d2c	¿Qué quieres decir?
 1222	2gvc	¿Qué puedes decirme del Gobernador?
 1336	31gc	Es broma. Te lo diré por el camino. Cuéntale el plan a tu madre.
 1339	31sc	¿Qué puedes decirme sobre las gemas del alma, Saban?
@@ -407,6 +409,61 @@
 1526	5zz1	¿Terminaste el trabajo, hombre? 
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
+1530	6bkc	Me parece bien. ¿Cuándo estará listo el mapa?
+1531	6bma	Lo siento, no vendo al por menor. Sólo trabajo por encargo. Pero, ¿tal vez pueda hacer un mapa para usted?
+1532	6bmc	¿Tiene mapas a la venta?
+1533	6cva	Esa es la cuestión, ¿no? No las encontrarás en tu mapa comercial barato, ¿verdad? Ese es un verdadero misterio para que reflexiones.
+1534	6cvc	¿Dónde puedo encontrar esas cavernas de las que hablas?
+1535	6dda	¿Ves lo que quiero decir? No son mitos. Reales, tan reales como la piedra y el metal. ¿Quién crees que construyó esas ruinas?
+1536	6ddb	Todos desaparecieron, hace miles de años, y nadie sabe por qué. Pero esa es otra historia. ¿De qué estábamos hablando?
+1537	6ddc	No sé mucho sobre los enanos. Siempre pensé que eran criaturas míticas.
+1538	6dra	Un poco más famosas que las cavernas, pero si no se trata de elfos, a nadie le importa.
+1539	6drb	Uno de los grandes misterios de los tiempos, la desaparición de los Enanos, pero en vez de eso es Frasco de Lillandril esto, Frasco de Lillandril aquello.
+1540	6drc	Cuéntame más sobre estas Ruinas Enanas.
+1541	6eba	Déjame ver... Oh, maldita sea. Otra vez esto. J'ferr [sic] debe haber vendido esta copia anotada de Artefactos Élficos diez veces.
+1542	6ebb	AY siempre acaban aquí... ¿Puedes hacerme un mapa? Dicen. ¿Por qué todo el mundo está tan loco por un tesoro elfo perdido? Lo siento, pero me temo que hoy estoy demasiado ocupado.
+1543	6ebc	Me pregunto si se puede sacar algo de esto. Me parecen anotaciones de un mapa.
+1544	6esa	¡Qué acabo de decir! ¡Fuera! ¡Fuera! ¡Deja de preguntarme por los malditos elfos!
+1545	6esc	¿Dices que el frasco llegó a Stros M'Kai en un barco elfo?
+1546	6exc	Me pregunto si se puede hacer un mapa con este libro. Estoy dispuesto a pagar por el mapa. Con gusto. Sólo di tu precio.
+1547	6fla	¡Los huesos de Hunding, claro que sí! Los buscadores de tesoros vienen aquí desde todo Tamriel, cavando y hurgando interminablemente.
+1548	6flb	Dicen que hay un mapa del tesoro flotando por ahí, pero yo no me lo creo.
+1549	6flc	¿Has oído hablar del Frasco de Lillandril?
+1550	6gma	No me estás escuchando, ¿verdad? ¡Elfos, elfos, elfos! ¿Es lo único que se te ocurre? ¿Qué sabes del Frasco de Lillandril? ¿De verdad el barco de los elfos naufragó en Stros M'Kai?
+1551	6gmb	Si no tiene que ver con elfos, a nadie le interesa. Por mi parte, estoy harto de los elfos y sus misteriosas costumbres. ¡Bah! No me hagas empezar.
+1552	6gmc	Prefiero quedarme con el libro. ¿Puedo pagarte por hacer el mapa?
+1553	6gva	No quiero hablar de estas cosas.
+1554	6gvc	¿Es tan dura la vida bajo el Gobernador Imperial?
+1566	6isa	Me temo que no. Últimamente no conozco a muchos jóvenes de la ciudad. Prefiero pasar el tiempo con mis mapas.
+1567	6isc	¿Conoce a una joven llamada Iszara?
+1570	6lga	Hmm... ¿La alianza entre Daggerfall, Wayrest y Balfiera contra los Cyrodiils durante la Primera Era? No, no, esa era la Liga Inquieta... Lo siento, no estoy familiarizado con ella.
+1571	6lgc	¿Me pregunto si has oído hablar de la Liga Revoltosa?
+1572	6lla	Nunca lo dijeron. Tal vez deberías bajar y preguntarles tú mismo.
+1573	6llc	Estos muchachos locales ... ¿Tienen nombres?
+1574	6msa	Los mapas son como las personas, ¿lo sabías Cyrus? Hay mapas buenos, malos e indiferentes.
+1575	6msb	«No deberías confiar en la mayoría de los mapas, te llevarán por mal camino si les das una oportunidad. Un mapa honesto es más raro que un amigo verdadero, recuérdalo, joven señor.
+1576	6msc	¿Qué te dicen tus mapas?
+1577	6mya	Bueno, las cavernas, por ejemplo. No has oído hablar de ellas, ¿verdad? Ni tampoco de las Ruinas Enanas.
+1578	6myb	Pero son reales, joven señor, y tan llenas de misterio y aventura como se podría pedir.
+1579	6myc	¿A QUÉ SE REFIERE?
+1580	6nea	«Bueno... no importa. No es culpa tuya. Me estoy volviendo un poco gruñón en mi vejez, supongo.
+1581	6nec	Siento haberte molestado.
+1582	6nma	¡Gracias Arkay! A veces pienso que si oigo una palabra más sobre elfos ¡me volveré loco! No es que no haya muchos otros misterios interesantes alrededor de Stros M'Kai.
+1583	6nmc	Muy bien.
+1584	6noa	VMuy bien. Por favor, hágamelo saber si puedo ayudarle en algo.
+1585	6noc	No, gracias.
+1586	6nya	Persistente, ¿eh? Escucha, si me das el libro, lo haré para ti. Una última vez, gratis. Al menos así no tendré que volver a verlo.
+1587	6nyc	Estoy dispuesto a pagar por el mapa. Con mucho gusto. Sólo di tu precio.
+1588	6s2a	De los ojos del Gobernador, principalmente. Intento no involucrarme en todos esos problemas. He visto más que suficiente sufrimiento en mi vida. Sólo quiero pasar mis últimos días trabajando con mis mapas.
+1589	6s2c	¿De qué habla la gente por la ciudad estos días?
+1590	6sda	¿En serio? ¿Qué te parece? Alquilo el piso de abajo a unos chicos de la zona. Son tranquilos y siempre pagan puntualmente. No creo que hagan nada ilegal.
+1591	6sdc	He oído decir que tu sótano se usa como guarida de contrabandistas.
+1592	6sma	Solía hacerlos, pero no puedo competir con las grandes casas de cartografía de Hammerfell. Contratan a mendigos y vagabundos para copiar un mapa maestro.
+1593	6smb	Probablemente has visto sus mapas baratos de ciudades por ahí. No hay nada como un buen mapa dibujado a mano, pero parece que a la gente ya no le importa la artesanía.
+1594	6smc	Me vendría bien un mapa de la isla.
+1595	6tma	Si hubiera un mapa real, ¿por qué nadie ha encontrado ya el frasco?
+1596	6tmb	Qué pérdida de tiempo y esfuerzo, ansiando un mítico frasco élfico, cuando la isla está llena de verdaderos misterios.
+1597	6tmc	¿Por qué no?
 1598	6zz1	Si?
 1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
 1716	7801	un poco de privacidad.
