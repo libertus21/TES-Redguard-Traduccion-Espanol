@@ -787,7 +787,7 @@
 2724	dzz8	¿Lo rompes? ¡Lo pagas!
 2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
 2726	dzz0	¿No tienen nada más que hacer?
-2727	ebla	Eeeek! The pain! Steam down there hot as Oblivion. Yow! Burnt my legs trying to fix the telescope. Need another gear!
+2727	ebla	¡Eeeek! ¡Qué dolor! Vapor ahí abajo caliente como Oblivion. ¡Yow! Me he quemado las piernas intentando arreglar el telescopio. ¡Necesito otro equipo
 2728	eblc	¿Te quemaste las piernas en la sala de engranajes?
 2729	ebyc	Mantén la calma, Erasmo.
 2730	echa	¡Maldición! ¡Nunca leíste de niño! Los guardianes protegen cada uno las 3 cargas de su círculo. ¡Flash!
@@ -815,7 +815,7 @@
 2754	eguc	¿Cuáles son las constelaciones guardianas?
 2755	egxc	Lo intentaré.
 2756	eh1a	¡Aaahh! ¡Has asustado a Erasmo!
-2757	eh1c	Greetings, I am Cyrus.
+2757	eh1c	Saludos, yo soy Cyrus.
 2758	eh2a	¡Ha vuelto!
 2759	eh2c	Hola de nuevo, Erasmo.
 2760	eh3a	¡Mi héroe!
