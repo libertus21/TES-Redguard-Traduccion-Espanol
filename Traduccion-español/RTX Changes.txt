@@ -770,7 +770,9 @@
 2809	f421	¡Arquimago Jaganvir! Yo sólo estaba---
 2840	fh1c	Hola.
 2902	fthc	Gracias.
+2942	gbxc	Me lo quedo.
 2978	gl1c	¿Qué sabes de la Liga revoltoso.?
+2999	gnmc	Tendré que pensarlo.
 3020	hata	Nunca abiertamente, porque entonces incluso las Coronas pensaban que la Liga no era de fiar. Ahora son la última esperanza de Hammerfell.
 3021	hatb	La muerte de A'tor los envió a la clandestinidad, y el fuego de dragón los mantiene allí
 3022	hatc	¿Así que A'tor tenía tratos con la Liga Inquieta, entonces?
@@ -882,6 +884,91 @@
 3133	hzz2	¿muchacho...?
 3134	hzz3	CYRUS, Muchacho.
 3135	hzz4	No practiques aquí, muchacho. Date un paseo fuera de la ciudad donde no amenaces a la gente del pueblo
+3145	jama	Tal vez. Eso explicaría por qué ningún mago ha sido capaz de detectar su ubicación.
+3146	jamc	Parece que el frasco puede absorber magia.
+3147	jb1c	Paz, caminante del desierto. Debo irme. 
+3148	jbka	En estas estanterías hay sabiduría y locura a partes iguales. Elige con cuidado.
+3149	jbkc	Me gustaría comprarme un libro.
+3150	jbva	Una extraña recompensa para su principal aliado, J'ffer está de acuerdo. Y ninguna mención de asesinato pasó por los labios de J'ffer. Aún así, no hay rey en Hammerfell.
+3151	jbvc	¿Crees que Richton se atrevió a asesinar al líder de los Antepasados?
+3152	jbya	Una elección excelente.
+3153	jbyb	J'ffer está segura de que lo disfrutará
+3154	jbyc	Me lo quedo.
+3155	jbyd	Que crezcas en sabiduría con su lectura.
+3156	jbye	Tu bolso es demasiado ligero para cubrir el precio, ve a laburar como todos.
+3157	jcra	Los intereses de J'ffer se centran más en el pasado que en las revueltas actuales, pero incluso J'ffer puede ver que la ciudad ha sido limpiada de disidentes.
+3158	jcrb	Sin embargo, los soldados siguen rastreando la isla, ¿con qué fin?
+3159	jcrc	¿Es tan peligroso ser Corona hoy en día?
+3160	jcta	Ese honor está ahora reservado a los Coronas, que deben encontrarlo un lugar agradable, pues ninguno ha regresado jamás.
+3161	jctc	¿Cómo entro en las Catacumbas?
+3162	jdfa	Era, es. J'ffer oye mucho, pero sabe poco.
+3163	jdfc	¿Quieres decir que un dragón estuvo aquí en Stros M'Kai?
+3164	jdla	«Ancient Tales of the Dwemer», de Marobar Sul, es más completo, pero, por desgracia, es difícil de conseguir y, además, es un pesado tomo de 16 volúmenes.
+3165	jdlb	Para 54 de oro, el librito de Favoril es una excelente visión de conjunto.
+3166	jdlc	¿Recomiendas Favoril's Dwarven Lore?
+3167	jdra	Como debe ser. Un sitio asombroso, lleno del inexplicable trabajo de ese pueblo desaparecido.
+3168	jdrb	Sin embargo, ya no está abierta a los visitantes. Los Imperiales han vuelto a sellar las antiguas puertas, por razones que sólo conoce nuestro honorable Gobernador.
+3169	jdrc	¿Ruinas enanas? Estoy intrigado.
+3170	jeaa	Ah, la vieja historia del Frasco de Lillandril despierta tu interés. Leyenda más que historia, pero una buena lectura por 40 monedas de oro. ¿Será tuyo?
+3171	jeac	Cuánto por Elven Artifacts, Volume 3?
+3172	jffa	Menos ambicioso que los estudios publicados por Yoonkarl, y menos preocupado por la astrología comparada.
+3173	jffb	Aunque es una versión decididamente humana de las estrellas de Tamriel, el Firmamento de Ffoulke no carece de sus propias virtudes. J'ffer puede desprenderse de él por 36 monedas de oro.
+3174	jffc	¿Qué opina del Firmamento de Ffoulke?
+3175	jfha	La obra autorizada, nada menos, y por el módico precio de 15 oros, puede ser suya.
+3176	jfhc	¿Merece la pena comprar Flora of Hammerfell?
+3177	jfla	Las leyendas lo rodean, pero J'ffer está seguro de que el frasco es real.
+3178	jflb	Los escribas de la Antigua Lillandril registran su descubrimiento - sí, el frasco no es de fabricación élfica, a pesar de lo que puedas leer.
+3179	jflc	¿Qué sabe de este legendario frasco?
+3180	jfld	La encontraron, la usaron y la perdieron, pero su creador es desconocido.
+3181	jfra	La política de lo Guardia Rojos se me escapa.
+3182	jfrb	Los Antepasados se aliaron con el Imperio para ganar el trono, pero ¿quién se sienta en el alto sillón de Centinela? No el Barón Volag, extrañamente ausente de la vista pública desde su victoria.
+3183	jfrc	¿Los Forebears dirigen ahora Stros M'Kai?
+3184	jh1a	J'ffer está a su servicio.
+3185	jh1c	Salve, caminante del desierto.Yo soy Cyrus. 
+3186	jh2a	Y agua dentro.
+3187	jh2c	El cielo arriba y la arena abajo.
+3188	jh3a	Hablas el Ta'arga [sic] como un caminante del desierto, Cyrus. Pero no hay necesidad de tal formalidad.
+3190	jh4c	hola, J'FFER.
+3191	jisa	Una historia demasiado común en esta ciudad. J'ffer lamenta no poder contar con tu hermana entre sus amigos.
+3192	jisc	Mi hermana, Iszara, ha desaparecido. ¿La conoces?
+3193	jlga	Algunos dicen piratas, otros rebeldes. J'ffer sabe demasiado poco para juzgar.
+3194	jlgb	Se rumorea que son aliados secretos del difunto Príncipe. Si sobrevivieron a la derrota de las Coronas, J'ffer no puede decirlo.
+3195	jlgc	¿Has oído hablar de un grupo llamado la Liga Revoltosa?
+3196	jnma	Como usted desee.
+3197	jnmc	Tendré que pensarlo.
+3198	joqa	Ien su excesivo celo por acabar con los enemigos de su clan, Richton lo puso a caldo.
+3199	joqb	Una historia silenciosa de Hammerfell, forjada en piedra y madera, ahora cenizas. Los Guardias Rojos hablan de fuego de dragón en la noche, pero J'ffer permaneció en casa y no vio nada.
+3200	joqc	¿El Casco Antiguo? ¿Qué ocurrió allí?
+3201	jpla	Un interesante rompecabezas arquitectónico. La estructura actual data de principios de la Era Común, un diseño armonioso, es decir, hasta que nuestro estimado Gobernador comenzó sus renovaciones.
+3202	jplb	Los cimientos son mucho más antiguos y están conectados a un laberinto de catacumbas que podrían ser anteriores a la llegada de los Guardias Rojos a Hammerfell.
+3203	jplc	Debe haber otra forma de entrar en el Palacio.
+3204	jrha	Tu gusto es patriótico. Una historia para agitar la sangre y encender el alma de cualquier verdadero Redguard, aunque nuestro estimado Gobernador podría no estar de acuerdo. J'ffer sólo pide 20 de oro.
+3205	jrhc	¿Cuánto por Redguards: Sus héroes y su historia?
+3206	jria	Proclamarse Corona puede funcionar, pero lo más probable es que conduzca a una muerte rápida. Pocos además de los Antepasados tienen acceso al Palacio.
+3207	jric	¿Hay alguna forma de conseguir una audiencia con el Gobernador?
+3208	jsma	Tiber Septim tiene muchos compañeros de clan, de menor reputación que él. La ciudad de los guardia rojos sufre bajo uno de los menos, el Gobernador Provisional Richton.
+3209	jsmc	Stros M'Kai parece tranquilo, casi desierto. ¿Tan dura ha sido la ocupación imperial?
+3210	jssa	J'ffer envió cuatro copias de Dwarven Lore al Palacio la semana pasada.
+3211	jssb	Puede que no sea una coincidencia que Stros M'Kai, con las mayores ruinas enanas de las tierras de barlovento, haya recibido especial atención por parte de los miembros del poderoso clan de Tiber Septim.
+3212	jssc	¿Tienes idea de qué buscan los imperiales?
+3213	jsta	Sin duda nuestro estimado Gobernador tiene razones aparte del sentimiento Redguard.
+3214	jstb	Lord Richton se ha mostrado indiferente a estas sutilezas en otros asuntos, como el destino del casco antiguo. 
+3215	jstc	Me sorprendió ver que la estatua de Hunding seguía en pie, tesoro nacional o no.
+3216	jtsa	Cierto. Y los guardias rojos tienen larga memoria, como atestigua la estatua del puerto.
+3217	jtsb	Sin embargo, a la historia le encantan los constructores de imperios. J'ffer aún no puede decir quién escribirá el epitafio de Septim.
+3218	jtsc	La reputación de Tiber Septim parece depender de a quién se pregunte.
+3219	jufa	Aquí sólo tenemos la leyenda para guiarnos. Cuentan que el propio Gran Mago de Valenwood fue derrotado por un mozo de cuadra armado sólo con un frasco.
+3220	jufb	Exageración, sin duda, pero aún así un núcleo de verdad -- un dispositivo anti-magia de no poco poder.
+3221	jufc	¿Por qué es tan valioso el frasco?
+3222	jwla	Mis disculpas. J'ffer casi olvidó que habla con el sin-pene.
+3223	jwlb	Las costas de Tamriel, al noroeste de nuestra patria desértica. La poderosa Tiber Septim pide ser la madre de todos ellos, incluido Hammerfell.
+3224	jwlc	¿Tierras de barlovento? ¿No estoy familiarizado con ese término?
+3225	jzz1	Bienvenido a J'ffer's.
+3226	jzz2	Que aumente tu sabiduría.
+3227	jzz3	TE SALUDO ¿PUEDO AYUDARLE?
+3228	jzz4	Una hoja fina, y la muestras bien... pero J'fer [sic] no comercia con eso.
+3229	jzz5	Perdón, pero no hay clientes detrás del mostrador.
+3230	jzz6	Por favor. Esta es mi tienda, y no un lugar para cabriolas de gatitos.
 3253	kh2c	KRISANDRA, Hola.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 3317	kzz3	OH... Hola.
