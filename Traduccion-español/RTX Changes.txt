@@ -14,9 +14,12 @@
 483	?btd	Barco Dañado
 489	?bye	adiós
 490	?by2	adiós
+492	?byl	Quemarse las piernas
 497	?cav	Cavernas
+499	?chg	Cargas
 500	?clg	Contactar con la Liga
 501	?cms	Historias comunes
+502	?cns	Constelaciones
 507	?cro	Coronas
 508	?crt	Crendal el Ladrón
 509	?cwr	Guerra civil
@@ -35,11 +38,16 @@
 567	?fxo	Arreglar el observatorio
 568	?fxd	Arreglar el Observatorio
 570	?gam	Juegos de azar en la guarida
+572	?gea	Engranaje
+577	?gho	fantasmas
+578	?gig	Dar Engranaje
 581	?gmp	Dame la contraseña
 586	?gop	Palacio del Gobernador
 587	?gov	Gobernador
 588	?gpl	Política gremial
 589	?grc	Gobernador Richton
+590	?grm	Sala de engranajes
+592	?gua	GUARDIANES
 594	?gvl	Dar medallón
 610	?hlg	Curacion
 612	?hmo	Madre de Hayle
@@ -91,6 +99,7 @@
 790	?sil	Silencio
 793	?slg	Gema del alma
 796	?smd	Guarida del Contrabandista
+799	?snk	Serpiente
 802	?sou	Lazo del alma
 811	?std	Estudios
 818	?sym	Simbolo
@@ -373,6 +382,7 @@
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
 1598	6zz1	Si?
+1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
 1716	7801	un poco de privacidad.
 1717	7802	Un poco de luz de velas.
 1718	7803	Y comienzan las galanterías. Mi nombre es Nafaalilargus.
@@ -777,6 +787,70 @@
 2724	dzz8	¿Lo rompes? ¡Lo pagas!
 2725	dzz9	¡Las mismas reglas de siempre, chicos! ¡Ni en la cara, ni la ingle, y aun menos sangre en el mobiliario!
 2726	dzz0	¿No tienen nada más que hacer?
+2727	ebla	Eeeek! The pain! Steam down there hot as Oblivion. Yow! Burnt my legs trying to fix the telescope. Need another gear!
+2728	eblc	¿Te quemaste las piernas en la sala de engranajes?
+2729	ebyc	Mantén la calma, Erasmo.
+2730	echa	¡Maldición! ¡Nunca leíste de niño! Los guardianes protegen cada uno las 3 cargas de su círculo. ¡Flash!
+2731	echb	El Ladrón vigila al Amante y a la Sombra. El Guerrero al Corcel, y así sucesivamente. ¡Ustedes los Guardias Rojos son lentos!
+2732	echc	¿Qué quieres decir con cargas?
+2733	ecna	¡¡Flash!! ¡Unas a otras! ¿No te enseñaron tus padres sobre las estrellas de Tamriel? Los 3 guardianes protegen cada uno a 3 cargos de la serpiente!
+2734	ecnc	¿Constelaciones? ¿A quién protegen las constelaciones?
+2735	ecta	Wooh. No. ¡Aún no funciona! Arregla el orrery, ¡pero 'rasmo no puede arreglar el telescopio! ¡Eeeek! No se pliega. Los fantasmas intentaron atraparme, atormentarme, ¡flash! ¡Flash! Flaaasshhh!
+2736	ectb	Pero puse la mayor parte de nuevo juntos. ¡Nada de magia tampoco! ¡Ese cuarto de engranajes hace que a Erasmo le duela la cabeza y le quemen las piernas!
+2737	ectc	Cálmate. Parece que lo has arreglado
+2738	ed1a	¡¡¡Flash!!! ¡Eso es lo que dijo Erasmo! Esos enanos sabían un par de cosas. Richton envió a sus hombres a las ruinas, y yo aquí para arreglar esto, ¡flash! ¡Flash! ¡Flaaasshhh!,
+2739	ed1c	¿Dices que este lugar es enano?
+2742	edra	Enanos... ¡Flash! ¡Flash! ¡¡Flaaasshhh!! ¡Les gustaba construirlo todo en trozos pequeños!
+2743	edrb	¡Malditos gugglies se separaron sin dejar instrucciones en sus, flash!!, ¡Juguetes! ¡Las ruinas demasiado grande y aterrador para mí! Compruébalo tú mismo, ¡ve al oeste!
+2744	edrc	¿Mencionaste las Ruinas Enanas?
+2745	egea	¡Un engranaje enano! No cualquier engranaje. Necesita ir en el lado lejano. ¡Maldición! Lo haría yo mismo si no fuera por mis piernas
+2746	egec	¿Necesitas otro engranaje para arreglar el telescopio?
+2747	egga	¡Ah haaa! ¡Encontraste uno! Bien, bien. Pero no voy a volver a bajar a la sala de engranajes. Vas a tener que hacerlo... ¡poner el engranaje en el lado más lejano!
+2748	eggc	Aquí está el equipo enano que necesitas para arreglar el telescopio
+2749	egha	¡Flash! ¡Fantasmas en ese faro! ¡Prendiendo la luz, flash! ¡Flash! ¡Flaaasshhh! ¡Gritandole "¡’Rasmo, despertate, carajo!"
+2750	eghc	¿Fantasmas? ¿Qué fantasmas?
+2751	egra	¡Equipos! ¡Flash! ¡Corre a toda velocidad, esos enanos tenían cerebros muy muy grandes! ¡Peligro! ¡Lugar aterrador!
+2752	egrc	Despacio, amigo. ¿Qué hay en la sala de engranajes?
+2753	egua	Todos los escolares conocen al Guerrero, al Ladrón y al Mago. Por supuesto, los Enanos no creían en la magia, así que para ellos el Mago es el Mecanico
+2754	eguc	¿Cuáles son las constelaciones guardianas?
+2755	egxc	Lo intentaré.
+2756	eh1a	¡Aaahh! ¡Has asustado a Erasmo!
+2757	eh1c	Greetings, I am Cyrus.
+2758	eh2a	¡Ha vuelto!
+2759	eh2c	Hola de nuevo, Erasmo.
+2760	eh3a	¡Mi héroe!
+2761	eh3c	Hola de nuevo, Erasmo.
+2762	eisa	Oigo muchas cosas. Oigo las tuberías retumbar, los engranajes girar, ¡y el silbido del vapor! Es curioso, Erasmo nunca oye a ninguna mujer
+2763	eisc	Estoy buscando a una mujer llamada Iszara. ¿Has oído hablar de ella?
+2764	el1a	Eres la primera persona que veo en mucho tiempo. ¡¡Flash!! ¡Nadie viene aquí, especialmente piratas! ¡Tienen miedo, huyen!
+2765	el1c	¿Alguna vez te has topado con algún pirata? ¿Alguien conocido como Liga revoltosa?
+2766	el2a	¡De los fantasmas!
+2767	el2c	¿Huir de qué?
+2768	elha	¡Los fantasmas de Saintsport te atraparán! ¡Te atraparán! ¡Flash! ¡Flash! ¡¡Flaaasshhh!! ¡Sus luces te perseguirán!
+2769	elhc	¿Qué pasa con el faro?
+2770	elta	Malditas luces... encendidas y luego apagadas, ¡flash! ¡Flash! Flaaasshhh! -- ¡Mantienen mi culo despierto toda la noche!
+2771	eltc	¿Luces en el faro? No tiene sentido
+2772	eo1a	¡Qué! ¡El lugar me asusta ahora! Algún antiguo observatorio enano....¡flash! ¡Flash! ¡¡Flaaasshhh!!
+2773	eo1c	¿Qué es este lugar?
+2774	eo2a	Richton me ordenó arreglarlo, ¡¡pero los fantasmas me mantienen flaaasshhh!! ¡Despierto!
+2775	eo2c	¿Qué...?
+2776	eora	¡Erasmo no lo sabe! ¡Pero vigila el cielo! Los enanos conocían el poder de las estrellas, vigilaban todas las constelaciones y a quién protegían!
+2777	eorc	¿Cómo funciona el orrery?
+2778	epla	Una vez, antes de los espectros... Le llevé unos libros de enanos a Richton. No entrás ahí a menos que tengas algo que él quiera.
+2779	eplc	¿Has estado alguna vez en el Palacio?
+2781	er1c	¿Por qué Richton te envió aquí para arreglarlo?
+2782	er2a	¡Pero Richton matará a 'rasmo si no lo arregla! ¡Yo vivía aquí, con mucho espacio y bonitas cosas metálicas! Me dejaba quedarme si lo arreglaba... si no, le cortaran los brazos a Erasmo y lo meteran en una eehhh, ¡caja!
+2783	er2c	Eh, tío, deja de gritar
+2784	es2c	¿Qué?
+2785	esma	¡Sé que el culo de Erasmo está atrapado aquí hasta que arregle este cacharro! Aaahhh!
+2786	esmb	¡Nada! ¡Estoy condenado! ¡Aaahhh!
+2787	esmc	¿Qué sabes de la isla?
+2788	esna	Se desliza por el cielo, siempre cambiando con las estrellas. Los enanos... son listos para vigilarla, igual que cada guardián vigila a sus protegidos
+2789	esnc	¿Qué hace la constelación de la Serpiente?
+2790	etfa	¡¡Horaaay!! ¡Mi héroe! Ahora, puedo... eh... ¡puedo seguir haciendo... lo que hago! ¡Al menos Richton no me cortará los brazos ahora! ¡Horraay! Úsalo como quieras, ¡eres bienvenido aquí!
+2791	etfc	Ya puedes relajarte, el telescopio está arreglado
+2793	ezz2	¿Qué? ¿Qué? ¿Qué-qué?
+2794	ezz3	Ooooo... Visitantes... Ooooo...
 2795	f401	Siento no habértelo dicho antes, pero al Archimago Jaganvir le preocupa que el Imperio cierre el gremio si nos pillan ayudando a los Coronas.
 2796	f403	Bien. Tu hermana vino aquí con el soulgem. Ella estaba frenética e insistía en hablar con uno de la cábala superior.
 2797	f404	Le preocupaba que la siguieran y necesitaba restablecer al Príncipe A'tor lo antes posible.
