@@ -1,4 +1,9 @@
 178	$140	Lakene dice que los Imperiales están buscando los tesoros tecnológicos antiguos de los Enanos en las ruinas de las montañas.
+434	?3ac	Mi tiempo es corto.
+435	?3bc	Habla con sentido.
+436	?3cc	Sé más preciso.
+438	?4bc	Me ofende tu ruido.
+439	?4cc	Confundido estoy, oh cielos.
 445	?amu	Amuleto
 452	?atb	Cuerpo de A'tor
 469	?bms	Batalla de Stros M'Kai
@@ -85,8 +90,32 @@
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
 942	?yud	Has estado en Den
+957	0h2c	¿Y cómo te llamas?
+958	0h2a	¿Y cómo te llamas?
+959	0h3c	Hola de nuevo.
+962	0i1c	Busco a una joven dama.
+963	0l1a	Conozco el nombre de tu hermana.
+964	0l2a	Y los rumores de su fama.
+970	0i2c	Sus tratos, me temo, no eran de fiar--
+971	0ibc	¿Conoces a Iszara, ave sin par?
+978	0l3a	Solo rimo.
+983	0l4a	A mitad del tiempo.
+985	04ac	Vamos, sé buen amigo.
+1000	0l5b	Señor, no puedo explicar.
+1002	0l5a	A menos que hagas lo mismo!
+1003	0idc	De aves, eres el más fino.
+1010	0lm1	Tu hermana astuta tramó el plan.
+1011	0lm2	oro buscó, eso es normal.
+1012	0lm3	veintiún pasos.
+1013	0lm4	como la cabeza mira.
+1014	0lm5	¡enterrado brilla el metal!
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
+1047	0906	Tiene la gema alma.
+1048	0908	Por mi semblante escalofriante, por supuesto.
+1049	0912	Y ahora las buenas noticias. Quizás recuerdes al grupo de chusma viciosa que nos ha causado tantos problemas.
+1050	0914	Cuyo escondite habría seguido siendo un misterio si un guardia rojo prematuramente muerto no me hubiera llevado hasta él.
+1051	0915	Llevará tiempo reunir un grupo de asalto, pero no preveo dificultades para limpiar toda la Liga en un ataque bien planeado.
 1397	3hac	¿WHY WAS ISZARA WITH HAYLE?
 1413	4h1c	Discúlpeme. ¿Es usted el Archimago?
 1414	4h2c	¿Me permite un momento?
@@ -201,6 +230,14 @@
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
 1716	7801	un poco de privacidad.
+1717	7802	Un poco de luz de velas.
+1718	7803	Y comienzan las galanterías. Mi nombre es Nafaalilargus.
+1719	7805	Me has herido. La mascota de Richton es esa cosita oscura con astillas envenenadas.
+1720	7806	Soy un orgulloso soldado de Tiber Septim, un vasallo leal, una joya de la corona. No es culpa mía tener que hacer compañía al Gobernador.
+1721	7808	No le mentiré, buen forastero, mi lealtad imperial está bien pagada. No somos muy diferentes, me atrevería a decir.
+1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
+1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
+1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -353,6 +390,11 @@
 2288	c514	¿La precaución no funcionó?
 2289	c518	Así que abandonó toda esperanza de encontrar el frasco y fue igual con el nigromante-- 
 2291	c525	Bastardo. ¡Tú... bastardo!
+2302	c804	¿Eres la mascota de Richton?
+2303	c807	Tienes algo que necesito, dragón.
+2304	c811	Tal vez podamos negociar.
+2305	c813	deletrearé tu nombre en tu lápida.
+2470	cwts	¿Qué es esto?
 2510	d1da	Pensé que un elfo loco estaba trabajando en eso
 2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
 2512	d1ia	¿Y ahora qué?
@@ -911,6 +953,14 @@
 3948	qzz2	¿De dónde has salido?
 3949	qzz3	¿Un gremlin? Ven aquí, pequeñín.
 3966	r204	¿Qué?
+3972	r901	Muerto.
+3973	r903	Y Cyrus está vivo.
+3974	r905	No seas estúpido. Ese bastardo suda heroísmo. No podría ser otro.
+3975	r907	¿Por qué te pago exactamente, Dram?
+3976	r909	Déjamelo a mí, dijiste, y con tanta seguridad.
+3977	r910	Recuerdo haberme quedado tranquilo con el asunto. Recuerdo que pensé: bueno, ahora, por fin puedo dedicarme a la tarea de administrar esta provincia problemática-- 
+3978	r911	Pero este joven continúa causándonos un daño irreparable cuando menos podemos soportarlo.
+3980	r916	Ya veo. El Emperador me advirtió que nunca subestimara la sutileza de tus planes, Dram. Adelante, entonces. Espero su informe completo.
 3989	sbra	Escucha, Cyrus, resulta que soy amigo de un par de guardias de Fatboy, y les oí hablar de pagar a Brennan para que tendiera una trampa a "aquel Redguard que tanto persigue el Gobernador"
 3990	sbrb	Hablaremos más tarde. Ten cuidado.
 3991	sbrc	¿Hay algo que deba saber sobre Brennan?
@@ -1094,3 +1144,5 @@
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
 4669	yb1c	Hablaremos más tarde.
+4839	z902	Sí, milord. El dragón está muerto.
+4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
