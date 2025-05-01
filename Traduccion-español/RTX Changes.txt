@@ -167,6 +167,12 @@
 1049	0912	Y ahora las buenas noticias. Quizás recuerdes al grupo de chusma viciosa que nos ha causado tantos problemas.
 1050	0914	Cuyo escondite habría seguido siendo un misterio si un guardia rojo prematuramente muerto no me hubiera llevado hasta él.
 1051	0915	Llevará tiempo reunir un grupo de asalto, pero no preveo dificultades para limpiar toda la Liga en un ataque bien planeado.
+1052	0b02	Informaré a Lord Richton.
+1053	0b04	Está aquí.
+1054	0b09	Él está aquí. Debe de haber encontrado nuevos amigos.
+1055	0b11	El dirigible está listo. ¿Empezamos el asalto al escondite de la Liga Revoltosa?
+1056	0b13	Pero --
+1057	0b16	Nosotros no--
 1058	1b1c	Eso es todo por ahora Favis. 
 1059	1bba	Bueno, no roto exactamente, pero seguro que no suena tan fuerte como antes. 
 1060	1bbb	Pero Prnell no dejaría que Lakene lo viera, ¿verdad? Insistió en hacerlo él mismo. Típico. 
@@ -576,6 +582,7 @@
 2049	ab1c	Gracias, Avik.
 2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
 2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
+2054	ag3a	¿Qué fue eso?
 2060	agpc	¿Tiene el Gremio de Magos mucha influencia en Stros M'Kai?
 2061	agpa	¡Ya no! El Archimago Voa era un Corona, la mano derecha de A'tor, pero ambos perecieron en la batalla de Stros M'Kai. Jaganvir es un sucesor indigno del puesto de Archimago, si me preguntas a mí.
 2062	agrc	¿Qué les hizo el Gobernador a los Yokudan?
@@ -1050,7 +1057,6 @@
 2870	fnoc	Es poco probable, pero puede que haya sido clienta de su tienda.
 2874	fpoc	Pociones curativas, pociones de fuerza y pociones de piel de hierro.
 2879	frla	Me temo que no. El Gremio de Magos intenta mantenerse al margen de la política.
-2880	frlc	¿Sabes algo de la Liga Revoltoso?
 2880	frlc	¿Sabes algo de la Liga Revoltosa?
 2881	frxa	Me temo que no.
 2882	frxc	¿Sabes algo del anillo del archimago Voa?
@@ -1608,7 +1614,6 @@
 3681	ogrp	Madre dice que esto es magia oriental, Cyrus; no puede romper el hechizo
 3682	ogrq	¡Tienes que encontrar un mago del gremio!
 3683	ogrr	Él te ayudará, Cyrus
-3707	ohwc	Hola..
 3684	ogrx	¿Aún no has encontrado a nadie que te ayude?
 3685	oh1a	¡Avik, el hombre serpiente! A Hayle le gustaba. Siempre fue amable con nosotros
 3686	oh1c	Avik me dijo que vio a Iszara y Hayle juntos el día que lo mataron.
@@ -1653,7 +1658,6 @@
 3725	olgc	¿Has oído hablar de la Liga Revoltosa?
 3726	omaa	Por favor, no la molestes, Cyrus. Si no sigue con la canción de paso, ¡el alma de Hayle irá a parar al nigromante!
 3727	omab	Por favor, no la molestes, Cyrus
-3732	omtb	¡Vete! Déjala en paz.
 3728	omac	¿Qué está haciendo tu madre? ¿Está bien?
 3729	omga	Sabio Mago ordena... Aprendiz aprendiendo... Ritual girando... Golem ardiendo... a través de la noche.
 3730	omgc	¿Qué es todo el verso sobre el Mago?
@@ -1882,6 +1886,14 @@
 3977	r910	Recuerdo haberme quedado tranquilo con el asunto. Recuerdo que pensé: bueno, ahora, por fin puedo dedicarme a la tarea de administrar esta provincia problemática-- 
 3978	r911	Pero este joven continúa causándonos un daño irreparable cuando menos podemos soportarlo.
 3980	r916	Ya veo. El Emperador me advirtió que nunca subestimara la sutileza de tus planes, Dram. Adelante, entonces. Espero su informe completo.
+3981	rb06	¡¿Quiénes?!!
+3982	rb08	¡El Guardia Rojo está detrás de esto! Sé que es él!
+3983	rb10	Atrapen a ese Guardia Rojo. Coge a su líder y caerán en pedazos.
+3984	rb12	¡Olvídate de la Liga, Dram! Debemos evacuar! 
+3985	rb14	¡¿Quién crees que está atacando el puerto, hombre?! ¡Es la Liga Revoltosa! ¡Están volando nuestros barcos!
+3986	rb15	Ese Guardia Rojo... al que debías matar hace tiempo... ha conseguido desatar la rebelión que nos enviaron a reprimir.
+3987	rb17	¡Basta! ¡Cogeremos el dirigible y nos dirigiremos al continente! ¡Stros M'Kai es prescindible! Los Guardias Rojos pueden tener su día aquí, pero yo volveré... a la cabeza de una flota y de las legiones del Emperador.
+3988	sb1c	HABLAREMOS MÁS TARDE. TEN CUIDADO.
 3989	sbra	Escucha, Cyrus, resulta que soy amigo de un par de guardias de Fatboy, y les oí hablar de pagar a Brennan para que tendiera una trampa a "aquel Redguard que tanto persigue el Gobernador"
 3990	sbrb	Hablaremos más tarde. Ten cuidado.
 3991	sbrc	¿Hay algo que deba saber sobre Brennan?
@@ -2155,6 +2167,9 @@
 4838	z205	o se le encuentra por ninguna parte, señor. Estamos peinando las calles en su busca.
 4839	z902	Sí, milord. El dragón está muerto.
 4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
+4841	zb01	El buque de asalto está listo, teniente; los hombres están a bordo. Nunca nos verán llega.
+4843	zb05	¡Están atacando el puerto!
+4844	zb07	¡Una turba de ellos, Gobernador! Nos han pillado desprevenidos-- 
 4851	za1c	Un momento.
 4852	za2c	Disculpe.
 4853	za3c	Una palabra.
