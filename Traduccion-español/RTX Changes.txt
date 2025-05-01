@@ -273,6 +273,7 @@
 1196	260b	A cambio de su alma, ésta accedió a liberar a su amado Príncipe A'tor. Quizás consideres mis honorarios demasiado caros, pero ¿no puede el cliente juzgar mejor el verdadero valor de un servicio?
 1215	2d2c	¿Qué quieres decir?
 1222	2gvc	¿Qué puedes decirme del Gobernador?
+1261	2n2c	¿Conoces a una mujer llamada Iszara?
 1336	31gc	Es broma. Te lo diré por el camino. Cuéntale el plan a tu madre.
 1339	31sc	¿Qué puedes decirme sobre las gemas del alma, Saban?
 1341	32gc	No estoy muy seguro. Tendré que comprobarlo primero
@@ -1055,6 +1056,7 @@
 2914	fzz3	¿Puedo ayudarle?
 2923	fyy5	Guarda eso, por favor. Este no es lugar para mostrar un pene.
 2924	fyy6	Señor. Por favor, señor. No está permitido estar detrás del mostrador.
+2937	gblc	¿Campana?
 2942	gbxc	Me lo quedo.
 2978	gl1c	¿Qué sabes de la Liga revoltoso.?
 2999	gnmc	Tendré que pensarlo.
@@ -1793,7 +1795,85 @@
 4469	vh6a	Estás herido. Toma esta venda.
 4470	vh7a	Por tu buena voluntad. Y mi vida perdonada.
 4474	vzz3	No más. Guárdalo.
+4475	wb1a	No dejes que la puerta te golpee al salir.
+4476	wb1c	Siempre es un placer, Rollo.
+4477	wbla	Sheesh, eres tan tonto como pareces. La campana, en el campanario, esta justo fuera.
+4478	wblc	¿Campana?
+4479	wbma	Eee-yawhn. Despiértame cuando termines de parlotear, ¿vale?. Gracias
+4480	wbmc	Hablas demasiado, Rollo. Un día, tu bocaza te va a meter en problemas.
+4482	wdtb	Sal fuera. Mira a tu alrededor. Si no lo ves, abre los ojos y vuelve a intentarlo. Ahora piérdete.
+4483	wdtc	Estoy buscando la posada Draggin Tale. ¿Lo conoces?
+4484	wgma	"Tengo tu medallón de plata aquí mismo, amigo. Vete, estoy ocupado.
+4485	wgmc	Necesito ese medallón. Dámelo.
+4486	wgra	Ya sabes, ese duende tonto que dirige el puesto comercial. Me paga un penique de plata por cada caja que traigo de los muelles, ¡no miento!
+4487	wgrb	Y sólo tengo que bajar cuando suena la campana, significa que ha llegado un barco". Sí, Rollo reconoce algo bueno cuando lo ve.
+4488	wgrc	¿Qué clase de trato tienes con Gerrick?
+4489	wh1a	¿Qué quieres? ¿No ves que estoy ocupado?
+4490	wh1c	¿Puedo hablar contigo?
+4491	wh2a	Otra vez tú. ¿Por qué a mi?
+4492	wh2c	¡Eh, Rollo! Necesito hablar contigo
+4493	wh3a	¿Qué te hace pensar que quiero responderlas?
+4494	wh3c	Necesito hacerte unas preguntas.
+4495	wh4a	Estoy cansado de escucharte. Lárgate.
+4496	wh4b	No sé nada de eso.
+4497	wh4d	¿Sigues aquí?
+4498	wh4e	Realmente no puedes captar una indirecta, ¿verdad? Piérdete.
+4499	wh4f	¿Por qué te lo diría?
+4500	wigc	Eso es... muy útil.
+4501	wisa	Iszara... ¿Una cosita escuálida, piernas de pollo, sin caderas? Sí, la conozco. Solía venir, molestándome todo el tiempo,
+4502	wisb	Ya sabes cómo son las mujeres. Pero no son mi tipo. A Rollo le gustan más grandes.
+4503	wisc	¿Conoces a una mujer llamada Iszara?
+4504	wkja	Eso es lo que dijo. Algo relacionado con ese espeluznante viejo nigromante. ¿Por qué no vas a preguntárselo y dejas de molestarme?
+4505	wkjc	¿Dices que Kotaro tenía un trabajo para alguien que subiera al Palacio?
+4506	wkta	El tipo del gremio de trabajadores, en el puerto. Contrata a vagos como tú por una miseria. Deberías buscarle, parece que te vendría bien un trabajo.
+4507	wktc	¿Kotaro? ¿Quién es ese?
+4508	wlga	Un montón de idiotas, si me preguntas. No pueden luchar contra el Imperio. Aunque aprenderán.
+4509	wlgc	¿Qué sabes de la Liga Revoltosa?
+4510	wlka	¡Estúpido Lakene! Es un perdedor en algo más que en las cartas. Se merece lo que le va a dar la parienta cuando se entere. Ahora es mío y no pienso devolvérselo.
+4511	wlkc	Lakene me ha dicho que tienes el medallón de plata de su mujer. ¿Alguna posibilidad de recuperarlo?
+4512	wnca	Sí, N'Gasta. No me digas que nunca has oído hablar de él.
 4513	wncc	Nigromante?
+4514	wnga	¿No te dije que te largaras? Es una especie de nigromante, vive a las afueras de la ciudad en una gran torre.
+4515	wngc	Háblame de este N'Gasta.
+4516	wnma	¿Entonces por qué me molestas con eso? Imbécil.
+4517	wnmc	Como quieras. No tiene importancia para mí.
+4518	wocc	Por supuesto. Qué estúpido soy
+4519	wpea	¿O si no qué? ¿Me matarás? No estoy armado, y sé que a los antiguos guardia rojo no hacen eso. Tengo el poder guion de mi lado.
+4520	wpec	Eres un mal mentiroso. Dime la contraseña o si no...
+4521	wpla	No. Podría haber conseguido un trabajo para subir allí, pero Kotaro no ofrecía lo suficiente. Dejé que otro imbécil recorriera todo el camino hasta N'Gasta.
+4522	wplc	¿Supongo que nunca has estado en el Palacio?
+4523	wpsa	Te equivocas de persona, no sé nada de ninguna contraseña. Sólo te decía lo que había oído.
+4524	wpsc	Sé que has estado en la Guarida del Contrabandista, Rollo. Dime la contraseña y te dejaré en paz.
+4525	wsda	Puede que haya oído hablar de ella. Sí, he visto a algunos tipos merodeando por allí, supuestamente de la Liga Inquieta, pero todo son habladurías.
+4526	wsdb	Nunca hacen nada. De todas formas, no puedes entrar ahí sin una contraseña, así que mejor olvídalo.
+4527	wsdc	¿Sabes algo de la Guarida del Contrabandista que hay bajo la tienda del Cartógrafo?
+4528	wsma	Qué parezco, el pregonero? Lo mismo de siempre, en lo que respecta a Rollo. La política es para los tontos.
+4529	wsmb	Tengo un buen trato con Gerrick, no hace falta que me preocupe por quién está sentado en Palacio.
+4530	wsmc	¿Cómo van las cosas en la ciudad con los imperiales al mando?
+4531	wtha	Y yo tengo el poder del guion de mi lado. No podes hacer nada al plot armor.
+4532	wthb	Bien. Cierra la puerta al salir.
+4533	wthc	Rollo, tengo ganas de partirte la cara.
+4534	wtxc	Sí, tal vez lo haga.
+4535	wwhc	Lo que tú digas... amigo.
+4536	wwta	Oh, el hermano mayor es un tipo duro, ¿eh? Te pasas de la raya viniendo a mi casa hablando así. De todas formas hace meses que no la veo.
+4537	wwtc	Cuida tu lengua, cretino. Estás hablando de mi hermana.
+4538	wxy1	Deja de molestarme.
+4539	wxy2	Fuera de mi camino, imbécil.
+4540	wxy3	Estoy ocupado. Lárgate.
+4541	wxy4	Lárgate.
+4542	wzz1	¿Sí?
+4543	wzz2	¿Qué quieres?
+4544	wzz3	¡¿Qué?!
+4545	wzz4	¡Bájate de ahí! ¿Qué eres, un payaso?
+4546	wzz5	¡Eh! ¡Bájate!
+4547	wzz6	¡Quítate de ahí!
+4548	wxy5	Tócame y te volaré tu apestosa cabeza.
+4549	wxy6	Lárgate, pequeño soplapollas.
+4550	wxy7	Deja de chillar, o te nalgeo con un cinturón.
+4551	wxy8	Sí, sí. Tienes una espada. Gran cosa.
+4552	wxy9	¡Eh, cuidado con esas cosas!
+4553	wxy0	Aw, ¿te has hecho daño? ¡Que bueno! Haw, haw
+4554	wxx1	¿Por qué no espabiláis, idiotas?
 4555	xa01	A de los a-a-apes que salen con sus madres
 4556	xa02	B de los b-b-bultos que revientan por placer
 4557	xa03	C de las aguas donde navegan los marinos
@@ -1883,5 +1963,10 @@
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
 4669	yb1c	Hablaremos más tarde.
+4717	yt1c	Muchas gracias.
 4839	z902	Sí, milord. El dragón está muerto.
 4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
+4851	za1c	Un momento.
+4852	za2c	Disculpe.
+4853	za3c	Una palabra.
+4854	za4c	Espera un segundo.
