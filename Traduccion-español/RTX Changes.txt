@@ -6,6 +6,7 @@
 439	?4cc	Confundido estoy, oh cielos.
 444	?amg	Archimago
 445	?amu	Amuleto
+447	?apo	Disculparme
 452	?atb	Cuerpo de A'tor
 466	?bkt	Hermano Kithral
 469	?bms	Batalla de Stros M'Kai
@@ -28,7 +29,9 @@
 509	?cwr	Guerra civil
 510	?cur	Maldicion
 511	?cvw	Guerra civil
+519	?dfy	Desafiar
 526	?dod	No te mueras
+527	?dog	Perro
 534	?drt	Cuento Draggin
 535	?dvl	Ley Divina
 537	?dwg	Engranaje enano
@@ -43,10 +46,14 @@
 568	?fxd	Arreglar el Observatorio
 569	?gaa	Guardianes y cargos
 570	?gam	Juegos de azar en la guarida
+571	?gbl	Dar mi sangre por el alma de mi hermana
 572	?gea	Engranaje
+574	?gfl	Dar frasco por el alma de mi hermana
+576	?ggd	Dar oro por el alma de la hermana
 577	?gho	fantasmas
 578	?gig	Dar Engranaje
 581	?gmp	Dame la contraseña
+584	?gng	No dar nada y tomar el alma de la hermana de todos modos
 586	?gop	Palacio del Gobernador
 587	?gov	Gobernador
 588	?gpl	Política gremial
@@ -64,6 +71,7 @@
 628	?imn	No estoy seguro
 629	?imp	Imperiales
 635	?isf	Iszara está a salvo
+637	?iss	El alma de Iszara
 642	?ith	Creo que lo sabes.
 645	?izp	Iszara y el Príncipe
 647	?jal	Cárcel
@@ -76,6 +84,7 @@
 675	?lok	Medallón
 678	?lpl	Mucha gente
 681	?lrt	Últimos ritos
+682	?lsa	Deja en paz su alma
 690	?map	Mapa del flasco
 691	?mar	¿Está bien tu madre?
 692	?mag	Mago
@@ -88,6 +97,7 @@
 706	?ncy	Nigromancia
 708	?nec	Nigromante
 718	?not	Todavía no.
+720	?nsc	Sin miedo y listo
 721	?ntl	Nacionalista
 722	?nyp	Di tu precio
 724	?obb	Obsesión
@@ -104,6 +114,7 @@
 755	?prn	Idea absurda
 758	?pss	Contraseña
 762	?rai	Redadas
+766	?rdl	Listo para el Acertijo
 771	?rlg	Liga Inquieta
 779	?scf	Algo que puede comprender
 780	?sdc	Carruajes de vapor
@@ -122,7 +133,9 @@
 820	?tav	Taberna
 821	?tbs	Subsistencia ligada a la tesis
 823	?tem	Templo
+829	?thv	Amenaza vil
 837	?trb	Problemas
+840	?tsl	Cambia mi alma por el alma de mi hermana
 841	?tkb	El barco de Trithik
 845	?tol	No les dije nada
 848	?ttx	Impuesto del templo
@@ -130,11 +143,14 @@
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
 858	?war	guerra
+862	?why	¿Por qué haces esto?
 867	?wrr	Guerrero
+870	?wsl	Apuesta mi alma contra el alma de mi hermana
 871	?wwt	¿Qué quieres?
 934	?yes	Si
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
+941	?ysc	Asustado pero listo
 942	?yud	Has estado en Den
 943	?vqa	¿Qué puerta es la correcta?
 957	0h2c	¿Y cómo te llamas?
@@ -663,6 +679,65 @@
 1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
 1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
 1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
+1792	8a1c	Lord Vile, me disculpo por ser tan grosero, y yo...
+1793	8a2a	Muy bien, Cyrus. Tal vez un poco débil en sinceridad, pero... la práctica hace al maestro.
+1794	8a2c	...Humildemente ruego tu perdón.
+1795	8bya	Hmm. No tan cabeza hueca después de todo. Pero no creo que hayas visto lo último de mí, Cyrus. Tengo mis ojos puestos en ti...
+1796	8byb	... Y jugar con Clavicus Vile, Cyrus, es como respirar...
+1797	8byd	...Una vez que adquieres el hábito, es algo difícil de detener. Ten suerte, Cyrus... Hasta que nos encontremos de nuevo.
+1798	8coa	Adelante. Juega con tu espada. Aquí sólo es un juguete.
+1799	8cob	Buen ejercicio, espadachín. Mantente en forma, mantente en forma.
+1800	8cod	¡Wo! ¡Manejas eso como un verdadero experto!
+1801	8coe	Muy original. Creo que nunca había visto uno de esos usado como arma
+1802	8cof	¿Qué tenías en mente con esa cosa, Cyrus?
+1803	8cog	No mires ahora, Cyrus, pero creo que alguien te ha cambiado el arma
+1804	8coh	¡Qué audaz! Pero... tal vez... ¿no sería más común usar una espada para eso?
+1805	8csa	Oh. Yoo-hoo. Por aquí. Estoy aquí, Cyrus
+1806	8csb	No te molestes en husmear, Cyrus. No estamos en una búsqueda del tesoro aquí.
+1807	8csd	¿Decepcionado? ¿No has encontrado ningún alma tirada por ahí?
+1808	8cse	Avísame si encuentras algo interesante, Cyrus.
+1809	8csf	Siéntete libre de mirar alrededor, Cyrus. Sin prisa. Tómate tu tiempo.
+1810	8d1a	Vamos, Cyrus. No te resistas.
+1811	8d1c	¡HUY... Señor... Vile! Yo me... "disculpo" por ser tan grosero, y yo...
+1812	8d2a	No pienses nada, Cyrus. Hee-hee. Ya está. Eso fue excelente. ¿Ahora no será divertido si pierdes tu alma? La práctica hace al maestro, y tendrás mucho tiempo para practicar
+1813	8d2c	...Humildemente te pido perdón.
+1814	8daa	Pobrecito. Todo nuestro tiempo es tiempo libre. Es la eternidad. ¿No crees que se vuelve un poco tedioso?
+1815	8dab	Casi siempre es lo mismo, una y otra vez, tan aburrido. Pero tú... bueno, matas al marido de tu hermana, luego dejas que pierda su alma, luego...
+1816	8dac	Así que esto es lo que hacen los señores Daedra en su tiempo libre. Comerciar con almas, destruir vidas y holgazanear bajo el sol...
+1817	8dad	...vienes aquí y amenazas con golpear al gran y desagradable señor Daedra para recuperarla... bueno... es estúpido y tonto... pero... no es... aburrido.
+1818	8dga	No es un perro, por supuesto. En los días soleados, le gusta ser un perro. O muchas otras cosas.
+1819	8dgb	Hmmmmmm. Interesante. Creo que le gustas, Cyrus
+1820	8dgd	Cuando está así, creo que está en otro lugar. Todo es muy significativo, claro... pero quién sabe lo que significa.
+1821	8dgc	Bonito perro.
+1822	8dia	¡Maldición! ¿Ves, Cyrus? Si tan sólo hubieras estudiado tus lecciones como te dijeron los hermanos... Ah, bueno. No todos pueden resultar ganadores....
+1823	8f7a	Cyrus. No te ofrecí hacer un intercambio. Me diste un regalo. Estoy contento con mi regalo, me siento generoso. Así que... hablemos en serio del alma de tu hermana.
+1824	8f7c	De acuerdo. Tienes el frasco. Dame a mi hermana.
+1825	8fla	Oh, Cyrus. ¿Un regalo? ¿Para mí? ¡No debiste...! Pero gracias. Es una adición única a mi justamente famosa colección de artefactos encantados
+1826	8flc	Te daré este frasco de valor incalculable por el alma de mi hermana.
+1827	8gba	Hmm. La sangre es bonita... Pero tu sangre no vale un alma, Cyrus
+1828	8gbc	Daré mi sangre por el alma de mi hermana..
+1829	8gga	No tienes una fortuna en oro, Cyrus, y el oro es sólo metal. No me interesa.
+1830	8ggc	Te daré una fortuna en oro.
+1831	8gna	Eres un farol, atrevido y aburrido Cyrus. No puedes quitarme nada, y lo sabes. O te la doy, o no te la doy. ¿Simple? Y no hago regalos cuando estoy aburrido.
+1832	8gnc	No hay regalos para ti, hijito. Quiero el alma de mi hermana, y me la llevo.
+1833	8h1a	Vaya, vaya. Me alegro mucho de que hayas venido....
+1834	8h1b	No seas tan aburrido, Cyrus. Me merezco algo de diversión. Has echado a perder mi N'Gasta. Ahora muéstrame algo de diversión
+1835	8h1c	Clavicus Vile... Dame el alma de mi hermana.
+1836	8h2a	¡Uno miente y el otro dice la verdad! Uno se lleva el alma Cyrus; el otro da el alma hermana. ¡No gastes tu pregunta en mí, Cyrus! Tómate tu tiempo. Hee-hee-hee. No vamos a ninguna parte
+1837	8isa	¡Oh! ¡Oh! ¡No me hagas daño, por favor! ¡Espera! ¿Pensaste que el frasco te protegería? ¡Oh, eso es excelente!
+1838	8isb	Escucha, audaz héroe Cyrus. N'Gasta era mucho más divertido. Era muy inteligente, y me tenía mucho miedo. Pero tu defecto, intrépido héroe, es que no tienes... imaginación.
+1839	8isc	Entrega su alma, Clavicus, o te retiraré del panteón
+1840	8isd	Por ejemplo, ¿tienes idea de lo que estoy haciendo con el alma de tu hermana... justo... ahora?
+1841	8l1a	¿O qué, Cyrus? ¿Qué piensas hacerme? Aquí no puedes hacerme daño, ni a mí ni a nada. Aquí no pasa nada, a menos que yo deje que pase
+1842	8l1c	Lo que sea que estés haciendo, detente ahora mismo
+1843	8n1a	Lástima. Hasta un animal tonto puede entender el miedo, pero tú... Cyrus.... Triste. Sin embargo... un juego pobre es mejor que ninguno. Juguemos, entonces, por el alma de tu hermana.
+1844	8n1b	Pero antes de empezar, hay un par de cosas que debemos aclarar.
+1845	8n1c	No puedes asustarme, hombrecito. Dije que apostaría mi alma, y mi palabra es mi vínculo.
+1846	8n1d	Tu alma no vale un centavo a menos que conozcas su valor. N'Gasta conocía el valor de un alma, pero tú no. Así que tengo que explicártelo.
+1847	8n1e	Primero: crees que pierdes, que mueres, y que ése es el fin. No es así.
+1848	8n1f	¿Pierdes?... Vives, y tu alma es mía. Igual que tu hermana. Y esto continúara por mucho tiempo. ¿Entiendes?
+1849	8n2a	Y por último: cuando tu alma es mía, tu voluntad puede desafiarme, pero haces lo que yo quiero.
+1850	8n2b	"Estás aquí por tu libre albedrío, así que déjame demostrarte.... que te disculpes por ser tan grosero, y que humildemente ruegues mi perdón.
 1852	8qac	¿CUÁL ES LA PUERTA CORRECTA?
 1853	8qal	La puerta de la derecha.
 1854	8qar	La puerta de la izquierda.
@@ -696,8 +771,14 @@
 1885	8qlc	¿QUÉ HAY DETRÁS DE LA OTRA PUERTA?
 1886	8qll	EL REGRESO DEL ALMA DE ISZARA.
 1887	8qlr	EL REGRESO DEL ALMA DE ISZARA.
+1888	8rda	Y ahora que tengo su completa atención... están listos para su prueba. Pero, antes de empezar... Cyrus. ¿Tuviste una educación clásica?
+1889	8rdb	Biiiien, biiiien. Sólo comprobaba. Sólo que un hombre pensante, un hombre bien educado podría tener una ventaja injusta en esta prueba. ¡Pero no! Tú eres un héroe... un hombre de acción, ¿verdad?
+1890	8rdc	Hablas por ti, Vile. Yo estoy listo. Vámonos.
+1891	8rdd	Así que probablemente no reconocerás esta vieja castaña, sacada directamente de “Las estrellas sobre sus hombros” de Paulus. ¿Preparado? ¡Escuchad con atención! ¡No lo repetiré!
+1892	8rde	Dos puertas. Una lleva a la pérdida de tu alma, la otra lleva al regreso de la de Iszara.
+1893	8rdf	Dos guardianes. Uno siempre miente, el otro siempre dice la verdad.
+1894	8rdg	Puedes hacerle a uno de ellos sólo una pregunta. Sólo una. El juego comienza... elige sabiamente... Hee hee!
 1895	8rdh	Sólo una pregunta. Sólo una. Elige sabiamente... ¡Hee hee!
-1896	8tha	DEBES ESTAR UN POCO ESPESO. DATE UN PEQUEÑO PASEO Y PIENSA LAS COSAS. VUELVE CUANDO ESTES LISTO PARA HABLAR CON SENTIDO. 
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -871,6 +952,7 @@
 2303	c807	Tienes algo que necesito, dragón.
 2304	c811	Tal vez podamos negociar.
 2305	c813	deletrearé tu nombre en tu lápida.
+2311	cbu4	ASÍ QUE, MI HERMANA ESTÁ PERDIDA, Y HAY UNOS PIRATAS, Y... OH, OLVÍDALO.
 2315	ccv1	¿Quién está ahí? ¡Déjenme pasar!
 2316	ccv2	Puedo olerte a través de la puerta duende, ¡ahora abre!
 2317	ccv3	Hunding te maldice.
@@ -1530,6 +1612,8 @@
 3419	mgrd	Oh, vaya. ¿Qué pasó entonces?
 3420	mgre	Será mejor que vuelvas a las cuevas, querida, antes de que Hunding te vea. ¡Te convertirá en piedra!
 3421	mgrf	¿Qué fue eso, querida?
+3423	mgrh	¿QUÉ SE SUPONE QUE SIGNIFICA ESO?
+3424	mgri	TENDREMOS QUE VERLO, ¿NO?
 3425	mh1a	Sí, me llamo Mariah. ¿Qué puedo hacer por usted?
 3426	mh1c	Disculpe señorita, ¿podemos hablar?
 3427	mh2a	¿Qué puedo hacer por usted?
