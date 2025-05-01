@@ -679,6 +679,7 @@
 1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
 1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
 1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
+1791	8a1a	Vamos, Cyrus. No te resistas.
 1792	8a1c	Lord Vile, me disculpo por ser tan grosero, y yo...
 1793	8a2a	Muy bien, Cyrus. Tal vez un poco débil en sinceridad, pero... la práctica hace al maestro.
 1794	8a2c	...Humildemente ruego tu perdón.
@@ -779,6 +780,39 @@
 1893	8rdf	Dos guardianes. Uno siempre miente, el otro siempre dice la verdad.
 1894	8rdg	Puedes hacerle a uno de ellos sólo una pregunta. Sólo una. El juego comienza... elige sabiamente... Hee hee!
 1895	8rdh	Sólo una pregunta. Sólo una. Elige sabiamente... ¡Hee hee!
+1896	8tha	Debes estar un poco espeso. Date un paseíto y piensa las cosas. Vuelve cuando estés listo para hablar con sentido
+1897	8thc	Vile No estoy aquí para charlar. Estoy aquí por mi hermana. Y me la vas a entregar o te haré pedazos
+1898	8tsa	Cyrus. Aprecio tu gran gesto. Admito que aprecio el alma de tu hermana... bastante.
+1899	8tsb	Pero tu alma es un bien no probado... Valiosa, sí... Pero no un intercambio equitativo. Y yo estaba pensando en el deporte ... no el comercio.
+1900	8tsc	No tengo ningún regalo para ti, Vile. Pero tengo algo para intercambiar... Mi alma.
+1901	8w7a	Hmm. Muy noble, Cyrus... ¿Pero sabes algo sobre el valor de un alma? Por ejemplo, toda la diversión que estoy teniendo con el alma de tu hermana... cierto... ahora.... No me gustaría renunciar a eso
+1902	8w1c	¿Qué quieres? ¿Por qué haces esto? ¿Sólo por diversión?
+1903	8w7c	¿Estás aburrido, Vile? Entonces juguemos una partida por el alma de mi hermana... Y para cubrir la apuesta, ofreceré mi alma.
+1904	8w2a	Sí. Ese incidente es difícil de explicar, estoy de acuerdo. Pinchar a ese canalla en el pecho, y luego largarse como un conejito asustado.
+1905	8w8a	¿Estás seguro? Sabes, eso que estoy haciendo con el alma de tu hermana... ahora mismo... Me encantaría hacer esa cosita con tu alma también..
+1906	8w2c	No siento culpa por matar al marido de Iszara, Vile. Pero huir de las consecuencias... no estoy orgulloso de eso, y no voy a dejarla esta vez
+1907	8w8c	Tu nombre está bien elegido, Vile. Pero conozco el valor de mi alma, y estoy dispuesto a apostarla contra el alma de mi hermana
+1908	8w3a	¡No se está cuidando ahora, verdad! Haa. ¿Y juzgaste que podía cuidar de sí misma cuando presumiste de clavar un cuchillo en el pecho de su marido?
+1909	8w3c	Sí, me fui. Pero Iszara siempre pudo cuidar de sí misma, yo sólo huí... yo... era joven
+1910	8w4a	Siento mucho perder a N'Gasta. Siempre tenía regalos para mí.
+1911	8w4c	Vile. No me importa si estás aburrido o solo. Esta charla no nos lleva a ninguna parte. Sólo dime... ¿Qué quieres?
+1912	8w5a	Hay que tener regalos. Sin regalos, no hay diversión. Ojalá tuviera un buen regalo. ¡Insinuación, insinuación!
+1913	8w5c	Te gustan los regalos, ¿eh?
+1914	8wwa	¡No estropees la diversión, Cyrus! ¡Se supone que tienes que averiguarlo! Pero aquí tienes una pista. ¡Tengo lo que quieres! ¿Entonces...?
+1915	8wwc	Por última vez, Vile... ¿Qué... quieres...?
+1916	8y7a	Un seguidor de mi hermano, Hermaeus Mora, dijo una vez: “El propósito último de los señores Daedra es instruir y mejorar el carácter generalmente deplorable de los mortales”
+1917	8y1a	¡Excelente! ¡Tenía razón! No todos los héroes son unos cretinos estúpidos. Estoy encantado de aceptar tu alma como apuesta en un juego por el alma de tu hermana.
+1918	8y7b	Hermoso sentimiento. Pero, de hecho, observo a los mortales, y me entrometo de vez en cuando, por puro entretenimiento.
+1919	8y1b	Pero antes de empezar, hay un par de cosas que debemos aclarar.
+1920	8y1c	Bien, Vile. Tengo miedo... de perder mi propia alma, y el alma de mi hermana... Pero no tengo muchas opciones, ¿verdad?
+1921	8y7d	N'Gasta, en su tiempo, ha sido un personaje de notable encanto y complejidad. Pero ahora tú has eclipsado a N'Gasta... y tengo grandes esperanzas puestas en ti.
+1922	8y1d	Tu alma no vale un centavo a menos que conozcas su valor. N'Gasta conocía el valor de un alma, pero tú no. Así que tengo que explicártelo.
+1923	8y7e	Por ejemplo. Vienes hasta aquí para rescatar el alma de tu hermana. ¿Por qué? ¿Añoranza de una infancia perdida? ¿Un remordimiento de conciencia por abandonar a tu hermana? ¿La culpa de un asesino
+1924	8y1e	Primero: crees que pierdes, que mueres, y que ése es el fin. No es así.
+1925	8y1f	Pierdes, vives, y tu alma es mía. Igual que tu hermana. Y sera por mucho tiempo. ¿Entiendes?
+1926	8y2a	Y POR ÚLTIMO: CUANDO TU ALMA ES MÍA, TU VOLUNTAD PUEDE DESAFIARME, PERO HACES LO QUE YO QUIERO.
+1927	8y2b	ESTÁS AQUÍ POR VOLUNTAD PROPIA, ASÍ QUE PERMÍTEME DEMOSTRARTE.... ME GUSTARÍA QUE TE DISCULPARAS POR HABER SIDO TAN GROSERO, Y QUE SUPLICARAS HUMILDEMENTE MI PERDÓN.
+1928	8y2c	Entiendo, Vile. Sigamos con esto.
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -1612,6 +1646,7 @@
 3419	mgrd	Oh, vaya. ¿Qué pasó entonces?
 3420	mgre	Será mejor que vuelvas a las cuevas, querida, antes de que Hunding te vea. ¡Te convertirá en piedra!
 3421	mgrf	¿Qué fue eso, querida?
+3422	mgrg	NO ESTOY TAN SEGURO DE ESO.
 3423	mgrh	¿QUÉ SE SUPONE QUE SIGNIFICA ESO?
 3424	mgri	TENDREMOS QUE VERLO, ¿NO?
 3425	mh1a	Sí, me llamo Mariah. ¿Qué puedo hacer por usted?
