@@ -4,11 +4,14 @@
 436	?3cc	Sé más preciso.
 438	?4bc	Me ofende tu ruido.
 439	?4cc	Confundido estoy, oh cielos.
+444	?amg	Archimago
 445	?amu	Amuleto
 452	?atb	Cuerpo de A'tor
 466	?bkt	Hermano Kithral
 469	?bms	Batalla de Stros M'Kai
 470	?bod	Cuerpo felizmente perdido
+476	?brn	Hermano NIDAL
+477	?bro	Hermano
 479	?brw	Brawl
 482	?bsw	¿Antes de qué?
 483	?btd	Barco Dañado
@@ -33,10 +36,12 @@
 544	?emp	Imperio
 547	?exc	Escape de las catacumbas
 550	?fat	El gordito
+554	?fig	Lucha contra el Imperio
 560	?flk	Frasco de Lillandril
 561	?fly	Máquinas voladoras
 567	?fxo	Arreglar el observatorio
 568	?fxd	Arreglar el Observatorio
+569	?gaa	Guardianes y cargos
 570	?gam	Juegos de azar en la guarida
 572	?gea	Engranaje
 577	?gho	fantasmas
@@ -49,6 +54,8 @@
 590	?grm	Sala de engranajes
 592	?gua	GUARDIANES
 594	?gvl	Dar medallón
+607	?hil	¿Estuvo Hayle en la Liga?
+609	?hkl	Muerte de Hayle
 610	?hlg	Curacion
 612	?hmo	Madre de Hayle
 614	?hsg	Ayuda con la gema del alma
@@ -70,6 +77,8 @@
 678	?lpl	Mucha gente
 681	?lrt	Últimos ritos
 690	?map	Mapa del flasco
+691	?mar	¿Está bien tu madre?
+692	?mag	Mago
 694	?mgu	Gremio de magos
 696	?mlg	Conoci la Liga
 701	?mys	Misterio
@@ -99,12 +108,15 @@
 779	?scf	Algo que puede comprender
 780	?sdc	Carruajes de vapor
 782	?sen	Centinela
+784	?sep	Camino de la serpiente
 789	?sig	Signo de la Serpiente
 790	?sil	Silencio
 793	?slg	Gema del alma
 796	?smd	Guarida del Contrabandista
 799	?snk	Serpiente
+800	?son	Canción del pasaje
 802	?sou	Lazo del alma
+810	?sta	Piedras estelares
 811	?std	Estudios
 818	?sym	Simbolo
 820	?tav	Taberna
@@ -118,6 +130,8 @@
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
 858	?war	guerra
+867	?wrr	Guerrero
+871	?wwt	¿Qué quieres?
 934	?yes	Si
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
@@ -288,11 +302,11 @@
 1375	3g4c	El mago del Príncipe, Voa
 1378	3g6c	Sí. Está en el templo.
 1379	3g7c	No te preocupes. Puedo colar a tu madre entre los guardias
-1380	3g8c	No. Te necesito para conseguir la Liga.
+1380	3g8c	No. Te necesito para conseguir la Liga..
 1381	3g9c	Sí, pero tenemos que darnos prisa. Ve al faro y hazles una señal. Diles que es la hora de la revolución
 1388	3h1c	Dile que fue un placer
 1390	3h2c	Hola, Saban.
-1397	3hac	¿WHY WAS ISZARA WITH HAYLE?
+1397	3hac	¿¿Por qué estaba Iszara con Hayle?
 1400	3hec	¿Qué tipo de ayuda puedes dar?
 1403	3i1c	Quizá puedas ayudarme a encontrar a mi hermana, Iszara
 1405	3i2c	Saban, ¿podrías hablarme de la Liga Revoltosa?
@@ -465,7 +479,7 @@
 1582	6nma	¡Gracias Arkay! A veces pienso que si oigo una palabra más sobre elfos ¡me volveré loco! No es que no haya muchos otros misterios interesantes alrededor de Stros M'Kai.
 1583	6nmc	Muy bien.
 1584	6noa	VMuy bien. Por favor, hágamelo saber si puedo ayudarle en algo.
-1585	6noc	No, gracias.
+1585	6noc	NO, Gracias.
 1586	6nya	Persistente, ¿eh? Escucha, si me das el libro, lo haré para ti. Una última vez, gratis. Al menos así no tendré que volver a verlo.
 1587	6nyc	Estoy dispuesto a pagar por el mapa. Con mucho gusto. Sólo di tu precio.
 1588	6s2a	De los ojos del Gobernador, principalmente. Intento no involucrarme en todos esos problemas. He visto más que suficiente sufrimiento en mi vida. Sólo quiero pasar mis últimos días trabajando con mis mapas.
@@ -554,6 +568,7 @@
 1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
+2000	9ppd	¡OYE! ¿QUÉ ERES? ¿UN ESPÍA? ¡ALÉJATE DE AHÍ!
 2049	ab1c	Gracias, Avik.
 2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
 2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
@@ -1023,6 +1038,7 @@
 2874	fpoc	Pociones curativas, pociones de fuerza y pociones de piel de hierro.
 2879	frla	Me temo que no. El Gremio de Magos intenta mantenerse al margen de la política.
 2880	frlc	¿Sabes algo de la Liga Revoltoso?
+2880	frlc	¿Sabes algo de la Liga Revoltosa?
 2881	frxa	Me temo que no.
 2882	frxc	¿Sabes algo del anillo del archimago Voa?
 2883	frya	No te lo diría si lo supiera. No habla con mundanos.
@@ -1542,17 +1558,135 @@
 3633	nzz3	Buena suerte, hijo.
 3634	nzz4	No debes mostrar esa espada aquí, hijo mío.
 3635	nzz7	Deja de hacer eso, muchacho
+3647	oa02	La gema del alma
+3648	oa04	El anillo
+3649	oa11	Lo siento, Cyrus.
+3650	oa14	No funcionó.
+3651	oa19	¿Madre...?
+3652	oa22	Ella no lo sabe. Fue...
+3653	oa33	Déjame ir contigo, Cyrus.
+3654	obra	¿Y a ti qué te importa? No necesito tu ayuda
+3655	obrc	¿Quién mató a tu hermano? ¿Los soldados imperiales?
+3656	obyc	Lo siento, pero tengo que irme. Quizás más tarde podamos hablar
+3657	obya	Tal vez. Tal vez no
+3658	obyb	Me gustaría ayudar si puedo
+3659	ocla	Pues no. Pero lo averiguaré
+3660	oclc	¿Sabes cómo contactar con la Liga Resagada?
+3661	ofea	¡Mataron a mi hermano y voy a hacer que lo paguen!
+3662	ofec	Parece que odias al Imperio
+3663	og2c	Me suena familiar
+3664	ogaa	Cielos Cyrus, todo el mundo sabe que los tres guardianes protegen cada uno a tres cargos en su propio círculo del cielo
+3665	ogab	¿No aprendiste la rima? Guerrero fuerte carga... Mago sabio ordena... Ladrón astuto vigila
+3666	ogac	Nunca presté mucha atención en clase de astronomía. ¿Guardianes y cargos?
+3667	ogra	SHOO! Vete!
 3668	ogrb	¡Oye! ¡Aléjate de ahí, estúpido!
+3669	ogrd	¡Cyrus! Sigues pillado!
+3670	ogre	¿De dónde vienes?
+3671	ogrf	¡Fuera!
+3672	ogrg	SHOO! ¡Fuera!!
+3673	ogrh	¡Dejadnos en paz! Volved a las cuevas!
+3674	ogri	¡Me estoy cansando de ti!
 3675	ogrj	¡No entiendo nada de eso, Cyrus!
+3676	ogrk	Sí, sí, ¿pero qué significa todo eso?
+3677	ogrl	Tendrás que encontrar a alguien que te ayude
+3678	ogrm	¿Cambiarte de nuevo? ¿En qué, cosa fea? Búscate a otro que haga esa magia por ti
+3679	ogrn	Mamá no puede ayudarte con esto, y yo tampoco, Cyrus. Tienes que encontrar a un mago del gremio!
 3680	ogro	¿Quieres decir que es Cyrus?
 3681	ogrp	Madre dice que esto es magia oriental, Cyrus; no puede romper el hechizo
 3682	ogrq	¡Tienes que encontrar un mago del gremio!
 3683	ogrr	Él te ayudará, Cyrus
 3707	ohwc	Hola..
+3684	ogrx	¿Aún no has encontrado a nadie que te ayude?
+3685	oh1a	¡Avik, el hombre serpiente! A Hayle le gustaba. Siempre fue amable con nosotros
+3686	oh1c	Avik me dijo que vio a Iszara y Hayle juntos el día que lo mataron.
+3687	oh2a	Supongo que sí.
+3688	oh2c	Más despacio, Coyle. ¿Estás diciendo que Iszara conocía a tu hermano?
+3689	oh3a	Ella trajo a Hayle al campamento ese día, todo sangrando. Pero nunca la había visto antes.
+3690	oh3b	Intentó explicarle lo que había pasado, pero madre no la escuchó, sólo le gritó y le dijo que no volviera nunca
+3691	oh4a	Dijo que necesitaba la ayuda de mi madre, pero mamá estaba demasiado alterada
+3692	oh4b	Supongo que los soldados los atacaron de camino aquí, pero no sé por qué. Hayle nunca se había metido en problemas con nadie
+3693	oh4c	¿Así que no sabes por qué estaba con tu hermano?
+3694	ohfa	¡Sabía que podías ayudarnos, Cyrus!
+3695	ohfc	Creo que tal vez lo he hecho.
+3696	ohga	¿Has descubierto cómo liberar el alma de mi hermano?
+3697	ohgc	Hola, Coyle.
+3698	ohla	No. Solía reírse de mí cuando le decía que quería unirme.
+3699	ohlb	Decía que aún no entendía cómo funcionaba el mundo, que era demasiado joven. Pero dentro de tres meses cumpliré diecisiete
+3700	ohlc	¿Pudo Hayle haber sido miembro de la Liga?
+3701	ohnc	No, lo siento.
+3702	ohqb	Hola CYRUS!
+3703	ohqc	Hola, Coyle.
+3704	ohuc	Todavía no, me temo.
+3705	ohvc	Sigo trabajando en eso, no te preocupes
+3706	ohwa	Oh, eres tú otra vez.
+3707	ohwc	Hola...
+3708	ohxa	¿Qué quieres?
 3709	ohxc	Hola.
+3710	ohzc	Hola, Coyle.
+3711	ohzd	¡Cyrus! Es bueno verte de nuevo!
+3712	oi2a	¡¿Era tu hermana?! Mi madre culpa a Iszara de que mataran a Hayle, pero sé que tu hermana hizo todo lo posible por salvarle.
+3713	oi2b	¡Luchó contra diez soldados ella sola! Voy a unirme a la Liga y luchar contra el Imperio, en cuanto mi madre esté a salvo
+3714	oi2c	Coyle, ¿conoces a mi hermana Iszara?
+3715	oisa	¿Por qué iba a conocer a tu hermana? ¿Por qué no vuelves a la ciudad a la que perteneces?
+3716	oisc	Me pregunto si conoces a mi hermana...
+3717	ol2a	¡Claro! Son los Redguards más valientes de todos. Nunca se rendirán al Imperio.
+3718	ol2b	¡Incluso volaron el barco del Gobernador, justo en el puerto! ¿Sabes cómo puedo encontrarlos?
+3719	ol2c	¿Sabes algo de la Liga Inquieta?
+3720	ol3a	No. Hayle dijo que nunca dejarían que un Yokudan se uniera, pero ¿por qué no?
+3721	ol3b	Supongo que ahora necesitan todos los hombres que puedan conseguir, y yo mismo soy un espadachín bastante bueno, ya sabes
+3722	ol3c	Me temo que no. Esperaba que tú me lo dijeras
+3723	ol4c	No lo dudo. Me alegro de que estés de mi lado
+3724	olga	¿Por qué te lo diría si lo hubiera hecho? No los necesito, ¡lucharé contra el Imperio yo solo si hace falta!
+3725	olgc	¿Has oído hablar de la Liga Revoltosa?
+3726	omaa	Por favor, no la molestes, Cyrus. Si no sigue con la canción de paso, ¡el alma de Hayle irá a parar al nigromante!
 3727	omab	Por favor, no la molestes, Cyrus
 3732	omtb	¡Vete! Déjala en paz.
+3728	omac	¿Qué está haciendo tu madre? ¿Está bien?
+3729	omga	Sabio Mago ordena... Aprendiz aprendiendo... Ritual girando... Golem ardiendo... a través de la noche.
+3730	omgc	¿Qué es todo el verso sobre el Mago?
+3731	omta	¡Vete! Déjala en paz. No necesitamos tu ayuda. Puedo cuidar de ella perfectamente. ¡Déjanos en paz!
+3732	omtb	¡Largo! Déjala en paz.
+3733	omtc	¿Esa de ahí es tu madre? ¿Está bien?
+3734	onca	Bueno, no su alma específicamente. Toda la isla está atrapada en su malvada trampa de almas, eso es lo que dijo madre.
+3735	oncb	¡Cualquiera que muera sin el ritual apropiado, su alma va a su torre y él la añade a su ejército de muertos vivientes!
+3736	oncc	¿Por qué querría el nigromante robar el alma de Hayle?
+3737	onoa	Lo comprendo. Tienes tus propios problemas. No te preocupes, estaremos bien
+3738	onoc	Ojalá pudiera, hijo, pero no sé nada de estrellas ni de almas. Lo siento
+3739	onta	¡Cyrus! ¡No quieres ir allí! El nigromante mata a cualquiera que entre en su torre y le roba el alma
+3740	ontc	¿Dónde está la torre del nigromante?
+3741	opra	Bueno, la gente de la ciudad tiene su templo para salvarse de la trampa del nigromante. Pero nosotros no creemos así.
+3742	oprb	Madre necesita colocar las piedras estelares para mostrarle a Hayle el camino correcto hacia el otro lado, pero no ha podido predecir el paso de la Serpiente esta estación
+3743	oprc	Me sorprende que la isla entera no esté plagada de muertos vivientes, con toda la lucha que ha habido aquí
+3744	os1a	¡No toques eso!
+3745	os1c	Lo siento.
+3746	os2a	Cyrus, ¿estás seguro de que sabes lo que haces?
+3747	os2c	Tienes razón, mejor las dejo
+3748	os3c	Sí, creo que lo he resuelto.
 3749	os4a	¡Lo has conseguido, Cyrus!
+3750	os5a	¡Hey! ¡Es el Redguard!
+3751	os6a	¡Hey, Cyrus!
+3752	os7a	Por favor, Cyrus. Si se detiene con las piedras mal colocadas, el alma de Hayle será tomada por la trampa del nigromante.
+3753	os7c	No. No estoy muy seguro
+3754	osaa	No lo sé. Quiero ayudar, pero no sé nada de las estrellas
+3755	osab	Todo lo que madre puede hacer es continuar la canción del pasaje para evitar que el alma de Hayle se extravíe. Cyrus, ¿puedes ayudarnos?
+3756	osac	Si no hay forma de predecir el camino de la Serpiente, ¿cómo podrá tu madre completar el ritual?
+3757	osea	Sí. Las otras doce siguen los círculos del cielo, guardianas y encargadas, pero la Serpiente no respeta a ningún amo.
+3758	oseb	Se mueve a través de los cielos, amenazando a las otras constelaciones en su camino.
+3759	osec	Esta Serpiente... ¿una de las constelaciones?
+3760	osed	La única manera de guiar el alma de Hayle a través de la trampa del nigromante es colocar las piedras estelares en la posición de la cabeza y la cola de la Serpiente...
+3761	osee	Pero no hay forma de predecir el camino de la Serpiente.
+3762	ospa	No, la canción de madre la mantiene a salvo aquí hasta que pueda averiguar la colocación correcta de las piedras estelares.
+3763	ospb	Si ella se detiene con las piedras colocadas incorrectamente, el alma de Hayle será tomada por la trampa del nigromante.
+3764	ospc	¿Así que el alma de Hayle aún no ha dejado este mundo por el siguiente?
+3765	ossa	¡No deberías estarlo! Mi madre es una bruja poderosa, ¡la bruja madre de toda nuestra tribu!
+3766	ossb	Si Hayle no hubiera nacido bajo el signo de la Serpiente, ella podría haber pasado su alma a través de la telaraña del nigromante fácilmente.
+3767	ossc	Me sorprende que tu madre sea capaz de proteger a Hayle de un nigromante tan poderoso
+3768	osta	Así es, Cyrus. Normalmente sería sencillo, pero Hayle nació bajo el signo de la Serpiente, y el camino de la Serpiente no se puede predecir.
+3769	ostc	¿Esas de ahí son las piedras estelares?
+3770	otha	Ladrón astuto mira... Amante suspirando... Sombra mintiendo... Desafiando... A través de la noche.
+3771	othc	¿Cómo fue el verso sobre el Ladrón otra vez?
+3772	owra	Fuerte carga del Guerrero... Corcel brincando... Dama bailando... Señor avanzando... a través de la noche.
+3773	owrc	Cántame el verso sobre el Guerrero
 3774	ox01	Ella te lo agradece, Cyrus; el alma de Hayle ha pasado a las Orillas Lejanas
 3776	ox03	Ella desea saber si hay alguna manera de que pueda compensarte.
 3778	ox05	Mamá no la ha visto desde el día que vino con Hayle
@@ -1583,6 +1717,20 @@
 3813	ox40	Dice que lo sabrás
 3814	ox41	Madre le ayudará cuando esté listo.
 3815	oy1a	Gracias.
+3816	oy1c	Me he enterado de que tu hermano ha sido asesinado por los soldados. Lo siento
+3817	oy2a	Es duro, intentar cuidar de mi madre, con Hayle asesinado y que no nos dejen entrar en la ciudad y todos los demás marchándose.
+3818	oy2c	¿Quieres hablar de ello?
+3819	oy3a	Y ahora estamos los dos solos y no sé qué vamos a hacer. Soy Coyle, por cierto.
+3820	oy3c	Soy Cyrus. De nuevo, siento tus problemas
+3821	oypa	Gracias Cyrus. Por favor, date prisa. No sé cuánto tiempo más mi madre podrá seguir con la canción
+3822	oypc	Haré lo que pueda, Coyle. No te preocupes, puedes contar conmigo
+3823	oysa	Somos lo único que queda. Al día siguiente de enterrar a Hayle, el gobernador prohibió la entrada a todos los yokudanos. ¡Nos llamó a todos traidores!
+3824	oysb	¡Así que todos los demás tomaron pasaje al continente, excepto nosotros que no podíamos irnos por culpa del nigromante que intentaba robar el alma de Hayle!
+3825	oysc	¿Sois tú y tu madre los únicos yokudanos de la isla?
+3826	ozz1	¿Buscas algo?
+3827	ozz2	¿Y bien? Habla, forastero
+3828	ozz3	¡Dejadnos en paz! No tenemos nada!
+3829	ozz4	Nada de esgrima aquí, Cyrus. Baja a la playa, por favor
 3830	pb1c	gracias, PRNELL.
 3831	pbfa	Realmente no debería, pero... está bien. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
 3832	pbfc	¿Me podrías prestar tu bandera por un momento?
@@ -1963,7 +2111,9 @@
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
 4669	yb1c	Hablaremos más tarde.
+4712	yzz1	¿Qué quieres?
 4717	yt1c	Muchas gracias.
+4725	zah4	¿Qué quieres?
 4839	z902	Sí, milord. El dragón está muerto.
 4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
 4851	za1c	Un momento.
