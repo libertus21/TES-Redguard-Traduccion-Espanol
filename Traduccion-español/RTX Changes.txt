@@ -156,6 +156,10 @@
 1012	0lm3	veintiún pasos.
 1013	0lm4	como la cabeza mira.
 1014	0lm5	¡enterrado brilla el metal!
+1040	0105	Este no es un mensajero.
+1041	0124	No. Déjame interrogar a este. Es un tonto... pero los tontos pueden ser útiles.
+1042	0207	Te escucho.
+1044	0214	Déjenmelo a mí.
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
 1047	0906	Tiene la gema alma.
@@ -680,6 +684,12 @@
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
+2270	c104	Espere, Gobernador. Tengo algunas preguntas que hacerle primero. Sobre una mujer llamada Iszara.
+2271	c107	Lleva desaparecida unos meses y la gente cree que puede tener problemas. También dicen que usted podría tener algo que ver.
+2272	c111	Como he dicho, puede que tengas algo que ver.
+2273	c116	¿Estás diciendo que formaba parte de la Liga Revoltosa?
+2274	c118	Parece que no nos entendemos, Gobernador. Iszara es mi hermana y esto no es una audiencia, es un interrogatorio.
+2275	c119	Dime todo lo que sabes o te daré más problemas de los que nunca te ha dado la Liga.
 2276	c402	No soy una Corona. Iszara es mi hermana.
 2277	c405	¿Iba a traer de vuelta al Príncipe? 
 2278	c410	¿Pero...?
@@ -708,6 +718,9 @@
 2303	c807	Tienes algo que necesito, dragón.
 2304	c811	Tal vez podamos negociar.
 2305	c813	deletrearé tu nombre en tu lápida.
+2315	ccv1	¿Quién está ahí? ¡Déjenme pasar!
+2316	ccv2	Puedo olerte a través de la puerta duende, ¡ahora abre!
+2317	ccv3	Hunding te maldice.
 2428	cmag	¡Magnífico!
 2470	cwts	¿Qué es esto?
 2510	d1da	Pensé que un elfo loco estaba trabajando en eso
@@ -1839,7 +1852,28 @@
 3947	qzz1	Bueno. ¿Qué tenemos aquí?
 3948	qzz2	¿De dónde has salido?
 3949	qzz3	¿Un gremlin? Ven aquí, pequeñín.
+3950	r102	Cierto grado de persistencia es admirable, ¿no es así, Dram? 
+3951	r10a	Primero el nigromante, ganándose el favor con regalos, y ahora la diligencia de sus mensajeros.
+3952	r103	Muy bien. Tu trabajo está hecho. Entrega el amuleto a uno de los guardias.
+3953	r106	Esto no es una audiencia, señor. Olvídese de sí mismo.
+3954	r109	No, no. Yo me encargo de él.
+3955	r110	onozco a esta Iszara, joven. Sus problemas son de su propia cosecha, estoy seguro. Cuando te mezclas con matones y asesinos--
+3956	r112	Bajo la ley Imperial, la Liga Revoltosa, y esta mujer Iszara, una conocida consorte y confederada de la Liga, son culpables de piratería, sedición y traición, y sujetos a ejecución sumaria.
+3957	r113	En mi calidad de Gobernador, tales ejecuciones son mi responsabilidad.
+3958	r114	Pero... Esta Iszara no ha llegado a mi conocimiento, y si ha desaparecido, lo ha hecho sin mi ayuda.
+3959	r115	Y ahora, tengo otros asuntos urgentes.
+3960	r117	Puede retirarse, mensajero.
+3961	r120	¿Amenazarías a un Gobernador Imperial? ¿Eres retrasado mental?
+3962	r121	Amenázame, y demostrarás que eres un traidor... Y debes morir por ello. Guardias, capturen a ese hombre.
+3963	r122	Así que este es el fuego Redguard del que tanto he oído hablar..."
+3964	r123	Joven, tienes madera de buen espadachín... pero, con tus acciones, te condenas y pierdes la vida. ¿Dram?
+3965	r202	¿Qué maldito Redguard?
 3966	r204	¿Qué?
+3967	r206	¿Pero escapar de las Catacumbas es imposible? Las trampas y demás, ¿verdad, Dram? 
+3968	r208	Gracias, guardia. Continúe. Y manténgame informado.
+3969	r210	¡Bah! ¡Sobreestimé las mazmorras de nuestros enemigos, más bien! Nunca confíes en las trampas mortales de otro.
+3970	r211	Dupliquen la guardia, inmediatamente, y aumenten las patrullas en la ciudad y a lo largo del muelle.
+3971	r212	El Guardia Rojo no debe encontrar a su hermana.
 3972	r901	Muerto.
 3973	r903	Y Cyrus está vivo.
 3974	r905	No seas estúpido. Ese bastardo suda heroísmo. No podría ser otro.
@@ -2114,6 +2148,11 @@
 4712	yzz1	¿Qué quieres?
 4717	yt1c	Muchas gracias.
 4725	zah4	¿Qué quieres?
+4834	z101	Este hombre insistió en entregarle el amuleto él mismo, milord.
+4835	z108	¿Mi señor?
+4836	z201	¡Gobernador! ¡Tengo noticias del  Guardia Rojo!
+4837	z203	El que acaban de meter en las Catacumbas, señor. El que se llama Cyrus. ¡Se ha escapado!
+4838	z205	o se le encuentra por ninguna parte, señor. Estamos peinando las calles en su busca.
 4839	z902	Sí, milord. El dragón está muerto.
 4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
 4851	za1c	Un momento.
