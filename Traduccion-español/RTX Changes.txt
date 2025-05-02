@@ -671,6 +671,7 @@
 1600	6zz3	Habla más alto. Tengo trabajo que hacer.
 1601	6zz4	Nada de armas aquí. Guárdala.
 1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
+1617	71bc	¡Vamos!
 1678	73fh	COME HERE! 
 1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
 1716	7801	un poco de privacidad.
@@ -816,6 +817,7 @@
 1926	8y2a	Y POR ÚLTIMO: CUANDO TU ALMA ES MÍA, TU VOLUNTAD PUEDE DESAFIARME, PERO HACES LO QUE YO QUIERO.
 1927	8y2b	ESTÁS AQUÍ POR VOLUNTAD PROPIA, ASÍ QUE PERMÍTEME DEMOSTRARTE.... ME GUSTARÍA QUE TE DISCULPARAS POR HABER SIDO TAN GROSERO, Y QUE SUPLICARAS HUMILDEMENTE MI PERDÓN.
 1928	8y2c	Entiendo, Vile. Sigamos con esto.
+1935	91bc	Cállate.
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -1612,6 +1614,7 @@
 3253	kh2c	KRISANDRA, Hola.
 3255	kisc	BUSCO A MI HERMANA, ISZARA. ¿LA CONOCES?
 3317	kzz3	OH... Hola.
+3324	kyy3	PUT THAT AWAY. I FIND IT EXTREMELY OFFENSIVE.  
 3325	lb1c	Hablaremos más tarde.
 3326	ldra	¡Poder! Antes de que te des cuenta, tendremos carruajes a vapor y máquinas voladoras; por alguna razón, todo el Imperio está interesado en los enanos
 3327	ldrb	Claro, claro, el Príncipe A'tor, Arkay bendiga su alma, podría haber dicho que eran peligrosos y que deberíamos dejar en paz a las civilizaciones muertas, pero, demonios, hombre, hay progreso que hacer.
@@ -2370,6 +2373,7 @@
 4424	uzz5	¿Has estado dándole al azúcar lunar, tío?
 4425	uzz6	¿Por qué el acero desnudo, amigo? Eso no es de buen vecino.
 4426	uzz7	No más, amigo.Mi culo esta roto.
+4427	vb1a	Ahí está el bastardo que arruinó mi incursión.
 4428	vb2a	Pero ahora me ves, ¿no?
 4429	vb3a	Tan claro como el agua...
 4430	vb4a	¡No necesitamos hablar con él! Déjame...
