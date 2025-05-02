@@ -2,46 +2,118 @@
 434	?3ac	Mi tiempo es corto.
 435	?3bc	Habla con sentido.
 436	?3cc	Sé más preciso.
+437	?4ac	VEN, SE UN DEPORTISTA.
 438	?4bc	Me ofende tu ruido.
 439	?4cc	Confundido estoy, oh cielos.
+440	?acc	ACUSADO DE TRAICIÓN
+441	?ais	ISZARA ABANDONADA
+442	?alc	ALQUIMISTA
 444	?amg	Archimago
 445	?amu	Amuleto
+446	?anm	anti-magico
 447	?apo	Disculparme
+448	?app	APRENDIZAJE
+449	?arc	ARQUEOLOGÍA
+450	?arg	ARGONIANOS
 452	?atb	Cuerpo de A'tor
+454	?ask	Preguntar algunas cosas.
+455	?aud	AUDIENCIA CON EL GOBERNADOR
+456	?bak	¿DE VUELTA A STROS M'KAI?
+458	?bat	BATALLA
+459	?bel	CAMPANA
+460	?bet	APUESTA
+461	?bfl	BANDERA DE PRÉSTAMO
+462	?bgm	BOCA GRANDE
+463	?bid	BRENNAN HA MUERTO
+464	?bif	BASIl es mi amigo
+465	?bkm	RESERVA PARA EL MAPA
 466	?bkt	Hermano Kithral
+467	?bok	LA CAMPANA ESTÁ FUNCIONANDO
+468	?bmm	VOLVER
 469	?bms	Batalla de Stros M'Kai
 470	?bod	Cuerpo felizmente perdido
+471	?boo	COMPRAR LIBROS
+472	?bra	LOS HERMANOS DE ARKAY
+473	?brb	CAMPANA ROTA
 476	?brn	Hermano NIDAL
 477	?bro	Hermano
+478	?bsm	BATALLA DE STROS M'KAI
 479	?brw	Brawl
+480	?bsl	¿DÓNDE ESTÁ BASIL?
 482	?bsw	¿Antes de qué?
 483	?btd	Barco Dañado
+484	?bur	RITUAL FUNERARIO
+485	?bus	NEGOCIOS
+486	?buy	COMPRAR
 489	?bye	adiós
 490	?by2	adiós
+491	?byi	COMPRAR OBJETOS
 492	?byl	Quemarse las piernas
+493	?bym	COMPRAR MAPAS
+494	?byy	¡GANA!
+496	?car	CARTOGRAFO
 497	?cav	Cavernas
+498	?cha	DESAFÍO PARA LUCHAR
 499	?chg	Cargas
 500	?clg	Contactar con la Liga
 501	?cms	Historias comunes
 502	?cns	Constelaciones
+503	?cnt	CONTRATISTA
+504	?com	BRÚJULA
+505	?con	CONTRATACIÓN
 507	?cro	Coronas
 508	?crt	Crendal el Ladrón
 509	?cwr	Guerra civil
 510	?cur	Maldicion
 511	?cvw	Guerra civil
+514	?dam	TE ENTREGARÉ EL AMULETO
+515	?dea	OFERTA
+516	?del	ENTREGAR EL AMULETO
+517	?dev	ENTREGA
 519	?dfy	Desafiar
+520	?die	¡PIERDE!
+521	?dis	DESAPARICIÓN DE LOS ENANOS
+522	?dkb	NO SÉ BASIL
+523	?dkl	ELFO OSCURO
+524	?dlg	DESTRUCCIÓN DE LA LIGA
+525	?dly	DREEKIUS MIENTE
 526	?dod	No te mueras
 527	?dog	Perro
+528	?dot	YO PUEDO HACERLO
+531	?drf	fuego de dragon
+533	?drk	MALDITA LAGARTIJA
 534	?drt	Cuento Draggin
 535	?dvl	Ley Divina
+536	?dwa	enanos
 537	?dwg	Engranaje enano
+538	?dwl	enanos historia
 539	?dwr	Ruinas enanas
+540	?ela	ARTEFACTOS ÉLFICOS
+541	?elb	LIBRO DE ARTEFACTOS ÉLFICOS
+542	?els	BARCO elfico
+543	?emv	VICTORIA DEL IMPERIO
 544	?emp	Imperio
+545	?enj	DISFRUTANDO DE ESTO
+546	?esc	escape
 547	?exc	Escape de las catacumbas
+548	?eye	EL OJO
+549	?eyp	pieza de ojo
 550	?fat	El gordito
+552	?fea	PLUMA
+553	?fff	FIRMAMENTO DE FFOULKE'S
 554	?fig	Lucha contra el Imperio
+555	?fij	TRABAJO TERMINADO
+556	?fit	LUCHA
+557	?fla	BANDERA
+558	?flg	ENCONTRAR LA LIGA
+559	?flh	FLORA DE HAMMERFELL
 560	?flk	Frasco de Lillandril
 561	?fly	Máquinas voladoras
+562	?fom	ANTIGUO PROPIETARIO
+563	?for	Antepasados
+564	?fot	ANTEPASADOS SUSCEPTIBLES
+565	?frt	TRUCO de antepasado
+566	?fwl	FAVORES CON LA LIGA
 567	?fxo	Arreglar el observatorio
 568	?fxd	Arreglar el Observatorio
 569	?gaa	Guardianes y cargos
@@ -49,28 +121,58 @@
 571	?gbl	Dar mi sangre por el alma de mi hermana
 572	?gea	Engranaje
 574	?gfl	Dar frasco por el alma de mi hermana
+575	?gfm	ORO POR MAPA
 576	?ggd	Dar oro por el alma de la hermana
 577	?gho	fantasmas
 578	?gig	Dar Engranaje
+579	?gim	DÁMELO
+580	?gmd	DAR DETALLES DEL MAPA
 581	?gmp	Dame la contraseña
+582	?gmt	MIEMBRO DEL GREMIO JOTO
+583	?gmy	DÁMELO A MÍ MISMO
 584	?gng	No dar nada y tomar el alma de la hermana de todos modos
 586	?gop	Palacio del Gobernador
 587	?gov	Gobernador
 588	?gpl	Política gremial
 589	?grc	Gobernador Richton
 590	?grm	Sala de engranajes
+591	?gsl	DAME SU ALMA
 592	?gua	GUARDIANES
+593	?gui	CULPA
 594	?gvl	Dar medallón
+595	?gvn	GOBERNADOR
+596	?gx1	AYUDA
+597	?gx2	¡POR FAVOR!
+600	?gx5	¡CÁRCEL!
+601	?gx6	¡MAGIA!
+602	?gx7	¡JOTO MAGIA POR FAVOR ISZARA!
+604	?hea	POCIÓN CURATIVA
+605	?hgm	TENGO LA GEMA
+606	?hid	OCULTO
 607	?hil	¿Estuvo Hayle en la Liga?
+608	?hio	ENTREGAR
 609	?hkl	Muerte de Hayle
 610	?hlg	Curacion
+611	?hlp	AYUDA
 612	?hmo	Madre de Hayle
+613	?hmp	TENER MAPA PIEZA
 614	?hsg	Ayuda con la gema del alma
+615	?huc	HUNDING ¡TE MALDIGO!
+617	?hvr	TENGO EL ANILLO DE VOA
 618	?hyk	Ayude a los Yokudan
+619	?i2c	SUS TRATOS, ME TEMO, ERAN TURBIOS.
+620	?i5c	DANOS UN RESPIRO, COLEGA.
+621	?iac	CUÉNTAME LO QUE SABES.
+622	?ibc	SABES LO DE ISZARA, PÁJARO BONITO.
+623	?icc	¡HABLA CLARO, MALDITA SEA!
+624	?idc	DE LOS PÁJAROS, ERES DE LO MÁS SUBLIME.
+625	?ign	IGNORAR
 626	?iil	Iszara en la Liga
 627	?imb	Mensajero de Iszara
 628	?imn	No estoy seguro
 629	?imp	Imperiales
+630	?imw	BUQUE DE GUERRA IMPERIAL
+631	?inf	OFRECER INFORMACIÓN
 635	?isf	Iszara está a salvo
 637	?iss	El alma de Iszara
 642	?ith	Creo que lo sabes.
@@ -179,6 +281,7 @@
 1040	0105	Este no es un mensajero.
 1041	0124	No. Déjame interrogar a este. Es un tonto... pero los tontos pueden ser útiles.
 1042	0207	Te escucho.
+1043	0209	SUBESTIMÉ AL GUARDIA ROJA.
 1044	0214	Déjenmelo a mí.
 1045	052a	Redguard. Solo hay una salida. A través de mí.
 1046	052b	Hablas demasiado, gato.
@@ -492,6 +595,7 @@
 1414	4h2c	¿Me permite un momento?
 1415	4h3c	Esto no tomará mucho tiempo.
 1416	4h4c	Me preguntaba...
+1417	4h1a	DÉJAME, POR FAVOR. TENGO MUCHO QUE HACER.
 1418	4h2a	¿Eres un chico lento? ¡Vete!
 1419	4h3a	La prueba Battlespire me espera. No tengo tiempo para ti ahora.Vete
 1420	4h4a	¡No me hagas echarte! ¡Ahora déjame!
@@ -600,6 +704,7 @@
 1526	5zz1	¿Terminaste el trabajo, hombre? 
 1527	5zz2	hola, amigo.
 1528	6b1c	Hablaremos más tarde.
+1529	6bka	VUELVE DENTRO DE UN RATO. VERÉ LO QUE PUEDO HACER.
 1530	6bkc	Me parece bien. ¿Cuándo estará listo el mapa?
 1531	6bma	Lo siento, no vendo al por menor. Sólo trabajo por encargo. Pero, ¿tal vez pueda hacer un mapa para usted?
 1532	6bmc	¿Tiene mapas a la venta?
@@ -645,7 +750,7 @@
 1572	6lla	Nunca lo dijeron. Tal vez deberías bajar y preguntarles tú mismo.
 1573	6llc	Estos muchachos locales ... ¿Tienen nombres?
 1574	6msa	Los mapas son como las personas, ¿lo sabías Cyrus? Hay mapas buenos, malos e indiferentes.
-1575	6msb	«No deberías confiar en la mayoría de los mapas, te llevarán por mal camino si les das una oportunidad. Un mapa honesto es más raro que un amigo verdadero, recuérdalo, joven señor.
+1575	6msb	No deberías confiar en la mayoría de los mapas, te llevarán por mal camino si les das una oportunidad. Un mapa honesto es más raro que un amigo verdadero, recuérdalo, joven señor.
 1576	6msc	¿Qué te dicen tus mapas?
 1577	6mya	Bueno, las cavernas, por ejemplo. No has oído hablar de ellas, ¿verdad? Ni tampoco de las Ruinas Enanas.
 1578	6myb	Pero son reales, joven señor, y tan llenas de misterio y aventura como se podría pedir.
@@ -673,8 +778,30 @@
 1600	6zz3	Habla más alto. Tengo trabajo que hacer.
 1601	6zz4	Nada de armas aquí. Guárdala.
 1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
+1603	710c	REZAD, DESENFUNDAD, CHICOS.
+1604	711a	¿QUÉ, OTRA VEZ?
+1605	711c	¿POR QUÉ NO BAJÁIS LA VOZ?
+1606	712a	¿NO HAS APRENDIDO?
+1607	712c	EL BARÓN VOLAG LLEVA UN CORSÉ EN LA CORTE.
+1608	713a	Dagoo, mira cómo lo quiere más.
+1609	713c	¿ME HABLABAS A MÍ?
+1610	714c	¡CHICOS FEOS...!
+1611	715c	¡ARRIBA! ¡LEVÁNTATE Y DESENFUNDA!
+1612	716c	¡VENID, BORRACHOS, DAOS PRISA!
+1614	718c	VEN, FEA, ESTOY AQUÍ OTRA VEZ.
+1615	719c	VAMOS.
+1616	71ac	¡ARRIBA! ¡BASTARDOS! ¡SORTEO!
 1617	71bc	¡Vamos!
 1678	73fh	COME HERE! 
+1693	78d1	LO SIENTO, HOMBRE. IMPERIALES POR TODAS PARTES. NO HABLO CON EXTRAÑOS.
+1694	78d2	LOS TIEMPOS SON DUROS EN STROS M'KAI. NO PUEDO AYUDARTE, AMIGO.
+1695	78d3	NO TIENES UNA MONEDA DE SOBRA, FORASTERO. PRUEBA CON OTRO.
+1696	78d4	NO. ¿HABLAR CON EXTRAÑOS EN LA CALLE? LOS IMPERIALES SON ESPESOS COMO LA MELAZA EN STROS M'KAI. NO, GRACIAS.
+1697	78f1	MIRA. VETE A MOLESTAR A OTRO.
+1698	78f2	NO, NO TENGO TRABAJO, Y NO SE QUIEN LO TIENE. QUE TENGA UN BUEN DÍA.
+1699	78f3	¿QUIÉN DEMONIOS ERES TÚ? FUERA DE AQUÍ.
+1700	78f4	YO NO TE CONOZCO, COMPAÑERO, Y TÚ NO ME CONOCES, Y ASÍ VA A SEGUIR SIENDO.
+1701	78f5	GRACIAS, PERO NO GRACIAS. ENCUENTRA OTRA MARCA, marica.
 1702	71a1	vete, cara de retrasado
 1703	71a2	SAL DE AQUÍ. ¿QUIÉN TE CREES QUE ERES?
 1704	71a3	HOY EN DÍA DEJAN ENTRAR AQUÍ A CUALQUIERA.
@@ -758,6 +885,7 @@
 1848	8n1f	¿Pierdes?... Vives, y tu alma es mía. Igual que tu hermana. Y esto continúara por mucho tiempo. ¿Entiendes?
 1849	8n2a	Y por último: cuando tu alma es mía, tu voluntad puede desafiarme, pero haces lo que yo quiero.
 1850	8n2b	"Estás aquí por tu libre albedrío, así que déjame demostrarte.... que te disculpes por ser tan grosero, y que humildemente ruegues mi perdón.
+1851	8n2c	ENTIENDO, VIL. SIGAMOS CON ESTO.
 1852	8qac	¿CUÁL ES LA PUERTA CORRECTA?
 1853	8qal	La puerta de la derecha.
 1854	8qar	La puerta de la izquierda.
@@ -859,6 +987,9 @@
 1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
+1995	9nnc	¿DÓNDE PUEDO ENCONTRAR Basil?
+1996	9ooc	NECESITO QUE ME LLEVEN DE VUELTA A STROS M'KAI.
+1997	9ooe	VE Y PREGUNTA A BASIL. ÉL DICE QUIÉN SE QUEDA Y QUIÉN SE VA AQUÍ.
 1998	9ppa	OCÚPATE DE TUS ASUNTOS, AMIGO. AQUÍ NO NOS GUSTAN MUCHO LOS ESPÍAS.
 1999	9ppb	¿QUÉ HACES AHÍ, FORASTERO? ¿BUSCANDO PROBLEMAS?
 2000	9ppd	¡OYE! ¿QUÉ ERES? ¿UN ESPÍA? ¡ALÉJATE DE AHÍ!
@@ -1121,6 +1252,7 @@
 2264	bxz2	¿Y bien? ¿Quieres algo?
 2265	bxz3	Habla, muchacho. No seas tímido.
 2266	bxz4	¿Esa es tu espada, muchacho? Va muy bien con el disfraz
+2268	bxz6	OH, HO-HO. ¡MUY BONITO
 2269	bxz7	Jugad bien, chicos.
 2270	c104	Espere, Gobernador. Tengo algunas preguntas que hacerle primero. Sobre una mujer llamada Iszara.
 2271	c107	Lleva desaparecida unos meses y la gente cree que puede tener problemas. También dicen que usted podría tener algo que ver.
@@ -1221,6 +1353,9 @@
 2544	dclc	Dreekius, necesito ponerme en contacto con la Liga Restless.
 2545	dcra	Su fuego ha desaparecido desde que perdieron al Príncipe. Pocos muestran sus caras en Stros M'Kai. Algunos se han marchado a tierra firme. Algunos pocos conspiran y planean todavía, alimentando sueños desvanecidos.
 2546	dcrc	Háblame de las Coronas.
+2547	dd1a	PRÁCTICA HABITUAL.
+2548	dd1c	HE ESTADO EN LAS RUINAS ENANAS, PERO NO PUEDO ENTRAR. HAY UN ACERTIJO EN EL FRENTE DE LA PUERTA...
+2549	dd2c	Y ESTÁ ESCRITO EN ENANO, ASÍ QUE NO PUEDO RESOLVERLO. TENDRÉ QUE ENCONTRAR UNA CLAVE SI QUIERO ENTRAR.
 2550	de1a	Un consejo: ten cuidado con la Tribu de Dragones del Emperador. El Rey Guerrero Tiber Septim no tolera la rebelión.
 2551	de2a	Y el Gobernador Richton ha prometido ejecución sumaria a cualquiera que tome las armas para oponerse a su gobierno.
 2552	de3a	Incluso si él fuera responsable, tal vez sería prudente proceder con cautela.
@@ -1274,6 +1409,9 @@
 2604	dj2a	¿Qué planea hacer la Liga?
 2605	dj2c	Las cosas son diferentes ahora
 2606	dj3c	Vamos a traer de vuelta al Príncipe A'tor y recuperar el reino, por supuesto.
+2607	dk1a	¿QUÉ HACÍA ALLÍ EL POBRE DESGRACIADO?
+2608	dk1c	ENCONTRÉ EL DIARIO DEL HERMANO KITHRAL EN LAS CAVERNAS SUBTERRÁNEAS.
+2609	dk2c	BUSCANDO ALGÚN TIPO DE ANILLO. Y TAMBIÉN MENCIONA A ISZARA. SUPONGO QUE TENDRÉ QUE BUSCAR LA COSA AHORA... 
 2610	dl1a	Hay un bretón en la ciudad, completamente ebrio, llamado Crendal. Hace unas semanas estuvo aquí jactándose de tener una parte del mapa.
 2611	dl1c	Mucha gente está buscando el frasco. ¿Alguien en particular?
 2612	dl2a	Sí, pero Crendal es un borracho, así que haz de ello lo que quieras.
@@ -1304,6 +1442,16 @@
 2638	drla	Una tribu humana de mala reputación, pero cuya determinación es algo que puedo comprender.
 2639	drlb	Sus incursiones perturban mis operaciones de contrabando, y a menudo mi naturaleza justa; el vino de Valenwood es difícil de conseguir, ya ves, pero sobre eso no tengo nada peor que decir
 2640	drlc	¿Qué opina de la Liga de los revoltosos?
+2641	drt1	¡HEMOS OÍDO LO DE TU CAPTURA, CYRUS!
+2642	drt2	FRECUENTABA MUCHO ESTE ESTABLECIMIENTO ANTES DE LA BATALLA DE HUNDING BAY; MENOS DESPUÉS, CLARO.
+2643	drt3	ERA UNA FERVIENTE, SU NIDO, QUE ODIABA AL IMPERIO NO EN VOZ BAJA. DESPUÉS DE LA OCUPACIÓN, ELLA DESAPARECIÓ POR UN TIEMPO--
+2644	drt4	NO, HABLO DE ANTES, JUSTO DESPUÉS DE LA BATALLA. MUCHAS CORONAS SE HABÍAN DISPERSADO ENTONCES, ESCONDIÉNDOSE DONDE PODÍAN.
+2645	drt0	NO LA VI DURANTE VARIOS DÍAS DESPUÉS, PERO ENTONCES APARECIÓ, NECESITANDO UNA COPA Y DIVAGANDO, TENSA POR ALGUNA DECISIÓN.
+2646	drt5	LLEGARON LOS IMPERIALES Y LA DEJÉ SALIR POR LA PARTE DE ATRÁS. NO LA HE VISTO DESDE ENTONCES.
+2647	drt6	¿OTRO PIEL SUAVE QUE SUEÑA CON LA INESTIMABLE JOYA DEL REY DEL ANTIGUO PANTANO NEGRO? TÚ TAMBIÉN TIENES ESE ASPECTO, TODO ESPADA Y FANFARRONERÍA. TOBÍAS TE DESCRIBIÓ BIEN.
+2648	drt7	LO QUE USTED DIGA.
+2649	drt8	LO QUE SIGNIFICA QUE TIENE MUCHO ESPACIO PARA MANIOBRAR.
+2650	drt9	LO SIENTO, CYRUS, YO TAMPOCO.
 2651	ds1a	Oh, no. Simplemente observé sus impulsos de clan, que cualquier argoniano podría admirar, estando acostumbrados, como estamos, a honrar los intereses del clan sobre nuestros propios asuntos privados.
 2652	ds1b	¿Es tu primera visita a Stros M'Kai, Cyrus?
 2653	ds1c	¿Simpatizas con la Liga, entonces?
@@ -1317,6 +1465,7 @@
 2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era anterior, porque esa magia era muy propensa al error
 2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición de las gemas de alma. Deberías preguntar a alguien del gremio para saber más
 2663	dslc	¿Has oído hablar de las gemas del alma, Dreekius? Necesito hacerme con una
+2664	dsrc	ENTRÉ EN LAS RUINAS, PERO NO LO HE EXPLORADO TODO. DEBERÍA VOLVER Y VER QUÉ PUEDO ENCONTRAR.
 2665	dt1a	Que siga siendo sólo 'juego' y no me importará que vuelva a ocurrir. Los Antepasados tienen sus problemas, así que no es de extrañar que vengan aquí buscando compartirlos.
 2666	dt1c	Perdón por jugar con espadas
 2667	dt2a	Practica todo lo que quieras, salvo el golpe mortal. Y cuidado con los muebles, por favor
@@ -1391,6 +1540,8 @@
 2737	ectc	Cálmate. Parece que lo has arreglado
 2738	ed1a	¡¡¡Flash!!! ¡Eso es lo que dijo Erasmo! Esos enanos sabían un par de cosas. Richton envió a sus hombres a las ruinas, y yo aquí para arreglar esto, ¡flash! ¡Flash! ¡Flaaasshhh!,
 2739	ed1c	¿Dices que este lugar es enano?
+2740	ed2a	...luz! luzzz infinitaaaaa!!
+2741	ed2c	luz...?
 2742	edra	Enanos... ¡Flash! ¡Flash! ¡¡Flaaasshhh!! ¡Les gustaba construirlo todo en trozos pequeños!
 2743	edrb	¡Malditos gugglies se separaron sin dejar instrucciones en sus, flash!!, ¡Juguetes! ¡Las ruinas demasiado grande y aterrador para mí! Compruébalo tú mismo, ¡ve al oeste!
 2744	edrc	¿Mencionaste las Ruinas Enanas?
@@ -1455,6 +1606,7 @@
 2805	f415	Pero el Imperio debe haberse dado cuenta. Un Elfo Oscuro vino un día a hablar con Jaganvir y lo siguiente que sabes es que Joto está en la cárcel de la ciudad por traición al Imperio.
 2806	f417	No sé si se escapó o la atraparon junto con Joto o qué. Es el único que podría decírtelo y se está pudriendo en una celda.
 2807	f419	You're crazy if you think you're going to break into the city jail! The Empire has--
+2808	f41a	SÍ, EL PRÍNCIPE A'TOR ESTÁ DETRÁS DE TI HACIENDO CARAS RARAS. NO, NO FUNCIONÓ.
 2809	f421	¡Arquimago Jaganvir! Yo sólo estaba---
 2810	fapa	Falicia. Y ya ha pasado demasiado tiempo. Creo que el gremio tiene prejuicios contra los elfos por el hecho de que vivimos tanto tiempo--
 2811	fapb	Y tenemos el potencial de alcanzar alturas con las que ningún mago humano podría soñar, a menos que siga el camino de la putrefacción, como hacen tantos, pero supongo que sólo estoy siendo amargada.
@@ -1463,6 +1615,7 @@
 2814	fara	Un humano llamado Jaganvir, un verdadero caso difícil. En realidad no tiene suficientes secretos para ser Archimago, pero el último murió en la Batalla de Stros M'Kai, así que había un vacío que llenar.
 2815	farc	¿Quién es el Archimago?
 2816	fb1a	Me llamo Falicia. Estaré aquí
+2817	fb1c	GRACIAS POR TU AYUDA.
 2818	fb2a	Gracias a ti.
 2819	fb2c	Gracias, Falicia.
 2820	fb3a	Vuelve otra vez.
@@ -1473,6 +1626,7 @@
 2825	fbsa	No el Gremio de Magos, sólo el antiguo Archimago Voa. Era nacionalista además de miembro del gremio, y no pudo evitarlo. Lo mataron por política mundana.
 2826	fbsc	¿El Gremio de Magos ayudó a los Coronas en la batalla?
 2827	fbya	Pociones mágicas de todo tipo.
+2828	fbyb	ALGÚN QUE OTRO ANILLO MÁGICO.
 2829	fbyc	¿Qué se vende?
 2830	fema	De eso no estoy en libertad de decir. Digamos que el Archimago Jaganvir está tratando de mantenerse en su lado bueno. Tiene sus codiciosos ojos puestos en la Battlespire.
 2831	femc	¿Ha interferido el Imperio con el Gremio de Magos?
@@ -1482,7 +1636,12 @@
 2835	ffld	Huyeron de la Isla Summerset con el frasco, esperando comprar el santuario del Clan Direnni en Roca Alta, pero los mares sólo los trajeron hasta aquí. Algunos dicen que hay un mapa.
 2836	fgta	Se... supone que no debo hablar de eso.
 2837	fgtc	He oído que uno de sus miembros se metió en problemas con el Gobernador.
+2838	fh1a	HOLA, FORASTERO BIENVENIDO AL GREMIO DE MAGOS DE STROS M'KAI, FUNDADO EN 638 CE. SOY EL TENDERO RESIDENTE POR AQUÍ.
+2839	fh1b	SIÉNTASE LIBRE DE MIRAR A SU ALREDEDOR, PERO RECUERDE QUE TODO ES PROPIEDAD DEL GREMIO. SI HAY ALGO QUE TE GUSTARÍA COMPRAR, HÁZMELO SABER.
 2840	fh1c	Hola.
+2841	fh2a	HOLA DE NUEVO.
+2842	fh2c	HOLA, FALICIA.
+2843	fh3a	BIENVENIDOS DE NUEVO
 2845	fhea	Claro. 25 de oro por favor.
 2846	fhec	Tomaré una poción curativa.
 2847	fima	Mi aprendizaje aquí ha durado varios años, y aún no he conocido a ningún miembro llamado Iszara. Pero, quién sabe, muchos miembros de la cábala superior son de los reservados.
@@ -1509,7 +1668,14 @@
 2868	fnoa	No recuerdo a nadie con ese nombre, pero viene tanta gente a diario que no me extraña.
 2869	fnob	Y yo sería la única que trabaja en la tienda, ya que mi aprendizaje, por alguna cruel razón, parece relegado al comercio minorista.
 2870	fnoc	Es poco probable, pero puede que haya sido clienta de su tienda.
+2871	fpoa	POCIONES CURATIVAS, POCIONES DE FUERZA Y POCIONES DE PIEL DE HIERRO.
+2872	fpob	TAMBIÉN TENEMOS ALGUNOS INGREDIENTES ALQUÍMICOS A MANO.
+2873	fpod	MMM. TENEMOS SANGRE DE ORCO, ECTOPLASMA, LECHE DE ARAÑA. Y... TENEMOS INCLUSO SAVIA DE HIST... NO DEMASIADO FRESCA, POR SUPUESTO, PERO LO SUFICIENTEMENTE BUENA PARA LA MAYORÍA DE LAS APLICACIONES.
 2874	fpoc	Pociones curativas, pociones de fuerza y pociones de piel de hierro.
+2875	frga	TE OCULTARÁ DE TUS ENEMIGOS. AUNQUE ES CARO.
+2876	frgc	¿QUÉ HAY DEL ANILLO?
+2877	fria	OK. SON 500 ORO.
+2878	fric	QUIERO EL ANILLO.
 2879	frla	Me temo que no. El Gremio de Magos intenta mantenerse al margen de la política.
 2880	frlc	¿Sabes algo de la Liga Revoltosa?
 2881	frxa	Me temo que no.
@@ -1524,11 +1690,14 @@
 2890	fs3c	TEchan de menos el dosel de los árboles de Valenwood...
 2891	fsga	Mmm, er, nada... ¿Por qué lo preguntas?
 2892	fsgc	¿Qué sabes de las gemas del alma, Falicia?
+2893	fsra	¡ESTÁS DE VUELTA! SIENTO LO DE JAGANVIR. ESTÁ LOCO.
+2894	fsrb	TÓMA UNA POCIÓN POR LAS MOLESTIAS.
 2895	fsta	Aquí mismo. 25 piezas de oro.
 2896	fstc	¿Qué tal una poción de fuerza?.
 2897	ft1a	Supongo que yo también lo siento. Espero que pudiera ayudarte a encontrar a tu hermana.
 2898	ft1c	Intenté liberar a Joto pero no lo consiguió.
 2899	ft2c	«Él me puso en el camino correcto. Necesito encontrar el Frasco de Lillandril.
+2900	ft3c	CON SU AYUDA LO HICE.
 2901	ftha	No parece que tengas el oro.Vete a chambear, vago y feo.
 2902	fthc	Gracias.
 2903	fuca	Claro. Estarás justo después de mí, en cuanto tengas diez años de aprendizaje a tus espaldas y puedas lanzar un hechizo de 'alterar la realidad'.
@@ -1543,6 +1712,14 @@
 2912	fzz1	Buen dia.
 2913	fzz2	¿Busca algo?
 2914	fzz3	¿Puedo ayudarle?
+2915	focc	DAME LA SANGRE DEL ORCO.
+2916	fecc	TOMARÉ UN POCO DE ECTOPLASMA.
+2917	fspc	QUIERO LA LECHE DE ARAÑA.
+2918	fhsc	PROBARÉ TU HIST SAVIA.
+2919	foca	BIEN. SON CINCO DE ORO.
+2920	feca	BIEN. Y ME LLEVO CINCO DE ORO.
+2921	fspa	BIEN. CINCO DE ORO, POR FAVOR.
+2922	fhsa	ESTARÁ BIEN. SON CINCO DE ORO.
 2923	fyy5	Guarda eso, por favor. Este no es lugar para mostrar un pene.
 2924	fyy6	Señor. Por favor, señor. No está permitido estar detrás del mostrador.
 2925	ga1a	Hojas de aloe del sur de Hammerfell, las mejores, frescas cada semana. Excelente para calmar esos dolores y molestias. Y sólo 15 de oro por manojo.
@@ -2439,8 +2616,13 @@
 3880	plrc	¿Qué reputación tiene la Liga?
 3881	pnoa	Como quieras, muchacho. Pero no sabes lo que te pierdes.
 3882	pnoc	Gracias Prnell, pero tal vez en otra ocasión.
+3883	ppla	¿POR QUÉ QUERRÍAS HACER ESO, HIJO? A MENOS QUE TENGAS NEGOCIOS CON EL GOBERNADOR, NO HAY FORMA DE ENTRAR.
+3884	pplc	¿ALGUNA IDEA DE CÓMO PUEDO ENTRAR EN EL PALACIO?
 3885	ppsa	Me temo que no, Cyrus.
 3886	ppsc	¿Conoces la contraseña?
+3887	prca	NO LO HE VISTO DESDE SU DESFILE DE LA VICTORIA DESDE EL PUERTO. NUNCA DEJA EL PALACIO, ESO HE OÍDO.
+3888	prcb	PROBABLEMENTE SABIO... NADA LE GUSTARÍA MÁS A LA revoltosa LIGA QUE SACARSE LOS OJOS Y MEARSE EN EL CEREBRO.
+3889	prcc	HÁBLAME DE ESTE GOBERNADOR RICHTON.
 3890	prla	¿Fuiste tú? Lo vi todo, a través de mi telescopio, ya sabes. Aunque no fue una gran batalla. ¡Ja, realmente le diste a esos rufianes lo que querían!
 3891	prlc	¿Has oído hablar de un grupo llamado la Restless League? Mi barco fue atacado por un par de ellos en el camino aquí.
 3892	psda	Debajo de la tienda de Maiko. Pero no es tan sencillo. Nadie entra sin una contraseña.
@@ -2458,6 +2640,10 @@
 3904	pxy3	Realmente no debería, pero... de acuerdo. No puedo evitarlo, ¡me gusta hacer feliz a la gente!
 3905	pysa	¡Ese es el espíritu! Pronto verás de lo que hablo. ¡No hay nada igual, te lo aseguro!
 3906	pysc	De acuerdo, aceptaré tu oferta.
+3907	pzz1	¿EH? ¿QUÉ?
+3908	pzz2	BIEN, BIEN.
+3909	pzz3	HAWNN... ¿ERES TÚ?
+3910	pzz4	¿QUÉ *ESTÁS* HACIENDO, MUCHACHO? ¿A QUÉ TE DEDICAS?
 3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
 3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
 3913	q508	Joto solo conoce a un hechicero que puede hacer eso: N'Gasta, un nigromante poderoso.
@@ -2480,6 +2666,7 @@
 3931	qc4a	¿Qué quieres decir?
 3932	qc4b	¿Cambiarte a qué?
 3933	qc5a	Lo siento, Joto no te entiende.  
+3934	qc5b	¡¿que!?
 3935	qc5d	Esto no le dice nada a Joto.
 3936	qc5e	Joto no comprende.
 3937	qc5f	Genuina, Joto está seguro, pero no es esclarecedora.
@@ -2524,6 +2711,7 @@
 3976	r909	Déjamelo a mí, dijiste, y con tanta seguridad.
 3977	r910	Recuerdo haberme quedado tranquilo con el asunto. Recuerdo que pensé: bueno, ahora, por fin puedo dedicarme a la tarea de administrar esta provincia problemática-- 
 3978	r911	Pero este joven continúa causándonos un daño irreparable cuando menos podemos soportarlo.
+3979	r913	¡LA LIGA Revoltosa!
 3980	r916	Ya veo. El Emperador me advirtió que nunca subestimara la sutileza de tus planes, Dram. Adelante, entonces. Espero su informe completo.
 3981	rb06	¡¿Quiénes?!!
 3982	rb08	¡El Guardia Rojo está detrás de esto! Sé que es él!
@@ -2538,6 +2726,7 @@
 3991	sbrc	¿Hay algo que deba saber sobre Brennan?
 3992	scha	Hola, marinero.
 3993	schb	Cyrus, cariño
+3994	schd	Más vale que te piras, Cyrus. Los guardias están al caer.
 3995	scla	Peligroso asunto ese, pero es tu pellejo... Hay negocios turbios en el sótano de Maiko, la Guarida del Contrabandista se llama. Podrían estar conectados con esos piratas de la Liga
 3996	sclc	Esta Liga Inquieta... ¿cómo podría contactar con ellos?
 3997	scra	Apoyaron al Príncipe A'tor tras la muerte de su padre. Verdaderos patriotas de la Guardia Roja, es una lástima
@@ -2613,6 +2802,9 @@
 4067	strc	Tal vez puedas ayudarme. Cuéntame más sobre los recientes 'problemas' en Stros M'Kai
 4068	sysa	¿Hunding odiaba a los duendes? ¡Claro que le conozco!
 4069	sysc	Tobías. ¿Le conoces?
+4070	szz1	DEMONIOS, GRANDULLÓN.
+4071	szz2	¡VAYA, VAYA!
+4072	szz3	CYRUS, BEBÉ TE AMO.
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
 4135	tb4a	No estoy seguro.
 4223	tk2c	¿Qué puede decirme de Iszara?
