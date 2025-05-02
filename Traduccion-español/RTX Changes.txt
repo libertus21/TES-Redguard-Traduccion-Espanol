@@ -675,7 +675,19 @@
 1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
 1617	71bc	¡Vamos!
 1678	73fh	COME HERE! 
+1702	71a1	vete, cara de retrasado
+1703	71a2	SAL DE AQUÍ. ¿QUIÉN TE CREES QUE ERES?
+1704	71a3	HOY EN DÍA DEJAN ENTRAR AQUÍ A CUALQUIERA.
+1705	72a1	NO, NO, Y NO, OTRA VEZ. NO CON GENTE COMO TÚ, NO, NO, NO.
+1706	72a2	¡PEE-YOO! UN POCO CERCA DE AQUÍ, ¿NO ES ASÍ, DAGOO?
+1707	72a3	NO TE VEO NI TE OIGO. VUELA LEJOS.
+1708	73a1	¿POR QUÉ SIEMPRE ME MOLESTAN? CONTINÚA, ¿QUIERES?
+1709	73a2	¿NO TE LO HE DICHO? DIO?
+1710	73a3	¿QUÉ? ¿ERES TONTO O QUÉ?
 1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
+1712	73ha	¿ES ASÍ? ¡HEY, CORONA! SÉ BUENO Y TRÁENOS OTRA RONDA, ¿EH?
+1713	72ha	HE OÍDO QUE LOS CORONELES OS CREÉIS MUY VALIENTES. ¿QUIERES PONERTE A PRUEBA CONTRA UN VERDADERO ESPADACHÍN?
+1714	73hb	ESTOY HARTO DE CHÁCHARA, CORONITA. SACA ESA CUCHILLA, SI SABES COMO, O DEJAME EN PAZ
 1716	7801	un poco de privacidad.
 1717	7802	Un poco de luz de velas.
 1718	7803	Y comienzan las galanterías. Mi nombre es Nafaalilargus.
@@ -685,6 +697,7 @@
 1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
 1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
 1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
+1790	7apc	Lamento molestarles.
 1791	8a1a	Vamos, Cyrus. No te resistas.
 1792	8a1c	Lord Vile, me disculpo por ser tan grosero, y yo...
 1793	8a2a	Muy bien, Cyrus. Tal vez un poco débil en sinceridad, pero... la práctica hace al maestro.
