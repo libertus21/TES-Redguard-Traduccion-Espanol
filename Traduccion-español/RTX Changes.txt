@@ -2531,6 +2531,17 @@
 3617	nm4a	Kithral nunca me lo dijo. No tenía ni idea. Y esto explicaría su búsqueda del anillo del Archimago....
 3618	nm4c	Hermano Nidal, ¿sabías que el alma del Príncipe A'tor fue colocada en un soulgem justo antes de su muerte?
 3619	nm5c	¿Qué quieres decir?
+3620	ny01	Puedo saborear el veneno en mi boca; una niebla amarilla en el pecho que obstruye los conductos vitales. 
+3621	ny02	El tajo en mi costado llora rápido... ¿qué me matará primero: la herida o la toxina?
+3622	ny03	¡Maldita sea su impaciencia! Y maldito sea mi orgullo al pensar que podría encontrar el anillo aquí, en esta nefasta oscuridad, por mi cuenta.
+3623	ny04	Mas no acudió al lugar señalado, y nos estamos quedando sin tiempo con el anillo del Archimago estamos un paso más cerca de restaurar el poder de las Coronas.
+3624	ny05	Estoy seguro de que su cuerpo está aquí, algún truco de la corriente subterránea en la estela de la batt--
+3625	ny06	La leche de la araña es profunda. ¡Iszara! ¡Ruego que no te haya pasado nada!
+3626	ny07	Oigo a los duendes detrás de la puerta--- ¡Ubula! ¡Ubula! ¡Ubula!
+3627	ny08	¡Vienen por mí! ¡Te he fallado, mi amor, y el anillo no está más cerca! ¡Debes darte prisa! 
+3628	ny09	¡La Liga se acerca!
+3629	ny10	El Imperio se acerca!
+3630	ny11	La oscuridad se acer--
 3631	nzz1	Bendiciones, y bienvenido.
 3632	nzz2	Si?
 3633	nzz3	Buena suerte, hijo.
