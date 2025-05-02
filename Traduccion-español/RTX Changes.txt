@@ -68,6 +68,7 @@
 614	?hsg	Ayuda con la gema del alma
 618	?hyk	Ayude a los Yokudan
 626	?iil	Iszara en la Liga
+627	?imb	Mensajero de Iszara
 628	?imn	No estoy seguro
 629	?imp	Imperiales
 635	?isf	Iszara está a salvo
@@ -97,6 +98,7 @@
 706	?ncy	Nigromancia
 708	?nec	Nigromante
 718	?not	Todavía no.
+719	?npr	No tiene sentido resistirse
 720	?nsc	Sin miedo y listo
 721	?ntl	Nacionalista
 722	?nyp	Di tu precio
@@ -669,6 +671,7 @@
 1600	6zz3	Habla más alto. Tengo trabajo que hacer.
 1601	6zz4	Nada de armas aquí. Guárdala.
 1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
+1678	73fh	COME HERE! 
 1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
 1716	7801	un poco de privacidad.
 1717	7802	Un poco de luz de velas.
@@ -931,6 +934,52 @@
 2150	aysc	Si, desafortunadamente los Yokudanos siempre han sido tratados como forasteros, en todo Hammerfell.
 2151	aysa	Un prejuicio sin sentido, ya que su religión se remonta a las primeras tradiciones Redguard
 2152	aysb	Pero nuestro nuevo gobernador ha hecho cosas mucho peores que simplemente cobrarles de más por la harina.
+2154	bx0c	Apártate, lumbreras. Llegaremos a eso en un minuto
+2156	bx1c	¿Fuiste tú? Recuerdo a dos bromistas que no sabían manejar sus sables, pero tú debías de estar escondido.
+2157	bx2a	Manteniendote misterioso Cyrus. ¿Qué quieres?
+2158	bx2c	¿Eres Basil? Eres un hombre difícil de encontrar.
+2159	bx3c	Escucha, lumbreras, no estoy aquí por ti. Sé todo lo que tienes que decir. Saca tu espada cuando estés listo
+2160	bx4a	Y ahora el altruista hermano cachorro quiere su hueso.
+2161	bx4b	Primero, aquí tienes una venda. Arréglate. A menos que estuvieras planeando usar esa dulce y pequeña lengua de cachorro para lamer tus heridas.
+2162	bx4c	He terminado con tu matón. Y lo dejé vivo
+2163	bx5a	Bien. Aquí está la llave de la logia de Iszara. Ya la hemos registrado en busca de pistas sobre su paradero, pero quizá tú puedas encontrar algo que nosotros no hayamos podido.
+2164	bx5c	¿Te gusta respirar, Basil?
+2165	bx6a	Pistas particularmente en un diario, uno que no podemos abrir.. Si puedes decirme qué hay en el diario, te diré lo que sé sobre la desaparición de Iszara
+2166	bx7a	Abre el diario, entonces hablaremos.
+2167	bx8a	Espero escuchar lo que Iszara dice en su diario antes de decirte nada más.
+2168	bx9a	Estrategia equivocada tan pronto en el diálogo, hijo. El juego consiste en averiguar primero lo que sabe el otro, no en mostrar cuánto del mapa no puedes leer.
+2169	bx9b	Ves, pensé que eras el mensajero de Iszara, lo que habría concedido una audiencia más larga, pero estás ahí de pie pareciendo el último cabo suelto de muchos.
+2170	bx9c	¿Dónde está?
+2171	bxaa	Si tú lo dices.
+2172	bxac	¿Así que lideras esta banda?
+2173	bxba	A'tor ya lo hizo y murió por ello. El Imperio no nos permitirá vivir contra ella, ni una historia escrita sin su nombre , así que no tiene sentido resistirse tan abiertamente.
+2174	bxbc	¿Así que planeas enfrentarte al Imperio?
+2175	bxcc	Quérevoltoso eres
+2176	bxda	No sugiero que la Liga reciba al Imperio con los brazos abiertos. Propongo que los saludemos con brazos secretos, con sutiles aguijonazos, con sangre y monedas derramadas en sigilo.
+2177	bxdb	Amenaza sublunar». Nuestro propósito es insinuar, muy educadamente, que no hay ganancias en Hammerfell... Y ninguna perspectiva de beneficio.
+2178	bxdc	Miedo.
+2180	bxea	Vaya. Con qué facilidad repites la propaganda imperial. Quizá un turista ignorante como tú no se dé cuenta de que sólo tocamos las naves del Imperio y de Richton.
+2181	bxeb	Los nerviosos dueños de barcos y los simpatizantes del Imperio alzan el grito contra el saqueo y la piratería... Pero el pueblo de Stros M'Kai conoce bien los verdaderos objetivos de nuestras acciones.
+2182	bxec	¿Por qué sigues acechando a Stros M'Kai?
+2183	bxfc	Soy el hermano de Iszara, y todos mis cabos sueltos me han llevado hasta ti
+2184	bxga	Y forma parte de nosotros desde hace mucho tiempo. Y de su omisión de referencia a ti, infiero poco orgullo o confianza en ti...
+2185	bxgb	...Un juicio que parece bien fundamentado en el curso de nuestra breve y no demasiado gratificante relación.
+2186	bxha	Tiene los mismos modales cordiales que su hermana, eso es seguro.
+2187	bxhc	Cállate.
+2188	bxia	Hark! ¡Habla el sabio! Pero déjame aconsejarte, eso es lo peor que podrías decirle a Iszara cuando la encuentres.
+2189	bxic	He visto a los Cyrodiils expandirse por el resto de Tamriel. No vas a detenerlos.
+2190	bxja	¿Oyes eso, Vander? El hombre piensa sondear mis pensamientos más íntimos. ¿Debería compartir con él una lista de los deseos de mi corazón?
+2191	bxjc	Si no tiene sentido resistirse, ¿por qué te quedas aquí?
+2192	bxkc	Tu lista será lo suficientemente corta, tonto, si sacas esa espada contra mí
+2193	bxla	Hay algunos que no pueden admitir una derrota, que ante la derrota crean teorías de venganza.
+2194	bxlb	Pero el secreto de la teoría es que la verdad no existe. Iszara desapareció apropiadamente en el mismo vacío
+2195	bxlc	¿Cuándo y por qué se habría unido Iszara a ti? ¿Su asociación contigo hizo que la mataran?
+2196	bxma	¡Despierta, imbécil! Somos ladrones y somos malos. E Iszara era parte de ello, te guste o no.
+2197	bxmb	Por si no te has dado cuenta estamos escondidos aquí, así que es lógico que si Iszara no está aquí entonces está en problemas
+2198	bxmc	Espero que eso haya significado algo para ti, porque no me acerca a Iszara. Ahora quiero saber qué le pasó
+2199	bxmd	No crees que el Imperio podría ayudarte a resolver este misterio un poco mejor? Estás perdiendo el tiempo aquí
+2200	bxnc	¿En qué tipo de problemas estaría metida?
+2201	bxoc	¡Vamos!
 2203	bbyc	Gracias. Hablaremos más tarde.
 2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
 2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
@@ -952,6 +1001,11 @@
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
 2262	bzz2	A tu salud, muchacho.
+2263	bxz1	Sí, sí, sí.
+2264	bxz2	¿Y bien? ¿Quieres algo?
+2265	bxz3	Habla, muchacho. No seas tímido.
+2266	bxz4	¿Esa es tu espada, muchacho? Va muy bien con el disfraz
+2269	bxz7	Jugad bien, chicos.
 2270	c104	Espere, Gobernador. Tengo algunas preguntas que hacerle primero. Sobre una mujer llamada Iszara.
 2271	c107	Lleva desaparecida unos meses y la gente cree que puede tener problemas. También dicen que usted podría tener algo que ver.
 2272	c111	Como he dicho, puede que tengas algo que ver.
@@ -992,6 +1046,7 @@
 2317	ccv3	Hunding te maldice.
 2428	cmag	¡Magnífico!
 2470	cwts	¿Qué es esto?
+2493	&007	¡Vamos!
 2510	d1da	Pensé que un elfo loco estaba trabajando en eso
 2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
 2512	d1ia	¿Y ahora qué?
@@ -2315,6 +2370,15 @@
 4424	uzz5	¿Has estado dándole al azúcar lunar, tío?
 4425	uzz6	¿Por qué el acero desnudo, amigo? Eso no es de buen vecino.
 4426	uzz7	No más, amigo.Mi culo esta roto.
+4428	vb2a	Pero ahora me ves, ¿no?
+4429	vb3a	Tan claro como el agua...
+4430	vb4a	¡No necesitamos hablar con él! Déjame...
+4431	vb5a	¿Puede morir, ahora?
+4432	vb6a	Déjenme cortar a este listillo.
+4433	vb7a	Ella nunca mencionó un hermano
+4434	vb8a	Él tampoco tiene idea de dónde está.
+4435	vb9a	Tu lista es demasiado larga, Basil. Yo contaré la mía. Es corta... Y al... ¡punto!
+4436	vbaa	No puede ayudarnos, Basil. Ahora me toca a mí.
 4460	vh1a	¿Vienes a presumir de tu triunfo?
 4461	vh2a	¿Y qué hay de mis hombres? ¿Qué pasa con ellos?
 4462	vh2c	Acabemos con esto. ¿Por el bien de mi hermana? 
