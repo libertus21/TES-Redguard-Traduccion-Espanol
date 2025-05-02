@@ -2242,6 +2242,79 @@
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
 4135	tb4a	No estoy seguro.
 4223	tk2c	¿Qué puede decirme de Iszara?
+4338	ub1c	Ha sido un placer, Urik.
+4339	ubfa	Eres un mentiroso. ¿Cómo conoces a Basil? Creo que eres un espía imperial. Apuesto a que si te matara, Basil pagaría una buena recompensa.
+4340	ubfc	Y mira a dónde te ha llevado eso. Basil es amigo mío, y si haces las cosas bien, puedes salir de esto mucho más rico.
+4341	ubsa	El jefe de la Liga Revoltosa, amigo. Mientras él viva, la Liga también. Hasta que el Gobernador exhiba la cabeza de Basil en la pared de Palacio, yo no los descartaría.
+4342	ubsc	¿Y quién es Basil?
+4343	udla	Sí, como quieras.
+4344	udlc	Sí. Aquí está tu dinero. Me aseguraré de mencionar tu amabilidad cuando encuentre a Iszara.
+4345	ufia	Como quieras.
+4346	ufic	Es hora de ganarte tu recompensa, Urik.
+4347	ufla	¿Qué te hace pensar que te necesito para tratar con la Liga? Llevo años manejando bien a Basil sin ti.
+4348	uflc	Escucha. Tú me lo das, yo se lo doy a la Liga y hablo bien de ti. ¿Qué me dices?
+4351	uh1a	Lo siento, amigo. No puedo ayudarte.
+4352	uh1c	¡Abreme!
+4353	uh2a	Está cerrado.
+4354	uh2c	No lo se.
+4355	uh3a	Bien. Sólo un segundo.
+4356	uh3c	Tood Hovard.
+4363	uhia	Claro que sí. Cambié por él justamente.
+4364	uhic	Entrégalo, amigo. Ese pergamino era de Iszara, y ahora me pertenece.
+4365	uhta	Un buen golpe, ¿eh, amigo?
+4368	uifa	Nunca dije que fuera su amiga. Sólo que la conocía. ¿Qué te hace pensar que me importa lo que le pasó?
+4369	uifc	Afirmas ser amigo de Iszara. Estoy intentando averiguar qué le pasó, y necesito ese pergamino para hacerlo.
+4370	uisa	Así es, ella venía de vez en cuando. La última vez que la vi, iba detrás de un trozo de malaquita por alguna razón.
+4371	uisc	Busco a Iszara, mi hermana. Al parecer, ella hizo negocios con usted de vez en cuando.
+4372	ukba	¡Ja! Yo te llamo farol, tú llamas al mío. Bien, aquí está la maldita insignia. No me sirve de nada de todos modos. Un consejo, no intentes eso con Basil. Nunca va de farol.
+4373	ukbc	Así que tal vez no conozco a Basil. Sólo quiero encontrar a mi hermana, y ahora mismo, tú estás entre ella y yo.
+4374	ulga	Siempre hemos trabajado juntos, desde mucho antes de la guerra civil. Interés mutuo y todo eso.
+4375	ulgb	Pero los chicos de la Liga deben estar pasando desapercibidos, no he visto a ninguno de ellos en semanas. No importa. El contrabando es un buen negocio, con o sin piratas.
+4376	ulgc	¿La Liga Revoltosa opera desde la Guarida del Contrabandista?
+4377	ulia	Hmph. Supongo que tienes razón. Dile a Basil que tengo pedidos atrasados acumulandose, tan pronto como pueda llenarlos.
+4378	ulic	Tú mismo dijiste que la Liga se ha ido. Dame las insignias. Si las encuentro, bien por ti. Si no, no te habrá costado nada.
+4379	ulxa	Eso depende. ¿Qué hay en ella para mí?
+4380	ulxc	Me vendría bien la insignia que te dio Iszara. ¿Me la das?
+4381	umla	No lo sé. Pero seguro que lo quería mucho. Me cambió una insignia de la Liga por él, dijo que podría usarlo para conseguir favores de la Liga.
+4382	umlb	Pero desde entonces, la Liga ha desaparecido de Stros M'Kai, así que me he quedado con un trozo de papel sin valor.
+4383	umlc	¿Qué querría Iszara con eso?
+4384	unda	Sí, como quieras.
+4385	undc	Eso no es aceptable. Creo que sólo vas a darme esa insignia.
+4386	unma	Bueno entonces, parece que tenemos un problema aquí.
+4387	unmc	No lo sé. Pero sé que no me iré sin esa insignia.
+4388	uoca	Todo el mundo necesita contrabandistas, nos guste o no. Por ejemplo, a Richton le gusta su vino Valenwood.
+4389	uocb	La Liga se asegura de que no llegue legalmente, y nosotros nos aseguramos de que la bodega de Palacio se mantenga bien surtida. Todo el mundo gana.
+4390	uocc	La ocupación imperial no parece haber encorsetado mucho tu estilo.
+4391	upaa	Claro que sí. Pero dudo que puedas permitírtelo. Es decir, a menos que los matones sin trabajo ganen más dinero de lo que pensaba.
+4392	upac	Ah, un hombre de negocios. Estaría dispuesto a pagarte por él.
+4393	upas	¿Cuál es la contraseña?
+4394	upka	Tranquilo, amigo. Tengo mi propia hermana, ¿vale? Escucha, veo que es importante para ti, así que puedes cogerla. Toma. Sin rencores, ¿vale?
+4395	upkc	Estás tentando a tu suerte, rubia. Estaré encantado de cortarte el cuello si eso es lo que hace falta para encontrar a mi hermana.
+4396	upla	Yo no. El Gobernador tolera nuestra operación, seguro, pero no confía en nosotros.
+4397	uplb	Richton es muy estricto con la seguridad... y no me extraña, a la Liga le encantaría clavarle un cuchillo. Nadie entra en el Palacio sin una maldita buena razón.
+4398	uplc	Imagina que quieres entrar en el Palacio del Gobernador. ¿Podrías hacerlo?
+4399	upsa	Sí, bueno, no estamos tan arriba como la Liga Revoltosa en la lista de enemigos de Richton
+4400	upsc	No te preocupes, tu secreto está a salvo conmigo. No es que este lugar sea tan secreto. La mitad de la ciudad parece saberlo.
+4401	uria	Tenemos nuestros usos. Como si no quieres que el Emperador sepa cuántos impuestos estás recaudando en realidad. Como dije, todos ganan.
+4402	uric	Aún así, me sorprende que Richton te dé tanta libertad.
+4403	usda	Gracias, nos gusta pensar así. ¿Quién te dio la contraseña, por cierto? Así sé a quién tengo que darle una paliza.
+4404	usdc	Una pequeña y acogedora operación la que tienen aquí.
+4405	uswa	¿Se supone que eso es un insulto? Demonios, puedes aceptarlo. Si no te lo doy, te quedarás aquí hablando todo el día, y yo tengo trabajo que hacer.
+4406	uswc	Porque conozco a mi hermana. Le habrías gustado. Siempre tuvo mal gusto para los hombres.
+4407	utka	¡Eso ya lo veremos!
+4408	utkc	Entonces tendré que tomarlo/
+4409	utma	De acuerdo. 100 de oro, ni un chelín menos. ¿Puedes pagarlo?
+4410	utmb	No lo creo. Por qué no vuelves cuando estés listo para hacer negocios.
+4411	utmc	No, estoy seguro de que conoces bien la tarifa vigente. Pero por qué no dices un precio y lo vemos.
+4417	uwhd	¡A si papi!
+4418	uwhe	¡MALDICION!
+4420	uzz1	¿Que quieres?
+4421	uzz2	¿Y? ¿Quieres algo?
+4422	uzz3	¿Qué quieres, amigo?
+4423	uzz4	¡Oh! Gallinita rápida, ¿verdad?
+4424	uzz5	¿Has estado dándole al azúcar lunar, tío?
+4425	uzz6	¿Por qué el acero desnudo, amigo? Eso no es de buen vecino.
+4426	uzz7	No más, amigo.Mi culo esta roto.
 4460	vh1a	¿Vienes a presumir de tu triunfo?
 4461	vh2a	¿Y qué hay de mis hombres? ¿Qué pasa con ellos?
 4462	vh2c	Acabemos con esto. ¿Por el bien de mi hermana? 
