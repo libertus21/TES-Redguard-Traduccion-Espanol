@@ -859,16 +859,78 @@
 1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
+1998	9ppa	OCÚPATE DE TUS ASUNTOS, AMIGO. AQUÍ NO NOS GUSTAN MUCHO LOS ESPÍAS.
+1999	9ppb	¿QUÉ HACES AHÍ, FORASTERO? ¿BUSCANDO PROBLEMAS?
 2000	9ppd	¡OYE! ¿QUÉ ERES? ¿UN ESPÍA? ¡ALÉJATE DE AHÍ!
+2001	9ppe	¡TÚ! ESO ESTÁ FUERA DE LOS LÍMITES. NO VOY A ADVERTIRTE DE NUEVO.
+2002	9ppf	¡DEJA ESO! ¡AHORA!
+2003	9ppg	¡ALÉJATE DE AHÍ! ¡TE ESTOY VIGILANDO!
+2004	9nna	ESTÁ EN EL MUELLE OESTE. NO METAS LAS NARICES EN LO QUE NO TE IMPORTA.
+2005	9ooa	NO IRÁS A NINGUNA PARTE HASTA QUE BASIL ACABE CONTIGO.
+2006	9nnd	ERES NUESTRO VISITANTE ENTROMETIDO, ¿VERDAD? MIRA EN EL MUELLE OESTE. TE ESTÁ ESPERANDO. Y NO TE METAS EN NADA. TE ESTOY VIGILANDO.
+2007	9ood	TÚ ERES EL QUE BUSCA A basil, ¿VERDAD? VUELVES A STROS M'KAI CUANDO seas util.
+2008	9qqd	¿ACABAS DE VENIR CON YAELI? ¿PARA HABLAR CON BASIL? REVISA EL MUELLE OESTE. VE DIRECTAMENTE ALLÍ, Y NO TE METAS EN PROBLEMAS.
+2009	9ssa	FORASTERO, ESA HOJA NO TE HARÁ GANAR AMIGOS AQUÍ.
+2010	9ssb	MUY BIEN, TONTO. SI LO QUE QUIERES SON PROBLEMAS, TE COMPLACERÉ.
+2011	9ssd	GUARDA ESO, O MIS AMIGOS Y YO TE DAREMOS UNA LECCIÓN DE HOSPITALIDAD.
+2012	9sse	NO ME IMPORTA QUIEN SEAS. TUS MODALES SON PÉSIMOS. ESPERO QUE AL MENOS PUEDAS MANEJAR ESA ESPADA.
+2013	9ssf	MIRA. BASIL DIJO QUE NO CRUZARA ESPADAS CONTIGO. PERO NO ME GUSTA QUE ME PONGAN UNA ESPADA EN LA CARA... ASÍ QUE GUÁRDALA O ÚSALA.
+2014	9ssg	¿QUÉ? ¿TIENES LOS OÍDOS TAPADOS O ALGO ASÍ? BUENO, NO HAY NINGUNA LEY QUE LO PROHÍBA, SUPONGO. ESPERO QUE EL VIEJO ALBAHACA ME PERDONE SI ACCIDENTALMENTE TE DESCUARTIZO UN POCO.
+2015	9tta	YA HE TENIDO BASTANTE. DÉJAME EN PAZ.
+2016	9ttb	NO. NO MÁS. NO DIBUJARÉ.
+2017	9ttd	NO. GUARDA ESA ESPADA. NO PELEARÉ CONTIGO.
+2018	9qqf	BASIL ESTÁ EN EL MUELLE OESTE. VE A HABLAR CON ÉL. Y NO TE PIERDAS DONDE NO PERTENECES.
+2019	9oog	NECESITAS EL VISTO BUENO DE Basil, O NO IRÁS A NINGUNA PARTE.
+2020	9pph	DEJA DE METERTE DONDE NO TE LLAMAN, MARINERO.
+2021	9ppi	TOCA ESO OTRA VEZ, AMIGO MÍO, Y LO LAMENTARÁS.
+2022	9ssh	OH, VAMOS. AQUÍ NO HAY ESPADAS, AMIGO. NO ES CORDIAL.
+2023	9ssi	BIEN. SI QUIERES PROBLEMAS, LOS TENGO PARA TI.
+2024	9tte	¡HAH! NO HAY POSIBILIDAD DE QUE TE DIBUJE DE NUEVO.
+2025	9ua1	ADELANTE. HAGA LO PEOR.
+2026	9ua2	ASÍ QUE... ¿TE *GUSTA* el pene, verdad?
+2027	9ua3	MUÉSTRAME ALGO, FORASTERO.
+2028	9ua4	VAMOS. MUESTRA ALGO DE VIDA.
+2029	9ua5	¡ESO *DUELE*!
+2030	9ua6	¡UN ÉXITO PALPABLE!
+2031	9ub1	¿ALGUIEN QUIERE JUGAR CON ESTO ANTES DE QUE ME LO CARGUE?
+2032	9ub2	ESPERO QUE NO LE IMPORTE UN POCO DE SANGRE.
+2033	9ub3	UN BUEN EJERCICIO, ¿EH?
+2034	9ub4	 ¿VIENES POR AQUÍ A MENUDO?
+2035	9ub5	¡OW! ¡MALDITA! ESO NO FUE DIVERTIDO.
+2036	9ub6	¿SIENTES ESO? AGUDO, ¿VERDAD?
+2037	9uc1	BENDÍCEME, MARA, Y A ESTE POBRE LOCO.
+2038	9uc2	¡AQUÍ*!
+2039	9uc3	CUIDADO CON EL PIE, HIJO.
+2040	9uc4	HMM. ¿QUIÉN TE ENSEÑÓ ESO?
+2041	9uc5	¡UHHM! QUE PICA, HIJO.
+2042	9uc6	TE HE PILLADO, ¿VERDAD?
+2043	9ud1	STENDARR, AGRACIA MI ESPADA.
+2044	9ud2	¡TOMA ESTO, Y ESTO TAMBIÉN!
+2045	9ud3	OOH. HAS ESTADO PRACTICANDO CON ESO, ¿EH?
+2046	9ud4	TE MUEVES BIEN y rico, CHICO.
+2047	9ud5	¡UGH! NO ES PROFUNDO... PERO SERVIRÁ.
+2048	9ud6	NO TE PREOCUPES CHICO... SIEMPRE PUEDES CULTIVAR OTRO brazo.
 2049	ab1c	Gracias, Avik.
 2050	abrc	No estoy familiarizado con la religión Yokudan. ¿Tienen largos rituales funerarios?
 2051	abra	Me temo que es más grave que eso. Su madre, Saban, necesita contrarrestar la insidia del alma que N'Gasta ha tendido sobre la isla...
+2052	ag1a	¿QUÉ ES ESTO?
+2053	ag2a	¿LE GUSTARÍA UNA CANCIÓN AL PEQUEÑO?
 2054	ag3a	¿Qué fue eso?
+2055	ag4a	SÍ, SÍ, LO SÉ.
+2056	ag5a	ASÍ ES, PEQUEÑA.
+2057	ag6a	LO TENDRÉ EN CONSIDERACIÓN.
+2058	ag7a	¡¿TE CAMBIO?! ¿HAS DICHO ESO? ¡ERES TÚ, CYRUS! ¡OH, POR SUPUESTO, EL CHALECO! ¿FUISTE A AMENAZAR A JAGANVIR?
+2059	ag7b	RECONOZCO SU HECHICERÍA. LA MÍA, SIN EMBARGO, NO ES TAN VULGAR COMO ÉSTA, Y NO TENGO HABILIDAD PARA CONTRARRESTARLA. DEBES BUSCAR A OTRO MIEMBRO DEL GREMIO PARA QUE TE AYUDE.
 2060	agpc	¿Tiene el Gremio de Magos mucha influencia en Stros M'Kai?
 2061	agpa	¡Ya no! El Archimago Voa era un Corona, la mano derecha de A'tor, pero ambos perecieron en la batalla de Stros M'Kai. Jaganvir es un sucesor indigno del puesto de Archimago, si me preguntas a mí.
 2062	agrc	¿Qué les hizo el Gobernador a los Yokudan?
 2063	agra	¡Asesinó al joven Hayle! ¡Luego tachó al resto de traidores y les ordenó abandonar Stros M'Kai!
 2064	agrb	Yokudanos involucrados en la política de los Redguard, ¡una idea absurda!
+2065	ah1a	GRACIAS, MUCHACHO. ME LLAMO AVIK. ¿EN QUÉ PUEDO AYUDARTE?
+2066	ah2a	GRACIAS, HIJO. ERES MUY GENEROSO.
+2067	ah3a	ES USTED MUY AMABLE.
+2068	ah4a	GRACIAS ¿QUÉ LE GUSTARÍA ESCUCHAR A CONTINUACIÓN?
+2069	ah4c	TODAVÍA NO, AMIGO MÍO. NECESITO UN MINUTO.
 2070	ah5a	¡Cyrus! ¡Te las arreglaste para romper el hechizo!
 2071	ah5c	Gracias a tu amigo, Joto .
 2072	ahmc	Su madre está muy afectada por la muerte de su hijo.
@@ -890,6 +952,7 @@
 2088	al1c	Yo mismo me crucé con un par de ellos de camino a la ciudad. Unos tipos bastante agradables, aunque hablaban demasiado. ¿Qué querían de ti?
 2089	al1a	Estaban haciendo preguntas sobre una mujer. No era asunto mío y no quería darle más problemas a su pobre madre, así que no les dije nada.
 2090	al1b	Oye, ahora recuerdo por qué el nombre de tu hermana me sonaba tanto... era a ella a quien buscaban.
+2091	al2c	¿SE LLAMABA ESTA MUJER ISZARA, TAL VEZ?
 2092	al2a	Sí, creo que sí. ¿Por qué?
 2093	al3c	Ella es mi hermana.
 2094	al3d	Parece que ella a desaparecido.
@@ -975,6 +1038,7 @@
 2176	bxda	No sugiero que la Liga reciba al Imperio con los brazos abiertos. Propongo que los saludemos con brazos secretos, con sutiles aguijonazos, con sangre y monedas derramadas en sigilo.
 2177	bxdb	Amenaza sublunar». Nuestro propósito es insinuar, muy educadamente, que no hay ganancias en Hammerfell... Y ninguna perspectiva de beneficio.
 2178	bxdc	Miedo.
+2179	bxdd	CUANDO EL IMPERIO SE DESESPERE DE HACERSE RICO EN STROS M'KAI, SE VOLCARÁ EN EMPRESAS MÁS RENTABLES.
 2180	bxea	Vaya. Con qué facilidad repites la propaganda imperial. Quizá un turista ignorante como tú no se dé cuenta de que sólo tocamos las naves del Imperio y de Richton.
 2181	bxeb	Los nerviosos dueños de barcos y los simpatizantes del Imperio alzan el grito contra el saqueo y la piratería... Pero el pueblo de Stros M'Kai conoce bien los verdaderos objetivos de nuestras acciones.
 2182	bxec	¿Por qué sigues acechando a Stros M'Kai?
@@ -997,26 +1061,61 @@
 2199	bxmd	No crees que el Imperio podría ayudarte a resolver este misterio un poco mejor? Estás perdiendo el tiempo aquí
 2200	bxnc	¿En qué tipo de problemas estaría metida?
 2201	bxoc	¡Vamos!
+2202	bacc	ASÍ QUE ESTE ES EL AGRADECIMIENTO QUE RECIBO POR SALVAR TU INÚTIL PELLEJO. SÉ TODO SOBRE TU TRATO CON EL GOBERNADOR. ¡DESENFUNDA Y DEFIÉNDETE, TRAIDOR!
 2203	bbyc	Gracias. Hablaremos más tarde.
 2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
 2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
 2206	bema	Absolutamente. Sin ofender, pero Hammerfell necesita algo de ley y orden.
 2207	bemc	El Imperio lo ha hecho bien en su conquista de Hammerfell, ¿no crees?
+2208	bft1	TENDRÉ ESA RECOMPENSA
+2209	bft2	ME ALEGRO DE QUE NOS HAYAMOS CONOCIDO, REDGUARD....
+2210	bft3	¡FUISTE UN NECIO AL DESAFIAR AL IMPERIO!
+2211	bft4	Ven cyrus!
+2212	bft5	¡NO PUEDO CREERLO!
+2217	bftc	ESTO HA SIDO UN GRAVE ERROR, BRENNAN.
 2218	bgr1	¡Quédate atrás, Daedra-get!
+2219	bgr2	¡AVAST, ASQUEROSO! ¡SAL DE ESTE BARCO!
+2220	bgr3	LLEVA TUS TONTERÍAS A LA ORILLA.
+2221	bgr4	¡VUELVE A LAS CAVERNAS, retoño duente!
+2222	bgr5	¡SALGAN DE MI BARCO DE UNA VEZ!
+2223	bgr6	¡vete!
+2224	bgr7	¡OS CONVERTIRÉ EN PASTELES DE SOPA SI NO OS LARGÁIS DE AQUÍ!
+2225	bh1a	AH... POR FAVOR, LLÁMAME BRENNAN. TE DESHICISTE DE ESOS RUFIANES TAN RÁPIDO QUE NO TUVE TIEMPO DE RECUPERAR MI ESPADA DE MI CAMAROTE.
+2226	bh1c	CAPITÁN, ES BUENO VERLO DE VUELTA AL MANDO.
 2227	bh2a	El valiente espadachín regresa. ¿En qué puedo ayudaros?
 2228	bh2c	Hola de nuevo, Capitán Brennan.
 2229	bh3a	Cualquier cosa por tu bien, Cyrus
 2230	bh3c	Brennan, ¿tienes un minuto?
+2231	bh4a	¡CYRUS! PENSE... ESCUCHE QUE HABIAS SIDO ARRESTADO.
+2232	bh4b	¿QUÉ PASA AHORA?
+2233	bh4c	BRENNAN, UNAS PALABRAS POR FAVOR.
+2234	bh5a	SÍ, ME ALEGRO DE QUE HAYA VENIDO.
+2235	bh5c	BRENNAN, ENTIENDO QUE QUIERAS VERME.
 2236	bh6a	¡Cyrus! Justo el hombre que estaba buscando.
+2237	bh6b	PERO ESTOY CORRIENDO UN GRAN RIESGO AL HABLAR CONTIGO. ERES BUSCADO POR LOS IMPERIALES, YA SABES. POR FAVOR, VEN DEBAJO DE LA CUBIERTA DONDE PODEMOS HABLAR EN PRIVADO.
 2238	bh6c	Una palabra por favor, Capitán
 2239	bisa	Me temo que no. Antes de que el Imperio limpiara las cosas, Stros M'Kai era un paraíso pirata, evitado por mercaderes honestos como yo.
 2240	bisc	Busco a mi hermana, Iszara. ¿Quizás hayas oído hablar de ella?
 2241	blga	Otros capitanes me dicen que los bandidos que quedan se han organizado contra las medidas enérgicas del Imperio contra el contrabando y la piratería. 
 2242	blgc	Los piratas que nos atacaron hablaron de una «Liga Inquieta». ¿Has oído hablar de ellos?
+2243	bnfa	MIS NUEVOS AMIGOS ESTARÁN ENCANTADOS DE QUE TE HAYAS PASADO POR AQUÍ.
+2244	bnfb	ESPERA UN MOMENTO, TENGO ALGO PARA TI.
+2245	bnfd	¿¡QUÉ...!? ¡¿TÚ...?!
+2246	bnoc	MIS ENREDOS IMPERIALES NO SON DE TU INCUMBENCIA. ¿QUÉ ES LO QUE QUIERES?
+2247	bo1c	¿ASÍ ES, HM?
 2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
 2249	bocc	¿Cómo le ha ido a Stros M'Kai con sus nuevos amos imperiales? 
 2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
 2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
+2252	b72c	Y FUISTE... DE GRAN AYUDA, BRENNAN.
+2253	b73c	¿QUIÉNES SON ESTOS TIPOS DE LA LIGA revoltosa?
+2254	b71a	¡BUEN TRABAJO, CYRUS! CONSIDERE SU PASAJE PAGADO.
+2256	b72a	¡MIRAD! ¡ALLÍ!
+2257	b72b	SE VA.
+2258	b73a	SIGAMOS ADELANTE, ANTES DE QUE APAREZCAN MÁS.
+2259	byx1	NO AGITES ESA ESPADA POR AQUÍ, MUCHACHO. MOLESTA A LOS CIVILES.
+2260	bysc	BUENA IDEA. MARCA EL CAMINO.
+2261	bzz1	AH, CYRUS. ¿CÓMO ESTÁ USTED?
 2262	bzz2	A tu salud, muchacho.
 2263	bxz1	Sí, sí, sí.
 2264	bxz2	¿Y bien? ¿Quieres algo?
@@ -1057,10 +1156,31 @@
 2303	c807	Tienes algo que necesito, dragón.
 2304	c811	Tal vez podamos negociar.
 2305	c813	deletrearé tu nombre en tu lápida.
+2306	cbm1	NO PARECE DEL TIPO QUE HABLA, TAL VEZ DEBERÍA OFRECERLE UN PASAJE.
+2307	cbm2	PARECE QUE NO TENGO ORO SUFICIENTE.
+2308	cbu1	SUPONGO QUE NO SABES LO QUE ESTÁ PASANDO.
+2309	cbu2	¿NOS HEMOS VISTO ANTES?
+2310	cbu3	VALE, ESCÚPELO, TORO, DIME LO QUE SABES.
 2311	cbu4	ASÍ QUE, MI HERMANA ESTÁ PERDIDA, Y HAY UNOS PIRATAS, Y... OH, OLVÍDALO.
+2312	cbu5	PELO RUBIO, ANHK EN EL PECHO, HA ESTADO HURGANDO EN ESE VAGÓN. CONOCES AL TIPO QUE ESTOY BUSCANDO.
+2313	cct1	FINALMENTE, MI EQUIPO. ESTO DEBERÍA IGUALAR LAS PROBABILIDADES CON LOS HOMBRES DE RICHTON.
+2314	cct4	PARECE QUE ESTE BLOQUE ESTÁ SUELTO. TAL VEZ PUEDA HACERLE PALANCA CON ALGO.
 2315	ccv1	¿Quién está ahí? ¡Déjenme pasar!
 2316	ccv2	Puedo olerte a través de la puerta duende, ¡ahora abre!
 2317	ccv3	Hunding te maldice.
+2319	ccv5	ME PREGUNTO QUÉ HABRÁ DENTRO.
+2320	ccv6	PARECE QUE FALTA UN ENGRANAJE DE ESTA RANURA.
+2321	ccv8	MEJOR VUELVO Y CONSIGO la gema alma PRIMERO.
+2322	cdam	DAMN. MEJOR PRUEBO OTRA COSA.
+2323	cdlr	ESE LIBRO SOBRE LA TRADICIÓN ENANA EN LA TIENDA DEL GATO PODRÍA SER ÚTIL AQUÍ.
+2324	cdr1	ESTÁ CUBIERTO POR LO QUE SUPONGO QUE ES ESCRITURA ENANA.
+2326	cdr3	GUARDIAS IMPERIALES. ¿QUÉ ESTÁN HACIENDO AQUÍ ARRIBA? ¿Y QUÉ TIPO DE NAVE ES ESA?
+2327	cdr4	ARTEFACTOS ENANOS. ME PREGUNTO QUÉ ESPERAN ENCONTRAR LOS IMPERIALES.
+2328	cdr5	PARECE QUE SE LE HA CAÍDO UN ENGRANAJE A ESA CRIATURA.
+2329	cdwk	NO FUNCIONÓ.
+2330	cfxb	HMM. NADA MALO CON ESTA CAMPANA. SÓLO LOS OÍDOS DEL VIEJO QUE NECESITAN SER ARREGLADOS.
+2331	cgc1	MEJOR DEJO ESTO AQUI.
+2332	cgp1	DESAFORTUNADAMENTE, NO PUEDO LLEVARLO TODO AHORA.
 2428	cmag	¡Magnífico!
 2470	cwts	¿Qué es esto?
 2493	&007	¡Vamos!
