@@ -173,14 +173,32 @@
 629	?imp	Imperiales
 630	?imw	BUQUE DE GUERRA IMPERIAL
 631	?inf	OFRECER INFORMACIÓN
+632	?int	INTERÉS
+633	?ips	PASARÉ
+634	?iro	POCIÓN DE PIEL DE HIERRO
 635	?isf	Iszara está a salvo
+636	?ism	ISZARA HA DESAPARECIDO
 637	?iss	El alma de Iszara
+638	?ist	PROBLEMAS DE ISZARA
+639	?isy	ERAS AMIGO DE ISZARA
 642	?ith	Creo que lo sabes.
+643	?iwh	ISZARA ESTUVO AQUÍ
+644	?izb	ISZARA EN LA BATALLA
 645	?izp	Iszara y el Príncipe
 647	?jal	Cárcel
 648	?jnl	Ingreso en la Liga
+649	?job	ACERCA DEL trabajo
+650	?jrg	JAGANVIR Y EL ANILLO DE VOA
+652	?kjn	DIARIO DE KITHRAL
+653	?kmr	SABE MÁS
+654	?knw	QUIÉN CONOCÍA A ISZARA
+655	?kjb	TRABAJO KOTARO
+657	?kpa	CONSERVAR EL AMULETO
 659	?lan	Paisajismo
+660	?las	LIGA PREGUNTA
+661	?lat	LA ATENCIÓN DE LA LIGA
 662	?leg	Liga
+663	?lga	LA LIGA ATACÓ A MI NAVE
 664	?lg2	Liga
 665	?lgb	Liga de revoltosos.
 673	?liz	Lagarto
