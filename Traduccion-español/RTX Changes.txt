@@ -2072,6 +2072,13 @@
 3133	hzz2	¿muchacho...?
 3134	hzz3	CYRUS, Muchacho.
 3135	hzz4	No practiques aquí, muchacho. Date un paseo fuera de la ciudad donde no amenaces a la gente del pueblo
+3138	iij2	Primera Semilla 26, CE 864
+3139	iij3	Esta es mi última entrada, ya que me despido de este torpor enloquecedor, ¡ha llegado el momento de actuar!
+3140	iij4	¡Basil y el resto de sus lobos perezosos se contentan con llorar a nuestro Príncipe y esconderse en las sombras, incluso mientras tenemos lo que más teme el Gobernador! Durante meses, mi amor ha permanecido en el ámbar mientras el Imperio se afianza.
+3141	iij5	Hammerfell se perderá para siempre si el Príncipe A'tor no es restaurado. Estoy decidido, si la Liga no puede sacudirse su sueño, ¡entonces robaré la gema de alma mientras duermen!
+3142	iij6	Por la mañana estaré en Stros M'Kai, donde hay otros que podrían darme la ayuda que necesito.
+3143	iij7	Cyrus... la gitana me dijo que vendrías a Stros M'Kai. Me reí en su cara, por supuesto, pero dejo esta advertencia aunque sólo sea por respeto a los mayores.
+3144	iij8	Si el cerrojo de sangre se abre, entonces sé que eres tú, y te pido que hagas caso de la siguiente: déjame mi dilema y vuelve al camino que más te guste en estos días. Has tenido amplia práctica.
 3145	jama	Tal vez. Eso explicaría por qué ningún mago ha sido capaz de detectar su ubicación.
 3146	jamc	Parece que el frasco puede absorber magia.
 3147	jb1c	Paz, caminante del desierto. Debo irme. 
