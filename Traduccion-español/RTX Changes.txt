@@ -158,6 +158,7 @@
 957	0h2c	¿Y cómo te llamas?
 958	0h2a	¿Y cómo te llamas?
 959	0h3c	Hola de nuevo.
+961	0xx1	¡Soy un pájaro bonito!
 962	0i1c	Busco a una joven dama.
 963	0l1a	Conozco el nombre de tu hermana.
 964	0l2a	Y los rumores de su fama.
@@ -166,6 +167,7 @@
 978	0l3a	Solo rimo.
 983	0l4a	A mitad del tiempo.
 985	04ac	Vamos, sé buen amigo.
+991	0g6a	CY<<SQUAWK!>>rus Cyrus virus de la bolsa de oro!
 1000	0l5b	Señor, no puedo explicar.
 1002	0l5a	A menos que hagas lo mismo!
 1003	0idc	De aves, eres el más fino.
@@ -1410,11 +1412,99 @@
 2914	fzz3	¿Puedo ayudarle?
 2923	fyy5	Guarda eso, por favor. Este no es lugar para mostrar un pene.
 2924	fyy6	Señor. Por favor, señor. No está permitido estar detrás del mostrador.
+2925	ga1a	Hojas de aloe del sur de Hammerfell, las mejores, frescas cada semana. Excelente para calmar esos dolores y molestias. Y sólo 15 de oro por manojo.
+2926	ga1c	¿Cuánto vale el aloe?
+2927	gala	LO CREO VIEJO VROMISH  -- 
+2928	galb	EL ALQUIMISTA, SOLÍA PEDIR UNA LIBRA O DOS DE VEZ EN CUANDO.
+2929	galc	¿LA MALAQUITA SE UTILIZA EN ALQUIMIA?
+2930	gald	PERO LLEVA MUERTO SIETE AÑOS, Y EL GREMIO DE MAGOS COMPRA SUS POCIONES AL POR MAYOR, ASÍ QUE NO HE VUELTO A LLEVAR MALAQUITA.
+2931	gara	ESTÁ LOCO POR CUALQUIER COSA ENANA. LAS RUINAS ENANAS ESTÁN LLENAS DE SOLDADOS, BUSCANDO QUIÉN SABE QUÉ.
+2932	garb	¡MÁS VALE QUE RICHTON ESPERE QUE EL EMPERADOR NUNCA SE ENTERE DE CÓMO ESTÁ MALGASTANDO SUS VALIOSAS TROPAS!
+2933	garc	¿EL GOBERNADOR ES AFICIONADO A LA ARQUEOLOGÍA?
+2934	gb1c	GRACIAS POR TU TIEMPO, GERRICK.
+2935	gbla	MI VIEJO AMIGO FAVIS TOCA LA CAMPANA PARA SEÑALAR LA LLEGADA DE UN BARCO, PARA QUE LOS MERCADERES SEPAN QUE DEBEN BAJAR AL PUERTO A COMERCIAR.
+2936	gblb	SE SUPONE QUE ROLLO DEBE ESCUCHARLO, PERO HE TENIDO PROBLEMAS CON ÉL. ACH, ¡PERO NO NECESITAS ESCUCHAR A UN VIEJO ELFO QUEJARSE!
 2937	gblc	¿Campana?
+2938	gbsa	Si no son los piratas robando tu carga, son los impuestos imperiales. Pero me las arreglo.
+2939	gbsb	TODOS LOS BARCOS QUE SE DIRIGEN A LA BAHÍA ILÍACA PASAN POR AQUÍ. SIEMPRE Y CUANDO PUEDA CONSEGUIR QUE ESE PEREZOSO ROLLO LO TRAIGA DESDE EL PUERTO.
+2940	gbsc	¿Cómo van los negocios estos días?
+2941	gbxa	¡Un placer hacer negocios contigo, Cyrus!
 2942	gbxc	Me lo quedo.
+2943	gbya	Espléndido! ¿Qué necesita?
+2944	gbyb	¡No se arrepentirá!
+2945	gbyc	Me gustaría hacer una compra.
+2946	gbyd	¡La mejor calidad, se lo aseguro!
+2947	gbye	Me temo que tus fondos son un poco escasos.
+2948	gbyf	Me temo que tus fondos son un poco escasos.
+2949	gc1a	h, sí, del exótico pájaro canah, uno de mis favoritos, ya que se crían en la Isla Summerset. Criado por su belleza debo añadir. Son un excelente regalo por 10 de oro.
+2950	gcoa	El único objeto que no debería faltarle a nadie. No vuelvas a perder el rumbo. Por la pequeña inversión de 50 oros, tranquilidad para toda la vida.
+2951	gcoc	Parece una brújula decente.
+2952	gdra	EN EL EXTREMO SUR DE LA ISLA. PERO NO PODRÁS ENTRAR. LOS HOMBRES DE RICHTON HAN SELLADO LAS PUERTAS.
+2953	gdrc	¿DÓNDE ESTÁN ESAS RUINAS ENANAS?
+2954	gf1c	Que plumas  mas interesantes tenes.
+2955	gf2a	10 de oro.
+2956	gf3a	La belleza del pájaro canah embriaga, lo admito. 10 de oro cada una.
+2957	gf3c	Necesito más plumas.
+2958	gfla	¡EL FRASCO DE LILLANDRIL, FAMOSO EN CANCIONES Y LEYENDAS! DE MI PROPIA TIERRA NATAL DE LA ISLA SUMMERSET, YA SABES. Y DEBES HABER OÍDO HABLAR DEL MISTERIOSO MAPA.
+2959	gflb	--QUE SUPUESTAMENTE MUESTRA DÓNDE ESTÁ ENTERRADO EL FRASCO.
+2960	gflc	HE OÍDO HABLAR DE UN FRASCO MÁGICO ESCONDIDO EN ALGÚN LUGAR DE LA ISLA. ¿SABE USTED ALGO AL RESPECTO?
+2961	gh1a	ENCANTADO DE CONOCERLE, MI BUEN AMIGO. GERRICK, TU HUMILDE SERVIDOR.
+2962	gh1c	HOLA, TENDERO. ME LLAMO CYRUS.
+2963	gh2a	ESPLÉNDIDO, CYRUS. ¡ESPLENDIDO!
+2964	gh2c	GERRICK, ¿CÓMO ESTÁS?
+2965	gh3a	¡CYRUS! ¡UN PLACER VOLVER A VERTE!
+2966	gh3c	HOLA, GERRICK.
+2967	gima	ESO SUPONGO. HACE MESES QUE NO SE LES VE POR STROS M'KAI.
+2968	gimb	LA LIGA FINGIÓ SER REBELDES PATRIÓTICOS TRAS LA DERROTA DE LA CORONA, PERO UNOS CUANTOS ENCUENTROS CON BUQUES DE GUERRA IMPERIALES LOS CALMARON ENSEGUIDA.
+2969	gimc	¿EL IMPERIO APLASTÓ A LA LIGA Revoltosa?
+2971	gisb	...Un nombre precioso, por cierto ... Creo que puede haberse mezclado con esos piratas de la Liga, ¿estoy en lo cierto?
+2972	gisc	Me pregunto si conoces a mi hermana, Iszara.
+2973	gkma	BUENO, ELLA VINO A MI TIENDA HACE ALGÚN TIEMPO. BUSCANDO MALAQUITA -- NO LA TENGO EN STOCK, POR SUPUESTO, PETICIÓN INUSUAL -- PERO ELLA FUE MUY INSISTENTE.
+2974	gkmb	ISZARA ME OFRECIÓ UNA BUENA SUMA POR LA MALAQUITA, MUCHO MÁS DE LO QUE VALÍA. LE DIJE QUE PODRÍA DÁRSELA EN TRES SEMANAS, PERO QUE LA NECESITABA DE INMEDIATO.
+2975	gkmc	POR FAVOR, SI SABE ALGO MAS SOBRE ISZARA... .
+2976	gkmd	ME TEMO QUE PUEDE HABER PROBADO LA GUARIDA DEL CONTRABANDISTA, QUERIDO YO. NO ES UN LUGAR PARA ENTRAR CON UN BOLSO LLENO DE ORO.
+2977	gl1a	¡Una colección de la peor escoria de las cloacas de Stros M'Kai! Piratas que te cortarían el cuello en cuanto te miraran!
 2978	gl1c	¿Qué sabes de la Liga revoltoso.?
+2979	gl2a	Ignora a Orsone, buen Cyrus, es un medio tonto. ¿De qué estábamos hablando?
+2980	gl2c	¿Qué ha dicho?
+2981	gl3a	UNA AMENAZA PARA LAS RUTAS COMERCIALES ENTRE LA ISLA SUMMERSET Y LA BAHÍA ILÍACA. AL MENOS LOS IMPERIALES HAN PUESTO FIN A ESO.
+2982	gl3c	... La liga -- 
+2983	glpa	¡ESA SANGUINARIA BANDA DE VILLANOS! SI TU POBRE HERMANA--
+2984	glpb	----ESTABA RELACIONADO CON ELLOS, ME DA MIEDO ESPECULAR SOBRE LO QUE PODRÍA HABER PASADO.
+2985	glpc	ESO ES LO QUE INTENTO AVERIGUAR. LLEVA DESAPARECIDA TRES MESES. ¿QUÉ SABES DE ELLOS?
+2986	glpd	HAN SIDO UNA PLAGA EN STROS M'KAI DURANTE AÑOS, AUNQUE LOS COBARDES NO SE HAN ATREVIDO A MOSTRAR SUS CARAS DESDE QUE LLEGARON LOS IMPERIALES.
+2987	gm1a	¡OH SÍ! SEGÚN LA LEYENDA, EL BARCO QUE TRANSPORTABA LA PETACA Y A SUS DUEÑOS NAUFRAGÓ EN STROS M'KAI.
+2988	gm1c	¿CONOCES UN MAPA PARA LLEGAR AL FRASCO?
+2989	gm2a	TODO ESO FUE HACE MILES DE AÑOS, ANTES DE QUE LOS GUARDIAS ROJOS LLEGARAN A HAMMERFELL, ENTIENDES.
+2990	gm3a	QUIZÁS UN SUPERVIVIENTE ESCONDIÓ EL FRASCO E HIZO UN MAPA... ¿QUIÉN SABE? AUNQUE TRITHIK PODRÍA DECIRTE MÁS.
+2991	gm4a	SOLÍA SER TODO UN CAZADOR DE FRASCOS. LE HABRÉ VENDIDO SEIS PALAS A LO LARGO DE LOS AÑOS.
+2992	gm4c	TRITHIK, uh?
+2993	gmaa	LO SIENTO, NO. YA NO HAY MUCHA DEMANDA, AHORA QUE LA ALQUIMIA ESTÁ CERRADA.
+2994	gmac	¿DIJO ISZARA PARA QUÉ NECESITABA MALAQUITA?
+2995	gmga	SÍ, AHORA TIENEN EL MONOPOLIO OFICIAL DE LA MAGIA DE CUALQUIER TIPO. OBRA DEL ARCHIMAGO VOA, SE APROVECHÓ DE SU ACCESO AL PRÍNCIPE, ¡A COSTA DE NOSOTROS, LOS PEQUEÑOS EMPRESARIOS!
+2996	gmgb	QUEDA POR VER CUÁL SERÁ LA NUEVA POLÍTICA IMPERIAL. ¡EL GOBERNADOR RICHTON ESTÁ DEMASIADO OCUPADO CON SU AFICIÓN ARQUEOLÓGICA PARA PREOCUPARSE DE UN ASUNTO MENOR COMO LA POLÍTICA ECONÓMICA!
+2997	gmgc	¿EL GREMIO DE LOS MAGOS VENDE POCIONES?
+2998	gnma	Seguro que cambias de opinión.
 2999	gnmc	Tendré que pensarlo.
+3000	gr1a	ROLLO, SÍ, UN TIPO BASTANTE IMPROBABLE, INCLUSO SI NO TE IMPORTA EL OLOR. PERO CARGARÁ UN FARDO POR UN PENIQUE DE PLATA, Y NI SIQUIERA PUEDO ALQUILAR UNA MULA PARA ESO.
+3001	gr1c	ME TEMO QUE PUEDO HABERLO CONOCIDO. ¿GRANDE, PATÁN, DESASEADO?
+3002	gr2a	UNA EXAGERACIÓN, PARA SER HONESTO. SE SUPONE QUE TIENE QUE TRAER MIS ENVÍOS DEL PUERTO CUANDO LLEGAN, UNA TAREA SENCILLA, SE PODRÍA PENSAR, PERO ESTÁ BORRACHO O DORMIDO LA MITAD DEL TIEMPO Y NO OYE EL TIMBRE.
+3003	gr2c	ROLLO TRABAJA PARA TI, ENTONCES.
+3004	gsia	SÍ, BAJO LA TIENDA DEL CARTÓGRAFO. UN SECRETO A VOCES EN LA CIUDAD.
+3005	gs1c	¿La Guarida de los Contrabandistas?
+3006	gs2a	ESTOY SEGURO DE QUE ESOS CONTRABANDISTAS ESTÁN CONECTADOS CON LA LIGA INQUIETA -- ¡VENDIENDO VINO DE VALENWOOD ROBADO DE MIS PROPIOS BARCOS, AL DOBLE DE PRECIO YA QUE NO TIENEN COMPETENCIA!
+3007	gs3a	NO PUEDO PROBAR NADA DE ESO, POR SUPUESTO.
+3008	gs3c	hmm.
+3010	gsha	Una pala resistente, ¡justo lo que necesita el intrépido buscador de tesoros! Garantizada para no romperse, rayarse o abollarse. Una ganga por sólo 30 oros.
+3011	gshc	La pala de allí... ¿cuánto cuesta?
+3012	gsua	ENTONCES DEBERÍA PEDIRTE NOTICIAS, GUARDIA ROJO. LA ÚLTIMA VEZ QUE VI LA ISLA ETERNA FUE EN MI JUVENTUD, MUCHO ANTES DE QUE TÚ NACIERAS.
+3013	gsub	¡SOY MÁS VIEJA DE LO QUE PAREZCO! GUAPA, SÍ, PERO ESTÁTICA Y novato. UN TENDERO COMO YO ES MÁS BAJO QUE LA SUCIEDAD DE VUELTA A CASA. AQUÍ, SOY UN PILAR RESPETADO DE LA COMUNIDAD.
+3014	gsuc	NO HE ESTADO EN ISLA SUMMERSET EN AÑOS. HERMOSO LUGAR, POR LO QUE RECUERDO.
+3015	gtoa	Un diseño clásico, funcional y duradero. Para ti, Cyrus, 20 cada una.
+3016	gtoc	¿Cuánto cuesta una linterna?
+3017	gzz1	buen dia.
 3018	gzz2	¿Sí?
+3019	gzz3	¿EN QUÉ PUEDO AYUDARLE?
 3020	hata	Nunca abiertamente, porque entonces incluso las Coronas pensaban que la Liga no era de fiar. Ahora son la última esperanza de Hammerfell.
 3021	hatb	La muerte de A'tor los envió a la clandestinidad, y el fuego de dragón los mantiene allí
 3022	hatc	¿Así que A'tor tenía tratos con la Liga Inquieta, entonces?
@@ -1442,9 +1532,11 @@
 3044	hfrc	Hablame sobre las Coronas.
 3045	hg1a	¡Los huesos de Hunding! ¡Una rata orco!!
 3046	hg2a	¡Que te den, criatura!
+3047	hg3a	APEDREA TU PELLEJO, ¡COSA OSCURA Y ASQUEROSA DEL SUBSUELO!
 3048	hg4a	¡Balbucea a los justos, despreciable!
 3049	hg5a	¡Vete! ¡Vete de aquí!
 3050	hg6a	¡Fuera de aquí!
+3051	hg7a	¡FUERA! ¡FALTA AL CUERPO!
 3052	hg8a	¡Cámbiame! Hunding te convertirá en piedra si no te apresuras a ir a la fría oscuridad
 3053	hg8b	¡No molestes más a los hombres, nix-bane! ¡Asquerosa bestia podrida! ¡Maniquí de estiércol de troll! ¡Maldita mancha!
 3054	hgoa	Y peores, pero no debes preocuparte por ellos. Están condenados a la suciedad y ya no molestan a la Guardia Roja
@@ -1473,6 +1565,7 @@
 3078	hmpc	Tal vez, pero parece un reto digno. ¿Todavía tienes el mapa? 
 3079	hnca	Un mal del oeste, asentado en los bajios de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así que no te mueras
 3080	hncc	Háblame del nigromante
+3081	hnxc	YO NO ME PREOCUPARÍA POR ÉL NUNCA MÁS.
 3082	ho1a	Y así han caído los Guardia Rojos. Los ancianos enseñan a los jóvenes, ¿y quién puede culparlos por aprender? El verdadero Guardia Rojo arriesga su vida por honor, orgullo y espíritu.
 3083	ho1c	¿Por qué indigna? Un mapa a un artefacto mágico de valor incalculable parece un premio digno.
 3084	ho2a	Tanto como lo hace un mapa perdido, mercenario. Solo creí justo advertirte contra buscar la riqueza del frasco por avaricia. El mundo es más grande que tu bolsa de oro.
