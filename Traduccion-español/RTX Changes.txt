@@ -974,7 +974,7 @@
 1288	2s1b	SI LO SUPIERAN, TAL VEZ SE ESFORZARÍAN TANTO POR CONSERVAR EL INTERIOR COMO SUS PRECIADOS EXTERIORES -- ESA PIEL DESNUDA QUE SE RESBALA CON FACILIDAD Y QUE SE MARCHITA COMO EL PAPEL ANTE LA LLAMA--
 1289	2s1c	EL COMERCIO ILÍCITO DE ALMAS. ¿CÓMO FUNCIONA?
 1290	2s1d	PORQUE ÉSA ES LA VERDAD: EL CUERPO ALBERGA LO QUE NO PUEDE SOPORTAR POR MUCHO TIEMPO.
-1291	2s2a	"En resumen, el Cazalmas captura los espíritus de los incautos que descuidan la santidad de sus almas
+1291	2s2a	En resumen, el Cazalmas captura los espíritus de los incautos que descuidan la santidad de sus almas
 1292	2s2c	QUE RESPONDE POCO -- 
 1293	2sna	¿HARÍAS DE ESTUDIANTE? HMM. COMO QUAINT -- 
 1294	2snb	ME VIENE A LA MENTE LA IMAGEN DE LOS SABUESOS DEL ÉTER, DE HOMBROS ANCHOS Y JADEANTES, PATRULLANDO LAS CERCANAS PUERTAS DE LA MUERTE, ALERTA EN BUSCA DEL RASTRO DEL DESVENTURADO ESPÍRITU.
@@ -2917,6 +2917,7 @@
 3541	ng9a	El anillo por sí solo no hará más que convertir al Príncipe en polvo, necesitas encontrar el soulgem para sanarlo
 3543	ngva	Que es un hombre duro. Richton amenazó con arrasar el templo cuando me negué a entregar a los heridos del príncipe A'tor que habían sobrevivido a la batalla.
 3544	ngvb	Le aseguré que ni siquiera su Emperador podía desafiar la ley divina. Sin embargo, los heridos bajo mi cuidado fueron curados sólo para ser arrojados a las Catacumbas después
+3545	ngvc	¿QUÉ PUEDE DECIRME SOBRE EL GOBERNADOR?
 3546	nh1a	Hermano Nidal, buen hijo. Bienvenido al Templo de Arkay
 3547	nh1c	Hola, Hermano. Soy Cyrus, reciente en esta orilla
 3548	nh2a	Me alegro de verte, Cyrus.
@@ -3006,6 +3007,7 @@
 3633	nzz3	Buena suerte, hijo.
 3634	nzz4	No debes mostrar esa espada aquí, hijo mío.
 3635	nzz7	Deja de hacer eso, muchacho
+3646	&460	¡RECONSIDERA TUS OPCIONES, BRIBÓN!
 3647	oa02	La gema del alma
 3648	oa04	El anillo
 3649	oa11	Lo siento, Cyrus.
