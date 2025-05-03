@@ -282,7 +282,6 @@
 602	?gx7	¡JOTO MAGIA POR FAVOR ISZARA!
 604	?hea	POCIÓN CURATIVA
 605	?hgm	TENGO LA GEMA
-606	?hid	OCULTO
 606	?hid	Escondite
 607	?hil	¿Estuvo Hayle en la Liga?
 608	?hio	ENTREGAR
@@ -3574,7 +3573,7 @@
 4661	y1wa	Aye, traté solo de evitarlos, no de enfrentarme a ellos barco contra barco.
 4662	y1wc	Seguro que has encontrado la forma de enfrentarte a la flota de Richton
 4663	y2oa	Búrlate si quieres, perro de orilla. Pero si voy a arriesgar mi cuello, llevándote a la Liga, tendrás que traerme una señal de confianza, no oro
-4664	y2oc	Come on.
+4664	y2oc	vamos.
 4665	y2wa	Un astuto ataque nuestro. Tenemos la pasión, pero no los medios para enfrentarnos a sus barcos en mar abierto.
 4666	y2wc	Oí que incendiaste su buque insignia hace un tiempo.
 4667	y3wa	Elegimos permanecer en las sombras, obligando a nuestro estimado gobernador a dormir con un ojo abierto y revisar sus armarios buscando asesinos. Ja... no nos encontrará.
