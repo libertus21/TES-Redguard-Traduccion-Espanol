@@ -37,6 +37,7 @@
 217	$ds9	buscar golem
 218	$dsa	cortar cable
 219	$dsb	continuar
+297	$ofg	Ofrece oro
 340	$sou	SUBLIMAR SANGRE DE ORCO CON CUERNO DE UNICORNIO
 341	$sod	SUBLIMAR LA SANGRE DE ORCO CON EL CORAZÓN DE DEADRA
 342	$sos	SUBLIMAR LA SANGRE DE ORCO CON SALAMANDRA
@@ -149,12 +150,13 @@
 454	?ask	Preguntar algunas cosas.
 455	?aud	AUDIENCIA CON EL GOBERNADOR
 456	?bak	¿DE VUELTA A STROS M'KAI?
+457	?bas	BASIL 
 458	?bat	BATALLA
 459	?bel	CAMPANA
 460	?bet	APUESTA
 461	?bfl	BANDERA DE PRÉSTAMO
 462	?bgm	BOCA GRANDE
-463	?bid	BRENNAN HA MUERTO
+463	?bid	Brennan está muerto
 464	?bif	BASIl es mi amigo
 465	?bkm	RESERVA PARA EL MAPA
 466	?bkt	Hermano Kithral
@@ -169,7 +171,7 @@
 477	?bro	Hermano
 478	?bsm	BATALLA DE STROS M'KAI
 479	?brw	Brawl
-480	?bsl	¿DÓNDE ESTÁ BASIL?
+480	?bsl	¿Dónde está Basil?
 482	?bsw	¿Antes de qué?
 483	?btd	Barco Dañado
 484	?bur	RITUAL FUNERARIO
@@ -281,6 +283,7 @@
 604	?hea	POCIÓN CURATIVA
 605	?hgm	TENGO LA GEMA
 606	?hid	OCULTO
+606	?hid	Escondite
 607	?hil	¿Estuvo Hayle en la Liga?
 608	?hio	ENTREGAR
 609	?hkl	Muerte de Hayle
@@ -303,7 +306,7 @@
 627	?imb	Mensajero de Iszara
 628	?imn	No estoy seguro
 629	?imp	Imperiales
-630	?imw	BUQUE DE GUERRA IMPERIAL
+630	?imw	Nave de guerra imperial
 631	?inf	OFRECER INFORMACIÓN
 632	?int	INTERÉS
 633	?ips	PASARÉ
@@ -328,7 +331,7 @@
 657	?kpa	CONSERVAR EL AMULETO
 659	?lan	Paisajismo
 660	?las	LIGA PREGUNTA
-661	?lat	LA ATENCIÓN DE LA LIGA
+661	?lat	Llamar la atención de la Liga
 662	?leg	Liga
 663	?lga	LA LIGA ATACÓ A MI NAVE
 664	?lg2	Liga
@@ -428,9 +431,9 @@
 766	?rdl	Listo para el Acertijo
 767	?rhh	GUARDIAS ROJOS: SUS HÉROES Y SU HISTORIA
 769	?rin	ANILLO
-770	?ris	RIESGO
+770	?ris	Riesgo
 771	?rlg	Liga Inquieta
-773	?rsm	VOLVER A STROS M'KAI
+773	?rsm	Volver a Stros M'Kai
 774	?s2c	ISZARA SE HA IDO POR UN TIEMPO ..
 775	?s5c	ESTOS ACERTIJOS NO SON REALMENTE MI ESTILO.
 776	?sac	¿ENTONCES SABES QUE VIVE AQUÍ?
@@ -450,7 +453,7 @@
 790	?sil	Silencio
 792	?sld	SOLDADOS MUERTOS
 793	?slg	Gema del alma
-794	?sli	MOSTRAR INSIGNIA DE LA LIGA
+794	?sli	Mostrar insignia de la Liga
 795	?sls	BARCO DE PLATA
 796	?smd	Guarida del Contrabandista
 799	?snk	Serpiente
@@ -483,7 +486,7 @@
 829	?thv	Amenaza vil
 832	?tkp	PRISIONERO
 833	?tks	MUCHAS GRACIAS
-834	?tml	LLÉVAME A LA LIGA
+834	?tml	Llévame a la Liga
 835	?tnk	TODAVÍA LO ESTOY PENSANDO
 837	?trb	Problemas
 838	?try	PRUÉBAME
@@ -509,7 +512,7 @@
 862	?why	¿Por qué haces esto?
 863	?win	TIERRAS DE LOS VIENTOS
 864	?wdl	ENTREGARÉ EL AMULETO POR TI.
-865	?wii	¿DÓNDE ESTÁ ISZARA?
+865	?wii	¿Dónde está Iszara?
 866	?wor	TRABAJO
 867	?wrr	Guerrero
 868	?wrs	GUERRA EN SENTINEL
@@ -1322,7 +1325,8 @@
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
 1995	9nnc	¿DÓNDE PUEDO ENCONTRAR Basil?
-1996	9ooc	NECESITO QUE ME LLEVEN DE VUELTA A STROS M'KAI.
+1995	9nnc	¿Dónde puedo encontrar a Basil?
+1996	9ooc	Necesito que me lleven de vuelta a Stros M'Kai.
 1997	9ooe	VE Y PREGUNTA A BASIL. ÉL DICE QUIÉN SE QUEDA Y QUIÉN SE VA AQUÍ.
 1998	9ppa	OCÚPATE DE TUS ASUNTOS, AMIGO. AQUÍ NO NOS GUSTAN MUCHO LOS ESPÍAS.
 1999	9ppb	¿QUÉ HACES AHÍ, FORASTERO? ¿BUSCANDO PROBLEMAS?
@@ -3565,7 +3569,56 @@
 4656	xxa1	¡Eh! ¡Tú! ¡Largo! ¡Lárgate!
 4657	xxa2	¡Oye! ¡Deja de seguirme!
 4658	xxa3	¡Oye! ¿No puede un hombre tener un poco de pri-pri-pli-¡plivacidad!
+4659	y1oa	Seguro que a estas alturas ya sabes que no se trata de riquezas y robos. Esto va de honor, de la historia de los Redguard y del cáncer imperial que asola Hammerfell.
+4660	y1oc	Mira, si es oro lo que queréis los piratas...
+4661	y1wa	Aye, traté solo de evitarlos, no de enfrentarme a ellos barco contra barco.
+4662	y1wc	Seguro que has encontrado la forma de enfrentarte a la flota de Richton
+4663	y2oa	Búrlate si quieres, perro de orilla. Pero si voy a arriesgar mi cuello, llevándote a la Liga, tendrás que traerme una señal de confianza, no oro
+4664	y2oc	Come on.
+4665	y2wa	Un astuto ataque nuestro. Tenemos la pasión, pero no los medios para enfrentarnos a sus barcos en mar abierto.
+4666	y2wc	Oí que incendiaste su buque insignia hace un tiempo.
+4667	y3wa	Elegimos permanecer en las sombras, obligando a nuestro estimado gobernador a dormir con un ojo abierto y revisar sus armarios buscando asesinos. Ja... no nos encontrará.
 4669	yb1c	Hablaremos más tarde.
+4670	yb2a	Te daré unas horas, no más. No voy a esperar a los imperiales.
+4671	yb2c	Volveré con tu prueba.
+4672	ybda	Hmmm. Espero que lo hicieras con estilo, pero no es lo suficientemente bueno como para llevarte a la Liga
+4673	ybdc	Bueno, ya me he encargado de eso
+4674	ybsa	Basil no habla con cualquiera, especialmente con un tonto que usaría la señal durante el día, con todas las naves de guerra Imperiales alrededor
+4675	ybsb	Si encuentran nuestro escondite, bueno... ten por seguro que serás al primero que mataremos.
+4676	ybsc	Llévame con Basil, si sólo eres su chica de correrías
+4677	yh1a	¿Y quién demonios eres tú?
+4678	yh1c	¿Dónde diablos está mi hermana?
+4679	yh2a	Se te acaba el tiempo Cyrus
+4680	yh2c	Hablemos
+4681	yh4a	Más vale que esto sea bueno Cyrus
+4682	yh4c	Gracias por venir
+4683	yhda	Nadie conoce las aguas que rodean Stros M'Kai como la Liga revoltosa. Nos movemos entre sombras y líneas que ni siquiera saben que existen
+4684	yhdc	¿Por qué estás tan seguro de que los demás no saben dónde está tu escondite?
+4685	yica	Yo soy el que hace las preguntas. ¿Cómo entraste en el faro?
+4686	yicc	Soy Cyrus, hermano de Iszara. Y exijo saber dónde está
+4687	yila	No estoy segura de por qué estoy hablando contigo. ¿Cómo sé siquiera que eres quien dices ser? Voy a necesitar alguna prueba
+4688	yilc	Sé que mi hermana está en la Liga. Ahora llévame con ella
+4689	ylaa	"¿Fuiste tú? Eh. Una incursión necesaria, me temo. El Capitán Brennan ha estado moviendo muchas mercancías para el Imperio. Pero debido a tu implicación, tendremos que esperar
+4690	ylac	Creía que ya tenía tu atención. Un par de tus chicos intentaron tomar el barco en el que navegué
+4691	yn1a	Cyrus. Contamos contigo. Eres el único que puede conseguirla. Por favor. Encuentra la gema. Despierta a A'tor y reúne a las Coronas
+4692	yn1c	Todavía no, me temo.
+4693	yn2a	Ok. Debo irme ahora, antes de que los Imperiales vean mi nave.
+4694	yn2c	Haré mi mejor esfuerzo.
+4695	ypga	¿Te arrojaron a las Catacumbas? Bueno, has estado ocupado. Estoy impresionado por el escape
+4697	ypra	Una pruebas de que mereces la atención de la Liga. Algo que me demuestre que no corro un gran riesgo llevándote al escondite
+4699	yrsa	Esos son tus riesgos, no los míos. Tampoco me des lecciones sobre tu vida de aventuras. Yo no necesito nada de ti y tú necesitas mi ayuda. Te hago un favor quedándome aquí todo este tiempo.
+4700	yrsc	Riesgo. ¿Es eso lo que te preocupa? He tomado diez vidas que valen la pena, y en lo que a mí respecta, hablar contigo es una de ellas
+4701	ysia	No sé de dónde la has sacado, Cyrus, pero servirá. La insignia garabateada como tal te compra al menos una audiencia con la Liga. Sube a bordo, nos vamos antes de que los Imperiales sepan que estoy aquí
+4702	ysic	Aquí tienes la prueba que estabas esperando: una insignia de la Liga Inquieta de Iszara.
+4703	ytla	Parece que no sabes dónde está Iszara -o la gema del alma-, Cyrus. Hasta que no tengas una u otra, no te molestes en hacerme señas de nuevo. Nos estás poniendo en demasiado peligro. Adiós.
+4704	ytlc	Voy a necesitar que me lleven de vuelta a la Liga
+4705	ytxa	¿Tienes la gema?
+4706	ytxc	Gracias por venir.
+4707	ywia	No me corresponde darte esa información. Tendrás que hablar con Basil, jefe de la Liga revoltosa.
+4708	ywic	Sólo dime dónde está mi hermana. Ahora.
+4709	yysa	Los demás se alegrarán de que la hayas encontrado. Iszara ha estado preocupada. Pero tú eres nuestra única esperanza. El resto de nosotros no puede ser visto en la isla, es demasiado peligroso.
+4710	yysb	¡Tienes que encontrar la manera de extraer el alma! Avísanos sólo entonces. Estaremos esperando. Buena suerte.
+4711	yysc	La he encontrado, pero no he encontrado la manera de sacar el alma de A'tor. Necesito ayuda.
 4712	yzz1	¿Qué quieres?
 4717	yt1c	Muchas gracias.
 4725	zah4	¿Qué quieres?
