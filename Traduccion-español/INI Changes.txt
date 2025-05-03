@@ -246,7 +246,7 @@ MENU.INI
   movie3_text[58] = 0,255,0,255,5666,5680,¿Qué haremos?
   movie3_text[59] = 0,255,0,0,5688,5727,Vosotros aseguraréis el puerto, no podemos permitir que entren más.
   movie3_text[60] = 0,255,0,0,5729,5775,Una vez hecho, atacad a los Imperiales que queden en el agua.
-  movie3_text[61] = 0,255,0,0,5778,5829,Cuando vean que el puerto es nuestro again zarparán hacia tierra firme.
+  movie3_text[61] = 0,255,0,0,5778,5829,Cuando vean que el puerto es nuestro, zarparán hacia tierra firme.
   movie3_text[62] = 0,255,255,0,5848,5859,¿Y tú?
   movie3_text[63] = 0,255,0,0,5863,5893,Voy al Palacio a matar al Gobernador.
   movie3_text[64] = 0,255,255,0,5902,5919,No puedes hacerlo solo.
