@@ -51,6 +51,7 @@
 492	?byl	Quemarse las piernas
 493	?bym	COMPRAR MAPAS
 494	?byy	¡GANA!
+495	?cat	catatumbas
 496	?car	CARTOGRAFO
 497	?cav	Cavernas
 498	?cha	DESAFÍO PARA LUCHAR
@@ -70,6 +71,7 @@
 515	?dea	OFERTA
 516	?del	ENTREGAR EL AMULETO
 517	?dev	ENTREGA
+518	?ddl	DAEDRA SEÑORES
 519	?dfy	Desafiar
 520	?die	¡PIERDE!
 521	?dis	DESAPARICIÓN DE LOS ENANOS
@@ -201,74 +203,212 @@
 663	?lga	LA LIGA ATACÓ A MI NAVE
 664	?lg2	Liga
 665	?lgb	Liga de revoltosos.
+666	?lgh	ESCONDITE DE LA LIGA
+667	?lgi	INSIGNIA DE LA LIGA
+668	?lgm	MIEMBRO DE LA LIGA
+669	?lgp	LIGA PIRATAS
+670	?lgr	REPUTACIÓN DE LA LIGA
+671	?lho	FARO
+672	?lig	LA LIGA SE HA IDO
 673	?liz	Lagarto
+674	?llw	LIGA GUERRA PERDIDA
 675	?lok	Medallón
+676	?lol	Muchachos locales
+677	?los	CIERRE
 678	?lpl	Mucha gente
+679	?ltr	CARTA
+680	?lrs	LIGA RUINA STROS M'KAI
 681	?lrt	Últimos ritos
 682	?lsa	Deja en paz su alma
+683	?lst	ÚLTIMO
+684	?lts	LUCES
+685	?ltx	IMPUESTO SOBRE EL LICOR
+686	?lvg	SALIR
+687	?lvs	LAS VIDAS QUE LLEVAMOS
 690	?map	Mapa del flasco
 691	?mar	¿Está bien tu madre?
 692	?mag	Mago
+693	?mer	MERCANTE
 694	?mgu	Gremio de magos
+695	?mgx	MAGOS
 696	?mlg	Conoci la Liga
+697	?mls	KILÓMETROS DE DISTANCIA
+698	?mot	MADRE
+699	?mpf	MAPA AL FLASCO
+700	?mps	MAPAS
 701	?mys	Misterio
 702	?mur	Asesinato
 703	?mus	Musica
 705	?nct	Torre del Nigromante
 706	?ncy	Nigromancia
+707	?ndl	NO HAY ACUERDO
 708	?nec	Nigromante
+709	?nem	JAMÁS
+710	?net	¿Y entonces?
+711	?nev	JAMÁS
+712	?new	NUEVO EN LA CIUDAD
+714	?njb	ENCONTRARÉ MI PROPIO CAMINO
+715	?nvm	JAMÁS
 718	?not	Todavía no.
 719	?npr	No tiene sentido resistirse
 720	?nsc	Sin miedo y listo
 721	?ntl	Nacionalista
 722	?nyp	Di tu precio
+723	?nyx	HACER UN MAPA A PARTIR DEL LIBRO DE LOS ELFOS
 724	?obb	Obsesión
 725	?obs	Observatorio
 726	?occ	Ocupación
+727	?ofc	POR SUPUESTO
+728	?off	OFERTA
+729	?ofg	OFERTA REGALO
+730	?ofl	OFERTA flasco
+731	?ogl	OFERTA ORO
+732	?ope	¡ABRE!
+733	?oth	¿QUÉ PASÓ CON LOS DEMÁS?
+734	?otr	OTROS
 735	?oqi	Incidente en el Casco Antiguo
 736	?oqr	Casco Antiguo
 738	?pal	Palacio
 739	?pas	Contraseña
 740	?pat	Príncipe A'tor
+741	?pay	PAGAR
+742	?pfi	PAGUE POR ELLO
+743	?pha	REFUGIO DE PIRATAS
 744	?pie	Pieza
+745	?pkc	PEQUEÑOS REYES DE CYRODIIL
+746	?plk	ESTÁS TENTANDO A LA SUERTE
+747	?poe	CONTRASEÑA O SI NO
+748	?pot	POCIONES
+749	?poy	PARTE DE TI
 750	?pra	Oracion
+751	?prf	PRUEBA
+752	?pri	PRÍNCIPE
 753	?prk	parque
 755	?prn	Idea absurda
+756	?prr	RITUAL ADECUADO
+757	?prv	gobernador
 758	?pss	Contraseña
+759	?r2c	ORA, ENTONCES, LORO, DIME LO QUE SABES.
+760	?r5c	TUS PLUMAS DE MATÓN HAN EMPEZADO A ASOMAR.
+761	?rac	BONITO PAJARO, QUE HAS OIDO.
 762	?rai	Redadas
+763	?rbc	¿QUÉ DIJISTE?
+764	?rcc	HE MATADO A COSAS MÁS PEQUEÑAS.
+765	?rdc	MIRA, ¿Y SI TE PAGO?
 766	?rdl	Listo para el Acertijo
+767	?rhh	GUARDIAS ROJOS: SUS HÉROES Y SU HISTORIA
+769	?rin	ANILLO
+770	?ris	RIESGO
 771	?rlg	Liga Inquieta
+773	?rsm	VOLVER A STROS M'KAI
+774	?s2c	ISZARA SE HA IDO POR UN TIEMPO ..
+775	?s5c	ESTOS ACERTIJOS NO SON REALMENTE MI ESTILO.
+776	?sac	¿ENTONCES SABES QUE VIVE AQUÍ?
+777	?sbc	ENTONCES, LORO, ¿QUIERES EXPLICARTE?
+778	?scc	VOLVAMOS A ISZARA.
 779	?scf	Algo que puede comprender
 780	?sdc	Carruajes de vapor
+781	?sec	¡YA ESTOY HARTO DE ESTO!
 782	?sen	Centinela
+783	?ser	SERPIENTE
 784	?sep	Camino de la serpiente
+785	?sgm	MAGIA DEL la gema de alma
+786	?shd	SOMBRA
+787	?shl	ZAPATOS
+788	?sho	PALA
 789	?sig	Signo de la Serpiente
 790	?sil	Silencio
+792	?sld	SOLDADOS MUERTOS
 793	?slg	Gema del alma
+794	?sli	MOSTRAR INSIGNIA DE LA LIGA
+795	?sls	BARCO DE PLATA
 796	?smd	Guarida del Contrabandista
 799	?snk	Serpiente
 800	?son	Canción del pasaje
+801	?sol	SOLDADOS BUSCANDO
 802	?sou	Lazo del alma
+803	?spr	VER PRISIONERO
+805	?sri	VER RICHTON
+806	?srn	ALGO EN LAS RUINAS
+807	?ssh	SOLDADOS REGISTRAN LA CASA
+808	?ssg	CANCIONES DE SERPIENTE
+809	?ssv	ELLOS TE SIRVEN A TI
 810	?sta	Piedras estelares
 811	?std	Estudios
+812	?str	POCIÓN DE FUERZA
+813	?stt	ESTATUA
+814	?sul	ALMAS
+816	?sup	SUPERSTICIONES
+817	?swl	LE HABRÍAS GUSTADO
 818	?sym	Simbolo
+819	?tak	TÓMATELO
 820	?tav	Taberna
 821	?tbs	Subsistencia ligada a la tesis
+822	?tcr	engañar CRENDAL
 823	?tem	Templo
+824	?tfm	CANJE POR MAPA
+825	?tfx	TELESCOPIO FIJO
+827	?thf	LADRÓN
+828	?thr	AMENAZA
 829	?thv	Amenaza vil
+832	?tkp	PRISIONERO
+833	?tks	MUCHAS GRACIAS
+834	?tml	LLÉVAME A LA LIGA
+835	?tnk	TODAVÍA LO ESTOY PENSANDO
 837	?trb	Problemas
+838	?try	PRUÉBAME
 840	?tsl	Cambia mi alma por el alma de mi hermana
 841	?tkb	El barco de Trithik
+842	?trm	MAPA DEL TESORO
+843	?trl	PROBLEMAS CON LA POBLACIÓN LOCAL
+844	?trs	AYUDA
 845	?tol	No les dije nada
+846	?tor	ANTORCHA
 848	?ttx	Impuesto del templo
 849	?tvl	Las bóvedas del tesoro
+851	?ufl	USO DEL FLACO
+852	?upc	cabala superior
+853	?vlp	PURGA DE VOLAG
 854	?voa	Archimago Voa
 856	?vor	Anillo de Voa
+857	?way	QUIÉN ERES
 858	?war	guerra
+859	?wat	TORRE DE VIGILANCIA
+860	?who	¿QUIÉN ESTÁ AHÍ?
+861	?wht	LO QUE SEA
 862	?why	¿Por qué haces esto?
+863	?win	TIERRAS DE LOS VIENTOS
+864	?wdl	ENTREGARÉ EL AMULETO POR TI.
+865	?wii	¿DÓNDE ESTÁ ISZARA?
+866	?wor	TRABAJO
 867	?wrr	Guerrero
+868	?wrs	GUERRA EN SENTINEL
+869	?wrx	PEOR PARA TU HERMANA
 870	?wsl	Apuesta mi alma contra el alma de mi hermana
 871	?wwt	¿Qué quieres?
+872	?wyt	CUIDA TU LENGUA
+874	?xam	AMULETO
+875	?xba	VENDAS
+876	?xbb	VENDAS con tu SANGRE
+877	?xbd	'historia de enanos'
+878	?xbe	'artefactos elficos VIII'
+879	?xbf	'flora de  HAMMERFELL'
+880	?xbk	LLAVE DE HUESO
+881	?xbr	'historia guarida roja'
+882	?xbs	FIRMAMENTO FFOULKES
+883	?xbw	CUBO CON AGUA
+884	?xcb	BARRO DE vaca
+885	?xcm	BRÚJULA
+886	?xdg	ENGRANAJES enanos
+887	?xec	ECTOPLASMA
+888	?xfl	FRASCO DE LILLANDRIL
+889	?xft	PLUMA DE CANÁ
+890	?xga	MEZCLA DE AGUA PURA Y ÁLOE
+891	?xgb	BOTELLA DE VIDRIO
+892	?xgd	ORO
+893	?xge	FRASCO DE VIDRIO CON ELIXIR
+894	?xgk	LLAVE DE ORO
+895	?xgm	MONÓCULO
 896	?xgv	VIDRIO VIAL
 897	?xgw	BOTELLA DE CRISTAL CON AGUA PURA
 898	?xhp	POCIÓN DE SALUD
@@ -299,6 +439,7 @@
 928	?xss	ALMA ESPADA
 929	?xst	ESTRELLA
 930	?xsw	SABLE
+931	?xth	talisman
 932	?xtr	ANTORCHA
 933	?xv1	ANILLO DE VOA
 934	?yes	Si
