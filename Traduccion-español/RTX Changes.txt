@@ -1,4 +1,60 @@
 178	$140	Lakene dice que los Imperiales están buscando los tesoros tecnológicos antiguos de los Enanos en las ruinas de las montañas.
+181	$bel	EXAMINAR LA CAMPANA
+182	$but	ILUMINA AL TROLL CON LA ANTORCHA
+183	$can	VELA DE PRUEBA QUE CAE
+184	$ct1	INSERTA LA RUNA EN LA MUESCA
+185	$ct2	QUITAR RUNA DE LA MUESCA
+186	$ct3	RECOGER LA RUNA
+384	$tt0	hablar con loro
+385	$tt1	hablar con FAVIS
+386	$tt2	hablar con N'GASTA
+387	$tt3	hablar con SABAN
+388	$tt4	hablar con JAGANVIR
+389	$tt5	hablar con KOTARO
+390	$tt6	hablar con MAIKO
+391	$tt8	hablar con CLAVICUS VILE
+392	$tt9	hablar con PRISIONERO
+393	$tta	HABLAR CON EL ENCANTADOR DE SERPIENTES
+394	$ttb	hablar con BRENNAN
+395	$ttd	hablar con DREEKIUS
+396	$tte	hablar con ERASMO
+397	$ttf	hablar con FALICIA
+398	$ttg	hablar con GERRICK
+399	$tth	hablar con Trithik
+400	$tti	hablar con ISZARA
+401	$ttj	hablar con J'FFER
+402	$ttk	hablar con  KRISANDRA
+403	$ttl	hablar con LAKENE
+404	$ttm	hablar con MARIAH
+405	$ttn	hablar con NIDAL
+406	$tto	hablar con COYLE
+407	$ttp	hablar con PRNELL
+408	$ttq	HABLAR CON TIRBINWELL
+409	$tts	HABLAR CON SIONA
+410	$ttt	HABLAR CON TOBIAS
+411	$ttu	hablar URIK
+412	$ttv	hablar con VANDER
+413	$ttw	HABLAR CON LA MUJER
+414	$ttx	HABLAR CON CRENDAL
+415	$tty	HABLA CON YAELI
+416	$ttz	HABLE CON EL GUARDIA
+417	$twb	HABLAR CON EL CAMARERO
+418	$twe	HABLAR CON elfo
+419	$twk	HABLAR CON KHAJIIT
+420	$tww	HABLAR CON LA COSA-GUSANO
+421	$twr	HABLAR CON ROLLO
+422	$vs1	HABLAR CON CLAVICUS VILE
+423	$xam	EXAMINAR ÁMBAR
+424	$xcb	EXAMINAR LA BOLA DE CRISTAL
+425	$xdh	EXAMINAR EL CORAZÓN DE DAEDRA
+426	$xld	EXAMINAR EL POLVO DE LICH
+427	$xmb	MIRAR LOS LIBROS
+428	$xob	EXAMINAR LA SANGRE DEL ORCO
+429	$xps	EXAMINAR EL SACO DEL CERDO
+430	$xse	EXAMINAR LA OREJA DE SPRIGGAN
+431	$xsh	EXAMINAR EL PELO DEL SANTO
+432	$xsl	EXAMINAR LA SALAMANDRA
+433	$xuh	EXAMINAR EL CUERNO DE UN UNICORNIO
 434	?3ac	Mi tiempo es corto.
 435	?3bc	Habla con sentido.
 436	?3cc	Sé más preciso.
