@@ -1,4 +1,145 @@
+39	$001	Derrotado ataque de piratas de la Liga Inquieta al barco de Brennan. Llegada al puerto de Stros M'kai. Tobías dice que nos encontremos en Draggin' Tale.
+40	$002	Acepta el encargo de Kotaro de entregar el amuleto al gobernador Richton en nombre de N'gasta. Recoge el amuleto de N'gasta. Pagado 100 de oro; recoger el saldo de 200 de oro de Kotaro después de la entrega.
+41	$003	Kotaro dice Draggin' Tale en la plaza del pueblo; sigue las rampas cuesta arriba.
+42	$004	Tobías dice que visites al Hermano Nidal en el templo para saber más sobre Iszara.
+43	$005	Tobías dice que zarpa de Stros M'kai al atardecer para evitar el riesgo de arresto imperial.
+44	$006	Tobías sospecha de Richton en la desaparición de Iszara.
+45	$007	Tobías dice que su amiga Siona, en los muelles, podría ayudar con información sobre los Crown.
+46	$008	Dreekius dice que la Capitán Brennan me está buscando.
+47	$009	Dreekius dice que un borracho bretón, Crendal, alardeaba de tener un trozo de mapa del legendario Frasco de Lillandril.
+48	$010	Dreekius cree que un dragón guarda el soulgem en un tesoro secreto en las catacumbas. Dreekius dice que una punta de arma tostada en fuego de dragón atravesará a un dragón como ninguna otra.
+49	$011	Crendal dice que tiene un trozo del mapa del Frasco de Lillandril.
+50	$012	Trithik sólo recuerda que su trozo del mapa del Frasco de Lillandril tenía dos números, una «X» y la anotación «árbol largo».
+51	$013	Trithik dice que solía tener un trozo de mapa del Frasco de Lillandril, pero que se lo robaron hace varias semanas.
+52	$014	Siona dice que el Capitán Brennan quiere verme.
+53	$015	Aceptó el encargo de N'gasta de entregar un amuleto al gobernador Richton. Amuleto recibido. N'gasta ha dispuesto que un intermediario anónimo pague cuando se cumpla la tarea.
+54	$016	Favis dice que la campana está rota, o que no suena tan fuerte como antes.
+55	$017	Pagado por Kotaro por la entrega del amuleto.
+56	$018	Entrega del amuleto a Richton. Se enfrenta al gobernador en relación con Iszara. Richton dice que Iszara era una conocida consorte de la proscrita Liga Inquieta, pero niega conocimiento o responsabilidad en su desaparición. Richton amenazado. El agente elfo oscuro del gobernador, Dram, lanzó un hechizo mágico. Despertó despojada de sus posesiones y encarcelada.
+57	$019	Prisionero moribundo de la Liga Inquieta dijo algo de ir a un faro para hacer una señal a la Liga. Recibió una llave oxidada.
+58	$020	Se enteró de la existencia de un tesoro legendario llamado el Frasco de Lillandril.
+59	$021	Un joven Yokudan llamado Hayle fue asesinado por los Imperiales. Avik lo llama asesinato. La familia de Hayle acampa fuera de la ciudad a la espera de completar el ritual de enterramiento.
+60	$022	Joto, miembro del Gremio de Magos y amigo de Avik, fue detenido por los imperiales.
+61	$023	Krisandra dice que Lakene, un manitas local, acudió a ella para sustituir un antiguo medallón de plata de su mujer que Lakene perdió mientras jugaba en el Smuggler's Den. Cuando Krisandra le dijo que no podía ayudarle, se sintió muy angustiado.
+62	$024	Prnell dice que contacte con la Liga Inquieta a través de la Guarida del Contrabandista bajo la tienda de Maiko, pero que necesito una contraseña para entrar.
+63	$025	Tuve que matar a dos soldados imperiales que habían entrado en la casa de al lado del platero.
+64	$026	Krisandra me dio una llave y me invitó a buscar en su almacén un barco de plata con la inscripción de un trozo del mapa del Frasco de Lillandril. Si lo encuentro, dice que me lo quede.
+65	$027	Favis dice que la campana está rota. Examinada la campana, parece estar en perfecto estado de funcionamiento.
+66	$028	Lakene dice que dará la contraseña, pero sólo si recupero el medallón de su esposa de Rollo.
+67	$029	Gerrick dice que Rollo debe ir a buscar los cargamentos al puerto cada vez que oye una campana que toca un tipo llamado Favis. Al tocar la campana anuncia la llegada de un barco.
+68	$030	Favis dice que un compañero de la torre de vigilancia, Prnell, agita una bandera cuando llega un barco, indicando a Favis que toque la campana. Favis se queja de que Prnell nunca le deja a Favis ondear la bandera.
+69	$031	Tomó prestada de Prnell la bandera utilizada para señalar la llegada de un barco a puerto.
+70	$032	Prnell dice que ha perdido un ocular. Su vista es muy mala, y realmente quiere el ocular.
+71	$033	Nidal dice que su antiguo iniciado, el Hermano Kithral, ha desaparecido.
+72	$034	Nidal dice que vio por última vez al iniciado desaparecido, el hermano Kithral, dirigiéndose al parque para recoger raíces de mandrágora. Nidal cree que los hombres de Richton son los responsables de la desaparición de Kithral.
+73	$035	Saban dice que podría encontrar la Liga Inquieta en el faro.
+74	$036	Trithik dice que todos los trasgos de Stros M'kai están desterrados bajo la tierra de Stros M'kai, gracias a Frandar Hunding.
+75	$037	Falicia dice que la Liga Inquieta había obtenido un soulgem que contenía el alma del príncipe A'tor y lo estaba utilizando para reunir partidarios, pero Iszara, impaciente por el retraso, robó el soulgem y lo llevó al Gremio de Magos en busca de ayuda. Un miembro del Gremio, un acólito llamado Joto, accedió a ayudar a Iszara a investigar una forma de utilizar el alma para restaurar al príncipe. Entonces, después de que un elfo oscuro viniera a hablar con el archimago Jaganvir, Joto fue arrestado y encarcelado por traición al Imperio. Falicia no sabe qué le pasó a Iszara, pero dice que Joto es el único que puede decírmelo, y está encerrado en la cárcel.
+76	$038	Joto ha disipado el encantamiento de cambio a gremlin de Jaganvir. Joto cree que N'gasta el nigromante tiene a Iszara. Joto dice que N'gasta era el único hechicero que podía usar su magia para restaurar a A'tor del soulgem. Como N'gasta es malvado y poco de fiar, Joto e Iszara planeaban usar la antigua magia élfica del Frasco de Lillandril como protección cuando negociaran con el malvado N'gasta. Joto e Iszara habían encontrado un trozo del mapa, y luego Joto encontró otro, pero antes de que Joto pudiera darle su segundo trozo a Iszara, ella había desaparecido, y Joto había sido encarcelado por los imperiales. Joto me dio su segundo trozo del mapa, y me dijo que si iba a enfrentarme a N'gasta para encontrar a Iszara, debía tener el Frasco de Lillandril. Entonces, de repente, el elfo oscuro del gobernador apareció en la cárcel, mató a Joto y atacó.
+77	$039	El joven Yokudan, Coyle, cuenta que Iszara acudió con su hermano herido Hayle a Saban para pedirle ayuda el día que mataron a Hayle. Iszara intentó explicárselo, pero Saban estaba demasiado alterado para escucharle.
+78	$040	Coyle dice que su madre Saban dice que se necesita un hechicero poderoso para usar el poder de un soulgem. Coyle asegura que su madre es así de poderosa.
+79	$041	Coyle dice que el nigromante N'gasta ha establecido un soulsnare sobre toda la isla de Stros M'kai. Cualquiera que muera sin el ritual apropiado lleva su alma a la torre de N'gasta para servir al nigromante.
+80	$042	Coyle dice que su madre es una poderosa hechicera, y que podría guiar fácilmente el alma de su hijo Hayle más allá del soulsnare de N'gasta, excepto que Hayle nació bajo el signo de la serpiente. Las otras doce constelaciones siguen los círculos del cielo, pero ni Coyle ni su madre saben predecir el camino de la serpiente. La única forma de guiar el alma de Hayle a través del soulsnare es colocar las piedras estelares en las posiciones de la cabeza y la cola de la serpiente.
+81	$043	Coyle recitó el verso sobre el Guerrero Guardián: 'Fuerte Guerrero Carga... Corcel Rampante... Dama Bailando... Señor Avanzando... a través de la noche".
+82	$044	Coyle recitó el verso sobre el Mago Guardián: 'Sabio Mago Ordena... Aprendizaje de Aprendices... Ritual Turning... Quemar Golem... a través de la noche".
+83	$045	Coyle recitó el verso relativo al Ladrón Guardián: 'Ladrón Astuto Vigila... Amante Suspirando... Sombra Mintiendo... Tow'r Defying... a través de la noche".
+84	$046	Coyle dice que su madre Saban puede proteger el alma de su hermano Hayle de N'gasta porque es una bruja poderosa, la bruja más poderosa de su tribu.
+85	$047	Coyle dice que su madre Saban dice que la magia del campo de estasis del Archimago Voa es demasiado fuerte para ella, que debo encontrar una manera de librar el cuerpo del Príncipe del campo de estasis antes de que ella pueda ayudar.
+86	$048	Con el soulgem y el anillo de Voa en la mano, y Saban para hacer funcionar su magia, procedieron al templo para restaurar y revivir al Príncipe A'tor. Iszara, Basil y el resto de la Liga observaron cómo Saban intentaba restaurar al Príncipe. Sin embargo, el alma de A'tor no fue a su cuerpo, sino a su espada. Con esta espada, lideraré la Liga Inquieta y me dirigiré al palacio para derrocar al gobernador y la ocupación imperial.
+87	$049	Erasmo delira sobre fantasmas en el faro de Saintsport que le mantienen despierto toda la noche, parpadeando «flash, flash, flaaaash».
+88	$050	Erasmo afirma que ha arreglado el oratorio, pero que no puede arreglar el telescopio porque le falta un engranaje. Dice que intentó arreglar el telescopio, pero que se quemó las piernas en la sala de engranajes.
+89	$051	Equipo enano instalado. El telescopio del observatorio ya está arreglado.
+90	$052	Maiko accedió a hacer un mapa detallado utilizando las anotaciones del libro «Artefactos élficos»... pero a cambio Maiko se queda con el libro. Maiko dice que vuelva en un tiempo por el mapa.
+91	$053	Maiko me dio un mapa asociado al Frasco de Lillandril basado en las anotaciones del libro «Artefactos élficos».
+92	$054	Cazado dragón. Recuperado soulgem. Escapa de las catacumbas.
+93	$055	N'gasta ha extraído el alma de Iszara de su cuerpo y se la ha regalado a su patrón, el Daedra Lord Clavicus Vile. Iszara acudió a N'gasta para intercambiar su alma por la ayuda de N'gasta para restaurar el alma del príncipe A'tor del soulgem a su cuerpo preservado. N'gasta aceptó el trato y robó a traición tanto el soulgem como el alma de Iszara. El amuleto que N'gasta pagó para entregar a Richton contenía el alma de A'tor. Para restaurar a Iszara, su alma debe ser recuperada de Clavicus Vile.
+94	$056	Te has enfrentado a Clavicus Vile y has apostado mi alma contra la de Iszara en un concurso de acertijos. Ganas el concurso de acertijos y vuelves a la Torre del Nigromante con el alma de Iszara.
+95	$057	Restauró el alma de Iszara. Juntos escaparon de la Isla de los Nigromantes. Fueron a Stros M'kai, invocaron el barco de la Liga y navegaron para reunirse con la Liga en su escondite. Reveló que Richton tiene el alma gem en forma del amuleto que le regaló N'gasta. Se comprometió a matar al dragón y recuperar el alma gem de las bóvedas del tesoro de las catacumbas, y a encontrar a alguien capaz de dominar el poder del alma gem para restaurar al príncipe A'tor. De Iszara, consigue una llave de oro para entrar en las catacumbas. Cuando el soulgem esté en su poder y se encuentre a alguien capaz de hacer funcionar la magia del soulgem, reúnete con Iszara, Basil y el resto de la Liga en el templo donde el hermano Nidal tiene escondido el cuerpo de A'tor.
+96	$058	Le has entregado el medallón de la mujer de Lakene y has recibido a cambio la contraseña de la Guarida del Contrabandista. La contraseña es «cuchara».
+97	$059	Intenta entrar por la puerta que hay bajo la tienda del cartógrafo, pero no conoce la contraseña y se le deniega la entrada.
+98	$060	Conseguí de Urik un pergamino de Iszara con la insignia de la Liga Revoltosa.
+99	$061	En respuesta a la señal del faro, llegó un barco capitaneado por una mujer Redguard.
+100	$062	La capitana del barco que respondió a la señal de la Liga desde el faro no cooperará a menos que se le den pruebas de que soy digno de la atención de la Liga, pruebas suficientes para justificar el riesgo de llevarme hasta el escondite de la Liga.
+101	$063	Del loro reconstruyó lo siguiente: "La hermana bonita tenía sus planes. Parece que esta vez necesitaba oro. Veintiún pasos. Como la cabeza mira. Enterrado allí, el oro aún brilla".
+102	$064	Has recuperado un equipo enano de los restos del gigante mecánico enano.
+103	$065	Encuentra el legendario Frasco de Lillandril, un antiguo artefacto élfico con la virtud de absorber la magia.
+104	$066	Basil me dio una llave de la logia de Iszara y me sugirió que buscara pistas sobre su paradero. En particular, mencionó un diario que no podía abrir. A cambio de conocer el contenido del diario, Basil promete contar todo lo que sabe sobre la desaparición de Iszara.
+105	$067	Basil relató la historia de la derrota del príncipe A'tor y sus fuerzas a manos de los imperiales, cómo el asesino elfo oscuro de Richton abatió a A'tor con una flecha envenenada, cómo un dragón imperial derrotó a los seguidores de A'tor y cómo el archimago Voa preservó el alma del príncipe moribundo en un soulgem. A continuación, reveló que la Liga se había hecho con el alma gem y planeaba desencadenar una revolución con la perspectiva de que el Príncipe recuperado del alma gem liderara a la Liga y a los seguidores de A'tor contra los imperiales. Basil también cuenta cómo Iszara robó el soulgem de la Liga y desapareció. 'Encuentra el soulgem, y encontrarás a Iszara', dice Basil. Tras escuchar a Basil, navegaron desde el Escondite de la Liga de vuelta a Stros M'kai.
+106	$068	Con un cuerpo encontrado en las cavernas, hallado el diario del Hermano Kithral, que hace referencia a su búsqueda del anillo del Archimago Voa'.
+107	$069	Encontrado el cuerpo del Archimago Voa, y recuperado su anillo mágico.
+108	$070	Escapó de la prisión imperial en las catacumbas. Los guardias imperiales te atacarán nada más verte.
+109	$071	Dreekius dice que Siona quiere verme.
+110	$072	Crendal dice que ha escondido su trozo del mapa del Frasco de Lillandril donde otros no puedan encontrarlo.
+111	$073	El Hermano Nidal revela que Iszara y el Príncipe eran amantes secretos.
+112	$074	Siona dice que no confiemos en Brennan, que es un traidor.
+113	$075	Siona dice que oyó a los Guardias Imperiales hablar de que Brennan había sido pagada para tender una trampa a «ese Redguard que tanto le gusta al Gobernador».
+114	$076	Después de escapar de la cárcel, escapó de la persecución de la guardia. Si Joto tenía razón, y N'gasta tiene a Iszara, debe encontrar el Frasco de Lillandril para protegerse de la hechicería de N'gasta.
+115	$077	Tobías dice que el hermano Kithral (un hermano de Arkay) e Iszara desaparecieron casi al mismo tiempo, y que se conocían.
+116	$078	Crendal dice que consiguió un trozo de mapa del Frasco de Lillandril robándolo. Dice que lo encontró bajo un catre en el barco de Trithik.
+117	$079	Los hombres de la Liga Inquieta se acercaron y preguntaron a Avik por una mujer tras la muerte de Hayle. Avik no les dijo nada, pero revela que vio a Hayle y a Iszara juntos el día que mataron a Hayle.
+118	$080	J'ffer cuenta que, según la leyenda, un mozo de cuadra armado con el Frasco de Lillandril derrotó al Gran Mago de Valenwood. El artefacto puede ser entonces un potente dispositivo antimagia, tal vez uno que absorba la magia.
+119	$081	Cuando le pidieron indicaciones para llegar al Draggin Tale, el capitán Brennan dijo que subiera por el puente de la derecha, atravesara la puerta de la plaza del pueblo y buscara el cartel.
+120	$082	De S'rathra, mi fijador en Wayrest, recibí una carta de Tobías sobre la desaparición de mi hermana, Iszara. Zarpe hacia la isla de Stros M'kai en Hammerfell.
+121	$083	Tras una reciente guerra civil, el Imperio de Tiber Septim gobierna Hammerfell. Una facción de la Guardia Roja, los Forebears, se alió con el Imperio para derrotar a la facción opuesta de la Guardia Roja, los Crowns, que favorecían el gobierno del Rey Thassad y su hijo y heredero, el Príncipe A'tor.
+122	$084	Con Thassad muerto, y el Príncipe A'tor derrotado por el Almirante Imperial Richton en la batalla final de Stros M'kai, las guarniciones Imperiales están estacionadas en cada ciudad de Hammerfell, y Lord Richton reina como Gobernador Provisional en Stros M'kai.
+123	$085	Por Trithik supe que el príncipe A'tor tenía tratos con la Liga Inquieta, aunque las Coronas consideraban que la Liga no era de fiar.
+124	$086	Trithik dice que el Gobernador Richton ordenó destruir el Casco Antiguo, refugio de los Corona, con fuego de dragón.
+125	$087	Según Trithik, aunque el cuerpo del príncipe A'tor se perdió en el mar, ya hay profecías de su regreso.
+126	$088	Cuando sugerí hablar con Richton, Trithik dijo que no se admiten Guardias Rojos en el palacio.
+127	$089	Falicia dice que oyó que el mapa del Frasco de Lillandril se rompió en cuatro pedazos. Dice que un trozo estaba inscrito en el fondo de una caja de plata con forma de barco.
+128	$090	El archimago Jaganvir sorprende a Falicia hablándole de Iszara, Joto y el soulgem. Jaganvir lanza un encantamiento convirtiéndome en gremlin para evitar que revele esta información a nadie.
+129	$091	Gremlin. Yuppee nub nub. Lalloo! Cha! Enj! buscar! regresar a negro forma!
+130	$092	Gremlin. Yuppee nub nub. Lalloo! Cha! Enj! Me! Bak! necesito! mago!
+131	$093	Siona dice que se puede contactar con la Liga Inquieta a través de la Guarida del Contrabandista en el sótano de Maiko.
+132	$094	Mariah dice que la Liga Revoltosa podría ser contactada a través de la Guarida del Contrabandista.
+133	$095	Aceptar ayudar a encontrar una manera de ayudar a la madre de Coyle completar el ritual que preservará el alma de su hermano de la nigromante soulsnare.
+134	$096	Colocar las piedras estelares correctamente permitió a Saban completar su ritual y garantizar un viaje seguro al otro mundo para el alma de Hayle.
+135	$097	La maldición de un nigromante afecta a Stros M'kai. Según Trithik, los bancos de arena donde se encuentra el nigromante están al oeste, a lo largo de un camino sobre un puente.
+136	$098	Siona dice que es amiga de Tobías y que está encantada de ayudarme.
+137	$099	Siona dice que Richton está acompañado por un asesino elfo oscuro de ojos rojos, Dram, de Morrowind.
+138	$100	Se necesita una contraseña para entrar en la Guarida del Contrabandista.
+139	$101	Siona insinúa que Iszara era amiga -BUENA amiga- del príncipe, y que quizá por eso desapareció cuando Richton llegó a la ciudad.
+140	$102	Siona dice que el palacio del gobernador está subiendo la colina -no tiene pérdida-, pero que no esperen colarse.
+141	$103	Según Siona, el dragón utilizado por los imperiales para derrotar a los coronas sigue en las catacumbas bajo el palacio.
+142	$104	El palacio del gobernador está «en lo alto de la colina... la estructura más grandiosa de Stros M'kai», según Kotaro.
+143	$105	Mariah dice que la última vez que vio a Iszara se dirigía al Cartographer's.
+144	$106	Mariah dice que ha visto a miembros de la Liga entrando y saliendo de la Guarida del Contrabandista, debajo de la del Cartógrafo.
+145	$107	A Gerrick le preocupa que Iszara haya buscado malaquita a través de la Guarida del Contrabandista.
+146	$108	Gerrick cree que la Liga Inquieta está relacionada con los contrabandistas que operan en la Guarida del Contrabandista, bajo la tienda del Cartógrafo.
+147	$109	Cuando Prnell ve un barco, sale a la pasarela y agita una bandera para que Favis sepa que debe tocar la campana.
+148	$110	Nidal sugiere que el anillo de Voa podría disipar un campo de estasis en el cuerpo de A'tor.
+149	$111	Nidal reveló que el cuerpo de A'tor está oculto en el templo, preservado de la descomposición por un hechizo de estasis. Nidal sugiere que el anillo de Voa podría disipar un campo de estasis en el cuerpo de A'tor, pero no da ninguna sugerencia de por qué Kithral o Iszara lo intentarían.
+150	$112	Nidal sugiere que Iszara y Kithral planeaban usar el anillo de Voa para disipar el campo de estasis en el cuerpo de A'tor, permitiendo así una transferencia del alma de A'tor desde el soulgem de nuevo al cuerpo del Príncipe...
+151	$113	Nidal estuvo de acuerdo en que Iszara y Kithral no planeaban disipar el campo de estasis del cuerpo preservado de A'tor sólo para dejar que el cuerpo del Príncipe se pudriera. Debían de tener en mente algún otro uso para el anillo.
+152	$114	Nidal reveló que el cuerpo de A'tor está oculto en el templo, preservado de la descomposición por un hechizo de estasis.
+153	$115	Nidal dice que no puede trabajar la magia del soulgem, que se necesita un mago.
+154	$116	Nidal dice que el campo de estasis bloquearía la magia del soulgem, incluso si un mago estuviera disponible. 
+155	$117	Nidal dice que necesito el anillo para disipar el campo de estasis, pero que el anillo también está más allá de su habilidad.
+156	$118	Nidal dice que no puede trabajar la magia del anillo, que se necesita un mago.
+157	$119	Nidal dice que necesitaría el soulgem para restaurar al Príncipe, y que la magia del soulgem está más allá de su habilidad.
+158	$120	Para restaurar al Príncipe, encuentra a un mago que pueda hacer funcionar la magia tanto del soulgem como del anillo.
+159	$121	Nidal dice que el anillo sólo disiparía el campo de estasis, haciendo que el cuerpo del Príncipe se convierta en polvo. Encuentra el soulgem para restaurar al Príncipe.
+160	$122	Coyle habla de los tres círculos de los cielos, y de los tres guardianes que protegen a sus tres cargos, cada uno a su círculo del cielo.
+161	$123	Erasmo dice que no bajará a la sala de engranajes. Ve a la sala de engranajes e instala el engranaje en el lado más alejado para arreglar el telescopio.
+162	$124	Erasmo dice que se necesita un engranaje enano para arreglar el telescopio... no cualquier engranaje.
+163	$125	Erasmo se alegra de que el telescopio esté arreglado.
+164	$126	Has usado el Frasco de Lillandril para derrotar al nigromante N'gasta.
+165	$127	Mezcla de pociones. Vierte las pociones en el sigilo mágico del suelo de la habitación de la torre de N'gasta para abrir una puerta al reino del Señor Daedra Clavicus Vile.
+166	$128	Kotaro identifica a N'gasta como un viejo ermitaño inofensivo que vive en la torre del viejo mago, en los bajíos del noroeste de la isla.
+167	$129	Kotaro dice que los supersticiosos lugareños llaman a N'gasta nigromante.
+168	$130	Mariah recuerda que vio al niño arkay, Kithral, visitando el parque, contemplando la cascada y escribiendo en su diario. También lo describe como un «Corona apasionado» y piensa que hace meses que no lo ve.
+169	$131	El parque está por la cascada, dice Mariah.
+170	$132	N'gasta dice que para entregar el amuleto al gobernador personalmente, y que el contratista pagará el resto de la tarifa después de la entrega.
+171	$133	Iszara está entre los vivos, le asegura N'gasta, o sabría lo contrario.
+172	$134	N'gasta concede que el Gremio de Magos se opone a la práctica de su oficio, pero que el gobernador le favorece frente a los del Gremio de Magos.
+173	$135	El atrapa alma de N'gasta captura los espíritus difuntos de los «tontos que descuidan la santidad de sus almas».
+174	$136	La trampa de almas captura únicamente a aquellos espíritus que no están protegidos por rituales sagrados, o que fueron sepultados en tierra profana, según N'gasta.
+175	$137	N'gasta sirve al Príncipe Daédrico Clavicus Vile, y afirma que Vile concede favores a cambio de cada alma que N'gasta le entrega. 
+176	$138	De paso, N'gasta menciona que sólo queda con vida un hermano de Arkay, ya que el otro cayó en su red hace tres lunas mayores… más o menos en la misma época en que Iszara desapareció.
+177	$139	De pasada, N'gasta menciona que sólo queda un hermano de Arkay con vida, pues el otro cayó en su red hace tres lunas mayores... más o menos al mismo tiempo en que Iszara desapareció.
 178	$140	Lakene dice que los Imperiales están buscando los tesoros tecnológicos antiguos de los Enanos en las ruinas de las montañas.
+179	$141	Hayle nació bajo el signo de la serpiente. Avik dice que los yokudanos creen que las estrellas guían tu destino desde el nacimiento hasta la muerte y más allá.
+180	$142	La madre de Hayle, Saban, no puede completar el ritual de enterramiento del niño asesinado porque tiene que proteger su espíritu de la trampa para almas tendida por N'gasta. Según Avik, esta trampa envía el espíritu del difunto a N'gasta a menos que la víctima sea enterrada en tierra consagrada.
 181	$bel	EXAMINAR LA CAMPANA
 182	$but	ILUMINA AL TROLL CON LA ANTORCHA
 183	$can	VELA DE PRUEBA QUE CAE
