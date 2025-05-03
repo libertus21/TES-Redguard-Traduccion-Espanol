@@ -1324,7 +1324,6 @@
 1989	9whb	Un poco desagradable cuando salió por el otro extremo. No tengo ganas de tragarlo de nuevo... sin embargo. No puedo dejarlo por ahí cuando saquen mi cadáver de aquí.
 1990	9whc	¿Quién eres? ¿Por qué estás aquí? 
 1994	9zz4	*AGH!* vete... ¡FUERA! NO... MUERTO... AÚN...
-1995	9nnc	¿DÓNDE PUEDO ENCONTRAR Basil?
 1995	9nnc	¿Dónde puedo encontrar a Basil?
 1996	9ooc	Necesito que me lleven de vuelta a Stros M'Kai.
 1997	9ooe	VE Y PREGUNTA A BASIL. ÉL DICE QUIÉN SE QUEDA Y QUIÉN SE VA AQUÍ.
@@ -3401,6 +3400,7 @@
 4468	vh5c	Sigues de pie.... Olvídalo.
 4469	vh6a	Estás herido. Toma esta venda.
 4470	vh7a	Por tu buena voluntad. Y mi vida perdonada.
+4471	vh7c	Gracias
 4474	vzz3	No más. Guárdalo.
 4475	wb1a	No dejes que la puerta te golpee al salir.
 4476	wb1c	Siempre es un placer, Rollo.
@@ -3621,6 +3621,13 @@
 4711	yysc	La he encontrado, pero no he encontrado la manera de sacar el alma de A'tor. Necesito ayuda.
 4712	yzz1	¿Qué quieres?
 4717	yt1c	Muchas gracias.
+4713	yzz2	Tú otra vez.
+4714	yzz3	Envaina esa espada, o sigue tu camino.
+4717	yt1c	Gracias
+4718	yb8c	Hasta luego, entonces
+4719	yr1a	Mira. Tú querías venir. Y aquí te quedas hasta que oiga otra cosa de Basil
+4720	yb7a	No tengo ni idea. Ve a preguntarle a alguien. Y no vayas a meter las narices donde no te llaman, o lo lamentarás.
+4721	yt1a	No me agradezcas, amigo. Ocúpate de tus asuntos. Tengo cosas que hacer
 4725	zah4	¿Qué quieres?
 4834	z101	Este hombre insistió en entregarle el amuleto él mismo, milord.
 4835	z108	¿Mi señor?
