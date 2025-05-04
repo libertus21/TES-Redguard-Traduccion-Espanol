@@ -824,6 +824,10 @@
 911	?xmb	CUBO
 912	?xob	SANGRE DE ORCO
 913	?xpi	POCIÓN DE PIEL DE HIERRO
+914	?xr1	RUNA
+915	?xr2	RUNA
+916	?xr3	RUNA
+917	?xr4	RUNA
 918	?xrf	BANDERA
 919	?xri	ANILLO DE INVISIBILIDAD
 920	?xrk	LLAVE OXIDADA
@@ -845,6 +849,7 @@
 936	?yly	ESTÁS MINTIENDO
 937	?yoc	Campamento Yokudan
 939	?yol	Chico Yokudan
+940	?yos	yokudanos
 941	?ysc	Asustado pero listo
 942	?yud	Has estado en Den
 943	?vqa	¿Qué puerta es la correcta?
@@ -885,6 +890,7 @@
 981	03cc	SEA USTED CLARO
 982	04bc	ME ESTOY OFENDIENDO.
 983	0l4a	A mitad del tiempo.
+984	04cc	ESTOY CONFUNDIDO, ME TEMO
 985	04ac	Vamos, sé buen amigo.
 987	0g2a	>>SQUAWK<<! SISTERSAY! >>SQUAWK<<! bonito pajaro SHOO SHOO!
 988	0g3a	ISZARA PRECIOSA SHOO>>SQUAWK<<SHOO!
@@ -896,9 +902,18 @@
 995	0gaa	>>SQUAKKA-KA!<< Hermana Rica, cara de espanto!
 996	0gba	>>SQUAWK<<¡Viejo asqueroso dedos mugrosos! >>SQUAWK<<!
 997	0gca	ROLLO >>¡KRAAAK!<< ROLLO conoce >>¡KRAAAAAAAK!<< ¡TARRONIO HUESOSO!"  
+998	0gda	>>SQUAWK<< ¡HERMANITA PLUMADURA! ¡HERMANITA AMPOLLAPLUMAS!
+999	0icc	HABLA CLARO, ¡MALDITA SEA!
 1000	0l5b	Señor, no puedo explicar.
+1001	0i5c	DANOS UN RESPIRO, COLEGA.
 1002	0l5a	A menos que hagas lo mismo!
 1003	0idc	De aves, eres el más fino.
+1004	0rcc	HE MATADO COSAS MÁS PEQUEÑAS... 
+1005	0rdc	MIRA. ¿Y SI TE PAGO?
+1006	0r5c	TUS PLUMAS DE MATÓN HAN EMPEZADO A ASOMAR.
+1007	0s5c	ESTAS ADIVINANZAS NO SON REALMENTE MI ESTILO.
+1008	0scc	VOLVAMOS A ISZARA.
+1009	0sdc	¡YA ESTOY HARTO DE ESTO!
 1010	0lm1	Tu hermana astuta tramó el plan.
 1011	0lm2	oro buscó, eso es normal.
 1012	0lm3	veintiún pasos.
@@ -950,7 +965,7 @@
 1070	1c1c	Stros M'Kai era un bastión de la Corona, ¿no es asi? 
 1071	1c2a	No, la batalla en el Casco Viejo hizo eso.
 1072	1c2c	¿No a todos?
-1073	1cta	You're a nosy young fellow, aren't you? The less you know about them the better.
+1073	1cta	Eres un joven entrometido, ¿verdad? Cuanto menos sepas de ellos, mejor.
 1074	1ctb	Si no le gustas a Richton, te mete en la cárcel. Si realmente no le gustas, te mete en las Catacumbas. Nadie sale vivo de allí.
 1075	1ctc	¿QUÉ HAY DE ESTAS CATACUMBAS?
 1076	1cxc	¿Lo has visto?
@@ -4158,6 +4173,7 @@
 4449	vf2i	LO SIENTES....
 4450	vf3a	¡TÚ GANAS! ¡YO GANO!
 4451	vf3b	estupido
+4452	vf3c	sip.
 4454	vf3e	¡VETE AL INFIERNO!
 4455	vf3f	¡MALDITA SEA!
 4456	vf3g	DE ACUERDO, CYRUS....
