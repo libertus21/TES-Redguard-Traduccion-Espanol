@@ -1394,7 +1394,7 @@
 1615	719c	VAMOS.
 1616	71ac	¡ARRIBA! ¡BASTARDOS! ¡SORTEO!
 1617	71bc	¡Vamos!
-1678	73fh	COME HERE! 
+1678	73fh	ven aca papito! 
 1693	78d1	LO SIENTO, HOMBRE. IMPERIALES POR TODAS PARTES. NO HABLO CON EXTRAÑOS.
 1694	78d2	LOS TIEMPOS SON DUROS EN STROS M'KAI. NO PUEDO AYUDARTE, AMIGO.
 1695	78d3	NO TIENES UNA MONEDA DE SOBRA, FORASTERO. PRUEBA CON OTRO.
@@ -1563,6 +1563,7 @@
 1927	8y2b	ESTÁS AQUÍ POR VOLUNTAD PROPIA, ASÍ QUE PERMÍTEME DEMOSTRARTE.... ME GUSTARÍA QUE TE DISCULPARAS POR HABER SIDO TAN GROSERO, Y QUE SUPLICARAS HUMILDEMENTE MI PERDÓN.
 1928	8y2c	Entiendo, Vile. Sigamos con esto.
 1935	91bc	Cállate.
+1965	9b1c	ESPERA. VOLVERÉ.
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
 1968	9fla	¿Por qué? ¿Quieres unirte?
@@ -2987,7 +2988,11 @@
 3457	n0jb	No, querían restaurar al Príncipe a través del soulgem. El campo de estasis habría interrumpido la transferencia. Tenían que deshacerse de él
 3458	n1ha	Por favor, perdona las formalidades, pero el Gobernador ha impuesto un impuesto de templo de 25 oros por cualquier servicio mágico prestado, de curación o de otro tipo. ¿Pagarás el impuesto?
 3459	n1hc	¿Puedes curarme, Hermano Nidal?
+3460	n1ka	¿LAS CAVERNAS...? ¿QUÉ PODRÍA HABER ESTADO HACIENDO ALLÍ?
+3461	n1kc	HERMANO NIDAL, TENGO MALAS NOTICIAS. HE ENCONTRADO EL CUERPO DE KITHRAL EN LAS CAVERNAS; ESTÁ MUERTO. LO SIENTO.
 3462	n2hc	Bien.
+3463	n2jb	POBRE MUCHACHO... ¿QUÉ ESPERABA CONSEGUIR?
+3464	n2jc	ENCONTRÉ SU DIARIO ENTRE LOS RESTOS. DEBERÍAS LEERLO.
 3465	n2jd	Cyrus, ahora te considero un amigo. Gracias por esta "desafortunada" noticia de mi iniciado; al menos ahora conozco su destino
 3466	n3ha	Lo siento de veras, pero entonces no puedo ayudarte
 3467	n3hc	Olvídalo.
@@ -3719,6 +3724,7 @@
 4221	tk1b	Allí, el hermano Nidal me dijo que Iszara había desaparecido y me puso en el camino de escribirte. 
 4222	tk1c	¿Quién en este pueblo conocía a Iszara?
 4223	tk2c	¿Qué puede decirme de Iszara?
+4224	tk3c	¿CORRECTO...?
 4225	tk4c	Desapareció hace tres meses
 4226	tk5c	¿Y entonces qué?
 4227	tl1a	¿Dónde escuchaste ese nombre?
@@ -3739,6 +3745,16 @@
 4242	tmec	¿Desde cuándo eres mercader, Tobías?
 4243	tmga	Sí. Está aquí al otro lado de la plaza. Allí también venden otras baratijas mágicas. Hazles una visita, y dile a esa linda aprendiz elfina que tiene que venir a ver el océano conmigo.
 4244	tmgc	¿Puedo comprar más pociones curativas en el Gremio de Magos?
+4245	tn1a	VEO QUE AÚN RECUERDAS A TUS HÉROES DE LA INFANCIA AUNQUE HAYAS DESECHADO LA PATRIA.
+4246	tn1b	SER RESUELTO, NO TEMER NINGÚN SACRIFICIO Y SUPERAR TODAS LAS DIFICULTADES PARA OBTENER LA VICTORIA.
+4247	tn1c	HUNDING ES UN MANANTIAL UNIVERSAL.
+4248	tn2a	DIME QUE NO SE TE ENCOGIÓ EL CORAZÓN CUANDO VISTE SU ESTATUA EN EL PUERTO.
+4249	tn2c	¿VES? CUALQUIERA PODRÍA ADMIRARLO.
+4250	tnxa	REALMENTE.
+4251	tn3c	FRANDAR HUNDING ES UN GRAN HÉROE PARA HAMMERFELL, LO ADMITO, E INCLUSO UN POCO PARA MÍ MISMO. SALVE AL GRAN FUNDADOR Y TODAS ESAS TONTERÍAS.
+4252	tnxc	PERO ES UN MAL PLAN INTENTAR DESENCADENAR EL TIRÓN DE LA PATRIA MEDIANTE LA INVOCACIÓN DE HUNDING, TOBIAS.
+4253	tn4a	ESO ES PORQUE CAYÓ AL MAR, ¡IDIOTA...!
+4254	tn4c	NO OLVIDES QUE TAMBIÉN ABANDONÓ SU TIERRA NATAL Y NUNCA MIRÓ ATRÁS.
 4255	to1a	Los Corona huyeron allí después de la batalla. Fue su última resistencia. El Gobernador envió a su dragón y se acabó
 4256	to1c	¿Qué pasó con el Casco Viejo?
 4257	to2a	Esa sección de la ciudad está cerrada. Nadie con quien haya hablado sabe si estuvo allí o no
@@ -3753,6 +3769,7 @@
 4266	tp3c	Bien. Cuéntame todas las noticias del príncipe A'tor que he ignorado vergonzosamente
 4267	tp3d	Fue entonces cuando el Imperio llegó
 4268	tp3e	«A través de una tregua de antepasados que nadie esperaba. De nuevo el Príncipe se vio obligado a volver a Stros M'Kai, que murió defendiendo. No será olvidado por mucho tiempo. ¡Lagarto! ¡Otro trago!
+4269	ts1a	¿CÓMO ESTÁ ESE VIEJO ESCORPIÓN?
 4270	ts1b	Pensé que Septim había consolidado a los Bretones
 4271	ts1c	Ha pasado de los buscadores de tronos del viejo Imperio a los señores menores de Roca Alta, y sigue jugando con ellos en su beneficio, sacando oro de todos los frentes
 4272	tsxa	¿Sigue oliendo tan mal?
@@ -3760,6 +3777,10 @@
 4274	tsxc	Hay mucha demanda de mercenarios últimamente, y también de tipos que arreglan problemas, como nuestro amigo el gato.
 4275	ts3a	Creo que voy a pasar a saludarlo cuando me vaya. Hace mucho que no lo veo.
 4276	ts3c	Como para sentirlo desde acá.
+4277	tsea	DURANTE MUCHO TIEMPO MIS HOMBRES SURCARON EL ILIACO Y CENTINELA ESTABA A LO LARGO DE LA CARRERA. ASÍ ES COMO SUPE QUE ISZARA SE TRASLADÓ DE ALLÍ A AQUÍ.
+4278	tseb	SEGUÍ CON ELLA POR TU BIEN, AUNQUE FUERA UN SUEÑO PENSAR QUE ALGO SALDRÍA DE ELLO.
+4279	tsec	¿CÓMO ES LA CIUDAD DE SENTINEL? NUNCA REGRESÉ.
+4280	tsed	CUANDO LA PURGA DE VOLAG PRENDIÓ POR EL NORTE FUI ALLÍ EN BUSCA DE AYUDA, PERO ELLA YA SE HABÍA IDO. MÁS TARDE SUPE QUE HABÍA VENIDO A STROS M'KAI.
 4281	tska	No se preocupan demasiado. Han sobrevivido a Imperios antes y esta conquista no será diferente
 4282	tskb	Hammerfell ha sido la invasión más sangrienta de la que se tiene constancia, y en comparación la ocupación de Skyrim parece un ballet
 4283	tskc	¿Así que los reyes Nord también se han sometido a Tiber Septim?
@@ -3832,9 +3853,16 @@
 4354	uh2c	No lo se.
 4355	uh3a	Bien. Sólo un segundo.
 4356	uh3c	Tood Hovard.
+4357	uh4a	URIK. BIENVENIDO A LA GUARIDA DEL CONTRABANDISTA. ¿QUÉ QUIERES?
+4359	uh5a	ES UN MUNDO DONDE EL PERRO SE COME AL PERRO, CYRUS.
+4360	uh5c	¿QUÉ TAL EL NEGOCIO?
+4361	uh6a	¿EN QUÉ PUEDO AYUDARTE, AMIGO?
+4362	uh6c	HOLA URIK.
 4363	uhia	Claro que sí. Cambié por él justamente.
 4364	uhic	Entrégalo, amigo. Ese pergamino era de Iszara, y ahora me pertenece.
 4365	uhta	Un buen golpe, ¿eh, amigo?
+4366	uhtb	¡ENTROMETIDO!
+4367	uhtd	HE OÍDO QUE LOS GUARDIAS ROJOS ERAN ESPADACHINES, CYRUS.
 4368	uifa	Nunca dije que fuera su amiga. Sólo que la conocía. ¿Qué te hace pensar que me importa lo que le pasó?
 4369	uifc	Afirmas ser amigo de Iszara. Estoy intentando averiguar qué le pasó, y necesito ese pergamino para hacerlo.
 4370	uisa	Así es, ella venía de vez en cuando. La última vez que la vi, iba detrás de un trozo de malaquita por alguna razón.
@@ -3879,6 +3907,9 @@
 4409	utma	De acuerdo. 100 de oro, ni un chelín menos. ¿Puedes pagarlo?
 4410	utmb	No lo creo. Por qué no vuelves cuando estés listo para hacer negocios.
 4411	utmc	No, estoy seguro de que conoces bien la tarifa vigente. Pero por qué no dices un precio y lo vemos.
+4412	uw1a	¡SURE, SURE! AQUÍ TIENES. ESCUCHA, SIN RESENTIMIENTOS, ¿EH? SÓLO UN MALENTENDIDO ENTRE AMIGOS, ES TODO, ¿VERDAD?
+4413	uw1c	AHORA. SOBRE ESA INSIGNIA. CREO QUE LOS DOS ESTAMOS DE ACUERDO EN QUE ME LA HE GANADO A PULSO.
+4414	uw2c	POR SUPUESTO.
 4417	uwhd	¡A si papi!
 4418	uwhe	¡MALDICION!
 4420	uzz1	¿Que quieres?
@@ -3898,6 +3929,23 @@
 4434	vb8a	Él tampoco tiene idea de dónde está.
 4435	vb9a	Tu lista es demasiado larga, Basil. Yo contaré la mía. Es corta... Y al... ¡punto!
 4436	vbaa	No puede ayudarnos, Basil. Ahora me toca a mí.
+4437	vbba	¡TÚ GANAS! ¡YO GANO!
+4438	vf1a	ISZARA LUCHABA MEJOR QUE TÚ.
+4439	vf1b	VAMOS, AHORA.
+4440	vf1c	ESTOY AQUÍ, VANDER.
+4441	vf1d	HACES LO QUE PUEDES.
+4442	vf2a	¡DE PAR EN PAR, CYRUS!
+4443	vf2b	TE GUSTA, ¿VERDAD?
+4446	vf2f	CORTARLO.
+4447	vf2g	¡ESO ES PARA LOS MIMADOS DE LA REDADA!
+4448	vf2h	¡ESTO ES POR LOS HOMBRES QUE MATASTE!
+4449	vf2i	LO SIENTES....
+4450	vf3a	¡TÚ GANAS! ¡YO GANO!
+4451	vf3b	estupido
+4454	vf3e	¡VETE AL INFIERNO!
+4455	vf3f	¡MALDITA SEA!
+4456	vf3g	DE ACUERDO, CYRUS....
+4458	vf3i	¡TE MATARÉ!
 4460	vh1a	¿Vienes a presumir de tu triunfo?
 4461	vh2a	¿Y qué hay de mis hombres? ¿Qué pasa con ellos?
 4462	vh2c	Acabemos con esto. ¿Por el bien de mi hermana? 
@@ -3910,6 +3958,8 @@
 4469	vh6a	Estás herido. Toma esta venda.
 4470	vh7a	Por tu buena voluntad. Y mi vida perdonada.
 4471	vh7c	Gracias
+4472	vzz1	BASTA, HOMBRE.
+4473	vzz2	SUFICIENTE, DIJE.
 4474	vzz3	No más. Guárdalo.
 4475	wb1a	No dejes que la puerta te golpee al salir.
 4476	wb1c	Siempre es un placer, Rollo.
@@ -3917,6 +3967,7 @@
 4478	wblc	¿Campana?
 4479	wbma	Eee-yawhn. Despiértame cuando termines de parlotear, ¿vale?. Gracias
 4480	wbmc	Hablas demasiado, Rollo. Un día, tu bocaza te va a meter en problemas.
+4481	wdta	¡ESTÁ JUSTO FUERA, ZOQUETE! AQUÍ HAY ALGUNAS DIRECCIONES TAL VEZ USTED PUEDA ENTENDER.
 4482	wdtb	Sal fuera. Mira a tu alrededor. Si no lo ves, abre los ojos y vuelve a intentarlo. Ahora piérdete.
 4483	wdtc	Estoy buscando la posada Draggin Tale. ¿Lo conoces?
 4484	wgma	"Tengo tu medallón de plata aquí mismo, amigo. Vete, estoy ocupado.
@@ -4018,6 +4069,19 @@
 4580	xa26	Y, ¡ay! ¿Por qué-é termina esta canción?
 4581	xa27	Z de las mujeres... ¿zoqué? ¡Zoantrópicas!
 4582	xa28	¡Y ahora... ¡hip!... cantemos to-to-todo otra vez! (¡Tararí-tá!)
+4583	xalo	EXAMINAR LAS HOJAS DE ALOE
+4584	xbkd	EXAMINAr LA TRADICIÓN ENANA
+4585	xbke	EXAMINAR ARTEFACTOS ELFOS V.III
+4586	xbkf	EXAMINAR LA FLORA DE HAMMERFELL
+4587	xbkr	EXAMINAR A LOS HÉROES DE LA GUARDIA ROJA
+4588	xbks	EXAMINAR EL FIRMAMENTO FFOULKE
+4589	xbkt	OBTENER CUBO
+4590	xcan	EXAMINA LAS VELAS
+4591	xcom	EXAMINAR BRÚJULA
+4592	xfet	EXAMINE LAS PLUMAS
+4593	xisj	EXAMINAr EL DIARIO DE ISZARA
+4594	xsho	EXAMINAR LA PALA
+4595	xtor	EXAMINAR LA ANTORCHA
 4596	xa7c	No ha habido un caso de eso en doscientos años.
 4597	xara	Sólo digo que los que jugamos bien nuestras cartas podríamos abrir una buena tienda de cinturones.
 4598	xarc	¿Tampoco te gustan los Argonianos? ¿A quién sí te cae bien, Crendal?
@@ -4070,6 +4134,7 @@
 4647	xch7	¡Será mejor que corras, Redguard!
 4648	xgr1	Debo estar viendo cosas
 4649	xgr2	¡¿que!?
+4650	xgr3	PRODUCTO DE LA BUENA BEBIDA, ¡ERES!
 4651	xgr4	¡Ah! No hagas ruido, ¿quieres?
 4652	xgr5	Vete, ¿por qué no?
 4653	xgr6	¡Vete a mendigar a otra parte, gremlin!
@@ -4087,6 +4152,7 @@
 4665	y2wa	Un astuto ataque nuestro. Tenemos la pasión, pero no los medios para enfrentarnos a sus barcos en mar abierto.
 4666	y2wc	Oí que incendiaste su buque insignia hace un tiempo.
 4667	y3wa	Elegimos permanecer en las sombras, obligando a nuestro estimado gobernador a dormir con un ojo abierto y revisar sus armarios buscando asesinos. Ja... no nos encontrará.
+4668	y712	YA TE HAS PUESTO AL DÍA, ¿NO?
 4669	yb1c	Hablaremos más tarde.
 4670	yb2a	Te daré unas horas, no más. No voy a esperar a los imperiales.
 4671	yb2c	Volveré con tu prueba.
@@ -4114,7 +4180,9 @@
 4693	yn2a	Ok. Debo irme ahora, antes de que los Imperiales vean mi nave.
 4694	yn2c	Haré mi mejor esfuerzo.
 4695	ypga	¿Te arrojaron a las Catacumbas? Bueno, has estado ocupado. Estoy impresionado por el escape
+4696	ypgc	UNO DE TUS HOMBRES, PRISIONERO DE RICHTON, ME DIO UNA LLAVE ANTES DE MORIR DE SUS HERIDAS. Y TU CÓDIGO MANTIENE A LOS LOCOS LOCALES.
 4697	ypra	Una pruebas de que mereces la atención de la Liga. Algo que me demuestre que no corro un gran riesgo llevándote al escondite
+4698	yprc	¿PRUEBAS? ¿DE QUÉ?
 4699	yrsa	Esos son tus riesgos, no los míos. Tampoco me des lecciones sobre tu vida de aventuras. Yo no necesito nada de ti y tú necesitas mi ayuda. Te hago un favor quedándome aquí todo este tiempo.
 4700	yrsc	Riesgo. ¿Es eso lo que te preocupa? He tomado diez vidas que valen la pena, y en lo que a mí respecta, hablar contigo es una de ellas
 4701	ysia	No sé de dónde la has sacado, Cyrus, pero servirá. La insignia garabateada como tal te compra al menos una audiencia con la Liga. Sube a bordo, nos vamos antes de que los Imperiales sepan que estoy aquí
@@ -4132,6 +4200,8 @@
 4717	yt1c	Muchas gracias.
 4713	yzz2	Tú otra vez.
 4714	yzz3	Envaina esa espada, o sigue tu camino.
+4715	yr1c	NECESITO QUE ME LLEVEN DE VUELTA A STROS M'KAI.
+4716	yb7c	¿DÓNDE PUEDO ENCONTRAR Basil?
 4717	yt1c	Gracias
 4718	yb8c	Hasta luego, entonces
 4719	yr1a	Mira. Tú querías venir. Y aquí te quedas hasta que oiga otra cosa de Basil
