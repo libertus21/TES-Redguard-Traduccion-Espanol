@@ -866,12 +866,36 @@
 962	0i1c	Busco a una joven dama.
 963	0l1a	Conozco el nombre de tu hermana.
 964	0l2a	Y los rumores de su fama.
+965	0r1c	LUCHÉ CONTRA UNOS MATONES INÚTILES NO HACE MUCHO.
+966	0s1c	¿CUÁNTO TIEMPO LLEVA VIVIENDO EN LA ISLA?
+967	0b1c	ADIÓS, ENTONCES.
+968	0b1a	ADIÓS, ENTONCES.
+969	0iac	¡DIME LO QUE SABES!
 970	0i2c	Sus tratos, me temo, no eran de fiar--
 971	0ibc	¿Conoces a Iszara, ave sin par?
+972	0r2c	ENTONCES, LORO, DIME LO QUE SABES
+973	0rac	BONITO PÁJARO, ¿QUÉ HAS OÍDO?
+974	0rbc	¿QUÉ HAS DICHO?
+975	0sac	ENTONCES, ¿SABE QUE VIVE AQUÍ?
+976	0sbc	ENTONCES, LORO, ¿ME LO EXPLICAS?
+977	0s2c	ISZARA SE HA IDO POR UN TIEMPO
 978	0l3a	Solo rimo.
+979	03ac	MI TIEMPO ES CORTO
+980	03bc	EMPIEZA A TENER ALGÚN SENTIDO
+981	03cc	SEA USTED CLARO
+982	04bc	ME ESTOY OFENDIENDO.
 983	0l4a	A mitad del tiempo.
 985	04ac	Vamos, sé buen amigo.
+987	0g2a	>>SQUAWK<<! SISTERSAY! >>SQUAWK<<! bonito pajaro SHOO SHOO!
+988	0g3a	ISZARA PRECIOSA SHOO>>SQUAWK<<SHOO!
+989	0g4a	>>SQUAWK<<! vago ROLLO gordo mier--
+990	0g5a	¡SIEMPRE UN MAPA!>>SQUAWK>>!
 991	0g6a	CY<<SQUAWK!>>rus Cyrus virus de la bolsa de oro!
+993	0g8a	pobre bonita!>>SQUAWK!<<!
+994	0g9a	>>SSSSQUAWKKK! yo se cosas que tu no sabes >>SQUAWK<<! KNOWSMORE!
+995	0gaa	>>SQUAKKA-KA!<< Hermana Rica, cara de espanto!
+996	0gba	>>SQUAWK<<¡Viejo asqueroso dedos mugrosos! >>SQUAWK<<!
+997	0gca	ROLLO >>¡KRAAAK!<< ROLLO conoce >>¡KRAAAAAAAK!<< ¡TARRONIO HUESOSO!"  
 1000	0l5b	Señor, no puedo explicar.
 1002	0l5a	A menos que hagas lo mismo!
 1003	0idc	De aves, eres el más fino.
@@ -1395,6 +1419,7 @@
 1615	719c	VAMOS.
 1616	71ac	¡ARRIBA! ¡BASTARDOS! ¡SORTEO!
 1617	71bc	¡Vamos!
+1618	71cc	¿TE IMPORTARÍA SANGRAR?
 1619	71fa	A por él, chicos
 1620	71fb	Peleas como un príncipe muerto.
 1621	71fc	Levántense y desenvainen entonces, caballeros
@@ -1413,6 +1438,9 @@
 1640	71xd	¡Está bien entrenado!
 1641	71xe	¡Sangro!
 1642	71xf	¡Diablos!
+1643	724a	NUESTRO CHICO FAVORITO, DAGOO, LISTO TAN PRONTO.
+1644	725a	SÍ, ¡LO TENDREMOS!
+1645	726a	¡ENTONCES, SÍ!
 1646	72fa	¡Matenlo!
 1647	72fb	Argh... buen corte
 1648	72fd	¡Pon el corazón en esto! chico
@@ -1427,9 +1455,15 @@
 1657	72vf	Tu ganas
 1660	72wd	Buena, ¿eh?
 1661	72we	¡Ahí está!
+1662	72wf	¡ESTÁs ACABADO!
 1664	72xb	¡Golpe justo!
+1665	72xd	OUCH, DIJO.
 1666	72xe	¡Cuidado!
 1667	72xf	¿Te crees rapido?
+1669	737a	¡TE DEJAREMOS SIN ALIENTO, puto!
+1670	738a	¡ESTÁ LISTO, HOMBRES! ¡DAD, AHORA!
+1671	739a	¡EH, GUARDIA ROJO, ESTAMOS DISPUESTOS!
+1672	73fa	¡CÓGELO!
 1673	73fb	¡Escoria de la corona!
 1674	73fd	¡Zoquete!
 1675	73fe	Rodéenlo, ¿eh?
@@ -1479,6 +1513,64 @@
 1722	7809	Tú también pareces del tipo mercenario. Así que entenderás --
 1723	7810	- si no estoy de acuerdo en desprenderme de mi última recompensa.
 1724	7812	Me encanta la fantasía mortal. Te seguiré el juego: ¿qué me darías por el alma del príncipe A'tor?
+1727	78d6	ALÉJATE, PEQUEÑO o te besare.
+1728	78d7	HAY ALGO QUE NO SE VE A DIARIO.
+1729	78f6	FUERA DE MI CAMINO.
+1730	78f7	ESTÁS BUSCANDO UNA BUENA PATADA, PEQUEÑO CHILLÓN.
+1731	78f8	UN MONTÓN DE BUEN COMER EN UN cubo.
+1732	791a	¡HA! ¡ME ENCONTRASTE! ¡PERO NUNCA ME COGERÁS VIVO! ¡JA, JA, JA, JA, JA!
+1733	791b	¡NUNCA MÁS! ¡NUNCA MÁS! ¡MORIRÉ ANTES DE DEJAR QUE ME LLEVES!
+1734	791d	¡MUERE! ¡MUERE, TONTO! ¡NUNCA DIRÉ DÓNDE ESCONDÍ EL ORO! ¡JA-JA-JA-JA-JA!
+1735	791e	¡IDIOTA! ¡TOMA ESO!
+1736	791f	¡MUERE, TONTO!
+1737	791g	ve a morir! HA-HA-HA-HA-HAH!
+1738	791h	¡SOLO UN RASGUÑo en el pulmon!
+1741	792a	ES *MÍO* -- ¡TODO *MÍO*, TE DIGO!
+1742	792b	¿ROBAndo *MI* ahorros para mami? ¡MUERE, LADRÓN!
+1743	792d	SABES DEMASIADO, LADRÓN... ¡Y AHORA DEBES MORIR POR ELLO!
+1744	792e	¡AHA! ¡esquiva! ¡PARA! ¡TRUCHA!
+1745	792f	¡MADRE DE LOS PERROS Y DE LAS VIRUELAS!
+1746	792g	CORAJE, PEQUEÑO. ¡ES SÓLO SANGRE!
+1748	792i	¡OH! TE HAS COLADO, ¿VERDAD?
+1750	793a	BIEN, BIEN. ¿QUÉ haces TAN LEJOS DE LA CIUDAD?
+1751	793b	LO SIENTO. PERO NECESITO TU MONEDA, ASÍ QUE DEBES MORIR.
+1752	793d	LA PRESA Y SU PULSO SE SEPARAN PRONTO, AMIGO MÍO.
+1753	793e	¡SHH! ¡SHH! MUERE, CORDERITO.
+1754	793f	MANTÉN TUS HERRAMIENTAS AFILADAS, SOLÍA DECIR MI PADRE.
+1755	793g	SÓLO UNOS POCOS MÁS, MUCHACHO, Y TODO HABRÁ TERMINADO.
+1756	793h	¡HMM! PUEDES USAR ESO, ¿NO?
+1757	793i	¡AUGH! BUENO, DEBO DECIR.
+1758	793j	¿QUÉ...? QUE *duele *, carajo
+1760	794b	¡TENGO-TENGO-TENGO-TENGO!
+1761	794d	DÁMELO TODO. TODO. ¡DAME!
+1762	794e	SWING, SWING, SWING, ¡ESTOY CANTANDO!
+1763	794f	¡LA-LA-LA! ¡QUIETO! ¡QUIETO!
+1764	794g	¡TE VOY A CORTAR, TE VOY A CORTAR *BIEN*!
+1765	794h	¡HEY! ¡PARA! ¡ESO exita!
+1766	794i	¿SANGRE? ¿QUÉ? ¡ESTOY SANGRANDO!
+1767	794j	¡AYUDA! ¡ASESINATO! ¡AYUDA!
+1768	795a	¡OYE, HERMANO NED, MIRA LO QUE TENEMOS AQUÍ!
+1769	795b	APUESTO A QUE ESA ESPADA TRAERÁ UNA BONITA MONEDA, ¿EH, chico bonito?
+1770	795d	NED Y YO NECESITAMOS ALGO DE DINERO PARA NUESTRA POBRE MADRE en esta economia
+1771	795e	¡CUIDADO! ¡DETRÁS DE TI! ¡HAW-HAW-HAW!
+1772	795f	¡TOMA ESTO, PELETERO!
+1773	795g	¡MALDITO! TRABAJO CALIENTE AQUÍ.
+1774	795h	ME ATRAPASTE, CHIVATO.
+1775	795i	¡EH! ¡ME HAS ESTROPEADO LA CAMISA de mi abuela! 
+1776	795j	¡YEE-SAH-REE! ¡ESA COSA ESTÁ AFILADA Y ME GUSTA!
+1777	795k	¡NED! ¡LO HAS MATADO! ¡ME HAS MATADO A MI HERMANO, BASTARDO!
+1778	795l	¡PARA NED, PERRO! ¡MUERE!
+1779	796a	¡HERMANO LACY! ¡TENEMOS UN APESTOSO CIUDADANO!
+1780	796b	¡OH, OH! ¡DÉJAME COGERLO!
+1781	796d	LACY Y YO VAMOS A CORTARTE EL CULO, CHICO DE CIUDAD.
+1782	796e	ERES HOMBRE MUERTO, CHICO ESCURRIDIZO.
+1783	796f	VUELVE A LA SUCIEDAD, HOMBRE MUERTO.
+1784	796g	ERES MÍO, MARIQUITA.
+1785	796h	AYUDAME MAMA
+1786	796i	¡OH, ME CORTÓ!
+1787	796j	OW, OW, OW, eso es *exitante*!
+1788	796k	¡Lacy! ¡Lacy, maldita sea! ¡Contesta! ¡Lacy!
+1789	796l	¡MATASTE A MI HERMANO! ¡LO MATASTE!
 1790	7apc	Lamento molestarles.
 1791	8a1a	Vamos, Cyrus. No te resistas.
 1792	8a1c	Lord Vile, me disculpo por ser tan grosero, y yo...
@@ -1997,6 +2089,7 @@
 2330	cfxb	HMM. NADA MALO CON ESTA CAMPANA. SÓLO LOS OÍDOS DEL VIEJO QUE NECESITAN SER ARREGLADOS.
 2331	cgc1	MEJOR DEJO ESTO AQUI.
 2332	cgp1	DESAFORTUNADAMENTE, NO PUEDO LLEVARLO TODO AHORA.
+2344	cial	UNA HOJA GRANDE DE ALOE.
 2345	ciam	UN AMULETO QUE N'GASTA NECESITA ENTREGAR A RICHTON. PODRÍA SER MI BOLETO DE ENTRADA AL PALACIO.
 2346	cib8	ESO ES MEJOR. MUCHO MEJOR..
 2347	cib9	UN VENDAJE. ESTOS PEQUEÑOS RASGUÑOS NO SON GRAVES, PERO MEJOR LO USO PARA LIMPIARME.
@@ -2052,6 +2145,9 @@
 2397	cip9	CON POLVO DE licth
 2398	cipi	UNA POCIÓN DE PIEL DE HIERRO. 
 2399	cipx	Y
+2400	cir1	UNA RUNA CON 2 LÍNEAS EN ELLA.
+2401	cir2	UNA RUNA CON UNA LÍNEA Y UN PUNTO.
+2402	cir3	UNA RUNA CON 2 LÍNEAS Y UN PUNTO EN ELLA.
 2403	cir4	UNA RUNA DE PIEDRA, PARECIDA A UN GUANTELETE
 2404	cirf	ES LA BANDERA ROJA DE PRNELL QUE USA PARA HACER SEÑALES A FAVIS EN EL CAMPANARIO
 2405	ciri	ES UN ANILLO DE INVISIBILIDAD. SERÁ MEJOR QUE USE BIEN SUS CARGAS.
@@ -2141,6 +2237,21 @@
 2491	&005	ESO DEBE DOLER.
 2492	&006	DIABLO DESAGRADABLE, ¿VERDAD?
 2493	&007	¡Vamos!
+2494	&008	¡PUEDES HACERLO MEJOR QUE ESO!
+2495	&009	TODO DEMASIADO FÁCIL.
+2497	&011	ESO ES CORRECTO.
+2498	&012	MÁS CERCA. MÁS CERCA.
+2499	&013	LA PRIMERA VEZ, EH.
+2500	&014	NO ESTÁ MAL. ¡PRUEBA ESTO!
+2501	&015	DEMASIADO LENTO.
+2502	&016	NO ESTÁ MAL. PRUEBA ESTE.
+2503	&017	UN AFEITADO APURADO.
+2504	&018	OTRO PASE AMIGO.
+2505	&019	GRACIAS POR EL EJERCICIO.
+2506	&020	FÁCIL aqui.
+2507	&021	NO ESTA VEZ.
+2508	&022	NO, ELLA ESTÁ DESARMADA.
+2509	d12c	HE PENSADO QUE PODRÍA ECHAR UNA MANO.
 2510	d1da	Pensé que un elfo loco estaba trabajando en eso
 2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
 2512	d1ia	¿Y ahora qué?
@@ -2993,8 +3104,10 @@
 3378	lsmc	¿Y qué te mantiene en Stros M'Kai?
 3379	ltba	No estoy seguro, la verdad. Creo que ha tenido algunos vándalos por la noche
 3380	ltbc	¿Qué le pasa al barco de Trithik?
+3381	lxx1	guardia rojo.
 3382	lxx2	¿Ya encontraste mi medallón?
 3383	lxx3	Me alegro de verte, Cyrus.
+3384	lxx4	¡oh mi rodilla!
 3385	lxx5	Cuidado.
 3386	lxx6	¡No he hecho nada malo!
 3387	lxx7	¿Qué pasa, Redguard?
@@ -3243,6 +3356,10 @@
 3633	nzz3	Buena suerte, hijo.
 3634	nzz4	No debes mostrar esa espada aquí, hijo mío.
 3635	nzz7	Deja de hacer eso, muchacho
+3636	&450	¡SUPONGO, ENTONCES, QUE ES EL MOMENTO!
+3640	&454	¡SUERTE DE ladron!
+3641	&455	¡CUIDA TU FORMA!
+3642	&456	ABERTURAS, CYRUS.
 3646	&460	¡RECONSIDERA TUS OPCIONES, BRIBÓN!
 3647	oa02	La gema del alma
 3648	oa04	El anillo
@@ -3430,6 +3547,7 @@
 3842	pe2a	Me estoy riendo mientras hablamos. ¿Podrías encontrarlo por mí, muchacho? Es una extraña soledad cuando el comienzo de tu visión está a medio centenar de metros.
 3843	pe2c	Aunque podría ser divertido.
 3844	pe3c	Te lo encontraré, Prnell, no te preocupes.
+3845	pefa	¡Por la gloria del empe-- 
 3846	pefc	Creo que he encontrado tu monoculo. ¿Es éste?
 3847	pema	Lo hacían. No abiertamente, como los Corona, pero esa nunca ha sido la forma de ser de la Liga. Volar el buque insignia de Richton, más en su línea.
 3848	pemb	Lo vi arder desde aquí mismo, un espectáculo asombroso. ¿Pero qué logró? El Imperio sigue aquí y no he oído nada de la Liga hasta hoy
@@ -3929,6 +4047,8 @@
 4346	ufic	Es hora de ganarte tu recompensa, Urik.
 4347	ufla	¿Qué te hace pensar que te necesito para tratar con la Liga? Llevo años manejando bien a Basil sin ti.
 4348	uflc	Escucha. Tú me lo das, yo se lo doy a la Liga y hablo bien de ti. ¿Qué me dices?
+4349	ufta	¡MORIRÁS AQUÍ ABAJO!
+4350	uftb	VINIENDO AQUÍ, HACIENDO DEMANDAS....
 4351	uh1a	Lo siento, amigo. No puedo ayudarte.
 4352	uh1c	¡Abreme!
 4353	uh2a	Está cerrado.
@@ -4018,6 +4138,7 @@
 4441	vf1d	HACES LO QUE PUEDES.
 4442	vf2a	¡DE PAR EN PAR, CYRUS!
 4443	vf2b	TE GUSTA, ¿VERDAD?
+4445	vf2e	¡atrapado!
 4446	vf2f	CORTARLO.
 4447	vf2g	¡ESO ES PARA LOS MIMADOS DE LA REDADA!
 4448	vf2h	¡ESTO ES POR LOS HOMBRES QUE MATASTE!
@@ -4289,7 +4410,90 @@
 4719	yr1a	Mira. Tú querías venir. Y aquí te quedas hasta que oiga otra cosa de Basil
 4720	yb7a	No tengo ni idea. Ve a preguntarle a alguien. Y no vayas a meter las narices donde no te llaman, o lo lamentarás.
 4721	yt1a	No me agradezcas, amigo. Ocúpate de tus asuntos. Tengo cosas que hacer
+4723	zah2	¿EN QUÉ CONSISTE SU ACTIVIDAD?
+4724	zah3	¿QUÉ NECESITAS, GUARDIA ROJO?
 4725	zah4	¿Qué quieres?
+4726	zabc	ESO ES TODO POR AHORA. PERO VOLVERÉ.
+4727	zaba	SEGURO.
+4728	zapa	ESO ES CORRECTO.
+4729	zara	¿QUÉ NEGOCIOS TIENEs CON ÉL?
+4730	zaaa	NO ERES LOS SUFICIENTEMENTE BUENO. AHORA MUÉVETE.
+4731	zaha	NO ESTÁ INTERESADO, GUARDIA ROJO.
+4732	zaia	NO TE ME VAS A ESCAPAR. ¡AHORA MUÉVETE!
+4733	zada	MUY BIEN. ENTREGALO.
+4734	zaga	ESO NO VA A PASAR.
+4735	zaka	DE ACUERDO, GUARDIA ROJO. GANAS. TE HARÉ UNA SEÑAL.
+4736	zbja	EN EFECTO, GUARDIA ROJO. MUÉVETE.
+4737	zbsa	NO RECIBEN VISITAS. AHORA OCÚPATE DE TUS ASUNTOS.
+4738	zax1	OCÚPATE DE TUS ASUNTOS, GUARDIA ROJA.
+4739	zax2	MANTENTE EN MOVIMIENTO.
+4740	zax3	NO AHORA, POR FAVOR.
+4741	zbx4	NO ESTOY AQUI PARA HABLAR.
+4742	zbx5	MUÉVANSE, POR FAVOR.
+4743	zcx6	VAMOS, GUARDIA ROJA.
+4744	zcx7	YA ES SUFICIENTE.
+4745	zdx8	NO ES EL MOMENTO. MUÉVETE.
+4746	zdx9	PONTE EN CAMINO.
+4747	zaal	TODO DESPEJADO POR AQUÍ.
+4748	zano	NO HAY NADA AQUÍ.
+4749	za00	¡AQUÍ ESTÁ! 
+4750	zc02	¡SUÉLTALO!
+4751	zd03	¡EL GUARDIA ROJO SE HA ESCAPADO!
+4752	zd04	¡ES UNO DE LOS PIRATAS!
+4775	za27	¡TE HE GOLPEADO BIEN!
+4776	za28	¡HAS PERDIDO, GUARDIA ROJA!
+4777	za29	¡TE TENGO!
+4778	za30	¡NO ESCAPARÉIS!
+4779	zb31	¡TRAIDOR!
+4780	zb32	¡BUEN GOLPE PARA MI EMPERADOR!
+4782	zb34	¡RÍNDETE, AHORA!
+4783	zb35	¡HE DADO EN EL CLAVO!
+4784	zb36	¡DEMASIADO LENTO!
+4786	zc38	¡TE HE CORTADO!
+4787	zc29	¡ERES LENTO!
+4788	zc40	¡UN GOLPE!
+4789	zc41	¡RINDETE!
+4790	zc42	¡ENVAINALA Y VIVE!
+4791	zc43	¡MUERE, GUARDIA ROJO!
+4792	zc44	¡TOMA YA!
+4793	zd45	¡DEMASIADO RÁPIDO!
+4794	zd46	¡SOY RÁPIDO!
+4795	zd47	¡ESTÁS ABIERTO!
+4796	zd48	UN BUEN CORTE
+4797	zd49	SANGRE CON ELLA
+4798	zd50	¡NO HAY PARTIDO!
+4799	zd51	¡MÁS DESPACIO, papi!
+4803	za55	¡BASTARDO!
+4804	za56	¡ME HAN CORTADO!
+4805	zb57	¡MALDITA SEA!
+4806	zb58	¡ME LAS PAGARÁS!
+4807	zb59	¡TE MATARÉ!
+4808	zb60	¡GUARDIA! ¡ESTOY ATRAPADO!
+4809	zb61	ENTRENÓ BIEN PERO NO PARA GANAR
+4810	zc62	¡NO CONSEGUIRÁS OTRA!
+4811	zc63	¡DIOSES!
+4812	zc64	¡MALDITO SEAS!
+4813	zc65	¡MALDITO SEAS, GUARDIA ROJO!
+4814	zc66	¡MALDITOS SEAN SUS OJOS!
+4815	zd67	¡REBELDE!
+4816	zd68	¡VILLANO!
+4817	zd69	¡TE LO DEVUELVO POR LAS BUENAS!
+4818	zd70	JUSTO... golpe...
+4819	za71	TÓMALO.
+4820	za72	¡ES TUYO!
+4821	za73	¡LO TIENES!
+4822	za74	¡ESTOY EMPAREJADO!
+4823	zb75	¡UNA ayudita aca!
+4824	zb76	¡AQUÍ! ¡CÓGELO!
+4825	zb77	¡FUERA DE MI CAMINO ando cagao!
+4826	zb78	¡YO ACABARÉ CON ÉL!
+4827	zc79	¡CRÚZATE CONMIGO, GUARDIA ROJO!
+4828	zc80	¡ES UNO SOLO!
+4829	zc81	¡ESTÁS JUGANDO CON ÉL! ¡ENTREGÁDMELO!
+4830	zd82	¡PRUÉBAME, GUARDIA ROJO!
+4831	zd83	¡TENGO ESTE REBELDE!
+4832	zd84	¡RETROCEDE Y DÉJAMElo A MÍ!
+4833	zc91	¡GUARDIAS!
 4834	z101	Este hombre insistió en entregarle el amuleto él mismo, milord.
 4835	z108	¿Mi señor?
 4836	z201	¡Gobernador! ¡Tengo noticias del  Guardia Rojo!
