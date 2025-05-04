@@ -1395,7 +1395,59 @@
 1615	719c	VAMOS.
 1616	71ac	¡ARRIBA! ¡BASTARDOS! ¡SORTEO!
 1617	71bc	¡Vamos!
+1619	71fa	A por él, chicos
+1620	71fb	Peleas como un príncipe muerto.
+1621	71fc	Levántense y desenvainen entonces, caballeros
+1623	71fe	Por los huesos de Hunding, ¡vamos!
+1624	71ff	¡Ya te tengo, escoria!
+1625	71fg	¡Venga ya!
+1627	71hb	Ve a jugar con tus amigos, escoria de bar
+1628	71hc	Disculpa
+1629	71va	¡He sido vencido!
+1633	71vf	¡He caido!
+1634	71wa	Te vuelves lento
+1635	71wb	Tu sangre mancha el suelo
+1636	71wd	¡Toma esto escoria!
+1637	71we	Duele un poco, ¿No?
+1639	71xb	¡Maldición!
+1640	71xd	¡Está bien entrenado!
+1641	71xe	¡Sangro!
+1642	71xf	¡Diablos!
+1646	72fa	¡Matenlo!
+1647	72fb	Argh... buen corte
+1648	72fd	¡Pon el corazón en esto! chico
+1649	72fe	¡Denle rapido!
+1650	72ff	¡Mas sangre!
+1651	72fg	¡Estas acabado!
+1652	72fh	¡Derríbenlo!
+1653	72va	¡No me mates!
+1654	72vb	AIEE! ¡no me lastimes mas!
+1655	72vd	¡Piedad!
+1656	72ve	¡He tirado mi arma! ¡No me golpees más!
+1657	72vf	Tu ganas
+1660	72wd	Buena, ¿eh?
+1661	72we	¡Ahí está!
+1664	72xb	¡Golpe justo!
+1666	72xe	¡Cuidado!
+1667	72xf	¿Te crees rapido?
+1673	73fb	¡Escoria de la corona!
+1674	73fd	¡Zoquete!
+1675	73fe	Rodéenlo, ¿eh?
+1676	73ff	Te pegare una buena
+1677	73fg	¡Ven aqui, bebe!
 1678	73fh	ven aca papito! 
+1679	73hd	Aye, veo que tienes ganas de pelea
+1680	73va	¡Vengadme!
+1681	73vb	¡No quiero más golpes!
+1682	73vd	¡Piedad, muchachos!
+1683	73ve	¡Que termine aquí!
+1684	73vf	¡Es un combate, muchacho!
+1685	73wa	¡Le di!
+1686	73wb	¡Te he dado una buena!
+1687	73wd	¡Unas mas de estas y estás acabado, chico!
+1688	73we	¡Eres mio!
+1689	73xa	¡Eso se paga con la misma moneda!
+1691	73xd	¡Me ha dado!
 1693	78d1	LO SIENTO, HOMBRE. IMPERIALES POR TODAS PARTES. NO HABLO CON EXTRAÑOS.
 1694	78d2	LOS TIEMPOS SON DUROS EN STROS M'KAI. NO PUEDO AYUDARTE, AMIGO.
 1695	78d3	NO TIENES UNA MONEDA DE SOBRA, FORASTERO. PRUEBA CON OTRO.
@@ -1414,7 +1466,7 @@
 1708	73a1	¿POR QUÉ SIEMPRE ME MOLESTAN? CONTINÚA, ¿QUIERES?
 1709	73a2	¿NO TE LO HE DICHO? DIO?
 1710	73a3	¿QUÉ? ¿ERES TONTO O QUÉ?
-1711	71ha	EY, LOOKEE, DAGOO. A CROWN'S COME OUT OF HIDING. 
+1711	71ha	Ey, mira, Dagoo. Un Corona ha salido de su escondite.
 1712	73ha	¿ES ASÍ? ¡HEY, CORONA! SÉ BUENO Y TRÁENOS OTRA RONDA, ¿EH?
 1713	72ha	HE OÍDO QUE LOS CORONELES OS CREÉIS MUY VALIENTES. ¿QUIERES PONERTE A PRUEBA CONTRA UN VERDADERO ESPADACHÍN?
 1714	73hb	ESTOY HARTO DE CHÁCHARA, CORONITA. SACA ESA CUCHILLA, SI SABES COMO, O DEJAME EN PAZ
@@ -1563,7 +1615,35 @@
 1926	8y2a	Y POR ÚLTIMO: CUANDO TU ALMA ES MÍA, TU VOLUNTAD PUEDE DESAFIARME, PERO HACES LO QUE YO QUIERO.
 1927	8y2b	ESTÁS AQUÍ POR VOLUNTAD PROPIA, ASÍ QUE PERMÍTEME DEMOSTRARTE.... ME GUSTARÍA QUE TE DISCULPARAS POR HABER SIDO TAN GROSERO, Y QUE SUPLICARAS HUMILDEMENTE MI PERDÓN.
 1928	8y2c	Entiendo, Vile. Sigamos con esto.
+1929	91aa	Realmente deberías replantearte las cosas...
+1930	91ab	Nos vendría bien un espadachín como tú...
+1931	91ac	Sin duda.
+1932	91ad	Piensa que aqui estas en desventaja...
+1933	91ba	¿Quizas aprendan a los golpes!
+1934	91bb	¡Das pena en esto!
 1935	91bc	Cállate.
+1937	91ca	¡Pequeño bastardo!
+1939	91cc	Hablas demaciado.
+1940	91cd	Pegas como niña!!
+1941	91ce	¡NO!
+1942	91da	Vosotros dos bailáis muy bien, pero, por desgracia...
+1943	91db	Déjame enseñarle al cachorro un par de cosas.
+1946	92ad	¡A por ti!
+1947	92ae	¡Espadas al frente, chico!
+1948	92af	Ve a su otro lado.
+1949	92ba	¡Será mejor que lo dejes ya!
+1950	92bb	Pronto serás comida para tiburones, hijo.
+1951	92bd	Eres lento.
+1952	92be	Este cargamento es nuestro, muchacho.
+1954	92cb	Solo es un corte superficial.
+1955	92cd	GAH! solo fue suerte....
+1957	92da	Deja que me lo quede.
+1958	92db	¡Mi turno!
+1959	92dd	Estas oxidado, mequetrefe
+1960	94ca	Vete.
+1961	95ca	No te acerques.
+1962	96ca	Déjame en paz, pez de tierra.
+1963	97ca	Pierdete, ¡ahora!
 1965	9b1c	ESPERA. VOLVERÉ.
 1966	9eca	No voy a ninguna parte. Ese estante... debe haber roto algo. Las piernas no se mueven.
 1967	9ecc	Tenemos que escapar. ¿Conoces alguna forma de salir de aquí?
@@ -3709,6 +3789,7 @@
 4204	thlb	No hay tiempo para descansar, porque esta ciudad se arrastra con sombras que quieren hacerte daño, y tu hermana está entre ellas.
 4205	thlc	Estoy falto de práctica, parece, o bien la difícil situación de Iszara me perturba hasta la distracción. Esos matones me han hecho mucho daño. ¿Dónde puedo descansar y curar estas heridas?
 4206	thld	Puedes comprar más de estos en el Gremio de Magos, o visitar el templo, si te hieren de nuevo. Y conociéndote, será a menudo
+4207	tilt	ESPERO QUE ESTA CARTA LLEGUE A TUS MANOS, AMIGO. MIS ÚLTIMOS VIAJES ME HAN LLEVADO A STROS M'KAI Y AQUÍ NADIE HA VISTO A TU HERMANA EN 3 MESES. ME TEMO LO PEOR. ME SIENTO OBLIGADO A QUEDARME UNAS SEMANAS. ESTARÉ EN LA POSADA DRAGGIN TALE, SI REGRESAS. TOBÍAS.
 4208	ti1a	Entiendo, muchacho, lo que quieres decir.
 4209	ti1c	Es una suerte que estuvieras aquí, Tobías, o no habría sabido que Iszara estaba en problemas. No he estado en Hammerfell desde el... 
 4210	ti2a	Envié la carta hace algunas semanas, Cyrus. Me temo que las cosas han empeorado para tu hermana desde entonces
