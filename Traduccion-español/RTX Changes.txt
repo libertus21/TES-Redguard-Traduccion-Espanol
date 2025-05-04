@@ -428,6 +428,7 @@
 471	?boo	COMPRAR LIBROS
 472	?bra	LOS HERMANOS DE ARKAY
 473	?brb	CAMPANA ROTA
+475	?brg	Forajidos
 476	?brn	Hermano NIDAL
 477	?bro	Hermano
 478	?bsm	BATALLA DE STROS M'KAI
@@ -475,6 +476,7 @@
 526	?dod	No te mueras
 527	?dog	Perro
 528	?dot	YO PUEDO HACERLO
+529	?dra	Dragón
 531	?drf	fuego de dragon
 533	?drk	MALDITA LAGARTIJA
 534	?drt	Cuento Draggin
@@ -586,7 +588,7 @@
 650	?jrg	JAGANVIR Y EL ANILLO DE VOA
 652	?kjn	DIARIO DE KITHRAL
 653	?kmr	SABE MÁS
-654	?knw	QUIÉN CONOCÍA A ISZARA
+654	?knw	¿QUIÉN CONOCÍA A ISZARA?
 655	?kjb	TRABAJO KOTARO
 657	?kpa	CONSERVAR EL AMULETO
 659	?lan	Paisajismo
@@ -617,7 +619,7 @@
 684	?lts	LUCES
 685	?ltx	IMPUESTO SOBRE EL LICOR
 686	?lvg	SALIR
-687	?lvs	LAS VIDAS QUE LLEVAMOS
+687	?lvs	LA VIDA QUE LLEVAMOS
 690	?map	Mapa del flasco
 691	?mar	¿Está bien tu madre?
 692	?mag	Mago
@@ -1903,7 +1905,7 @@
 2319	ccv5	ME PREGUNTO QUÉ HABRÁ DENTRO.
 2320	ccv6	PARECE QUE FALTA UN ENGRANAJE DE ESTA RANURA.
 2321	ccv8	MEJOR VUELVO Y CONSIGO la gema alma PRIMERO.
-2322	cdam	DAMN. MEJOR PRUEBO OTRA COSA.
+2322	cdam	Maldición. MEJOR PRUEBO OTRA COSA.
 2323	cdlr	ESE LIBRO SOBRE LA TRADICIÓN ENANA EN LA TIENDA DEL GATO PODRÍA SER ÚTIL AQUÍ.
 2324	cdr1	ESTÁ CUBIERTO POR LO QUE SUPONGO QUE ES ESCRITURA ENANA.
 2326	cdr3	GUARDIAS IMPERIALES. ¿QUÉ ESTÁN HACIENDO AQUÍ ARRIBA? ¿Y QUÉ TIPO DE NAVE ES ESA?
@@ -2143,7 +2145,7 @@
 2595	di3a	No, estoy hablando de antes de eso, justo después de la batalla. Muchos Coronas se hicieron desaparecer entonces.
 2596	di3b	Iszara fue una de ellas; no la vi durante varias semanas después. Más tarde apareció, necesitada de un trago y divagando, decidida a tomar alguna decisión
 2597	di3c	Desapareció hace tres meses.
-2598	di4a	Vinieron los imperiales y la dejé salir por la ventana. No la he visto desde entonces
+2598	di4a	Vinieron los imperiales y la dejé salir por atras. No la he visto desde entonces
 2599	di4c	¿Y entonces?
 2600	dima	No específicamente por Iszara... los imperiales tenían una lista de disidentes que buscaban. Su nombre estaba allí, con nombres de muchas otras Coronas. Desde entonces sólo veo Antepasados aquí.
 2601	dimc	¿Dijiste que los imperiales vinieron aquí buscando a Iszara la última noche que la viste?
@@ -2192,7 +2194,7 @@
 2645	drt0	NO LA VI DURANTE VARIOS DÍAS DESPUÉS, PERO ENTONCES APARECIÓ, NECESITANDO UNA COPA Y DIVAGANDO, TENSA POR ALGUNA DECISIÓN.
 2646	drt5	LLEGARON LOS IMPERIALES Y LA DEJÉ SALIR POR LA PARTE DE ATRÁS. NO LA HE VISTO DESDE ENTONCES.
 2647	drt6	¿OTRO PIEL SUAVE QUE SUEÑA CON LA INESTIMABLE JOYA DEL REY DEL ANTIGUO PANTANO NEGRO? TÚ TAMBIÉN TIENES ESE ASPECTO, TODO ESPADA Y FANFARRONERÍA. TOBÍAS TE DESCRIBIÓ BIEN.
-2648	drt7	LO QUE USTED DIGA.
+2648	drt7	LO QUE tu  DIGA.
 2649	drt8	LO QUE SIGNIFICA QUE TIENE MUCHO ESPACIO PARA MANIOBRAR.
 2650	drt9	LO SIENTO, CYRUS, YO TAMPOCO.
 2651	ds1a	Oh, no. Simplemente observé sus impulsos de clan, que cualquier argoniano podría admirar, estando acostumbrados, como estamos, a honrar los intereses del clan sobre nuestros propios asuntos privados.
@@ -3569,8 +3571,250 @@
 4071	szz2	¡VAYA, VAYA!
 4072	szz3	CYRUS, BEBÉ TE AMO.
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
+4074	t1ba	Te doy mi palabra. Fue de lo más servicial, pero parecía estar ocultando algo
+4075	t1bc	¿Entonces puedo contar con el Hermano Nidal como aliado?
+4076	t1la	Díselo a los que están al otro lado de la espada, muchacho. Apuesto a que ves más de ti mismo en los hombres de la Liga Revoltosa de lo que te gustaría admitir
+4077	t1lc	Nunca fuimos bandidos cuando serví a sus órdenes, capitán, sólo mercenarios
+4078	t1ma	Rescate anónimo
+4079	t1mc	He vuelto a temer un encuentro con Iszara. Aún lo temo. Desearía encontrarla a salvo o salvarla desde lejos
+4080	t1pa	Cuando llegué, sus soldados me enseñaron las sutilezas del nuevo impuesto de atraque de Richton y registraron mi nave en busca de legionarios
+4081	txpa	Debo decir que es un poco gilipollas. Será mejor que tengas cuidado con él.
+4082	t1pc	Hábleme del Gobernador Provisional, Capitán
+4083	t1sa	Unos truhanes que no valen mi carga. Deberías olvidarte de ellos.
+4084	t1sc	Capitán, ¿qué sabe de la Guarida de los Contrabandistas?
+4085	t1ta	El sacerdote principal, un tal Hermano Nidal, fue de gran ayuda con respecto a Iszara. Parecía conocerla bien y compartía mi preocupación por su desaparición. Merece una entrevista
+4086	t1tc	Háblame del templo
+4087	t2ba	Eso fue todo. Puede que se abra más a ti, siendo hermano de Iszara y la mitad de duro de ver.
+4088	t2bc	No consideraría la paranoia un mal rasgo de carácter en Stros M'Kai en estos días. Además, eres tan feo.
+4089	t2la	La guerra es la continuación de la política.`Erm, eso es, ¿no?
+4090	t2lc	Son truhanes con los ojos puestos en la providencia, nada más. Mi espada nunca se ha vestido para la diplomacia. Dame oro por una garganta, la garganta por un desaire, y estoy bien. Dame una guerra bien pagada.
+4091	t2ma	Despierta, Cyrus. ¿Cuánto ha pasado? Diez años desde que colgaste a Hakan de tu espada. Ella ha seguido adelante, esto es obvio. Puede que incluso te haya perdonado
+4092	t2mc	Algo así
+4093	t2pa	¿Quieres decir por qué no están dichos soldados en cajitas al pie de la puerta del Palacio? Porque no he venido a puerto a meterme en líos, sino a sacar a tu hermana
+4094	t2pc	Entonces, ¿por qué no estás en la cárcel?
+4095	t2sc	Ya veo.
+4096	t2tc	Creo que lo vi al otro lado de la plaza
+4097	t3tc	Hemos hablado. Pero le tendré en cuenta.
+4098	t3la	El poder político crece a lo largo de la hoja de una espada.
+4099	t3lc	Citas a Hunding como un Redguard, Tobias.
+4100	t3xa	No fue asesinato. Él también tenía una espada.
+4101	t3mc	Ni siquiera puedo recordar el aspecto de Hakan. Sólo una cara detrás de un protector de espada.
+4102	t3xc	Él la golpeó, yo desenvainé, él desenvainó, nos batimos en duelo. Terminó en segundos. Ahora parece una delgada excusa para el asesinato...
+4103	t3pa	Ahí es donde yo miraría, muchacho
+4104	t3pc	¿Debería ver a este Gobernador, entonces?
+4105	t4lc	Vale, vale.
+4106	t4mc	Por medio segundo, tal vez.... Pero eso no es lo que realmente me molesta. Merecía morir, si es que existe tal cosa.
+4107	t4xc	Fue dejar a Iszara allí para coserlo todo de nuevo. Y luego, la guerra... ¿Dónde estaba yo entonces?
+4108	t61a	Está el camino tradicional
+4109	t61c	¿Hay otra forma de entrar en las Catacumbas?
+4110	t62a	Tal vez. No lo sé.
+4111	t62c	Imagina que me he reído. Una entrada secreta, tal vez
+4112	t71a	Septim no es Cyrodiil por lo que he oído, aunque gobierna sus restos y reconstruye su Imperio; es algo peor, o mayor, dependiendo de tu disposición hacia el sol central
+4113	t71b	Vamos. Durante los últimos cuatrocientos años los reyes mezquinos de Cyrodiil han estado disputándose el título de Emperador, todos reclamando prebenda...
+4114	t71c	Si no tiene lazos de sangre con el trono de Cyrodiil, ¿entonces cómo lo hizo suyo?
+4115	t71d	La sangre del trono imperial es más delgada que un sueño marino y la mitad de húmeda. Tiber Septim tomó el trono como tomó el de tu pueblo
+4116	t72a	Ese es un buen súbdito.
+4117	t72c	Salve al nuevo conquistador.
+4118	t81a	...?!? Los Antepasados están allí, Cyrus, si quieres que la compañía esté a la altura del sentimiento.
+4119	t81c	Thassad II, tan narrado en canciones. Fue imprudente invertir la república en un solo hombre
+4120	t82c	No. Es que... Quiero decir, él estaba muriendo cuando yo era todavía un niño. Nosotros, los Redguards, sólo esperábamos que sucediera. Mi padre tenía su profesión en una mano y una piedra de afilar en la otra.
+4121	t83a	Algunas cosas... deben dejarse para el hijo
+4122	t83c	Sabíamos que la guerra civil llegaría. Si Thassad era tan grande ¿por qué no hizo más en su vida para proteger el reino después de su muerte?
+4123	t91a	No he llamado exactamente a la puerta para averiguarlo. Ese es tu trabajo ahora. Pero sé que la cárcel está fuera de los límites de los no imperiales, ahora. Léase: no hay visitantes en absoluto
+4124	t91c	¿Podría estar en la cárcel?
+4125	t92c	Eso ya lo veremos
+4126	ta1a	¡Pero él los ha estado cazando! ¡Él sabe más que eso!
+4127	ta1c	Conocí al Gobernador. Un hombre hermoso. Me dijo que Iszara estaba en la Liga Revoltosa y que él no tenía nada que ver con su desaparición.
+4128	ta2c	Le creo en lo de Iszara. Es de los que se regodearía si pudiera. Todavía no ha encontrado su escondite. Tengo que encontrarlo primero.
+4129	tb1a	Deben estar escasos de provisiones para actuar tan desesperadamente. Han sido fantasmas últimamente, y esta aparición es la primera desde que estoy aquí.
+4130	tb1c	Audaces son estos bandidos la Liga revoltosa, para atacar un barco en el mismo puerto
+4131	tb2a	Corrieron el Iliac antes de la guerra. Nuestros caminos se han cruzado
+4132	tb2c	¿Cómo sabes de ellos, entonces?
+4133	tb3a	Sí, por lo que te atacaran es tan preocupante. ¿Nadie sabía de tu inminente llegada...?
+4134	tb3c	¿Pero después de la ocupación han permanecido relativamente ocultos?
 4135	tb4a	No estoy seguro.
+4136	tb4c	Nadie excepto S'rathra. ¿Importaría?
+4137	tbaa	Mis investigaciones fueron limitadas, lo admito. Si luchó no puedo decirlo, pero supondría que sí
+4138	tbab	La batalla fue la penultra de las Coronas, y todos los que suscribieron el nombre sin duda tomaron las armas. Aunque la mayoría de ellos fueron muertos en el mar, otros han sido hechos prisioneros por el Gobernador.
+4139	tbac	¿Sabes si Iszara luchó en la Batalla de Stros M'Kai?
+4140	tbva	O sujeto a la ejecución del Imperio, por hablar de él. Desapareció el día que Stros M'Kai fue tomada, y Sentinel yacía en un estado similar. Gobernadores provisionales gobiernan ambas ciudades ahora
+4141	tbvc	El jefe de los Antepasados es ahora un súbdito del Imperio.
+4142	tbxa	Sea como fuere, el templo está bastante vacío de sacerdotes, salvo el Hermano Nidal. Parece que algunos de sus filas también han desaparecido
+4143	tbxc	Así que los sacerdotes todavía están a salvo de ser conquistados.
+4144	tbyc	Volveré. Si no estás aquí... gracias por todo. Y buena suerte
+4145	txyc	No tengo mucho tiempo. Gracias de nuevo, Tobías
+4146	tbya	Sólo encuentra a tu hermana y sal de aquí. Y envía un mensaje a través de S'rathra.
+4147	tbyb	Vete. Lo harás bien
+4148	txya	Suelta amarras, muchacho. Y no olvides a tu viejo capitán
+4149	tc1a	Tu familia siempre ha sido partidaria, muchacho, desde tus primeros días en Sentinel. Aventuré que ella aún mantenía sus antiguas lealtades aunque tú no lo hayas hecho
+4150	tc1b	Pocos Coronas en Stros M'Kai sobrevivieron a la batalla contra los Imperiales, pero sé que Iszara fue una de ellas
+4151	tc1c	¿Crees que Iszara eligió bando en la guerra civil y por eso ha desaparecido?
+4152	tc2a	Oír hablar de la derrota de los Coronas me causó mucha preocupación. Cuando llegué, busqué noticias sobre la seguridad de Iszara
+4153	tc2b	Los únicos aquí que sabían de ella dijeron que había desaparecido poco después del desembarco de los imperiales.
+4154	tc2c	¿Cómo?
+4155	tcra	No quedan muchos por aquí. Los pocos que hay no lo admiten ante cualquiera.
+4156	tcrb	Habla con Siona, una amiga mía... puede que la hayas visto en los muelles. Dile que te envío yo para que sepa que no eres un soplón imperial. Quizá pueda ayudarte
+4157	tcrc	¿Qué hay de los Coronas?
+4158	td1c	El tabernero está muy lejos de Black Marsh, ¿verdad?
+4159	td2b	Así es, y me ha hecho buena compañía en mi espera por ti. Confía bien en él después de mi partida, pues conoce esta isla y a todos los que viven aquí. Pero no te molestes en preguntar por el Ojo, porque ya lo he hecho.
+4160	td2c	¿Dreekius es su nombre?
+4161	tdea	Ten cuidado
+4162	tdec	Agradecería otra oportunidad con los Elfos Oscuros. Todavía tengo cicatrices
+4163	tdna	También ha desaparecido. Algunos dicen que ha vuelto a la Provincia Imperial. Otros que el Gobernador lo mantiene bien pagado y alimentado en las Catacumbas bajo el Palacio
+4164	tdnc	¿Dónde está el dragón ahora?
+4165	tdra	Tan seguro como cualquier otro, y la cerveza es buena. Se puede confiar en Dreekius tanto como en cualquier lagarto andante. Puede que sea un poco duro con todos los Antepasados alrededor, pero estaré aquí hasta que deje Stros M'Kai
+4166	tdrc	¿Es seguro hablar aquí?
+4167	te1a	Disputas entre facciones, consejos divididos, errores de cálculo.
+4168	texa	Los Coronados perdieron el ánimo cuando perdieron la capital. Los Antepasados perdieron la cabeza "completamente" me causas cuando dieron la bienvenida a la 'amistad y ayuda' del Imperio
+4169	te1c	La expansión Imperial ha sido temida durante años. ¿Por qué Hammerfell no estaba mejor preparada?
+4170	te2a	¿Qué otra cosa puede hacer un visionario con una invitación abierta? Sin duda, los Antepasados se lo están pensando ahora. Probablemente por eso están tan amargados y se dejan llevar por las peleas de bar
+4171	te2c	Así que el Imperio jugó con los antepasados bastante bien, ¿eh?
+4172	teya	Tiene la piel para ello, ¿no te parece? Encontraré la cosa todavía, y antes que tú si me salgo con la mía
+4173	teyb	Sí, pero Cyrus debe dejar esa aventura para otro día. Tiene una hermana que encontrar. Le he dicho que le ayudarás después de mi partida, lagarto, así que recuérdame bien
+4174	teyc	¿Dreekius conoce el Ojo de Argonia?
+4175	tf1a	Originalmente, el Imperio iba a prestar sus ejércitos a la causa de los Antepasados a cambio de una franja de títulos de propiedad a lo largo de la frontera sureste...
+4176	tf1b	Pero cuando el Barón Volag desapareció durante el final de la guerra todas las apuestas se cancelaron. Se formó un nuevo tratado que guarnecía esos ejércitos Imperiales en las ciudades...
+4177	tf1c	¿Cuáles fueron los términos de la tregua con los antepasados?
+4178	tf2a	Algo así, sí señor
+4179	tf2c	Hasta el momento en que el gobierno nativo considere oportuno reinstalarse en su legítimo trono
+4180	tfoa	El trono de Sentinel se mantiene caliente gracias a otro Gobernador Imperial, eso debería ser indicio suficiente
+4181	tfoc	¿Cómo les ha ido a los Antepasados bajo el gobierno de Septim?
+4182	th0a	Empieza por el principio.
+4183	th0c	Es verdad..
+4184	th1a	¡Cyrus! ¡Lo has conseguido! ¡Ven aquí, muchacho!!
+4185	th2a	¡Te ves bien! Ha pasado demasiado tiempo!
+4186	th2b	¡La vida de mercenario es trabajo de hombres jóvenes!
+4187	th2c	Si no te hubieras retirado...
+4189	th3c	Bah, he dicho.
+4190	th4a	Recé para que recibieras mi carta.
+4191	th5a	¿Qué hay de nuevo, muchacho?
+4192	th5c	Hola, Capitán.
+4193	th6a	¡Cyrus! ¿Qué has oído?
+4194	th6c	Necesito preguntarte algo.
+4195	th7a	¿Qué pasa, Cyrus?
+4196	th7c	Hola, Capitán.
+4197	th8a	¡cariño!
+4198	th8c	Capitán
+4199	th9a	¡Ach! ¡Ahí está, lagarto! ¡Te dije que no serían rivales para él!
+4200	th9b	¡Jamás dudé, chico! Ellos no estuvieron en Sancre Tor, cuando ese bastardo de Akavir...
+4201	th9c	Tobías, tengo que decirte algo importante. Iszara era parte de la Liga Revoltosa
+4202	th9d	"¡¿Queeeé?!"
+4203	thla	Bebe esto y acaba con el asunto.
+4204	thlb	No hay tiempo para descansar, porque esta ciudad se arrastra con sombras que quieren hacerte daño, y tu hermana está entre ellas.
+4205	thlc	Estoy falto de práctica, parece, o bien la difícil situación de Iszara me perturba hasta la distracción. Esos matones me han hecho mucho daño. ¿Dónde puedo descansar y curar estas heridas?
+4206	thld	Puedes comprar más de estos en el Gremio de Magos, o visitar el templo, si te hieren de nuevo. Y conociéndote, será a menudo
+4208	ti1a	Entiendo, muchacho, lo que quieres decir.
+4209	ti1c	Es una suerte que estuvieras aquí, Tobías, o no habría sabido que Iszara estaba en problemas. No he estado en Hammerfell desde el... 
+4210	ti2a	Envié la carta hace algunas semanas, Cyrus. Me temo que las cosas han empeorado para tu hermana desde entonces
+4211	ti2c	De todos modos, Stros M'Kai no tiene a nadie que pudiera haberme localizado. Gracias.
+4212	tima	Stros M'Kai es un puerto peligroso en estos días; hay un imperio por construir, ya sabes, y Tiber Septim no muestra signos de frenar su crecimiento desde aquí hasta el borde del mapamundi
+4213	timb	Los reyes fronterizos de Roca Alta doblaron la rodilla ante Cyrodiil hace mucho tiempo
+4214	timc	Veo que el puerto ya está engalanado con las banderas del Emperador, y que sus hombres caminan por las calles como si hubieran nacido para ellas
+4215	timd	Incluso el justo Skyrim de mi padre está adornado con banderas de dragones rojos y hombres extranjeros. Estamos entrando en una nueva era, me temo, con el nombre de Septim escrito a lo largo y ancho de ella.
+4216	tj1a	¿Cómo escapaste?
+4217	tj2a	Debe haber regresado a Cyrodiil
+4218	tj2c	Por las buenas. Las Catacumbas salen cerca del puerto, y parecen extenderse kilómetros y kilómetros. Aunque no vi ningún dragón
+4219	tj3c	De hambre, supongo. No queda nadie en la Liga para alimentarlo. Todos están bien escondidos en algún lugar aquí en Stros M'Kai. E Iszara está con ellos
+4220	tk1a	No pregunté a muchos por miedo a una mala lealtad. Así que fui al templo a preguntar por ella, pues los hermanos de Arkay son neutrales en los asuntos de los mortales.
+4221	tk1b	Allí, el hermano Nidal me dijo que Iszara había desaparecido y me puso en el camino de escribirte. 
+4222	tk1c	¿Quién en este pueblo conocía a Iszara?
 4223	tk2c	¿Qué puede decirme de Iszara?
+4225	tk4c	Desapareció hace tres meses
+4226	tk5c	¿Y entonces qué?
+4227	tl1a	¿Dónde escuchaste ese nombre?
+4228	tl1c	¿Qué es la 'Liga Revoltosa', Capitán?
+4229	tl2a	Habla de ello pero en un susurro y no demasiado a menudo. El Gobernador los está buscando en las aguas circundantes y los verá destrozados y apuñalados si se sale con la suya
+4230	tl2b	La Liga ha sobrevivido a la muerte del Príncipe Heredero y aún resiste a sus enemigos.
+4231	tl2c	Atacaron el barco que me dio transporte...
+4232	tl2d	Pero son pocos y cada vez menos por lo que he oído, y se han reducido al bandolerismo estos días. No muy lejos de las vidas que llevábamos no hace mucho
+4233	tl4a	¡Un brindis por los Redguards!
+4234	tlta	No te la envié directamente. Sabía que ese maldito gato probablemente te seguía metiendo en problemas incluso hasta el día de hoy
+4235	tltb	S'rathra parecía la solución probable, y a través de los canales había oído que había hecho de Wayrest su puerto últimamente
+4236	tltc	¿Cómo supiste dónde localizarme, Tobías? Nuestros caminos se separaron hace tanto tiempo
+4237	tm1a	¡¿Quién querría hacerlo?! Tanta ceniza y fuego; ¡que esos Elfos Oscuros se queden con su maldición!
+4238	tm1c	No he vuelto a Morrowind desde entonces
+4239	tm2a	¡Ah! Lo que me recuerda que el Gobernador Richton tiene un pequeño aguijón de esas partes... ¡su Teniente es un Elfo Oscuro! Cuidado con ese, siempre cerca del Gobernador, escondiéndose en su sombra!
+4240	tm2c	No te olvides de los bichos.
+4241	tmea	La lucha me abandonó tras nuestra pequeña incursión en Morrowind. Ha sido un dulce comercio desde entonces
+4242	tmec	¿Desde cuándo eres mercader, Tobías?
+4243	tmga	Sí. Está aquí al otro lado de la plaza. Allí también venden otras baratijas mágicas. Hazles una visita, y dile a esa linda aprendiz elfina que tiene que venir a ver el océano conmigo.
+4244	tmgc	¿Puedo comprar más pociones curativas en el Gremio de Magos?
+4255	to1a	Los Corona huyeron allí después de la batalla. Fue su última resistencia. El Gobernador envió a su dragón y se acabó
+4256	to1c	¿Qué pasó con el Casco Viejo?
+4257	to2a	Esa sección de la ciudad está cerrada. Nadie con quien haya hablado sabe si estuvo allí o no
+4258	to2c	¿Estaba Iszara allí?
+4259	tp1a	¿Cuánto tiempo estuviste en Wayrest, Cyrus?
+4260	tp1b	A un paseo de la bahía del Centinela; lo suficientemente cerca para que oigas hablar del Príncipe A'tor, entonces
+4261	tp1c	Lo suficiente para cabrear a los lugareños
+4262	tp2a	Y tú lo has escuchado todo, estoy seguro.
+4263	tp2c	Sí. Últimamente los pregoneros se tropiezan entre ellos de tantas noticias que llegan del sur abrasador.
+4264	tp3a	Cuando su padre murió y la capital de Sentinel fue tomada por los Antepasados, el Príncipe huyó de vuelta aquí, a su hogar ancestral de Stros M'Kai.
+4265	tp3b	Tras reunir a los Coronas a su lado, se dirigió nuevamente al trono, y estuvo cerca de alcanzarlo.
+4266	tp3c	Bien. Cuéntame todas las noticias del príncipe A'tor que he ignorado vergonzosamente
+4267	tp3d	Fue entonces cuando el Imperio llegó
+4268	tp3e	«A través de una tregua de antepasados que nadie esperaba. De nuevo el Príncipe se vio obligado a volver a Stros M'Kai, que murió defendiendo. No será olvidado por mucho tiempo. ¡Lagarto! ¡Otro trago!
+4270	ts1b	Pensé que Septim había consolidado a los Bretones
+4271	ts1c	Ha pasado de los buscadores de tronos del viejo Imperio a los señores menores de Roca Alta, y sigue jugando con ellos en su beneficio, sacando oro de todos los frentes
+4272	tsxa	¿Sigue oliendo tan mal?
+4273	ts2c	Tanto como los Brujos, pero todavía hay mucho dinero por hacer en el trazado de fronteras antes de que las leyes provinciales se sequen por completo
+4274	tsxc	Hay mucha demanda de mercenarios últimamente, y también de tipos que arreglan problemas, como nuestro amigo el gato.
+4275	ts3a	Creo que voy a pasar a saludarlo cuando me vaya. Hace mucho que no lo veo.
+4276	ts3c	Como para sentirlo desde acá.
+4281	tska	No se preocupan demasiado. Han sobrevivido a Imperios antes y esta conquista no será diferente
+4282	tskb	Hammerfell ha sido la invasión más sangrienta de la que se tiene constancia, y en comparación la ocupación de Skyrim parece un ballet
+4283	tskc	¿Así que los reyes Nord también se han sometido a Tiber Septim?
+4284	tsma	La guerra y los rumores de guerra. Todos los mercaderes que están cerca y en condiciones de navegar han venido a Stros M'Kai a raíz de los recientes acontecimientos... 
+4285	tsmb	Ya sea al servicio del Gobernador Provisional o para llenar las líneas marítimas que Septim ha destrozado, y que las Coronas no pueden correr más.
+4286	tsmc	¿Qué te trajo a Stros M'Kai?
+4287	tsmd	Pensé que podría beneficiarme de una visita, pero no ha traído más que tristeza y la señal de días más oscuros. Me temo que me iré demasiado pronto
+4288	tt1a	Él es bueno en lo que hace y ve los agujeros que hombres menores dejan a lo ancho. Sin ofender a su Príncipe A'tor, por supuesto...
+4289	tt1c	¿Algunas palabras amables para nuestro nuevo Emperador?
+4290	tt2a	¡Por supuesto que lo es! Tiranía significa nunca tener que decir que lo sientes. Pero el destino de Iszara no tiene nada que ver con el Emperador, estoy seguro.
+4291	tt2b	Mira al Gobernador Provisional si sospechas de enredos Imperiales. Él es el verdadero tirano por aquí
+4292	tt2c	Los problemas de Hammerfell son suyos. Sólo preguntaba si Septim era el tirano que dicen
+4293	tu1a	Al atardecer si todo va bien. Y en cuanto a dónde, a donde yo quiera. Stros M'Kai no es para mí
+4294	tu1c	¿Se marcha, Capitán? ¿Cuándo y hacia dónde?
+4295	tu2a	Los imperiales han estado preguntando por su servidor en los muelles últimamente. Me temo que mis investigaciones sobre la desaparición de Iszara les han interesado en todos los sentidos equivocados.
+4296	tu2b	Te ayudaré en lo que pueda en el transcurso de este día, pero después debo terminar con esto. Soy demasiado viejo para una prisión Imperial
+4297	tu2c	Pero pensé que podría ayudarme.
+4298	tu3a	No has estado aquí el tiempo suficiente. Mi nave está lista para partir al atardecer, pero no te preocupes. Estaré aquí hasta entonces, para ayudarte si lo necesitas. Pueden pasar muchas cosas en un día. Nos volveremos a ver
+4299	tu3c	No llegaremos a eso.
+4300	tv1a	Cuando Thassad murió, el Barón Volag lideró a los Antepasados en un levantamiento por el control de la capital. Todas las Coronas se vieron obligadas a abandonar Sentinel tras esa primera masacre.
+4301	tv1b	Tu hermana estaba entre los que siguieron al Príncipe hasta Stros M'Kai para planear el contraataque. Lo juro, Cyrus, ¿siempre eres tan cojo cuando se trata de noticias recientes de Hammerfell?
+4302	tv1c	¿Qué fue la purga de Volag?
+4303	tv2a	¿Y esto es algo bueno?
+4304	tv2c	He... llegado a cultivar cierta indiferencia sobre la patria...
+4305	tv3a	¡Era tu hermana, Cyrus!
+4306	tv3c	Así que su reputación está en duda. Otra vez.
+4307	tv4a	Una cercanía frecuente y deliberada, sospecharía yo.
+4308	tv4b	¡Pero bueno, ya estás aquí!
+4309	tv4c	Probablemente estaba a kilómetros de distancia.
+4310	tw1a	Hace veinte años, tal vez, cuando todo el corazón de Tamriel era un caos. Puedo admirar a Tiber Septim en la medida en que ha logrado consolidar los harapos y jirones que se disputaban allí entonces.
+4311	tw1c	Solías contratar a esos pequeños reyes, ¿no?
+4312	tw2a	Hay un Redguard para ti
+4313	tw2c	Que no haya Imperio es algo bueno, Capitán
+4314	twra	Nada más de lo que mi carta ha descrito, que ella se ha ido y nadie sabe dónde, sólo un mal presentimiento que ha empeorado con la espera
+4315	twrb	El gobernador no ha sido misericordioso con los Coronas que sobrevivieron a la batalla. Escuché que el vientre de su dragón está lleno de los más ruidosos, y que muchos murieron después, en el incendio del Barrio Viejo.
+4316	twrc	¿Cómo que peor? ¿Qué más sabes de Iszara?
+4317	txba	Nidal me dijo que el Hermano Kithral desapareció más o menos al mismo tiempo que tu hermana. Y que se conocían
+4318	txbc	Estoy notando un tema. ¿Dónde lo has oído?
+4319	tz1a	Dicen que se puede contactar con ellos a través del faro abandonado en Saintsport...
+4320	tz1c	Tengo que encontrar a la Liga Inquieta, Capitán.
+4321	tz2a	No conozco la señal
+4322	tz2c	Aye, un Liguista que conocí en las Catacumbas me dijo que podía hacer una señal a sus compañeros desde allí, pero no me dijo cómo
+4323	tz3a	Tienes que encontrar a alguien que la haya visto. Y espera que no se lo hayan dicho ya al Imperio
+4324	tz3c	Maldición.
+4326	tzz2	Dime, muchacho.
+4327	tzz3	¿En que estas, chico?
+4329	txx2	Stros M'Kai es un puerto peligroso en estos días. Hay un imperio por construir, ya sabes
+4330	tzz4	No, Cyrus. Aquí no. Agitarás a los lugareños
+4331	tzz5	Cyrus. Métete con alguien de tu tamaño.
+4332	tzz6	Cuidado con los apaños, Cyrus.
+4333	tzz7	Aléjate de mí, muchacho. Derrama mi cerveza y te arrepentirás
+4334	tzz8	Vamos, Cyrus. Deja de jugar con él.
+4335	tzz9	Apunta hacia arriba, muchacho. ¡Y a un lado!
+4336	tzz0	Un poco fuera de forma, ¿no?
+4337	tzza	¿Envejeciendo y volviéndote lento, amigo?
 4338	ub1c	Ha sido un placer, Urik.
 4339	ubfa	Eres un mentiroso. ¿Cómo conoces a Basil? Creo que eres un espía imperial. Apuesto a que si te matara, Basil pagaría una buena recompensa.
 4340	ubfc	Y mira a dónde te ha llevado eso. Basil es amigo mío, y si haces las cosas bien, puedes salir de esto mucho más rico.
