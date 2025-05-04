@@ -1181,6 +1181,7 @@
 1371	3g2c	Esta alma es del Príncipe A'tor y tengo su cuerpo
 1372	3g3c	Sí, pero está rodeado por una especie de campo de estasis
 1375	3g4c	El mago del Príncipe, Voa
+1376	3g5c	Esta bien -- 
 1378	3g6c	Sí. Está en el templo.
 1379	3g7c	No te preocupes. Puedo colar a tu madre entre los guardias
 1380	3g8c	No. Te necesito para conseguir la Liga..
