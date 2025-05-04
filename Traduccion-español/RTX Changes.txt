@@ -4410,6 +4410,7 @@
 4719	yr1a	Mira. Tú querías venir. Y aquí te quedas hasta que oiga otra cosa de Basil
 4720	yb7a	No tengo ni idea. Ve a preguntarle a alguien. Y no vayas a meter las narices donde no te llaman, o lo lamentarás.
 4721	yt1a	No me agradezcas, amigo. Ocúpate de tus asuntos. Tengo cosas que hacer
+4722	zah1	¿QUIÉN VA?
 4723	zah2	¿EN QUÉ CONSISTE SU ACTIVIDAD?
 4724	zah3	¿QUÉ NECESITAS, GUARDIA ROJO?
 4725	zah4	¿Qué quieres?
