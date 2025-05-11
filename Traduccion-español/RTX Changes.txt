@@ -46,7 +46,7 @@
 84	$046	Coyle dice que su madre Saban puede proteger el alma de su hermano Hayle de N'gasta porque es una bruja poderosa, la bruja más poderosa de su tribu.
 85	$047	Coyle dice que su madre Saban dice que la magia del campo de estasis del Archimago Voa es demasiado fuerte para ella, que debo encontrar una manera de librar el cuerpo del Príncipe del campo de estasis antes de que ella pueda ayudar.
 86	$048	Con el soulgem y el anillo de Voa en la mano, y Saban para hacer funcionar su magia, procedieron al templo para restaurar y revivir al Príncipe A'tor. Iszara, Basil y el resto de la Liga observaron cómo Saban intentaba restaurar al Príncipe. Sin embargo, el alma de A'tor no fue a su cuerpo, sino a su espada. Con esta espada, lideraré la Liga Inquieta y me dirigiré al palacio para derrocar al gobernador y la ocupación imperial.
-87	$049	Erasmo delira sobre fantasmas en el faro de Saintsport que le mantienen despierto toda la noche, parpadeando «flash, flash, flaaaash».
+87	$049	Erasmo delira sobre fantasmas en el faro de Saintsport que le mantienen despierto toda la noche, parpadeando «luz, luz, luuuuz».
 88	$050	Erasmo afirma que ha arreglado el oratorio, pero que no puede arreglar el telescopio porque le falta un engranaje. Dice que intentó arreglar el telescopio, pero que se quemó las piernas en la sala de engranajes.
 89	$051	Equipo enano instalado. El telescopio del observatorio ya está arreglado.
 90	$052	Maiko accedió a hacer un mapa detallado utilizando las anotaciones del libro «Artefactos élficos»... pero a cambio Maiko se queda con el libro. Maiko dice que vuelva en un tiempo por el mapa.
@@ -1229,6 +1229,7 @@
 1359	3b2c	Adiós.
 1366	3e1c	Será difícil defenderse del Imperio
 1367	3e2c	¿Qué dijo?
+1368	3g0c	ENCENDIDO, ENCENDIDO, PARPADEO.
 1370	3g1c	Saban, necesito tu ayuda con esta Gema del alma.
 1371	3g2c	Esta alma es del Príncipe A'tor y tengo su cuerpo
 1372	3g3c	Sí, pero está rodeado por una especie de campo de estasis
@@ -1425,6 +1426,7 @@
 1592	6sma	Solía hacerlos, pero no puedo competir con las grandes casas de cartografía de Hammerfell. Contratan a mendigos y vagabundos para copiar un mapa maestro.
 1593	6smb	Probablemente has visto sus mapas baratos de ciudades por ahí. No hay nada como un buen mapa dibujado a mano, pero parece que a la gente ya no le importa la artesanía.
 1594	6smc	Me vendría bien un mapa de la isla.
+1594	6smc	Me vendría bien un mapa de la isla. 
 1595	6tma	Si hubiera un mapa real, ¿por qué nadie ha encontrado ya el frasco?
 1596	6tmb	Qué pérdida de tiempo y esfuerzo, ansiando un mítico frasco élfico, cuando la isla está llena de verdaderos misterios.
 1597	6tmc	¿Por qué no?
@@ -2496,28 +2498,28 @@
 2727	ebla	¡Eeeek! ¡Qué dolor! Vapor ahí abajo caliente como Oblivion. ¡Yow! Me he quemado las piernas intentando arreglar el telescopio. ¡Necesito otro equipo
 2728	eblc	¿Te quemaste las piernas en la sala de engranajes?
 2729	ebyc	Mantén la calma, Erasmo.
-2730	echa	¡Maldición! ¡Nunca leíste de niño! Los guardianes protegen cada uno las 3 cargas de su círculo. ¡Flash!
+2730	echa	¡Maldición! ¡Nunca leíste de niño! Los guardianes protegen cada uno las 3 cargas de su círculo. ¡Luz!
 2731	echb	El Ladrón vigila al Amante y a la Sombra. El Guerrero al Corcel, y así sucesivamente. ¡Ustedes los Guardias Rojos son lentos!
 2732	echc	¿Qué quieres decir con cargas?
-2733	ecna	¡¡Flash!! ¡Unas a otras! ¿No te enseñaron tus padres sobre las estrellas de Tamriel? Los 3 guardianes protegen cada uno a 3 cargos de la serpiente!
+2733	ecna	¡¡luz!! ¡Unas a otras! ¿No te enseñaron tus padres sobre las estrellas de Tamriel? Los 3 guardianes protegen cada uno a 3 cargos de la serpiente!
 2734	ecnc	¿Constelaciones? ¿A quién protegen las constelaciones?
-2735	ecta	Wooh. No. ¡Aún no funciona! Arregla el orrery, ¡pero 'rasmo no puede arreglar el telescopio! ¡Eeeek! No se pliega. Los fantasmas intentaron atraparme, atormentarme, ¡flash! ¡Flash! Flaaasshhh!
+2735	ecta	Wooh. No. ¡Aún no funciona! Arregla el orrery, ¡pero 'rasmo no puede arreglar el telescopio! ¡Eeeek! No se pliega. Los fantasmas intentaron atraparme, atormentarme, ¡luzh! ¡luz! ¡luuuuuuuz!
 2736	ectb	Pero puse la mayor parte de nuevo juntos. ¡Nada de magia tampoco! ¡Ese cuarto de engranajes hace que a Erasmo le duela la cabeza y le quemen las piernas!
 2737	ectc	Cálmate. Parece que lo has arreglado
-2738	ed1a	¡¡¡Flash!!! ¡Eso es lo que dijo Erasmo! Esos enanos sabían un par de cosas. Richton envió a sus hombres a las ruinas, y yo aquí para arreglar esto, ¡flash! ¡Flash! ¡Flaaasshhh!,
+2738	ed1a	¡¡¡Luz!!! ¡Eso es lo que dijo Erasmo! Esos enanos sabían un par de cosas. Richton envió a sus hombres a las ruinas, y yo aquí para arreglar esto, ¡luz! ¡luz! ¡luuuuuz!,
 2739	ed1c	¿Dices que este lugar es enano?
 2740	ed2a	...luz! luzzz infinitaaaaa!!
 2741	ed2c	luz...?
-2742	edra	Enanos... ¡Flash! ¡Flash! ¡¡Flaaasshhh!! ¡Les gustaba construirlo todo en trozos pequeños!
-2743	edrb	¡Malditos gugglies se separaron sin dejar instrucciones en sus, flash!!, ¡Juguetes! ¡Las ruinas demasiado grande y aterrador para mí! Compruébalo tú mismo, ¡ve al oeste!
+2742	edra	Enanos... ¡luz! ¡LUZ! ¡¡luuuuuuz!! ¡Les gustaba construirlo todo en trozos pequeños!
+2743	edrb	¡Malditos gugglies se separaron sin dejar instrucciones en sus, luzzz!!, ¡Juguetes! ¡Las ruinas demasiado grande y aterrador para mí! Compruébalo tú mismo, ¡ve al oeste!
 2744	edrc	¿Mencionaste las Ruinas Enanas?
 2745	egea	¡Un engranaje enano! No cualquier engranaje. Necesita ir en el lado lejano. ¡Maldición! Lo haría yo mismo si no fuera por mis piernas
 2746	egec	¿Necesitas otro engranaje para arreglar el telescopio?
 2747	egga	¡Ah haaa! ¡Encontraste uno! Bien, bien. Pero no voy a volver a bajar a la sala de engranajes. Vas a tener que hacerlo... ¡poner el engranaje en el lado más lejano!
 2748	eggc	Aquí está el equipo enano que necesitas para arreglar el telescopio
-2749	egha	¡Flash! ¡Fantasmas en ese faro! ¡Prendiendo la luz, flash! ¡Flash! ¡Flaaasshhh! ¡Gritandole "¡’Rasmo, despertate, carajo!"
+2749	egha	¡luzzz! ¡Fantasmas en ese faro! ¡Prendiendo la luz, luz! ¡luz! ¡luuuuz! ¡Gritandole "¡’Rasmo, despertate, carajo!"
 2750	eghc	¿Fantasmas? ¿Qué fantasmas?
-2751	egra	¡Equipos! ¡Flash! ¡Corre a toda velocidad, esos enanos tenían cerebros muy muy grandes! ¡Peligro! ¡Lugar aterrador!
+2751	egra	¡Equipos! ¡luz! ¡Corre a toda velocidad, esos enanos tenían cerebros muy muy grandes! ¡Peligro! ¡Lugar aterrador!
 2752	egrc	Despacio, amigo. ¿Qué hay en la sala de engranajes?
 2753	egua	Todos los escolares conocen al Guerrero, al Ladrón y al Mago. Por supuesto, los Enanos no creían en la magia, así que para ellos el Mago es el Mecanico
 2754	eguc	¿Cuáles son las constelaciones guardianas?
@@ -2530,17 +2532,17 @@
 2761	eh3c	Hola de nuevo, Erasmo.
 2762	eisa	Oigo muchas cosas. Oigo las tuberías retumbar, los engranajes girar, ¡y el silbido del vapor! Es curioso, Erasmo nunca oye a ninguna mujer
 2763	eisc	Estoy buscando a una mujer llamada Iszara. ¿Has oído hablar de ella?
-2764	el1a	Eres la primera persona que veo en mucho tiempo. ¡¡Flash!! ¡Nadie viene aquí, especialmente piratas! ¡Tienen miedo, huyen!
+2764	el1a	Eres la primera persona que veo en mucho tiempo. ¡¡luz!! ¡Nadie viene aquí, especialmente piratas! ¡Tienen miedo, huyen!
 2765	el1c	¿Alguna vez te has topado con algún pirata? ¿Alguien conocido como Liga revoltosa?
 2766	el2a	¡De los fantasmas!
 2767	el2c	¿Huir de qué?
-2768	elha	¡Los fantasmas de Saintsport te atraparán! ¡Te atraparán! ¡Flash! ¡Flash! ¡¡Flaaasshhh!! ¡Sus luces te perseguirán!
+2768	elha	¡Los fantasmas de Saintsport te atraparán! ¡Te atraparán! ¡luz! ¡luz! ¡¡luuuuuz!! ¡Sus luces te perseguirán!
 2769	elhc	¿Qué pasa con el faro?
-2770	elta	Malditas luces... encendidas y luego apagadas, ¡flash! ¡Flash! Flaaasshhh! -- ¡Mantienen mi culo despierto toda la noche!
+2770	elta	Malditas luces... encendidas y luego apagadas, ¡luz! ¡luz! luuuuuz! -- ¡Mantienen mi culo despierto toda la noche!
 2771	eltc	¿Luces en el faro? No tiene sentido
-2772	eo1a	¡Qué! ¡El lugar me asusta ahora! Algún antiguo observatorio enano....¡flash! ¡Flash! ¡¡Flaaasshhh!!
+2772	eo1a	¡Qué! ¡El lugar me asusta ahora! Algún antiguo observatorio enano....¡luz! ¡luz! ¡¡luuuuuz!!
 2773	eo1c	¿Qué es este lugar?
-2774	eo2a	Richton me ordenó arreglarlo, ¡¡pero los fantasmas me mantienen flaaasshhh!! ¡Despierto!
+2774	eo2a	Richton me ordenó arreglarlo, ¡¡pero los fantasmas me mantienen luuuuuuuz!! ¡Despierto!
 2775	eo2c	¿Qué...?
 2776	eora	¡Erasmo no lo sabe! ¡Pero vigila el cielo! Los enanos conocían el poder de las estrellas, vigilaban todas las constelaciones y a quién protegían!
 2777	eorc	¿Cómo funciona el orrery?
