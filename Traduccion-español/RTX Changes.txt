@@ -2441,23 +2441,23 @@
 2659	ds7a	¿Te refieres a mí? Yo no vagabundeo, Guardia Rojo; esto es un estudio establecido para mí, del que extraeré valiosa sabiduría cuando regrese a mi clan.
 2660	ds7c	¿Cómo es que un argoniano abandona su tribu para vagar por Tamriel?
 2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era pasada, pues esa magia era muy propensa a fallar.
-2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición de las gemas de alma. Deberías preguntar a alguien del gremio para saber más
-2663	dslc	¿Has oído hablar de las gemas del alma, Dreekius? Necesito hacerme con una
-2664	dsrc	ENTRÉ EN LAS RUINAS, PERO NO LO HE EXPLORADO TODO. DEBERÍA VOLVER Y VER QUÉ PUEDO ENCONTRAR.
-2665	dt1a	Que siga siendo sólo 'juego' y no me importará que vuelva a ocurrir. Los Antepasados tienen sus problemas, así que no es de extrañar que vengan aquí buscando compartirlos.
-2666	dt1c	Perdón por jugar con espadas
-2667	dt2a	Practica todo lo que quieras, salvo el golpe mortal. Y cuidado con los muebles, por favor
-2668	dt2c	Fue una buena práctica
-2669	dtaa	Bienvenido al Draggin' Tale, por cierto, subsistencia de tesis mía, donde hay buen oído y cerveza a partes iguales. ¿Qué puedo hacer por usted?
-2670	dtab	Siempre dispuesto a escuchar, piel suav; que la aventura sea mía. Compartiré los pensamientos que pueda.
-2671	dtac	Una copa estaría bien. Usaré tus oídos más tarde, tal vez.
-2672	dtba	esta taberna, por supuesto, a la vez lugar y subsidio de mis estudios. Además de un buen almacén de licores.
-2673	dtbc	¿De qué estás hablando?
-2674	dtra	Querían hacer una audiencia con el Gobernador, pero está demasiado ocupado todavía para ellos
-2675	dtrb	Demasiado ocupado para recibir a estos 'aliados de honor' en Palacio durante su espera, lo que puede explicar sus susceptibles disposiciones aquí
-2676	dtrc	¿Qué les preocupa tanto a estos Antepasados?
-2677	du1a	¿Así que no viste señales de ella en las Catacumbas?
-2678	du1c	Creo que me escapé demasiado fácil, como si tal vez el Gobernador me estuviera vigilando, esperando que lo lleve a Iszara
+2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición sobre las gemas de alma. Deberías consultar con alguien del gremio para saber más.
+2663	dslc	¿Has oído hablar de las gemas de alma, Dreekius? Necesito conseguir una.
+2664	dsrc	ENTRÉ EN LAS RUINAS, PERO NO LAS HE EXPLORADO POR COMPLETO. DEBERÍA VOLVER Y VER QUÉ MÁS PUEDO ENCONTRAR.
+2665	dt1a	Mientras siga siendo solo un 'juego', no me importará que vuelva a suceder. Los Antepasados tienen sus problemas, así que no es de extrañar que vengan aquí a compartirlos.
+2666	dt1c	Disculpa por el duelo con espadas.
+2667	dt2a	Practica cuanto quieras, pero evita el golpe mortal. Y por favor, ten cuidado con los muebles.
+2668	dt2c	Fue un buen entrenamiento.
+2669	dtaa	Bienvenido al Draggin' Tale, por cierto, sustento de mi investigación, donde hay buena escucha y cerveza a partes iguales. ¿En qué puedo ayudarte?
+2670	dtab	Siempre dispuesto a escuchar, piel suave; que la aventura sea mía. Compartiré contigo los pensamientos que pueda.
+2671	dtac	Una copa me vendría bien. Quizás aproveche tus oídos más tarde.
+2672	dtba	Esta taberna, por supuesto, es a la vez sede y sustento de mis estudios. Además de una excelente bodega de licores.
+2673	dtbc	¿De qué hablas?
+2674	dtra	Querían una audiencia con el Gobernador, pero él sigue demasiado ocupado para recibirlos.
+2675	dtrb	Demasiado ocupado para recibir a estos 'aliados de honor' en el Palacio durante su espera, lo que podría explicar su humor irritable aquí.
+2676	dtrc	¿Qué tiene tan preocupados a estos Antepasados?
+2677	du1a	¿Entonces no viste rastro de ella en las Catacumbas?
+2678	du1c	Creo que escapé con demasiada facilidad, como si el Gobernador me estuviera vigilando, esperando que lo guíe hasta Iszara.
 2679	du2c	Había una sección cerrada para mí, es cierto, pero no creo que ella estuviera allí
 2680	du3c	El Gobernador admitió que la habría ejecutado si hubiera sabido dónde encontrarla. No creo que le importara lo suficiente como para mentirme
 2681	dv1a	Ese bicho también te ha atrapado, ¿eh? Mucha gente en esta isla lo está buscando... incluso el Imperio, según he oído
@@ -2672,28 +2672,28 @@
 2894	fsrb	TÓMA UNA POCIÓN POR LAS MOLESTIAS.
 2895	fsta	Aquí mismo. 25 piezas de oro.
 2896	fstc	¿Qué tal una poción de fuerza?.
-2897	ft1a	Supongo que yo también lo siento. Espero que pudiera ayudarte a encontrar a tu hermana.
-2898	ft1c	Intenté liberar a Joto pero no lo consiguió.
-2899	ft2c	«Él me puso en el camino correcto. Necesito encontrar el Frasco de Lillandril.
-2900	ft3c	CON SU AYUDA LO HICE.
-2901	ftha	No parece que tengas el oro.Vete a chambear, vago y feo.
+2897	ft1a	También lo lamento. Espero que hayas podido encontrar a tu hermana.
+2898	ft1c	Intenté liberar a Joto, pero fracasé.
+2899	ft2c	Él me señaló el camino correcto. Necesito encontrar el Frasco de Lillandril.
+2900	ft3c	Lo logré gracias a su ayuda.
+2901	ftha	No pareces tener suficiente oro. Vete a trabajar, holgazán.
 2902	fthc	Gracias.
-2903	fuca	Claro. Estarás justo después de mí, en cuanto tengas diez años de aprendizaje a tus espaldas y puedas lanzar un hechizo de 'alterar la realidad'.
-2904	fucb	El nuevo Archimago, Jaganvir, no habla con nadie, y haría que todos los demás en el gremio hicieran lo mismo, excepto yo, ya que dirijo la tienda.
-2905	fucc	Tal vez podría hablar con alguien de la cábala superior...
-2906	fyla	Baja la voz, ¿quieres? Te diré lo que sé.....
-2907	fylc	¡No me mientas, chica! ¡Iszara robó una gema de alma de la Liga Revoltosa y creo que vino aquí con ella! Si no me lo dices...
-2908	fyy1	¡Por favor! ¡Esto no es un campo de atletismo!
-2909	fyy2	¡Señor! ¡no seas infantil!
-2910	fyy3	¡Basta! Eso no es gracioso!
-2911	fyy4	Por favor, para. Me meterás en problemas
-2912	fzz1	Buen dia.
-2913	fzz2	¿Busca algo?
-2914	fzz3	¿Puedo ayudarle?
-2915	focc	DAME LA SANGRE DEL ORCO.
-2916	fecc	TOMARÉ UN POCO DE ECTOPLASMA.
-2917	fspc	QUIERO LA LECHE DE ARAÑA.
-2918	fhsc	PROBARÉ TU HIST SAVIA.
+2903	fuca	Por supuesto. Estarás justo después de mí, cuando tengas diez años de aprendizaje y puedas lanzar un hechizo de "alteración de la realidad".
+2904	fucb	El nuevo Archimago, Jaganvir, no habla con nadie, y haría que todos en el gremio hicieran lo mismo, excepto yo, que dirijo la tienda.
+2905	fucc	Quizás podría hablar con alguien del círculo superior...
+2906	fyla	Baja la voz, ¿quieres? Te diré lo que sé...
+2907	fylc	¡No me mientas! ¡Iszara robó una gema de alma de la Liga Inquieta y creo que vino aquí con ella! Si no me lo dices...
+2908	fyy1	¡Por favor! ¡Esto no es un campo de entrenamiento!
+2909	fyy2	¡Señor! ¡No sea infantil!
+2910	fyy3	¡Basta! ¡Eso no tiene gracia!
+2911	fyy4	Por favor, detente. Me causarás problemas.
+2912	fzz1	Buenos días.
+2913	fzz2	¿Busca algo en particular?
+2914	fzz3	¿En qué puedo ayudarle?
+2915	focc	DAME LA SANGRE DE ORCO.
+2916	fecc	QUIERO ALGO DE ECTOPLASMA.
+2917	fspc	NECESITO VENENO DE ARAÑA.
+2918	fhsc	PROBARÉ TU SAVIA DE HIST.
 2919	foca	BIEN. SON CINCO DE ORO.
 2920	feca	BIEN. Y ME LLEVO CINCO DE ORO.
 2921	fspa	BIEN. CINCO DE ORO, POR FAVOR.
