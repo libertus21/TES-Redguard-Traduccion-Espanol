@@ -19,11 +19,11 @@
 57	$019	Un prisionero moribundo de la Liga Revoltosa mencionó algo sobre ir a un faro para hacer una señal a la Liga. Me dio una llave oxidada.
 58	$020	Me he enterado de la existencia de un tesoro legendario conocido como el Frasco de Lillandril.
 59	$021	Los Imperiales han asesinado a un joven Yokudan llamado Hayle. Avik lo considera un asesinato a sangre fría. La familia de Hayle está acampada a las afueras de la ciudad, esperando poder completar el ritual de enterramiento.
-60	$022	Joto, miembro del Gremio de Magos y amigo de Avik, fue detenido por los imperiales.
-61	$023	Krisandra dice que Lakene, un manitas local, acudió a ella para sustituir un antiguo medallón de plata de su mujer que Lakene perdió mientras jugaba en el Smuggler's Den. Cuando Krisandra le dijo que no podía ayudarle, se sintió muy angustiado.
-62	$024	Prnell dice que contacte con la Liga Inquieta a través de la Guarida del Contrabandista bajo la tienda de Maiko, pero que necesito una contraseña para entrar.
-63	$025	Tuve que matar a dos soldados imperiales que habían entrado en la casa de al lado del platero.
-64	$026	Krisandra me dio una llave y me invitó a buscar en su almacén un barco de plata con la inscripción de un trozo del mapa del Frasco de Lillandril. Si lo encuentro, dice que me lo quede.
+60	$022	Los imperiales han arrestado a Joto, un miembro del Gremio de Magos y amigo de Avik.
+61	$023	Krisandra me cuenta que Lakene, un manitas local, le pidió ayuda para reemplazar un antiguo medallón de plata de su esposa que perdió mientras jugaba en la Guarida del Contrabandista. Cuando Krisandra le dijo que no podía ayudarle, se mostró muy angustiado.
+62	$024	Prnell me indica que puedo contactar con la Liga Revoltosa a través de la Guarida del Contrabandista, que está bajo la tienda de Maiko, pero necesito una contraseña para entrar.
+63	$025	Me vi obligado a acabar con dos soldados imperiales que habían irrumpido en la casa contigua a la del platero.
+64	$026	Krisandra me ha dado una llave y me ha invitado a buscar en su almacén una nave de plata que tiene inscrito un fragmento del mapa del Frasco de Lillandril. Me ha dicho que puedo quedármela si la encuentro.
 65	$027	Favis dice que la campana está rota. Examinada la campana, parece estar en perfecto estado de funcionamiento.
 66	$028	Lakene dice que dará la contraseña, pero sólo si recupero el medallón de su esposa de Rollo.
 67	$029	Gerrick dice que Rollo debe ir a buscar los cargamentos al puerto cada vez que oye una campana que toca un tipo llamado Favis. Al tocar la campana anuncia la llegada de un barco.
