@@ -1714,26 +1714,26 @@
 1893	8rdf	Dos guardianes. Uno siempre miente, el otro siempre dice la verdad.
 1894	8rdg	Puedes hacerle una sola pregunta a uno de ellos. Solo una. El juego comienza... elige sabiamente... ¡Je, je!
 1895	8rdh	Una sola pregunta. Nada más. Elige con prudencia... ¡Je, je!
-1896	8tha	Debes estar un poco espeso. Date un paseíto y piensa las cosas. Vuelve cuando estés listo para hablar con sentido
-1897	8thc	Vile No estoy aquí para charlar. Estoy aquí por mi hermana. Y me la vas a entregar o te haré pedazos
-1898	8tsa	Cyrus. Aprecio tu gran gesto. Admito que aprecio el alma de tu hermana... bastante.
-1899	8tsb	Pero tu alma es un bien no probado... Valiosa, sí... Pero no un intercambio equitativo. Y yo estaba pensando en el deporte ... no el comercio.
-1900	8tsc	No tengo ningún regalo para ti, Vile. Pero tengo algo para intercambiar... Mi alma.
-1901	8w7a	Hmm. Muy noble, Cyrus... ¿Pero sabes algo sobre el valor de un alma? Por ejemplo, toda la diversión que estoy teniendo con el alma de tu hermana... cierto... ahora.... No me gustaría renunciar a eso
-1902	8w1c	¿Qué quieres? ¿Por qué haces esto? ¿Sólo por diversión?
-1903	8w7c	¿Estás aburrido, Vile? Entonces juguemos una partida por el alma de mi hermana... Y para cubrir la apuesta, ofreceré mi alma.
-1904	8w2a	Sí. Ese incidente es difícil de explicar, estoy de acuerdo. Pinchar a ese canalla en el pecho, y luego largarse como un conejito asustado.
-1905	8w8a	¿Estás seguro? Sabes, eso que estoy haciendo con el alma de tu hermana... ahora mismo... Me encantaría hacer esa cosita con tu alma también..
-1906	8w2c	No siento culpa por matar al marido de Iszara, Vile. Pero huir de las consecuencias... no estoy orgulloso de eso, y no voy a dejarla esta vez
-1907	8w8c	Tu nombre está bien elegido, Vile. Pero conozco el valor de mi alma, y estoy dispuesto a apostarla contra el alma de mi hermana
-1908	8w3a	¡No se está cuidando ahora, verdad! Haa. ¿Y juzgaste que podía cuidar de sí misma cuando presumiste de clavar un cuchillo en el pecho de su marido?
-1909	8w3c	Sí, me fui. Pero Iszara siempre pudo cuidar de sí misma, yo sólo huí... yo... era joven
-1910	8w4a	Siento mucho perder a N'Gasta. Siempre tenía regalos para mí.
-1911	8w4c	Vile. No me importa si estás aburrido o solo. Esta charla no nos lleva a ninguna parte. Sólo dime... ¿Qué quieres?
-1912	8w5a	Hay que tener regalos. Sin regalos, no hay diversión. Ojalá tuviera un buen regalo. ¡Insinuación, insinuación!
-1913	8w5c	Te gustan los regalos, ¿eh?
-1914	8wwa	¡No estropees la diversión, Cyrus! ¡Se supone que tienes que averiguarlo! Pero aquí tienes una pista. ¡Tengo lo que quieres! ¿Entonces...?
-1915	8wwc	Por última vez, Vile... ¿Qué... quieres...?
+1896	8tha	Debes estar algo espeso. Da un paseo y medita las cosas. Vuelve cuando estés listo para hablar con sensatez.
+1897	8thc	Vile, no he venido a charlar. Estoy aquí por mi hermana. Y me la entregarás o te haré pedazos.
+1898	8tsa	Cyrus. Aprecio tu noble gesto. He de admitir que valoro bastante el alma de tu hermana...
+1899	8tsb	Pero tu alma es un bien sin probar... Valiosa, sí... Pero no es un intercambio justo. Y yo pensaba más en el entretenimiento... no en el comercio.
+1900	8tsc	No traigo regalos para ti, Vile. Pero tengo algo para negociar... Mi alma.
+1901	8w7a	Hmm. Muy noble de tu parte, Cyrus... ¿Pero sabes algo sobre el valor de un alma? Por ejemplo, toda la diversión que estoy teniendo con el alma de tu hermana... justo... ahora... No quisiera renunciar a eso.
+1902	8w1c	¿Qué pretendes? ¿Por qué haces esto? ¿Solo por diversión?
+1903	8w7c	¿Te aburres, Vile? Entonces juguemos una partida por el alma de mi hermana... Y para respaldar la apuesta, ofreceré mi alma.
+1904	8w2a	Sí. Ese incidente es difícil de justificar, lo admito. Atravesar a ese canalla en el pecho, y luego huir como un conejo asustado.
+1905	8w8a	¿Estás seguro? Sabes, lo que estoy haciendo con el alma de tu hermana... ahora mismo... Me encantaría hacer esa cosita con tu alma también...
+1906	8w2c	No me arrepiento de haber matado al marido de Iszara, Vile. Pero huir de las consecuencias... no me enorgullece, y esta vez no la abandonaré.
+1907	8w8c	Tu nombre te hace justicia, Vile. Pero conozco el valor de mi alma, y estoy dispuesto a apostarla por el alma de mi hermana.
+1908	8w3a	¡Ahora no la proteges, ¿verdad?! ¡Ja! ¿Y juzgaste que podía cuidarse sola cuando te jactabas de clavar un puñal en el pecho de su marido?
+1909	8w3c	Sí, huí. Pero Iszara siempre supo cuidarse sola, yo solo escapé... yo... era joven.
+1910	8w4a	Lamento mucho la pérdida de N'Gasta. Siempre traía regalos para mí.
+1911	8w4c	Vile. Me da igual si estás aburrido o solitario. Esta charla no nos conduce a nada. Solo dime... ¿Qué quieres?
+1912	8w5a	Los regalos son necesarios. Sin regalos, no hay diversión. Ojalá tuviera un buen regalo. ¡Indirecta, indirecta!
+1913	8w5c	Te agradan los regalos, ¿eh?
+1914	8wwa	¡No arruines la diversión, Cyrus! ¡Se supone que debes descubrirlo! Pero te daré una pista. ¡Tengo lo que deseas! ¿Entonces...?
+1915	8wwc	Por última vez, Vile... ¿Qué... es lo que... quieres?
 1916	8y7a	Un seguidor de mi hermano, Hermaeus Mora, dijo una vez: “El propósito último de los señores Daedra es instruir y mejorar el carácter generalmente deplorable de los mortales”
 1917	8y1a	¡Excelente! ¡Tenía razón! No todos los héroes son unos cretinos estúpidos. Estoy encantado de aceptar tu alma como apuesta en un juego por el alma de tu hermana.
 1918	8y7b	Hermoso sentimiento. Pero, de hecho, observo a los mortales, y me entrometo de vez en cuando, por puro entretenimiento.
@@ -1913,128 +1913,128 @@
 2102	amgc	Pareces saber mucho sobre el Gremio de Magos.
 2103	amga	Sí, de hecho soy miembro, aunque no lo pensarías al mirarme, ¿verdad? Ahora estoy jubilado, pero mi amigo Joto me mantenía al tanto de la política del gremio.
 2104	amgb	Eso fue hasta que esos malditos imperiales lo arrestaron.
-2105	amuc	Tocas muy bien.
-2106	amua	Gracias, hijo. Nadie me visita desde que esos demonios imperiales asesinaron a ese muchacho Yokudan. ¡Así es, demonios imperiales! ¡Y no me importa quién lo sepa!
-2107	angc	Cuéntame más de N'Gasta
-2108	anga	Mientras el Príncipe A'tor estuvo vivo, era un nombre para asustar a los niños, poco más..
-2109	angb	Pero nuestro nuevo amo imperial ha permitido que el terrible poder del nigromante se extienda sin control hasta que la trampa de su alma nos amenaza a todos.
-2110	aoqc	¿Está el Casco Antiguo completamente destruido?
-2111	aoqa	Bien podría ser. Fue sellada mientras los Imperiales buscaban «leales a la Corona» en cada casa. Ahora no es mas que un pueblo fantasma.
-2112	ap1c	¿Por qué lo dices?
-2113	ap1a	No has pasado mucho tiempo en Hammerfell, ¿verdad hijo?
-2114	ap2c	No. Nací en Sentinel, pero dejé Hammerfell cuando era... muy joven. No he vuelto en años.
-2115	ap2a	Eso pensaba... has cogido un poco de acento, al oeste de High Rock, ¿tengo razón? Bueno, como iba diciendo, el sentimiento contra los Yokudan es más profundo que la política, incluso en una guerra civil.
-2116	ap2b	Ninguno de los dos bandos se rebajó a permitir que los Yokudan se unieran a sus filas..
-2117	ap2d	¡Incluso la Liga Inquieta era demasiado buena para ellos! Pero todo eso se acabó. El orgullo Redguard nos ha hecho esclavos del Emperador.
-2118	ap3c	Creía que nunca habías oído hablar de la Liga Inquieta.
-2119	ap3a	Nadie presta atención a un viejo encantador de serpientes despotricando contra el Imperio. Pero la Liga... ése sí que es un tema de conversación peligroso... para cualquiera.
-2120	ap3b	Incluidos jóvenes espadachines de la Guardia Roja con aire mercenario.
-2121	apac	¿Por qué el Príncipe A'tor permitió que N'Gasta se quedara en Stros M'Kai?
-2122	apaa	No lo sé. El padre de A'tor, Thassad, permitió por primera vez que N'Gasta ocupara la torre del viejo mago, pero entonces parecía bastante inofensivo.
-2123	apab	El Gremio de Magos se quejó de las investigaciones no autorizadas, pero tenían poca influencia con el viejo Thassad. La guerra civil mantuvo ocupado a A'tor hasta su prematura muerte.
-2124	arlc	Dime lo que sabes de esta Liga Inquieta.
-2125	arla	Si fuera tan sabio como mis años, me callaría y te daría los buenos días.
-2126	arlb	Pero no eres un espía imperial, y no te pareces en nada a los matones de la Liga que aparecieron tras el asesinato de Hayle.
-2127	asga	Me temo que no puedo ayudarte. No tengo habilidades para contrarrestar esa hechicería. Debes buscar a otro miembro del gremio para que te ayude.
-2128	asgc	¿Qué puedes decirme sobre las gemas de alma? ¿Sabías que el alma del príncipe A'tor fue colocada en una gema de alma justo antes de su muerte?
-2129	askc	Tu serpiente parece apreciarte.
-2130	aska	No hay nada que hacer, en realidad. Al viejo Slinky le encanta bailar.
-2131	asmc	¿Cómo le ha ido a Stros M'Kai bajo el dominio imperial?
-2132	asma	Las cosas se han ido al garete, no me importa quién lo sepa. Hay asesinatos en las calles ¿dónde acabará todo, dime eso? ¿Dónde acabará?
-2133	asnc	¿Lazo del alma? ¿Qué quieres decir?
-2134	asna	Ahora que el Príncipe está muerto, ese gusano asqueroso ha tejido una trampa mágica a través de Stros M'Kai para alimentar su hambre de almas.
-2135	asnb	A menos que seas enterrado en tierra consagrada, tu alma irá directamente a N'Gasta si mueres. Por eso Saban aún teme por su hijo asesinado
-2136	assc	¿El signo de la Serpiente? ¿Parte de la religión Yokudan?
-2137	assa	Es el signo estelar de su nacimiento. Los Yokudan creen que las estrellas guían tu destino, desde el nacimiento hasta la muerte y el más allá.
-2138	attc	Insinúas que había algo que podías haberles dicho a esos miembros de la Liga. ¿Te importaría decírmelo?
-2139	atta	Bueno... Iszara conoció a Hayle aquí y se fueron juntos... el día que murió. En ese momento, pensé que era sólo una cita romántica, nada que ver con su asesinato.
-2140	attb	Pero entonces la Liga empezó a husmear por aquí. No puedo imaginarme de qué se trata todo esto, pero no vi sentido en sumar a la Liga a los problemas de los Yokudanos.
+2105	amuc	Tocas maravillosamente.
+2106	amua	Gracias, hijo. Nadie me visita desde que esos demonios imperiales asesinaron a ese joven Yokudan. ¡Así es, demonios imperiales! ¡Y me importa un bledo quién lo sepa!
+2107	angc	Háblame más de N'Gasta.
+2108	anga	Mientras el Príncipe A'tor vivía, era solo un nombre para asustar a los niños, nada más...
+2109	angb	Pero nuestro nuevo señor imperial ha permitido que el terrible poder del nigromante se extienda sin control hasta que su trampa de almas nos amenaza a todos.
+2110	aoqc	¿El Casco Antiguo está completamente destruido?
+2111	aoqa	Bien podría estarlo. Fue sellado mientras los Imperiales buscaban «leales a la Corona» en cada casa. Ahora no es más que una ciudad fantasma.
+2112	ap1c	¿Por qué dices eso?
+2113	ap1a	No has pasado mucho tiempo en Hammerfell, ¿verdad, hijo?
+2114	ap2c	No. Nací en Sentinel, pero abandoné Hammerfell cuando era... muy joven. No he regresado en años.
+2115	ap2a	Eso pensaba... has adquirido un poco de acento del oeste de High Rock, ¿me equivoco? Bueno, como te decía, el sentimiento contra los Yokudan es más profundo que la política, incluso en una guerra civil.
+2116	ap2b	Ninguno de los dos bandos se dignó a permitir que los Yokudan se unieran a sus filas...
+2117	ap2d	¡Incluso la Liga Inquieta se creía demasiado buena para ellos! Pero todo eso ya pasó. El orgullo Guardia Rojo nos ha convertido en esclavos del Emperador.
+2118	ap3c	Pensé que nunca habías oído hablar de la Liga Inquieta.
+2119	ap3a	Nadie presta atención a un viejo encantador de serpientes que despotrica contra el Imperio. Pero la Liga... ese sí que es un tema de conversación peligroso... para cualquiera.
+2120	ap3b	Incluidos jóvenes espadachines Guardia Rojo con aire de mercenario.
+2121	apac	¿Por qué permitió el Príncipe A'tor que N'Gasta permaneciera en Stros M'Kai?
+2122	apaa	No lo sé. El padre de A'tor, Thassad, fue quien primero permitió que N'Gasta ocupara la torre del antiguo mago, pero en ese entonces parecía bastante inofensivo.
+2123	apab	El Gremio de Magos protestó por sus investigaciones no autorizadas, pero tenían poca influencia sobre el viejo Thassad. La guerra civil mantuvo a A'tor demasiado ocupado hasta su muerte prematura.
+2124	arlc	Cuéntame lo que sabes de esta Liga Inquieta.
+2125	arla	Si fuera tan sabio como mis años indican, cerraría la boca y te desearía buenos días.
+2126	arlb	Pero no eres un espía imperial, y no te pareces en nada a los matones de la Liga que surgieron tras el asesinato de Hayle.
+2127	asga	Me temo que no puedo ayudarte. Carezco de las habilidades para contrarrestar esa clase de hechicería. Deberías buscar a otro miembro del gremio que pueda ayudarte.
+2128	asgc	¿Qué me puedes contar sobre las gemas de alma? ¿Sabías que el alma del príncipe A'tor fue depositada en una gema de alma justo antes de morir?
+2129	askc	Tu serpiente parece tenerte aprecio.
+2130	aska	No hay mucho que hacer, la verdad. Al viejo Slinky le encanta bailar.
+2131	asmc	¿Cómo le ha ido a Stros M'Kai bajo el control imperial?
+2132	asma	Todo se ha ido al demonio, y me importa un bledo quién lo sepa. Hay asesinatos en las calles. ¿Dónde acabará todo esto, dime? ¿Dónde acabará?
+2133	asnc	¿Lazo del alma? ¿A qué te refieres?
+2134	asna	Ahora que el Príncipe ha muerto, ese gusano repugnante ha tejido una trampa mágica por todo Stros M'Kai para saciar su hambre de almas.
+2135	asnb	A menos que te entierren en tierra consagrada, tu alma irá directamente a N'Gasta cuando mueras. Por eso Saban aún teme por el alma de su hijo asesinado.
+2136	assc	¿El signo de la Serpiente? ¿Es parte de la religión Yokudan?
+2137	assa	Es su signo estelar de nacimiento. Los Yokudan creen que las estrellas guían tu destino, desde el nacimiento hasta la muerte y más allá.
+2138	attc	Insinúas que había algo que podrías haberles dicho a esos miembros de la Liga. ¿Te importaría compartirlo?
+2139	atta	Bueno... Iszara se encontró con Hayle aquí y se marcharon juntos... el día que lo mataron. En ese momento, pensé que era solo una cita romántica, nada relacionado con su asesinato.
+2140	attb	Pero entonces la Liga comenzó a husmear por aquí. No logro imaginar de qué va todo esto, pero no vi sentido en añadir a la Liga a los problemas de los Yokudanos.
 2141	atbc	¿Por qué arrestaron a tu amigo Joto?
-2142	atba	¿Necesitan una razón? Un día los soldados vinieron a por él, y desde entonces se pudre en la cárcel.
-2143	avoc	El Archimago Voa era leal al Príncipe, entonces.
-2144	avoa	El principal asesor del Príncipe. Pero su sustituto Jaganvir, es una desgracia para la memoria de A'tor.
-2145	aycc	¿Dónde está el campamento Yokudan?
-2146	ayca	No estoy seguro. Quizas fuera de la ciudad en algún lugar, Su pobre madre está fuera de sí de dolor aun velando la tumba de Hayle.
-2147	aylc	Háblame de este chico asesinado.
-2148	ayla	Se llamaba Hayle, pobre muchacho. Su familia sigue acampada fuera de la ciudad, esperando a que termine su ritual funerario.
-2149	aylb	Los yokudanos nunca fueron bien vistos por aquí, pero el gobernador Richton fue demasiado lejos.
-2150	aysc	Si, desafortunadamente los Yokudanos siempre han sido tratados como forasteros, en todo Hammerfell.
-2151	aysa	Un prejuicio sin sentido, ya que su religión se remonta a las primeras tradiciones Redguard
-2152	aysb	Pero nuestro nuevo gobernador ha hecho cosas mucho peores que simplemente cobrarles de más por la harina.
-2154	bx0c	Apártate, lumbreras. Llegaremos a eso en un minuto
-2156	bx1c	¿Fuiste tú? Recuerdo a dos bromistas que no sabían manejar sus sables, pero tú debías de estar escondido.
-2157	bx2a	Manteniendote misterioso Cyrus. ¿Qué quieres?
-2158	bx2c	¿Eres Basil? Eres un hombre difícil de encontrar.
-2159	bx3c	Escucha, lumbreras, no estoy aquí por ti. Sé todo lo que tienes que decir. Saca tu espada cuando estés listo
-2160	bx4a	Y ahora el altruista hermano cachorro quiere su hueso.
-2161	bx4b	Primero, aquí tienes una venda. Arréglate. A menos que estuvieras planeando usar esa dulce y pequeña lengua de cachorro para lamer tus heridas.
-2162	bx4c	He terminado con tu matón. Y lo dejé vivo
-2163	bx5a	Bien. Aquí está la llave de la logia de Iszara. Ya la hemos registrado en busca de pistas sobre su paradero, pero quizá tú puedas encontrar algo que nosotros no hayamos podido.
-2164	bx5c	¿Te gusta respirar, Basil?
-2165	bx6a	Pistas particularmente en un diario, uno que no podemos abrir.. Si puedes decirme qué hay en el diario, te diré lo que sé sobre la desaparición de Iszara
-2166	bx7a	Abre el diario, entonces hablaremos.
-2167	bx8a	Espero escuchar lo que Iszara dice en su diario antes de decirte nada más.
-2168	bx9a	Estrategia equivocada tan pronto en el diálogo, hijo. El juego consiste en averiguar primero lo que sabe el otro, no en mostrar cuánto del mapa no puedes leer.
-2169	bx9b	Ves, pensé que eras el mensajero de Iszara, lo que habría concedido una audiencia más larga, pero estás ahí de pie pareciendo el último cabo suelto de muchos.
-2170	bx9c	¿Dónde está?
-2171	bxaa	Si tú lo dices.
-2172	bxac	¿Así que lideras esta banda?
-2173	bxba	A'tor ya lo hizo y murió por ello. El Imperio no nos permitirá vivir contra ella, ni una historia escrita sin su nombre , así que no tiene sentido resistirse tan abiertamente.
-2174	bxbc	¿Así que planeas enfrentarte al Imperio?
-2175	bxcc	Quérevoltoso eres
-2176	bxda	No sugiero que la Liga reciba al Imperio con los brazos abiertos. Propongo que los saludemos con brazos secretos, con sutiles aguijonazos, con sangre y monedas derramadas en sigilo.
-2177	bxdb	Amenaza sublunar». Nuestro propósito es insinuar, muy educadamente, que no hay ganancias en Hammerfell... Y ninguna perspectiva de beneficio.
-2178	bxdc	Miedo.
-2179	bxdd	CUANDO EL IMPERIO SE DESESPERE DE HACERSE RICO EN STROS M'KAI, SE VOLCARÁ EN EMPRESAS MÁS RENTABLES.
-2180	bxea	Vaya. Con qué facilidad repites la propaganda imperial. Quizá un turista ignorante como tú no se dé cuenta de que sólo tocamos las naves del Imperio y de Richton.
-2181	bxeb	Los nerviosos dueños de barcos y los simpatizantes del Imperio alzan el grito contra el saqueo y la piratería... Pero el pueblo de Stros M'Kai conoce bien los verdaderos objetivos de nuestras acciones.
-2182	bxec	¿Por qué sigues acechando a Stros M'Kai?
-2183	bxfc	Soy el hermano de Iszara, y todos mis cabos sueltos me han llevado hasta ti
-2184	bxga	Y forma parte de nosotros desde hace mucho tiempo. Y de su omisión de referencia a ti, infiero poco orgullo o confianza en ti...
-2185	bxgb	...Un juicio que parece bien fundamentado en el curso de nuestra breve y no demasiado gratificante relación.
-2186	bxha	Tiene los mismos modales cordiales que su hermana, eso es seguro.
-2187	bxhc	Cállate.
-2188	bxia	Hark! ¡Habla el sabio! Pero déjame aconsejarte, eso es lo peor que podrías decirle a Iszara cuando la encuentres.
-2189	bxic	He visto a los Cyrodiils expandirse por el resto de Tamriel. No vas a detenerlos.
-2190	bxja	¿Oyes eso, Vander? El hombre piensa sondear mis pensamientos más íntimos. ¿Debería compartir con él una lista de los deseos de mi corazón?
-2191	bxjc	Si no tiene sentido resistirse, ¿por qué te quedas aquí?
-2192	bxkc	Tu lista será lo suficientemente corta, tonto, si sacas esa espada contra mí
-2193	bxla	Hay algunos que no pueden admitir una derrota, que ante la derrota crean teorías de venganza.
-2194	bxlb	Pero el secreto de la teoría es que la verdad no existe. Iszara desapareció apropiadamente en el mismo vacío
-2195	bxlc	¿Cuándo y por qué se habría unido Iszara a ti? ¿Su asociación contigo hizo que la mataran?
-2196	bxma	¡Despierta, imbécil! Somos ladrones y somos malos. E Iszara era parte de ello, te guste o no.
-2197	bxmb	Por si no te has dado cuenta estamos escondidos aquí, así que es lógico que si Iszara no está aquí entonces está en problemas
-2198	bxmc	Espero que eso haya significado algo para ti, porque no me acerca a Iszara. Ahora quiero saber qué le pasó
-2199	bxmd	No crees que el Imperio podría ayudarte a resolver este misterio un poco mejor? Estás perdiendo el tiempo aquí
-2200	bxnc	¿En qué tipo de problemas estaría metida?
-2201	bxoc	¡Vamos!
-2202	bacc	ASÍ QUE ESTE ES EL AGRADECIMIENTO QUE RECIBO POR SALVAR TU INÚTIL PELLEJO. SÉ TODO SOBRE TU TRATO CON EL GOBERNADOR. ¡DESENFUNDA Y DEFIÉNDETE, TRAIDOR!
-2203	bbyc	Gracias. Hablaremos más tarde.
-2204	bdta	No puedo recomendarlo, pero es el único lugar para beber en esta ciudad olvidada de Dios. Sube por el puente que ves a la derecha, a través de la puerta de la plaza del pueblo. Verás el cartel.
-2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Puedes indicarme??
-2206	bema	Absolutamente. Sin ofender, pero Hammerfell necesita algo de ley y orden.
-2207	bemc	El Imperio lo ha hecho bien en su conquista de Hammerfell, ¿no crees?
-2208	bft1	TENDRÉ ESA RECOMPENSA
-2209	bft2	ME ALEGRO DE QUE NOS HAYAMOS CONOCIDO, REDGUARD....
-2210	bft3	¡FUISTE UN NECIO AL DESAFIAR AL IMPERIO!
-2211	bft4	Ven cyrus!
+2142	atba	¿Acaso necesitan una razón? Un día los soldados vinieron por él, y desde entonces se pudre en la cárcel.
+2143	avoc	Entonces el Archimago Voa era leal al Príncipe.
+2144	avoa	Era el consejero principal del Príncipe. Pero su sucesor Jaganvir es una deshonra para la memoria de A'tor.
+2145	aycc	¿Dónde se encuentra el campamento Yokudan?
+2146	ayca	No estoy seguro. Debe estar en algún lugar fuera de la ciudad. Su pobre madre sigue desconsolada, velando la tumba de Hayle.
+2147	aylc	Cuéntame sobre el joven asesinado.
+2148	ayla	Se llamaba Hayle, pobre muchacho. Su familia permanece acampada fuera de la ciudad, esperando que concluya su ritual funerario.
+2149	aylb	Los Yokudanos nunca han sido bien recibidos por aquí, pero el gobernador Richton se excedió.
+2150	aysc	Sí, lamentablemente los Yokudanos siempre han sido tratados como extranjeros en todo Hammerfell.
+2151	aysa	Un prejuicio absurdo, considerando que su religión se remonta a las tradiciones más antiguas de los Guardia Rojo.
+2152	aysb	Pero nuestro nuevo gobernador ha perpetrado cosas mucho peores que simplemente cobrarles de más por la harina.
+2154	bx0c	Apártate, listillo. Ya llegaremos a eso en un momento.
+2156	bx1c	¿Fuiste tú? Recuerdo a dos payasos que no sabían manejar sus sables, pero tú debías estar oculto.
+2157	bx2a	Manteniéndote enigmático, Cyrus. ¿Qué buscas?
+2158	bx2c	¿Eres Basil? No eres fácil de encontrar.
+2159	bx3c	Escucha, listillo, no estoy aquí por ti. Ya sé todo lo que tienes que decir. Desenvaina cuando estés listo.
+2160	bx4a	Y ahora el hermano cachorro altruista viene por su hueso.
+2161	bx4b	Primero, toma una venda. Cúrate. A menos que planearas usar esa dulce y pequeña lengua de cachorro para lamer tus heridas.
+2162	bx4c	He terminado con tu matón. Y le he perdonado la vida.
+2163	bx5a	Bien. Aquí tienes la llave de la logia de Iszara. Ya la hemos registrado buscando pistas sobre su paradero, pero quizá tú encuentres algo que a nosotros se nos haya escapado.
+2164	bx5c	¿Te agrada respirar, Basil?
+2165	bx6a	Especialmente pistas en un diario, uno que no podemos abrir... Si logras decirme qué contiene el diario, te revelaré lo que sé sobre la desaparición de Iszara.
+2166	bx7a	Abre el diario y entonces hablaremos.
+2167	bx8a	Necesito oír lo que Iszara escribió en su diario antes de revelarte nada más.
+2168	bx9a	Mala estrategia tan pronto en la conversación, hijo. El juego consiste en averiguar primero lo que sabe el otro, no en mostrar cuánto del mapa eres incapaz de leer.
+2169	bx9b	Verás, pensé que eras el mensajero de Iszara, lo que te habría ganado una audiencia más larga, pero ahí estás, pareciendo el último cabo suelto de muchos.
+2170	bx9c	¿Dónde está ella?
+2171	bxaa	Como tú digas.
+2172	bxac	¿Así que tú diriges esta banda?
+2173	bxba	A'tor ya lo intentó y murió por ello. El Imperio no nos permitirá vivir en su contra, ni escribir una historia sin su nombre, así que no tiene sentido resistirse de manera tan abierta.
+2174	bxbc	¿Entonces planeas enfrentarte al Imperio?
+2175	bxcc	Vaya rebelde estás hecho.
+2176	bxda	No sugiero que la Liga reciba al Imperio con los brazos abiertos. Propongo que los recibamos con armas ocultas, con sutiles aguijonazos, con sangre y oro derramados en las sombras.
+2177	bxdb	"Amenaza sublunar". Nuestro propósito es sugerir, muy cortésmente, que no hay riquezas en Hammerfell... Y ninguna perspectiva de ganancia.
+2178	bxdc	Terror.
+2179	bxdd	CUANDO EL IMPERIO SE DESESPERE POR NO PODER ENRIQUECERSE EN STROS M'KAI, BUSCARÁ EMPRESAS MÁS LUCRATIVAS.
+2180	bxea	Vaya. Qué fácilmente repites la propaganda imperial. Quizá un turista ignorante como tú no se percate de que solo atacamos las naves del Imperio y de Richton.
+2181	bxeb	Los temerosos armadores y los simpatizantes del Imperio claman contra el pillaje y la piratería... Pero el pueblo de Stros M'Kai comprende bien los verdaderos motivos de nuestras acciones.
+2182	bxec	¿Por qué continúas merodeando por Stros M'Kai?
+2183	bxfc	Soy el hermano de Iszara, y todas mis pesquisas me han conducido hasta ti.
+2184	bxga	Y ha sido parte de nosotros durante mucho tiempo. Y por su falta de mención hacia ti, deduzco que siente poco orgullo o confianza en ti...
+2185	bxgb	...Un juicio que parece bien justificado tras el curso de nuestra breve y poco gratificante interacción.
+2186	bxha	Tiene los mismos modales encantadores que su hermana, de eso no hay duda.
+2187	bxhc	Cierra la boca.
+2188	bxia	¡Atención! ¡Ha hablado el sabio! Pero déjame aconsejarte, eso es lo último que deberías decirle a Iszara cuando la encuentres.
+2189	bxic	He visto a los Cyrodiils expandirse por todo Tamriel. No podrás detenerlos.
+2190	bxja	¿Oyes eso, Vander? El hombre pretende explorar mis pensamientos más profundos. ¿Debería compartir con él una lista de los anhelos de mi corazón?
+2191	bxjc	Si no tiene sentido resistir, ¿por qué permaneces aquí?
+2192	bxkc	Tu lista será bastante breve, necio, si te atreves a desenvainar esa espada contra mí.
+2193	bxla	Hay quienes no pueden aceptar una derrota, que ante ella fabrican teorías de venganza.
+2194	bxlb	Pero el secreto de la teoría es que la verdad no existe. Iszara se desvaneció apropiadamente en ese mismo vacío.
+2195	bxlc	¿Cuándo y por qué se uniría Iszara a ti? ¿Su vínculo contigo provocó su muerte?
+2196	bxma	¡Despierta, idiota! Somos ladrones y somos malvados. E Iszara formaba parte de esto, te guste o no.
+2197	bxmb	Por si no te has percatado, estamos ocultos aquí, así que es evidente que si Iszara no está con nosotros, entonces está en apuros.
+2198	bxmc	Espero que eso haya significado algo para ti, porque a mí no me acerca a Iszara. Ahora necesito saber qué le sucedió.
+2199	bxmd	¿No crees que el Imperio podría ayudarte mejor a resolver este misterio? Estás malgastando tu tiempo aquí.
+2200	bxnc	¿En qué clase de problemas podría estar metida?
+2201	bxoc	¡Adelante!
+2202	bacc	¡ASÍ QUE ESTA ES LA GRATITUD QUE RECIBO POR SALVAR TU MISERABLE PELLEJO! SÉ TODO SOBRE TU PACTO CON EL GOBERNADOR. ¡DESENVAINA Y DEFIÉNDETE, TRAIDOR!
+2203	bbyc	Gracias. Ya hablaremos después.
+2204	bdta	No puedo recomendártelo, pero es el único sitio donde beber en esta ciudad abandonada por los dioses. Sube por el puente de la derecha, atraviesa la puerta de la plaza del pueblo. Verás el letrero.
+2205	bdtc	He quedado con un amigo en el Draggin Tale. ¿Podrías indicarme?
+2206	bema	Por supuesto. Sin ánimo de ofender, pero Hammerfell necesita establecer ley y orden.
+2207	bemc	El Imperio ha hecho un buen trabajo conquistando Hammerfell, ¿no te parece?
+2208	bft1	OBTENDRÉ ESA RECOMPENSA.
+2209	bft2	ME ALEGRA HABERTE CONOCIDO, GUARDIA ROJO...
+2210	bft3	¡FUISTE UN INSENSATO AL DESAFIAR AL IMPERIO!
+2211	bft4	¡Ven, Cyrus!
 2212	bft5	¡NO PUEDO CREERLO!
-2217	bftc	ESTO HA SIDO UN GRAVE ERROR, BRENNAN.
-2218	bgr1	¡Quédate atrás, Daedra-get!
-2219	bgr2	¡AVAST, ASQUEROSO! ¡SAL DE ESTE BARCO!
-2220	bgr3	LLEVA TUS TONTERÍAS A LA ORILLA.
-2221	bgr4	¡VUELVE A LAS CAVERNAS, retoño duente!
-2222	bgr5	¡SALGAN DE MI BARCO DE UNA VEZ!
-2223	bgr6	¡vete!
-2224	bgr7	¡OS CONVERTIRÉ EN PASTELES DE SOPA SI NO OS LARGÁIS DE AQUÍ!
-2225	bh1a	AH... POR FAVOR, LLÁMAME BRENNAN. TE DESHICISTE DE ESOS RUFIANES TAN RÁPIDO QUE NO TUVE TIEMPO DE RECUPERAR MI ESPADA DE MI CAMAROTE.
-2226	bh1c	CAPITÁN, ES BUENO VERLO DE VUELTA AL MANDO.
-2227	bh2a	El valiente espadachín regresa. ¿En qué puedo ayudaros?
-2228	bh2c	Hola de nuevo, Capitán Brennan.
-2229	bh3a	Cualquier cosa por tu bien, Cyrus
-2230	bh3c	Brennan, ¿tienes un minuto?
-2231	bh4a	¡CYRUS! PENSE... ESCUCHE QUE HABIAS SIDO ARRESTADO.
-2232	bh4b	¿QUÉ PASA AHORA?
+2217	bftc	HAS COMETIDO UN GRAVE ERROR, BRENNAN.
+2218	bgr1	¡Atrás, engendro de Daedra!
+2219	bgr2	¡ALTO, SABANDIJA! ¡ABANDONA ESTE NAVÍO!
+2220	bgr3	LLÉVATE TUS TONTERÍAS A LA ORILLA.
+2221	bgr4	¡REGRESA A LAS CAVERNAS, vástago duende!
+2222	bgr5	¡FUERA DE MI BARCO, AHORA MISMO!
+2223	bgr6	¡Largo!
+2224	bgr7	¡OS CONVERTIRÉ EN PICADILLO SI NO OS LARGÁIS DE AQUÍ!
+2225	bh1a	AH... POR FAVOR, LLÁMAME BRENNAN. ACABASTE CON ESOS RUFIANES TAN RÁPIDO QUE NI SIQUIERA TUVE TIEMPO DE RECUPERAR MI ESPADA DEL CAMAROTE.
+2226	bh1c	CAPITÁN, ME ALEGRA VERLO DE NUEVO AL MANDO.
+2227	bh2a	El valeroso espadachín regresa. ¿En qué puedo ayudarte?
+2228	bh2c	Nos volvemos a ver, Capitán Brennan.
+2229	bh3a	Lo que sea por ayudarte, Cyrus.
+2230	bh3c	Brennan, ¿tienes un momento?
+2231	bh4a	¡CYRUS! PENSÉ... HABÍA OÍDO QUE TE HABÍAN ARRESTADO.
+2232	bh4b	¿QUÉ SUCEDE AHORA?
 2233	bh4c	BRENNAN, UNAS PALABRAS POR FAVOR.
 2234	bh5a	SÍ, ME ALEGRO DE QUE HAYA VENIDO.
 2235	bh5c	BRENNAN, ENTIENDO QUE QUIERAS VERME.
