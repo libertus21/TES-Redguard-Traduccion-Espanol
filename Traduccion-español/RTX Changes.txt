@@ -2035,19 +2035,19 @@
 2230	bh3c	Brennan, ¿tienes un momento?
 2231	bh4a	¡CYRUS! PENSÉ... HABÍA OÍDO QUE TE HABÍAN ARRESTADO.
 2232	bh4b	¿QUÉ SUCEDE AHORA?
-2233	bh4c	BRENNAN, UNAS PALABRAS POR FAVOR.
-2234	bh5a	SÍ, ME ALEGRO DE QUE HAYA VENIDO.
-2235	bh5c	BRENNAN, ENTIENDO QUE QUIERAS VERME.
-2236	bh6a	¡Cyrus! Justo el hombre que estaba buscando.
-2237	bh6b	PERO ESTOY CORRIENDO UN GRAN RIESGO AL HABLAR CONTIGO. ERES BUSCADO POR LOS IMPERIALES, YA SABES. POR FAVOR, VEN DEBAJO DE LA CUBIERTA DONDE PODEMOS HABLAR EN PRIVADO.
-2238	bh6c	Una palabra por favor, Capitán
-2239	bisa	Me temo que no. Antes de que el Imperio limpiara las cosas, Stros M'Kai era un paraíso pirata, evitado por mercaderes honestos como yo.
-2240	bisc	Busco a mi hermana, Iszara. ¿Quizás hayas oído hablar de ella?
-2241	blga	Otros capitanes me dicen que los bandidos que quedan se han organizado contra las medidas enérgicas del Imperio contra el contrabando y la piratería. 
-2242	blgc	Los piratas que nos atacaron hablaron de una «Liga Inquieta». ¿Has oído hablar de ellos?
-2243	bnfa	MIS NUEVOS AMIGOS ESTARÁN ENCANTADOS DE QUE TE HAYAS PASADO POR AQUÍ.
-2244	bnfb	ESPERA UN MOMENTO, TENGO ALGO PARA TI.
-2245	bnfd	¿¡QUÉ...!? ¡¿TÚ...?!
+2233	bh4c	BRENNAN, QUISIERA HABLAR CONTIGO.
+2234	bh5a	SÍ, ME ALEGRO DE QUE HAYAS VENIDO.
+2235	bh5c	BRENNAN, TENGO ENTENDIDO QUE QUERÍAS VERME.
+2236	bh6a	¡Cyrus! Precisamente el hombre que buscaba.
+2237	bh6b	PERO CORRO UN GRAN RIESGO AL HABLAR CONTIGO. LOS IMPERIALES TE BUSCAN, COMO BIEN SABES. POR FAVOR, ACOMPÁÑAME BAJO CUBIERTA DONDE PODAMOS HABLAR EN PRIVADO.
+2238	bh6c	Un momento de tu tiempo, Capitán.
+2239	bisa	Me temo que no. Antes de que el Imperio pusiera orden, Stros M'Kai era un refugio de piratas, evitado por comerciantes honrados como yo.
+2240	bisc	Busco a mi hermana, Iszara. ¿Has oído hablar de ella, quizás?
+2241	blga	Otros capitanes me cuentan que los bandidos restantes se han organizado contra las medidas severas del Imperio contra el contrabando y la piratería. 
+2242	blgc	Los piratas que nos asaltaron mencionaron una «Liga Inquieta». ¿Has oído algo sobre ellos?
+2243	bnfa	MIS NUEVOS AMIGOS ESTARÁN ENCANTADOS DE QUE HAYAS DECIDIDO PASARTE POR AQUÍ.
+2244	bnfb	AGUARDA UN MOMENTO, TENGO ALGO PARA TI.
+2245	bnfd	¿¡QUÉ...!? ¡¿TÚ...!?
 2246	bnoc	MIS ENREDOS IMPERIALES NO SON DE TU INCUMBENCIA. ¿QUÉ ES LO QUE QUIERES?
 2247	bo1c	¿ASÍ ES, HM?
 2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
