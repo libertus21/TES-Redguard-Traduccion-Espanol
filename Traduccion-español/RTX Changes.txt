@@ -1085,101 +1085,101 @@
 1193	23na	Soy mejor como amigo que como enemigo.
 1194	23nc	¿Por qué dices eso?
 1196	260b	A cambio de su alma, aceptó que liberaría a su amado Príncipe A'tor. Quizás pienses que mis honorarios son excesivos, pero ¿no es el cliente quien mejor puede juzgar el verdadero valor de un servicio?
-1197	2a1a	PERECIÓ EN LA GUERRA PROTEGIENDO LA CORONA Y SE PERDIÓ EN EL MAR. LAMENTO QUE LA TRAMPA NO FUERA TENDIDA ENTONCES, PUES TAL ALMA HUBIERA SIDO APTA PARA... CULTIVAR... DURANTE NOCHES ENTERAS.
-1198	2a1c	¿QUÉ LE PASÓ AL ARCHIMAGO?
-1199	2a2a	ESCASAMENTE. ERA CONOCIDO POR SUS ATRIBUTOS, NO POR SUS HABILIDADES TRIVIALES. SUS ARTEFACTOS MÁGICOS, SIN EMBARGO... PODRÍAN SER DIGNOS DE ATENCIÓN.
-1200	2a2c	¿ERA PODEROSO, ENTONCES, ESTE ARCHIMAGO?
-1201	2a3c	AHORA MISMO ME PONGO A ELLO.
-1202	2ama	UN DIAMANTE ROJO ÉSTE HA ENCONTRADO ENTRE MUCHOS TESOROS, Y JUZGA APROPIADO PARA UN SERVIDOR DEL IMPERIO, QUE PODRÍA ENARBOLAR TALES SÍMBOLOS EN SUS ESTANDARTES.
-1203	2amb	Y EL ESCENARIO DEL DRAGÓN ES MUY ADECUADO PARA HONRAR AL GOBERNADOR CUYO MANDO DE TAL BESTIA OBTUVO LA VICTORIA EN STROS M'KAI, Y PUSO A HAMMERFELL EN MANOS DEL EMPERADOR.
-1204	2amc	¿QUÉ ES ESE AMULETO QUE LE DAS AL GOBERNADOR?
-1205	2b1a	ADIÓS, CYRUS. UN PLACER HACER NEGOCIOS CONTIGO.
-1206	2b1c	ADIÓS, N'GASTA.
-1207	2b2a	¡NO DESCUIDES TU SERVICIO A ESTE!
-1208	2b2c	LO PENSARÉ UN POCO. ADIÓS.
-1212	2d1a	Por supuesto, pero las respuestas de éste no tienen por qué ser tu única recompensa.
-1213	2d1c	PUEDO HACERLO. PERO TENGO ALGUNAS PREGUNTAS PARA TI PRIMERO-- 
-1214	2d2a	ÉSTE CONTRATÓ A UN TIPO COMO INTERMEDIARIO, SIN PREVER SU INICIATIVA DIRECTA... PERO DICHO COMPAÑERO TE PAGARÁ GENEROSAMENTE CUANDO HAYAS REALIZADO ESTE SERVICIO.
-1215	2d2c	¿Qué quieres decir?
-1216	2dla	¿HAS RECONSIDERADO LA OFERTA DE ÉSTE?
-1217	2dlc	SOBRE ESA ENTREGA DE NUEVO  -- 
-1218	2ema	ESTE NO ES NI INCAUTO DEL IMPERIO, NI ANSIOSO DE LLEVAR LA CORREA. PERO EL GOBERNADOR HA DEMOSTRADO SER UN HOMBRE HONORABLE.
-1219	2emb	ASÍ ÉSTE LE OFRECE ESTE REGALO, PARA ANIMAR SU ATENCIÓN A LOS ASUNTOS DE LOS VIVOS, DEJÁNDOME A MÍ EL RESTO.
-1220	2emc	¿LE HA PREOCUPADO MUCHO LA LLEGADA DEL IMPERIO?
-1221	2gva	ES UN MECENAS GENEROSO, QUE ENVÍA UN FLUJO CONSTANTE A ÉSTE INCLUSO CON LA GUERRA YA TERMINADA. SUS POLÍTICAS TRAEN BENEFICIOS, Y FINALMENTE POR EL AMULETO QUE SU GENEROSIDAD SEA RECONOCIDA.
-1222	2gvc	¿Qué puedes decirme del Gobernador?
-1223	2h1a	¡Cyrus! Este es N'Gasta, el nigromante de Stros M'Kai.
-1224	2h1c	¿Ya nos conocemos?
-1225	2h2a	El contratista informó a éste de tu inminente llegada».
-1226	2h2b	Este te ofrece el amuleto que se entregará.
-1227	2h2c	¿Lo hizo...?
-1228	2h3a	Asegúrate de su seguridad. Entrégaselo personalmente. El contratista te pagará el resto de tus honorarios cuando el asunto esté resuelto.
-1229	2h3b	Un contratista me informó de sus reservas sobre las condiciones de mi empleo.
-1230	2h3c	Con el Gobernador, ¿verdad?
-1231	2h4a	Ésta esperaba que lo reconsideraras... y, para alegría de ésta, ¡apareces aquí!
-1232	2h4c	¿Lo hizo...?
-1233	2h5a	¿Así que buscas aquí? Debes pensar que está muerta, o eso debe inferir éste.
-1234	2h5c	SÓLO ESTABA... EXPLORANDO. MI HERMANA ESTÁ PERDIDA AQUÍ EN STROS M'KAI.
-1235	2h6a	Nuestro estimado Gobernador es su autoridad temporal en los estados del ser -- el ser de su hermana en cuestión, ¿sí? Pero una audiencia con el gran hombre es... casi imposible.
-1236	2h6b	ÉSTE SE AVENTURA A QUE SU ENTREGA DEL AMULETO DÉ PIE A UNA CONVERSACIÓN.
-1237	2h6c	Más vale que no sea.
-1238	2h7a	ESTE ESPERA HABLAR CON USTED LARGO Y TENDIDO... MÁS TARDE... DESPUÉS DE QUE EL AMULETO SEA ENTREGADO.
-1239	2h7b	¿HAS RECONSIDERADO LA OFERTA DE ÉSTE?
-1240	2h7c	HOLA DE NUEVO, N'GASTA.
-1241	2h7d	MUY BIEN. COMO DESEA.
-1242	2h8c	HABLARÁS CONMIGO AHORA.
-1243	2i1a	OTRAS ALMAS QUE ÉSTE HA REUNIDO ÚLTIMAMENTE HAN SUSURRADO EL NOMBRE.
-1244	2i1c	¿CONOCES A UNA MUJER LLAMADA ISZARA?
-1245	2i2a	ENTONCES CUENTA A TU HERMANA ENTRE LOS VIVOS, PUES AÚN NO ESTÁ FRÍA, O ÉSTA LA CONOCERÍA BIEN.
-1246	2i2c	ES MI HERMANA.
-1247	2ipa	COMO QUIERAS, CYRUS, PERO ESTE SIGUE ESPERANDO TU SERVICIO.
-1248	2ipc	AHORA MISMO PASO. NO QUIERO ENREDOS IMPERIALES TODAVÍA.
-1249	2j1a	UNA LIEBRE DE ALMAS DE SU PROPIA INVENCIÓN, QUE RECOGE LAS ALMAS PERDIDAS Y LAS LLEVA ALLÍ.
-1250	2j1c	TIENES A LA ISLA HECHIZADA, N'GASTA?
-1251	2j2a	ÉSTE SE SIENTE CÓMODO CON LAS TRAMPAS DE SU VOCACIÓN, AUNQUE SUS VÍCTIMAS CAREZCAN DE TAL COMODIDAD.
-1252	2j2c	PARA EXPERIMENTOS EXTRAÑOS Y TERRIBLES, SIN DUDA.
-1253	2j3a	SU SER ENCIERRA TANTO MISTERIO PARA ÉSTA COMO PARA USTED. PREGUNTA EN OTRO LUGAR.
-1254	2j3c	MÁS VALE QUE MI HERMANA NO ESTÉ ENTRE ELLOS.
-1255	2mga	TAN POCO SUTILES BURLAS POCO PROBLEMA ESTE, REDGUARD. EN CUANTO A LA ENEMISTAD DEL GREMIO... CON SU ARCHIMAGO MUERTO EN EL POLVO MARINO, SU IMPOTENCIA ENGENDRA RENCOR CONTRA LAS MAESTRIAS DE ESTE.
-1256	2mgc	¿POR QUÉ TE ODIA EL GREMIO DE MAGOS? ¿FUERA DE LAS RAZONES OBVIAS?
-1257	2n1a	COMO QUIERAS, CYRUS, PERO ESTE SIGUE ESPERANDO TU SERVICIO.
-1258	2n1b	PERMÍTANME QUE LES EXPRESE MI INTERÉS PERSONAL POR SUS ASUNTOS ISLEÑOS Y QUE LES HAGA NOTAR QUE SU LLEGADA AQUÍ MERECE UNA CONSIDERACIÓN ESPECIAL.
-1259	2n1c	ENCONTRARÉ MI PROPIO CAMINO AL PALACIO DEL GOBERNADOR, GRACIAS. NO TENGO TIEMPO PARA HACER ENTREGAS.
-1260	2n2a	LO PRIMERO ES LO PRIMERO. ESTE DESEA UN AGENTE PARA REALIZAR UNA ENTREGA IMPORTANTE.
+1197	2a1a	Murió en la guerra defendiendo a la Corona y se perdió en el mar. Lamento que la trampa no estuviera lista entonces, pues un alma así habría sido perfecta para... cultivar... durante noches interminables.
+1198	2a1c	¿Qué le sucedió al Archimago?
+1199	2a2a	Apenas. Era conocido por sus atributos, no por sus habilidades mundanas. Sus artefactos mágicos, sin embargo... podrían merecer cierta atención.
+1200	2a2c	¿Era poderoso este Archimago?
+1201	2a3c	Me pongo a ello ahora mismo.
+1202	2ama	He encontrado un diamante rojo entre muchos tesoros, y lo considero apropiado para un servidor del Imperio, que podría lucir tales símbolos en sus estandartes.
+1203	2amb	Y la imagen del dragón es muy adecuada para honrar al Gobernador, cuyo control de tal bestia logró la victoria en Stros M'Kai y puso Hammerfell en manos del Emperador.
+1204	2amc	¿Qué es ese amuleto que le entregas al Gobernador?
+1205	2b1a	Adiós, Cyrus. Ha sido un placer hacer negocios contigo.
+1206	2b1c	Adiós, N'Gasta.
+1207	2b2a	¡No descuides tu servicio!
+1208	2b2c	Lo pensaré. Adiós.
+1212	2d1a	Por supuesto, pero mis respuestas no tienen por qué ser tu única recompensa.
+1213	2d1c	Puedo hacerlo. Pero primero tengo algunas preguntas para ti...
+1214	2d2a	Contraté a alguien como intermediario, sin esperar tu iniciativa directa... pero él te pagará generosamente cuando hayas completado este servicio.
+1215	2d2c	¿A qué te refieres?
+1216	2dla	¿Has reconsiderado mi oferta?
+1217	2dlc	Sobre esa entrega otra vez...
+1218	2ema	No soy ni ingenuo con el Imperio, ni ansioso por llevar su correa. Pero el Gobernador ha demostrado ser un hombre honorable.
+1219	2emb	Así que le ofrezco este regalo, para que centre su atención en los asuntos de los vivos, dejándome a mí el resto.
+1220	2emc	¿Te preocupa la llegada del Imperio?
+1221	2gva	Es un mecenas generoso, que sigue enviándome recursos incluso con la guerra terminada. Sus políticas me benefician, y con el amuleto quiero reconocer su generosidad.
+1222	2gvc	¿Qué me puedes contar del Gobernador?
+1223	2h1a	¡Cyrus! Soy N'Gasta, el nigromante de Stros M'Kai.
+1224	2h1c	¿Nos conocemos?
+1225	2h2a	El contratista me informó de tu llegada.
+1226	2h2b	Te ofrezco el amuleto para que lo entregues.
+1227	2h2c	¿Ah, sí...?
+1228	2h3a	Asegúrate de que llegue a salvo. Entrégaselo en persona. El contratista te pagará el resto cuando hayas completado el trabajo.
+1229	2h3b	Un contratista me habló de tus dudas sobre las condiciones de mi trabajo.
+1230	2h3c	¿Con el Gobernador, no?
+1231	2h4a	Esperaba que lo reconsideraras... y, para mi alegría, ¡aquí estás!
+1232	2h4c	¿De verdad...?
+1233	2h5a	¿Así que buscas por aquí? Debes pensar que está muerta, o eso deduzco.
+1234	2h5c	Solo estaba... explorando. Mi hermana está perdida aquí en Stros M'Kai.
+1235	2h6a	Nuestro estimado Gobernador tiene autoridad temporal sobre los estados del ser... incluyendo el de tu hermana, ¿no es así? Pero conseguir una audiencia con el gran hombre es... casi imposible.
+1236	2h6b	Me atrevo a sugerir que la entrega del amuleto podría dar pie a una conversación.
+1237	2h6c	Más te vale que no.
+1238	2h7a	Espero que podamos hablar más extensamente... más tarde... después de que entregues el amuleto.
+1239	2h7b	¿Has reconsiderado mi oferta?
+1240	2h7c	Hola de nuevo, N'Gasta.
+1241	2h7d	Muy bien. Como desees.
+1242	2h8c	Vas a hablar conmigo ahora.
+1243	2i1a	Otras almas que he reunido últimamente han susurrado ese nombre.
+1244	2i1c	¿Conoces a una mujer llamada Iszara?
+1245	2i2a	Entonces tu hermana debe estar entre los vivos, pues aún no está fría, o yo la conocería bien.
+1246	2i2c	Es mi hermana.
+1247	2ipa	Como quieras, Cyrus, pero sigo esperando que me ayudes.
+1248	2ipc	Ahora no. No quiero líos con el Imperio todavía.
+1249	2j1a	Una trampa de almas de mi propia invención, que recoge las almas perdidas y las lleva allí.
+1250	2j1c	¿Has hechizado toda la isla, N'Gasta?
+1251	2j2a	Me siento cómodo con las herramientas de mi oficio, aunque mis víctimas no compartan tal comodidad.
+1252	2j2c	Para tus experimentos macabros, sin duda.
+1253	2j3a	Su destino es tan misterioso para mí como para ti. Pregunta en otro lugar.
+1254	2j3c	Más te vale que mi hermana no esté entre ellos.
+1255	2mga	Tus burlas poco sutiles no me molestan, Redguard. En cuanto al odio del Gremio... con su Archimago muerto en el fondo del mar, su impotencia alimenta su rencor hacia mis artes.
+1256	2mgc	¿Por qué te odia el Gremio de Magos? ¿Aparte de lo obvio?
+1257	2n1a	Como quieras, Cyrus, pero sigo esperando tu ayuda.
+1258	2n1b	Permíteme expresar mi interés personal por los asuntos de la isla y señalar que tu llegada aquí merece una consideración especial.
+1259	2n1c	Encontraré mi propio camino al palacio del Gobernador, gracias. No tengo tiempo para hacer entregas.
+1260	2n2a	Lo primero es lo primero. Necesito a alguien para hacer una entrega importante.
 1261	2n2c	¿Conoces a una mujer llamada Iszara?
-1262	2n3a	ÉSTE HACE JURAMENTO SOLEMNE DE REVELAR TODA LA SUMA DE SUS SABIDURÍAS.
-1263	2n3c	¿Y DESPUÉS HABLAREMOS DE ISZARA?
-1264	2n4a	RECONOCIENDO LA DISCRECIÓN DEL GOBERNADOR EN DIVERSOS ASUNTOS, ÉSTE DESEA REGALAR A SU EMINENCIA UN AMULETO ÚNICO QUE ACREDITE SU ALTA CONSIDERACIÓN EN LOS ASUNTOS DEL IMPERIO.
-1265	2n4c	ADELANTE, ENTONCES.
-1266	2o1a	UNO SE HA ENREDADO EN MI RED ASTRAL, HABIÉNDOSE SEPARADO DE ESTE MUNDO NO HACE MUCHO.
-1267	2o1b	DEJANDO LARGO EL REFUGIO, ÉSTE ESPECULA... PERO BASTANTE DUDOSO, SE CONVIENE.
-1268	2o1c	¿CÓMO PODRÍA UN MIEMBRO DEL TEMPLO SER ATRAPADO CUANDO TRABAJA EN EL MISMO REFUGIO QUE SE LE OPONE?
-1269	2o2a	UNAS BUENAS TRES LUNAS MAESTRAS. -- 
-1270	2o2c	¿HACE CUÁNTO TIEMPO FUE ESTO?
-1271	2o3c	ESO FUE MÁS O MENOS CUANDO MI HERMANA DESAPARECIÓ.
-1272	2q1a	¿CUÁNTO TIEMPO EN LA LEYENDA? ÉSTE LLEGÓ EN LOS MEJORES AÑOS DE THASSAD, Y SE LE DIO LA BRÚJULA JUSTA DE ESTOS BANCOS SUCIOS. EN AQUEL TIEMPO NO ERA MÁS QUE UN CUENTO AL PASAR, UN ESCALOFRÍO EN UN ENIGMA.
-1273	2q1c	¿CUÁNTO TIEMPO LLEVA VIVIENDO EN STROS M'KAI?
-1274	2q2a	DESDE EL FINAL DE LA GUERRA. ¿CÓMO PUDO ÉSTE DESCUIDAR UNA COSECHA TAN RICA? EL MAR REBOSABA TANTO DE MUERTOS QUE SUS MAREAS DABAN LA VUELTA AL MUNDO.
-1275	2q2b	ASÍ QUE ESTE CONJURÓ UNA RED PARA ATRAPARLOS A TODOS, ESTAS ALMAS PERDIDAS Y DESGARRADAS-VIOLENTAS. A PARTIR DE ENTONCES LA PRESENCIA DE ÉSTE HA SIDO BIEN CONOCIDA AQUÍ... QUIZÁS TAMBIÉN ALGO TEMIDA.
-1276	2q2c	¿DESDE CUÁNDO ES MEJOR QUE UNA LEYENDA?
-1277	2r1a	IMAGINA LO IMPOSIBLE. A ÉSTE LE DIVIERTEN TUS IMAGINACIONES.
-1278	2r1c	¿IMAGINO QUE ES DIFÍCIL LLEGAR A ESTA ISLA EN BARCO?
-1279	2r2a	ESTE NUNCA SE SIENTE AMENAZADO, CYRUS... PERO, SÍ, ÉSTE CONOCE BIEN LA LIGA.
-1280	2r2c	¿ASÍ QUE PROBABLEMENTE NUNCA TE AMENACEN LOS PIRATAS DE LA LIGA Revoltosa?
-1281	2r3a	ESTE HA CONTADO MUCHAS DE SUS ALMAS REBELDES EN EL PRESENTE REINADO.
-1282	2r3c	¿LO HACES TÚ?
-1283	2r4a	¿QUÉ PIENSA UNO DEL ORO QUE LLEVA EN LA BOLSA? ¿JUZGA UNO MEJOR ESTA MONEDA QUE OTRA SI AMBAS GASTAN LO MISMO?
-1284	2r4c	¿QUÉ PIENSA DE ELLOS?
-1285	2r5a	TU INGENIO LO CUENTA MUY BIEN.
-1286	2r5c	TODOS LOS MUERTOS SON MONEDA DE CAMBIO, ENTONCES.
-1287	2s1a	SI LOS MORTALES SUPIERAN EL PODER QUE ALBERGAN, Y CÓMO TAN INMERECIDO, UNA GRACIA INEXPLICABLEMENTE CONCEDIDA POR LOS DIOSES EXTERIORES QUE PROVEEN EN DEMASÍA Y SIN BUENA GUÍA.
-1288	2s1b	SI LO SUPIERAN, TAL VEZ SE ESFORZARÍAN TANTO POR CONSERVAR EL INTERIOR COMO SUS PRECIADOS EXTERIORES -- ESA PIEL DESNUDA QUE SE RESBALA CON FACILIDAD Y QUE SE MARCHITA COMO EL PAPEL ANTE LA LLAMA--
-1289	2s1c	EL COMERCIO ILÍCITO DE ALMAS. ¿CÓMO FUNCIONA?
-1290	2s1d	PORQUE ÉSA ES LA VERDAD: EL CUERPO ALBERGA LO QUE NO PUEDE SOPORTAR POR MUCHO TIEMPO.
-1291	2s2a	En resumen, el Cazalmas captura los espíritus de los incautos que descuidan la santidad de sus almas
-1292	2s2c	QUE RESPONDE POCO -- 
-1293	2sna	¿HARÍAS DE ESTUDIANTE? HMM. COMO QUAINT -- 
-1294	2snb	ME VIENE A LA MENTE LA IMAGEN DE LOS SABUESOS DEL ÉTER, DE HOMBROS ANCHOS Y JADEANTES, PATRULLANDO LAS CERCANAS PUERTAS DE LA MUERTE, ALERTA EN BUSCA DEL RASTRO DEL DESVENTURADO ESPÍRITU.
+1262	2n3a	Te juro solemnemente revelar todo lo que sé.
+1263	2n3c	¿Y luego hablaremos de Iszara?
+1264	2n4a	Reconociendo la discreción del Gobernador en diversos asuntos, deseo regalar a su eminencia un amuleto único que demuestre mi alta consideración en los asuntos del Imperio.
+1265	2n4c	Adelante entonces.
+1266	2o1a	Uno quedó atrapado en mi red astral, habiendo abandonado este mundo no hace mucho.
+1267	2o1b	Lejos del refugio, supongo... aunque es bastante dudoso.
+1268	2o1c	¿Cómo podría un miembro del Templo quedar atrapado cuando trabaja en el mismo refugio que se le opone?
+1269	2o2a	Hace unas tres lunas llenas...
+1270	2o2c	¿Cuándo ocurrió esto?
+1271	2o3c	Eso fue más o menos cuando desapareció mi hermana.
+1272	2q1a	¿Cuánto tiempo llevo siendo una leyenda? Llegué en los mejores años de Thassad, y me dieron el control de estos bancos sucios. En aquel entonces no era más que un rumor, un escalofrío en un enigma.
+1273	2q1c	¿Cuánto tiempo llevas en Stros M'Kai?
+1274	2q2a	Desde el final de la guerra. ¿Cómo podría haber ignorado una cosecha tan rica? El mar rebosaba de muertos, tantos que sus mareas daban la vuelta al mundo.
+1275	2q2b	Así que conjuré una red para atraparlos a todos, esas almas perdidas y violentamente arrancadas. Desde entonces mi presencia aquí es bien conocida... y quizás también algo temida.
+1276	2q2c	¿Desde cuándo eres más que una leyenda?
+1277	2r1a	Imagina lo imposible. Me divierten tus suposiciones.
+1278	2r1c	¿Me imagino que es difícil llegar a esta isla en barco?
+1279	2r2a	Nunca me siento amenazado, Cyrus... pero sí, conozco bien a la Liga.
+1280	2r2c	¿Así que los piratas de la Liga Revoltosa nunca te amenazan?
+1281	2r3a	He reclamado muchas de sus almas rebeldes en este reinado.
+1282	2r3c	¿Lo has hecho?
+1283	2r4a	¿Qué piensas del oro que llevas en tu bolsa? ¿Juzgas una moneda mejor que otra si ambas tienen el mismo valor?
+1284	2r4c	¿Qué opinas de ellos?
+1285	2r5a	Tu ingenio lo ha captado bien.
+1286	2r5c	Entonces todos los muertos son moneda de cambio.
+1287	2s1a	Si los mortales supieran el poder que albergan, y cuán inmerecido es, una gracia inexplicablemente otorgada por los dioses exteriores que proveen en exceso y sin guía.
+1288	2s1b	Si lo supieran, quizás se esforzarían tanto en preservar su interior como sus preciados exteriores... esa piel desnuda que se desprende con facilidad y se marchita como papel ante el fuego...
+1289	2s1c	El tráfico de almas. ¿Cómo funciona?
+1290	2s1d	Porque esa es la verdad: el cuerpo contiene lo que no puede retener por mucho tiempo.
+1291	2s2a	En resumen, el Cazador de Almas atrapa los espíritus de aquellos incautos que descuidan la santidad de sus almas.
+1292	2s2c	Eso no explica mucho...
+1293	2sna	¿Quieres ser mi aprendiz? Hmm. Qué peculiar...
+1294	2snb	Me viene a la mente la imagen de los Sabuesos del Éter, de anchos hombros y jadeantes, patrullando cerca de las puertas de la muerte, atentos al rastro de algún espíritu desafortunado.
 1295	2snc	TENGO CURIOSIDAD, N'GASTA. ¿CÓMO FUNCIONA EL caza alma?
 1296	2snd	PERO CONCÉDEME SER UN GUSANO ARTESANO MUCHO MÁS INSIDIOSO QUE ESO: LA RED ES UN CANTO DE SIRENA DE LA SEMIÓTICA, LA ADIVINACIÓN DE LOS SIGNOS DE DESVANECIMIENTO DE LOS DIFUNTOS, Y LA ELABORACIÓN DE ELLOS UN SEÑUELO -- 
 1297	2sne	UNA PUERTA CON SUAVES RUNAS FABRICADAS POR EL ALMA. QUE EL ALMA SE ARREMOLINA AGRADECIDA EN LA RED QUE LA ESPERA, HACIA CIELOS TEJIDOS CON LOS TENUES ANHELOS DEL ESPÍRITU.
@@ -1292,116 +1292,116 @@
 1457	5gra	¡Será mejor que te apartes de mi camino...!
 1458	5grb	Vete a molestar a otro lado.
 1459	5grd	¡No entiendo ni una palabra!
-1460	5gre	¿Qué ha sido eso?
-1461	5grf	¿Se le ha escapado el familiar a algún mago? ¡Fuera de aquí! ¡Vuelve al gremio!
-1462	5grg	¡¿Otra vez cambiando de forma...?! ¿Qué clase de brujería es esta? ¡Vete con algún mago, duende! ¡Fuera!.
-1463	5h0a	Cyrus, se suponía que entregarías el amuleto. Teníamos un acuerdo.
+1460	5gre	¿Qué fue eso?
+1461	5grf	¿Se le escapó el familiar a algún mago? ¡Fuera de aquí! ¡Vuelve al gremio!
+1462	5grg	¡¿De nuevo cambiando de forma...?! ¿Qué clase de brujería es esta? ¡Vete con tu mago, duende! ¡Fuera!
+1463	5h0a	Cyrus, se suponía que entregarías el amuleto. Teníamos un trato.
 1464	5h0c	Hola, Kotaro.
 1465	5h1a	¡Eh, marinero! ¿Tienes un momento?
-1466	5h1b	¡Bienvenido, forastero! ¡Justo la persona que andaba buscando!
-1467	5h1d	¡Oye, tú! ¡Una palabra, si eres tan amable!
+1466	5h1b	¡Bienvenido, forastero! ¡Justo a quien buscaba!
+1467	5h1d	¡Oye! ¡Una palabra, si eres tan amable!
 1468	5h1e	¡Bienvenido, forastero!
-1469	5h2a	La pregunta es, ¿qué puedo hacer yo por ti? Un joven forastero en la ciudad, intrépido, despreocupado y sin pretensiones... quizá un poco corto de dinero.
-1470	5h2b	Tengo una propuesta que podría interesarte. Pero primero, permíteme presentarme: ¡Kotaro, contratista de Stros M'Kai, para servirte!
+1469	5h2a	La verdadera pregunta es, ¿qué puedo hacer por ti? Un joven forastero en la ciudad, valiente, despreocupado y sin pretensiones... quizá algo corto de dinero.
+1470	5h2b	Tengo una propuesta que te podría interesar. Pero primero, déjame presentarme: ¡Kotaro, contratista de Stros M'Kai, a tu servicio!
 1471	5h2c	¿En qué puedo ayudarte, amigo?
-1472	5h3c	Cyrus, encantado.
-1473	5h4a	¿Lo... conseguiste? Mmm... ¿Y cómo era, entonces? ¿Eh?
-1474	5h4c	Y, por cierto, ya he aceptado el trabajo directamente del nigromante.
-1475	5h5a	¡Excelente! Aquí tienes tus 100 monedas de oro. Tendrás el resto cuando entregues el amuleto al Gobernador.
-1476	5h5c	Es un gusano gordo y asqueroso.
-1477	5h6a	Así que tú eres el famoso Cyrus del que tanto he oído hablar. ¿Cómo has...?
-1478	5h6c	Y, por cierto, ya he aceptado el trabajo del nigromante personalmente.
-1479	5h7a	¡Vaya! Estoy... ¡asombrado de verte! Me habían contado que tuviste cierto malentendido con el Gobernador.
-1480	5h7b	¿Puede que los imperiales te anden buscando? Aunque yo nunca me fío de los rumores. Aquí tienes tus 200 monedas de oro, como prometí.
-1481	5h7c	Ya he entregado el amuleto al Gobernador. Me parece que me debes un pago.
-1482	5h8a	¡Ah! ¡Casi olvido el adelanto inicial! Aquí tienes otras 100 monedas. Espero que tengas tiempo de gastarlas.
-1483	5h8c	¿Esto es todo lo que vale mi esfuerzo?
-1484	5h9a	¡Hola a ti también, Cyrus!
+1472	5h3c	Cyrus, un placer.
+1473	5h4a	¿Lo... conseguiste? Mmm... ¿Y qué tal fue? ¿Eh?
+1474	5h4c	Por cierto, ya acepté el trabajo directamente del nigromante.
+1475	5h5a	¡Excelente! Aquí tienes tus 100 monedas de oro. Recibirás el resto cuando entregues el amuleto al Gobernador.
+1476	5h5c	Es un gusano repugnante.
+1477	5h6a	Así que tú eres el famoso Cyrus del que tanto he oído hablar. ¿Cómo...?
+1478	5h6c	Por cierto, ya acepté el trabajo del nigromante en persona.
+1479	5h7a	¡Vaya! Me... ¡sorprende verte! Me contaron que tuviste ciertos problemas con el Gobernador.
+1480	5h7b	¿Será que los imperiales te buscan? Aunque yo no suelo hacer caso a los rumores. Aquí tienes tus 200 monedas de oro, como acordamos.
+1481	5h7c	Ya entregué el amuleto al Gobernador. Creo que me debes un pago.
+1482	5h8a	¡Ah! ¡Casi olvido el adelanto! Aquí tienes otras 100 monedas. Espero que tengas tiempo de gastarlas.
+1483	5h8c	¿Esto es todo lo que vale mi trabajo?
+1484	5h9a	¡Hola de nuevo, Cyrus!
 1485	5h9c	Hola, Kotaro.
-1486	5isa	Me temo que no la conozco. ¡Solo soy un humilde trabajador!
-1487	5isb	Podrías preguntar a Dreekius en el Draggin' Tale. Tarde o temprano, todo el mundo en Stros M'Kai acaba pasando por allí.
-1488	5isc	¿Conoces a mi hermana, Iszara? He venido a Stros M'Kai para averiguar qué le ha pasado.
-1489	5lga	¡Malditos sean ellos y sus costumbres sangrientas! Han hecho más daño a Stros M'Kai que los Antepasados y el Imperio juntos.
-1490	5lgb	De no ser por ellos, esta ciudad habría encontrado la paz hace meses.
-1491	5lgc	¿Qué me puedes contar de un grupo de rebeldes que se hacen llamar la Liga Revoltosa?
-1492	5lra	¡Queman y saquean la mitad de los cargamentos que llegan a este puerto! ¡Y provocan que los imperiales respondan cada vez con más crueldad!
-1493	5lrb	La Liga parece no entender que la guerra ya terminó, y que perdieron.
-1494	5lrc	¿De qué manera es la Liga Revoltosa responsable de la ruina de Stros M'Kai?
-1495	5lwa	Depende a quién le preguntes. Yo no sabría decirte.
-1496	5lwb	No soy uno de esos nobles metidos en política, siempre husmeando en asuntos ajenos... solo soy un humilde trabajador.
-1497	5lwc	¿Me estás diciendo que la Liga estaba aliada con los Corona?
-1498	5lwd	Más vale pájaro en mano que ciento volando, como suelen decir, ¡ja, ja!
-1499	5nga	Solo es un viejo ermitaño inofensivo. Los más supersticiosos del pueblo cuentan historias extrañas sobre él, pero yo no me creo esos cuentos.
-1500	5ngb	Vive en la torre del antiguo mago. Solo tienes que seguir la costa del noroeste de la isla.
-1502	5noa	Pregunta lo que quieras, buen Cyrus. No tengo nada que ocultar.
-1503	5noc	Lo estoy pensando. Pero antes me gustaría hacerte algunas preguntas.
-1504	5oca	Sin duda es mejor que la guerra, joven amigo. Aunque seré sincero contigo.
-1505	5ocb	Es difícil encontrar trabajadores honrados hoy en día. Los Antepasados prefieren sonreír que trabajar, y los Corona ya no tienen fuerzas para ello.
-1506	5occ	No he estado en Hammerfell desde antes de la guerra. ¿Qué tal se vive bajo el Imperio?
-1507	5p1a	Como te decía, me está costando encontrar quien haga este trabajo, así que he subido un poco la paga.
-1508	5p1c	¿Cuánto pagas por este trabajo?
-1509	5p2a	El pago va acorde con el riesgo. La Torre de N'Gasta no está precisamente en el camino principal, ¿sabes?
-1510	5p2b	Podrías tener algunas dificultades para llegar. Aunque nada que no puedas manejar, estoy seguro.
-1511	5p2c	Es mucho dinero para una simple entrega. ¿Cuál es la trampa?
-1512	5spa	Bueno, ya sabes, dicen que es un nigromante, que roba las almas de la gente y que controla ejércitos de muertos vivientes... ese tipo de cosas.
-1513	5spb	Nada que deba preocupar a alguien tan bien armado como tú.
-1514	5spc	¿Qué historias cuentan los lugareños sobre este N'Gasta?
-1515	5w1a	Es un trabajo sencillo. Solo hay que recoger un amuleto de N'Gasta y llevarlo al Palacio del Gobernador.
-1516	5w1b	Si te soy sincero, me está costando encontrar a alguien que quiera hacer el trabajo.
-1517	5w1c	Cuéntame más sobre ese trabajo.
-1518	5w1d	Aunque estoy seguro de que un tipo duro como tú no hace caso a esas tontas supersticiones locales.
-1519	5w2a	¿Te interesa?
-1520	5w2c	Recuérdame los detalles del trabajo para el que me contrataste.
-1521	5xx1	¡Quita tu trasero de ahí!
-1522	5xx2	¡Guarda esa espada, Guardia Rojo! ¡Esto no es un campo de entrenamiento!
-1523	5ysa	¡Excelente! Aquí tienes tus 100 monedas de oro. Tendrás el resto cuando entregues el amuleto al Gobernador.
-1524	5ysb	Eh... estoy seguro de que no tendrás problemas, pero... quizá sea mejor que lo hagas durante el día.
-1525	5ysc	De acuerdo, acepto el trabajo.
-1526	5zz1	¿Has terminado el trabajo, compañero?
+1486	5isa	Lo siento, no la conozco. ¡Solo soy un simple trabajador!
+1487	5isb	Podrías preguntar a Dreekius en el Draggin' Tale. Tarde o temprano, todos en Stros M'Kai pasan por ahí.
+1488	5isc	¿Conoces a mi hermana Iszara? He venido a Stros M'Kai para saber qué le pasó.
+1489	5lga	¡Malditos sean ellos y sus costumbres sangrientas! Han causado más daño a Stros M'Kai que los Antepasados y el Imperio juntos.
+1490	5lgb	Si no fuera por ellos, esta ciudad habría encontrado la paz hace meses.
+1491	5lgc	¿Qué sabes de un grupo de rebeldes llamado la Liga Revoltosa?
+1492	5lra	¡Queman y saquean la mitad de los cargamentos que llegan al puerto! ¡Y hacen que los imperiales respondan con más crueldad cada vez!
+1493	5lrb	La Liga no parece entender que la guerra terminó, y que perdieron.
+1494	5lrc	¿Cómo es que la Liga Revoltosa es responsable de la ruina de Stros M'Kai?
+1495	5lwa	Depende de a quién le preguntes. No sabría decirte.
+1496	5lwb	No soy como esos nobles metidos en política, siempre husmeando en asuntos ajenos... solo soy un simple trabajador.
+1497	5lwc	¿Me estás diciendo que la Liga era aliada de los Corona?
+1498	5lwd	Como dicen, más vale pájaro en mano que ciento volando, ¡ja, ja!
+1499	5nga	Es solo un viejo ermitaño inofensivo. Los más supersticiosos del pueblo cuentan historias raras sobre él, pero yo no creo en esos cuentos.
+1500	5ngb	Vive en la torre del antiguo mago. Solo sigue la costa del noroeste de la isla.
+1502	5noa	Pregunta lo que quieras, Cyrus. No tengo nada que esconder.
+1503	5noc	Lo estoy considerando. Pero antes quisiera hacerte algunas preguntas.
+1504	5oca	Sin duda es mejor que la guerra, amigo. Y seré franco contigo.
+1505	5ocb	Es difícil encontrar trabajadores honestos hoy en día. Los Antepasados prefieren sonreír a trabajar, y los Corona ya no tienen fuerzas para hacerlo.
+1506	5occ	No he estado en Hammerfell desde antes de la guerra. ¿Cómo es la vida bajo el Imperio?
+1507	5p1a	Como te decía, me está costando encontrar quien haga este trabajo, así que aumenté la paga.
+1508	5p1c	¿Cuánto ofreces por este trabajo?
+1509	5p2a	El pago corresponde al riesgo. La Torre de N'Gasta no está exactamente en el camino principal, ¿sabes?
+1510	5p2b	Podrías tener algunos problemas para llegar. Aunque nada que no puedas manejar, estoy seguro.
+1511	5p2c	Es mucho oro para una simple entrega. ¿Cuál es el truco?
+1512	5spa	Bueno, ya sabes, dicen que es un nigromante, que roba almas y controla ejércitos de no muertos... ese tipo de cosas.
+1513	5spb	Nada que deba preocupar a alguien armado como tú.
+1514	5spc	¿Qué cuentan los lugareños sobre este N'Gasta?
+1515	5w1a	Es un trabajo simple. Solo hay que recoger un amuleto de N'Gasta y llevarlo al Palacio del Gobernador.
+1516	5w1b	Para serte franco, me está costando encontrar quien quiera hacer el trabajo.
+1517	5w1c	Háblame más de ese trabajo.
+1518	5w1d	Aunque estoy seguro de que alguien como tú no cree en esas tontas supersticiones locales.
+1519	5w2a	¿Qué me dices?
+1520	5w2c	Recuérdame los detalles del trabajo que me encargaste.
+1521	5xx1	¡Quítate de ahí!
+1522	5xx2	¡Guarda esa espada! ¡Esto no es un campo de entrenamiento!
+1523	5ysa	¡Perfecto! Aquí tienes tus 100 monedas de oro. Recibirás el resto cuando entregues el amuleto al Gobernador.
+1524	5ysb	Eh... seguro que no tendrás problemas, pero... quizá sea mejor que vayas durante el día.
+1525	5ysc	Bien, acepto el trabajo.
+1526	5zz1	¿Ya terminaste el trabajo, compañero?
 1527	5zz2	Hola, amigo.
-1528	6b1c	Ya hablaremos luego.
-1529	6bka	VUELVE DENTRO DE UN RATO. VERÉ LO QUE PUEDO HACER.
-1530	6bkc	Me parece bien. ¿Cuándo estará listo el mapa?
-1531	6bma	Lo siento, no vendo al por menor. Sólo trabajo por encargo. Pero, ¿tal vez pueda hacer un mapa para usted?
-1532	6bmc	¿Tiene mapas a la venta?
-1533	6cva	Esa es la cuestión, ¿no? No las encontrarás en tu mapa comercial barato, ¿verdad? Ese es un verdadero misterio para que reflexiones.
-1534	6cvc	¿Dónde puedo encontrar esas cavernas de las que hablas?
-1535	6dda	¿Ves lo que quiero decir? No son mitos. Reales, tan reales como la piedra y el metal. ¿Quién crees que construyó esas ruinas?
-1536	6ddb	Todos desaparecieron, hace miles de años, y nadie sabe por qué. Pero esa es otra historia. ¿De qué estábamos hablando?
-1537	6ddc	No sé mucho sobre los enanos. Siempre pensé que eran criaturas míticas.
-1538	6dra	Un poco más famosas que las cavernas, pero si no se trata de elfos, a nadie le importa.
-1539	6drb	Uno de los grandes misterios de los tiempos, la desaparición de los Enanos, pero en vez de eso es Frasco de Lillandril esto, Frasco de Lillandril aquello.
-1540	6drc	Cuéntame más sobre estas Ruinas Enanas.
-1541	6eba	Déjame ver... Oh, maldita sea. Otra vez esto. J'ferr [sic] debe haber vendido esta copia anotada de Artefactos Élficos diez veces.
-1542	6ebb	AY siempre acaban aquí... ¿Puedes hacerme un mapa? Dicen. ¿Por qué todo el mundo está tan loco por un tesoro elfo perdido? Lo siento, pero me temo que hoy estoy demasiado ocupado.
-1543	6ebc	Me pregunto si se puede sacar algo de esto. Me parecen anotaciones de un mapa.
-1544	6esa	¡Qué acabo de decir! ¡Fuera! ¡Fuera! ¡Deja de preguntarme por los malditos elfos!
-1545	6esc	¿Dices que el frasco llegó a Stros M'Kai en un barco elfo?
-1546	6exc	Me pregunto si se puede hacer un mapa con este libro. Estoy dispuesto a pagar por el mapa. Con gusto. Sólo di tu precio.
-1547	6fla	¡Los huesos de Hunding, claro que sí! Los buscadores de tesoros vienen aquí desde todo Tamriel, cavando y hurgando interminablemente.
-1548	6flb	Dicen que hay un mapa del tesoro flotando por ahí, pero yo no me lo creo.
-1549	6flc	¿Has oído hablar del Frasco de Lillandril?
-1550	6gma	No me estás escuchando, ¿verdad? ¡Elfos, elfos, elfos! ¿Es lo único que se te ocurre? ¿Qué sabes del Frasco de Lillandril? ¿De verdad el barco de los elfos naufragó en Stros M'Kai?
-1551	6gmb	Si no tiene que ver con elfos, a nadie le interesa. Por mi parte, estoy harto de los elfos y sus misteriosas costumbres. ¡Bah! No me hagas empezar.
-1552	6gmc	Prefiero quedarme con el libro. ¿Puedo pagarte por hacer el mapa?
-1553	6gva	No quiero hablar de estas cosas.
-1554	6gvc	¿Es tan dura la vida bajo el Gobernador Imperial?
-1555	6h1a	¡No! ¡Bah! ¡Tú y tus preciosos elfos! ¡Largo!
-1556	6h1c	Maiko, ¿puedo hablar contigo un minuto?
-1557	6h2a	¡Vete, vete, estoy intentando trabajar! ¿Quieres que lo termine o no?
-1558	6h2c	Maiko, ¿ya está listo mi mapa?
-1559	6h3a	Sí, aquí está. Quienquiera que hiciera estas anotaciones era obviamente un cartógrafo entrenado, probablemente de la escuela de Mandri, a juzgar por las medidas de corrección del error transversal.
-1560	6h3b	Que este mapa le sirva bien, joven señor.
+1528	6b1c	Hablamos luego.
+1529	6bka	VUELVE EN UN RATO. VERÉ QUÉ PUEDO HACER.
+1530	6bkc	Me parece bien. ¿Cuándo tendrás listo el mapa?
+1531	6bma	Lo siento, no vendo al público. Solo trabajo por encargo. Pero podría hacerte un mapa si quieres.
+1532	6bmc	¿Vendes mapas?
+1533	6cva	Esa es la cuestión, ¿no? No las encontrarás en esos mapas baratos del mercado. Es todo un misterio para pensar.
+1534	6cvc	¿Dónde están esas cavernas de las que hablas?
+1535	6dda	¿Ves a lo que me refiero? No son mitos. Son reales, tan reales como la piedra y el metal. ¿Quién crees que construyó estas ruinas?
+1536	6ddb	Desaparecieron todos hace miles de años, y nadie sabe por qué. Pero esa es otra historia. ¿De qué hablábamos?
+1537	6ddc	No sé mucho de los enanos. Siempre creí que eran seres de leyenda.
+1538	6dra	Son más famosas que las cavernas, pero si no son elfos, a nadie le importa.
+1539	6drb	La desaparición de los Enanos es uno de los grandes misterios de la historia, pero todo el mundo solo habla del Frasco de Lillandril por aquí y por allá.
+1540	6drc	Cuéntame más sobre las Ruinas Enanas.
+1541	6eba	Déjame ver... Ah, maldita sea. Otra vez esto. J'ferr debe haber vendido esta copia anotada de Artefactos Élficos diez veces.
+1542	6ebb	Y siempre acaban aquí... "¿Puedes hacerme un mapa?", dicen. ¿Por qué todos están tan obsesionados con un tesoro élfico perdido? Lo siento, pero hoy estoy muy ocupado.
+1543	6ebc	Creo que se puede sacar algo de esto. Parecen anotaciones de un mapa.
+1544	6esa	¡¿Qué acabo de decir?! ¡Fuera! ¡Fuera! ¡Deja de preguntarme por los malditos elfos!
+1545	6esc	¿Dices que el frasco llegó a Stros M'Kai en una nave élfica?
+1546	6exc	¿Se podría hacer un mapa con este libro? Pagaré lo que sea por el mapa. Lo que pidas.
+1547	6fla	¡Por los huesos de Hunding, claro que sí! Los buscadores de tesoros vienen desde todo Tamriel, excavando sin parar.
+1548	6flb	Dicen que existe un mapa del tesoro por ahí, pero no lo creo.
+1549	6flc	¿Has oído del Frasco de Lillandril?
+1550	6gma	No me estás escuchando, ¿verdad? ¡Elfos, elfos, elfos! ¿Es lo único que te importa? ¿Qué sabes del Frasco de Lillandril? ¿En serio naufragó un barco élfico en Stros M'Kai?
+1551	6gmb	Si no es sobre elfos, a nadie le importa. Yo ya estoy harto de los elfos y sus misteriosas costumbres. ¡Bah! Ni me hagas empezar.
+1552	6gmc	Me quedo con el libro. ¿Puedo pagarte por hacer el mapa?
+1553	6gva	No quiero hablar de eso.
+1554	6gvc	¿Es tan difícil la vida bajo el Gobernador Imperial?
+1555	6h1a	¡No! ¡Bah! ¡Tú y tus queridos elfos! ¡Fuera!
+1556	6h1c	Maiko, ¿podemos hablar un momento?
+1557	6h2a	¡Vete, vete, estoy trabajando! ¿Quieres que lo termine o no?
+1558	6h2c	Maiko, ¿ya está mi mapa?
+1559	6h3a	Sí, aquí lo tienes. Quien hizo estas anotaciones era sin duda un cartógrafo experto, probablemente de la escuela de Mandri, por las medidas de corrección del error transversal.
+1560	6h3b	Que este mapa te sea útil, joven.
 1561	6h3c	MAIKO, ¿YA ESTÁ LISTO MI MAPA?
-1562	6h4a	No hay muchos jóvenes por aquí estos días, especialmente no tan bien hablados como tú. Soy Maiko, la cartógrafa local. ¿En qué puedo ayudarte?
-1563	6h4c	Buenos días. Soy Cyrus.
-1564	6h5a	Hola, Cyrus. Algo que pueda hacer por ti.
-1565	6h5c	hola, MAIKO.
-1566	6isa	Me temo que no. Últimamente no conozco a muchos jóvenes de la ciudad. Prefiero pasar el tiempo con mis mapas.
-1567	6isc	¿Conoce a una joven llamada Iszara?
-1568	6iwa	¡CIRUS! POR FAVOR, ¡NO LA HE VISTO! PUEDE QUE TENGA OTROS CONTACTOS POR AQUI, PERO NO SE NADA DE ESO. INTENTO NO HACER PREGUNTAS. POR FAVOR, DEJADME CON MIS MAPAS.
-1569	6iwc	Mariah me dijo que vio a Iszara dirigiéndose hacia aquí. No pongas a prueba mi paciencia. ¿¡Qué sabes tú!?
-1570	6lga	Hmm... ¿La alianza entre Daggerfall, Wayrest y Balfiera contra los Cyrodiils durante la Primera Era? No, no, esa era la Liga Inquieta... Lo siento, no estoy familiarizado con ella.
+1562	6h4a	No hay muchos jóvenes por aquí últimamente, y menos tan educados como tú. Soy Maiko, la cartógrafa local. ¿En qué puedo ayudarte?
+1563	6h4c	Buenos días. Me llamo Cyrus.
+1564	6h5a	Hola, Cyrus. ¿Qué puedo hacer por ti?
+1565	6h5c	Hola, MAIKO.
+1566	6isa	Me temo que no. Últimamente no trato con muchos jóvenes de la ciudad. Prefiero dedicarme a mis mapas.
+1567	6isc	¿Conoces a una joven llamada Iszara?
+1568	6iwa	¡CYRUS! ¡POR FAVOR, NO LA HE VISTO! QUIZÁ TENGA OTROS CONTACTOS POR AQUÍ, PERO NO SÉ NADA DE ESO. TRATO DE NO HACER PREGUNTAS. POR FAVOR, DÉJAME CON MIS MAPAS.
+1569	6iwc	Mariah me dijo que vio a Iszara venir aquí. No agotes mi paciencia. ¡¿Qué sabes?!
+1570	6lga	Hmm... ¿La alianza entre Daggerfall, Wayrest y Balfiera contra los Cyrodiils en la Primera Era? No, no, esa era la Liga Inquieta... Lo siento, no la conozco.
 1571	6lgc	¿Me pregunto si has oído hablar de la Liga Revoltosa?
 1572	6lla	Nunca lo dijeron. Tal vez deberías bajar y preguntarles tú mismo.
 1573	6llc	Estos muchachos locales ... ¿Tienen nombres?
