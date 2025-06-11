@@ -142,10 +142,10 @@
 180	$142	Saban, la madre de Hayle, no puede completar el ritual funerario del niño asesinado porque debe proteger su espíritu de la trampa de almas de N'gasta. Avik me ha explicado que esta trampa envía el espíritu del difunto directamente a N'gasta, a menos que el cuerpo sea enterrado en tierra consagrada.
 181	$bel	EXAMINAR LA CAMPANA
 182	$but	ALUMBRAR AL TROLL CON LA ANTORCHA
-183	$can	VELA DE PRUEBA QUE CAE
-184	$ct1	INSERTA LA RUNA EN LA MUESCA
-185	$ct2	QUITAR RUNA DE LA MUESCA
-186	$ct3	RECOGER LA RUNA
+183	$can	DEJAR CAER LA VELA DE PRUEBA
+184	$ct1	INSERTAR LA RUNA EN LA MUESCA
+185	$ct2	EXTRAER LA RUNA DE LA MUESCA
+186	$ct3	TOMAR LA RUNA
 187	$ct4	EXAMINAR EL BLOQUE SUELTO
 188	$ct5	AFLOJAR EL BLOQUE CON LA LLAVE
 189	$ctd	GIRE EL DIAL
@@ -200,55 +200,55 @@
 238	$etp	ENTRAR EN EL TEMPLO DE ARKAY
 239	$ewh	ENTRAR EN EL ALMACÉN
 240	$exb	SALIR DEL CAMPANARIO
-241	$exc	SALIr DEL CARTÓGRAFO
+241	$exc	SALIR DEL CARTÓGRAFO
 242	$exd	SALIR DE LA VIVIENDA
 243	$exe	SALIR DEL TEMPLO
-244	$exf	SALIR de J'FFER'S
-245	$exg	SALIR DE GERRICK'S
-246	$exh	SALIr de la TORRE DEL PUERTO
+244	$exf	SALIR DE LA TIENDA DE J'FFER
+245	$exg	SALIR DE LA TIENDA DE GERRICK
+246	$exh	SALIR DE LA TORRE DEL PUERTO
 247	$exj	SALIR DE LA CÁRCEL
-248	$exn	SALIr DE LA TORRE DE N'GASTA
-249	$exo	SALIr DEL OBSERVATORIO
+248	$exn	SALIR DE LA TORRE DE N'GASTA
+249	$exo	SALIR DEL OBSERVATORIO
 250	$exp	SALIR DEL PALACIO
-251	$exr	salir del DRAGGIN TALE
+251	$exr	SALIR DEL DRAGGIN' TALE
 252	$exs	SALIR DEL ALMACÉN
-253	$ext	SALIR de la catatumbas
-254	$exv	SALIr DE la PLATERÍA
-255	$fba	LLENAR LA BOTELLA DE VIDRIO CON LA MEZCLA DE AGUA Y ALOE
-256	$fbw	LLENAR LA BOTELLA DE VIDRIO CON AGUA
-257	$fbx	MEZCLAR ALOE EN AGUA
+253	$ext	SALIR DE LAS CATACUMBAS
+254	$exv	SALIR DE LA PLATERÍA
+255	$fba	LLENAR LA BOTELLA CON LA MEZCLA DE AGUA Y ÁLOE
+256	$fbw	LLENAR LA BOTELLA CON AGUA
+257	$fbx	MEZCLAR ÁLOE CON AGUA
 258	$fby	LLENAR EL CUBO CON AGUA
-259	$fl1	Sacar el frasco
+259	$fl1	SACAR EL FRASCO
 260	$gc1	RECOGER LA ROCA
 261	$gc2	COLOCAR LA ROCA
 262	$gsg	OBTENER LA GEMA DEL ALMA
-263	$gwa	OBTENER LA MEZCLA DE AGUA Y ALOE
+263	$gwa	OBTENER LA MEZCLA DE AGUA Y ÁLOE
 264	$gwt	OBTENER AGUA
 265	$hi1	USAR SANGRE EN LA CERRADURA DEL DIARIO
 266	$hi2	UTILIZAR LA LLAVE EN LA CERRADURA DEL DIARIO
 267	$ing	INSERTAR ENGRANAJE
 268	$kod	LLAMAR A LA PUERTA
-269	$lh2	mirar la pila funeraria
-270	$lhl	Prender pira funeraria
-271	$lkh	MIRA EL OJO DE LA CERRADURA
+269	$lh2	MIRAR LA PILA FUNERARIA
+270	$lhl	PRENDER PIRA FUNERARIA
+271	$lkh	MIRAR EL OJO DE LA CERRADURA
 272	$ltt	MIRAR A TRAVÉS DEL TELESCOPIO
 273	$mg1	SALIR DEL GREMIO DE MAGOS
 274	$mg2	DESBLOQUEAR LA PUERTA
-275	$mg3	EXAMINAR cofre
+275	$mg3	EXAMINAR COFRE
 276	$mg4	MIRAR EN LA PISCINA
-277	$mg5	MIRA EL LIBRO
+277	$mg5	MIRAR EL LIBRO
 278	$ms1	LEER EL CARTEL
-279	$nl1	Tirar de la palanca
-280	$nb1	COGER la PALANCA
-281	$ng1	FORZAR PORTÓN
-282	$ng2	abrir puerta
-283	$ntb	MIRA LA MESA
+279	$nl1	TIRAR DE LA PALANCA
+280	$nb1	COGER LA PALANCA
+281	$ng1	FORZAR EL PORTÓN
+282	$ng2	ABRIR LA PUERTA
+283	$ntb	EXAMINAR LA MESA
 284	$nw1	GIRAR LA RUEDA
-285	$ne1	MIRA EL CALDERO
+285	$ne1	EXAMINAR EL CALDERO
 286	$ne2	LLENAR EL VIAL CON ELIXIR
-287	$nv1	RECOGER VIAL
+287	$nv1	RECOGER EL VIAL
 288	$np1	VERTER EL ELIXIR EN EL POZO
-289	$ns1	MIRAR EN LA ESTANTERIA
+289	$ns1	EXAMINAR LA ESTANTERÍA
 290	$ob1	EXAMINAR LA RANURA
 291	$odr	ABRIR LA PUERTA
 292	$ofa	OFERTA AMULETO
@@ -256,15 +256,15 @@
 294	$ofc	OFERTA BRÚJULA
 295	$ofe	OFRECER ECTOPLASMA
 296	$off	OFERTA PLUMA
-297	$ofg	Ofrece oro
-298	$ofh	oferta salvia de HIST
-299	$ofk	ofertar llave
-300	$ofr	ANILLO DE OFERTA
+297	$ofg	OFRECER ORO
+298	$ofh	OFRECER SAVIA DE HIST
+299	$ofk	OFRECER LLAVE
+300	$ofr	OFRECER ANILLO
 301	$ofo	OFRECER SANGRE DE ORCO
-302	$ofp	OFERTA POCIÓN
+302	$ofp	OFRECER POCIÓN
 303	$ofs	OFRECER LECHE DE ARAÑA
-304	$oft	OFERTA ANTORCHA
-305	$opc	abrir cofre
+304	$oft	OFRECER ANTORCHA
+305	$opc	ABRIR EL COFRE
 306	$ow1	GIRAR LA RUEDA
 307	$pab	PAGAR AL BARQUERO
 308	$pbr	TIRAR DE LA CUERDA DE LA CAMPANA
@@ -278,27 +278,27 @@
 316	$pgb	RECOGER BOTELLA DE VIDRIO
 317	$pgm	RECOGER MONÓCULO DE CRISTAL
 318	$pgo	RECOGER EL ORO
-319	$pgp	RECOGER 300 monedas DE ORO
-320	$phs	RECOGER HIST SAVIA
+319	$pgp	RECOGER 300 MONEDAS DE ORO
+320	$phs	RECOGER SAVIA DE HIST
 321	$pi1	MOVER EL CARRO
 322	$pob	RECOGER LA SANGRE DEL ORCO
 323	$poe	RECOGER EQUIPOS
 324	$pof	APAGAR EL FUEGO
 325	$pop	RECOGER BOLSA
 326	$ppe	GOTEAR MEZCLA DE ECTOPLASMA SOBRE EL SÍMBOLO
-327	$pph	GOTEAR LA MEZCLA DE HIST SAVIA SOBRE EL SÍMBOLO
+327	$pph	GOTEAR LA MEZCLA DE SAVIA DE HIST SOBRE EL SÍMBOLO
 328	$ppo	GOTEAR LA MEZCLA DE SANGRE DE ORCO SOBRE EL SÍMBOLO
 329	$pps	GOTEAR LA MEZCLA DE LECHE DE ARAÑA SOBRE EL SÍMBOLO
 330	$puh	RECOGER LA POCIÓN DE SALUD
 331	$pui	RECOGER POCIÓN DE PIEL DE HIERRO
 332	$pus	RECOGER LA POCIÓN DE FUERZA
-333	$put	RECOGER la ANTORCHA
+333	$put	RECOGER LA ANTORCHA
 334	$psl	RECOGER EL MEDALLÓN DE PLATA
 335	$pss	RECOGER EL BARCO DE PLATA
 336	$psm	RECOGER LA LECHE DE ARAÑA
 337	$pth	RECOGER EL TALISMÁN DE HUNDING
-338	$sb1	examinar cuerpo
-339	$sb2	examinar cuerpo
+338	$sb1	EXAMINAR CUERPO
+339	$sb2	EXAMINAR CUERPO
 340	$sou	SUBLIMAR SANGRE DE ORCO CON CUERNO DE UNICORNIO
 341	$sod	SUBLIMAR LA SANGRE DE ORCO CON EL CORAZÓN DE DEADRA
 342	$sos	SUBLIMAR LA SANGRE DE ORCO CON SALAMANDRA
@@ -315,7 +315,7 @@
 353	$ssh	SUBLIMAR LA LECHE DE ARAÑA CON PELO DE SANTO
 354	$ssp	SUBLIMAR LECHE DE ARAÑA CON SACO DE CERDO
 355	$ssl	SUBLIMAR LA LECHE DE ARAÑA CON POLVO DE LICHE
-356	$seu	sublimar el ecotoplasma con cuernos de unicornio
+356	$seu	SUBLIMAR EL ECTOPLASMA CON CUERNO DE UNICORNIO
 357	$sed	SUBLIMAR EL ECTOPLASMA CON EL CORAZÓN DE DEADRA
 358	$ses	SUBLIMAR ECTOPLASMA CON SALAMANDRA
 359	$sea	SUBLIMAR EL ECTOPLASMA CON ÁMBAR
@@ -323,60 +323,60 @@
 361	$seh	SUBLIMAR EL ECTOPLASMA CON CABELLOS DE SANTO
 362	$sep	SUBLIMAR ECTOPLASMA CON SACO DE CERDO
 363	$sel	SUBLIMAR ECTOPLASMA CON POLVO DE LICH
-364	$shu	SUBLIMAR HIST SAVIA CON CUERNO DE UNICORNIO
-365	$shd	SUBLIMA HIST SAVIA CON CORAZÓN DE DEADRA
-366	$shs	SUBLIMAR HIST SAVIA CON SALAMANDRA
-367	$sha	SUBLIMAR HIST SAVIA CON ÁMBAR
-368	$she	SUBLIMAR HIST SAVIA CON SPRIGGAN'S orejas
-369	$shh	SUBLIMA HIST SAVIA CON PELO DE SANTO
-370	$shp	sublima HIST SAP CON SAC DE PUERCO
-371	$shl	SUBLIMAR LA SAVIA HIST CON POLVO DE LICH
-372	$tac	HABLAR CON ARCHIMAGO
-373	$tav	CONSEJO AVIK
-374	$tba	HABLA CON BASIL
+364	$shu	SUBLIMAR SAVIA DE HIST CON CUERNO DE UNICORNIO
+365	$shd	SUBLIMA SAVIA DE HIST CON CORAZÓN DE DEADRA
+366	$shs	SUBLIMAR SAVIA DE HIST CON SALAMANDRA
+367	$sha	SUBLIMAR SAVIA DE HIST CON ÁMBAR
+368	$she	SUBLIMAR SAVIA DE HIST CON OREJAS DE SPRIGGAN
+369	$shh	SUBLIMA SAVIA DE HIST CON PELO DE SANTO
+370	$shp	SUBLIMAR SAVIA DE HIST CON SACO DE CERDO
+371	$shl	SUBLIMAR SAVIA DE HIST CON POLVO DE LICH
+372	$tac	HABLAR CON EL ARCHIMAGO
+373	$tav	HABLAR CON AVIK
+374	$tba	HABLAR CON BASIL
 375	$tbm	HABLAR CON EL BARQUERO
-376	$tb0	HABLA CON EL NIÑO
-377	$tbu	HABLAR CON Todd Howard
-378	$tma	hablar con HOMBRE
-379	$tr1	EXAMINAR TROLL
-380	$tr2	QUEMAR TROLL
+376	$tb0	HABLAR CON EL NIÑO
+377	$tbu	HABLAR CON TODD HOWARD
+378	$tma	HABLAR CON EL HOMBRE
+379	$tr1	EXAMINAR AL TROLL
+380	$tr2	QUEMAR AL TROLL
 382	$tsc	ENCANTADOR DE SERPIENTES
-384	$tt0	hablar con loro
-385	$tt1	hablar con FAVIS
-386	$tt2	hablar con N'GASTA
-387	$tt3	hablar con SABAN
-388	$tt4	hablar con JAGANVIR
-389	$tt5	hablar con KOTARO
-390	$tt6	hablar con MAIKO
-391	$tt8	hablar con CLAVICUS VILE
-392	$tt9	hablar con PRISIONERO
+384	$tt0	HABLAR CON EL LORO
+385	$tt1	HABLAR CON FAVIS
+386	$tt2	HABLAR CON N'GASTA
+387	$tt3	HABLAR CON SABAN
+388	$tt4	HABLAR CON JAGANVIR
+389	$tt5	HABLAR CON KOTARO
+390	$tt6	HABLAR CON MAIKO
+391	$tt8	HABLAR CON CLAVICUS VILE
+392	$tt9	HABLAR CON EL PRISIONERO
 393	$tta	HABLAR CON EL ENCANTADOR DE SERPIENTES
-394	$ttb	hablar con BRENNAN
-395	$ttd	hablar con DREEKIUS
-396	$tte	hablar con ERASMO
-397	$ttf	hablar con FALICIA
-398	$ttg	hablar con GERRICK
-399	$tth	hablar con Trithik
-400	$tti	hablar con ISZARA
-401	$ttj	hablar con J'FFER
-402	$ttk	hablar con  KRISANDRA
-403	$ttl	hablar con LAKENE
-404	$ttm	hablar con MARIAH
-405	$ttn	hablar con NIDAL
-406	$tto	hablar con COYLE
-407	$ttp	hablar con PRNELL
+394	$ttb	HABLAR CON BRENNAN
+395	$ttd	HABLAR CON DREEKIUS
+396	$tte	HABLAR CON ERASMO
+397	$ttf	HABLAR CON FALICIA
+398	$ttg	HABLAR CON GERRICK
+399	$tth	HABLAR CON TRITHIK
+400	$tti	HABLAR CON ISZARA
+401	$ttj	HABLAR CON J'FFER
+402	$ttk	HABLAR CON KRISANDRA
+403	$ttl	HABLAR CON LAKENE
+404	$ttm	HABLAR CON MARIAH
+405	$ttn	HABLAR CON NIDAL
+406	$tto	HABLAR CON COYLE
+407	$ttp	HABLAR CON PRNELL
 408	$ttq	HABLAR CON TIRBINWELL
 409	$tts	HABLAR CON SIONA
 410	$ttt	HABLAR CON TOBIAS
-411	$ttu	hablar URIK
-412	$ttv	hablar con VANDER
+411	$ttu	HABLAR CON URIK
+412	$ttv	HABLAR CON VANDER
 413	$ttw	HABLAR CON LA MUJER
 414	$ttx	HABLAR CON CRENDAL
-415	$tty	HABLA CON YAELI
-416	$ttz	HABLE CON EL GUARDIA
+415	$tty	HABLAR CON YAELI
+416	$ttz	HABLAR CON EL GUARDIA
 417	$twb	HABLAR CON EL CAMARERO
-418	$twe	HABLAR CON elfo
-419	$twk	HABLAR CON KHAJIIT
+418	$twe	HABLAR CON EL ELFO
+419	$twk	HABLAR CON EL KHAJIIT
 420	$tww	HABLAR CON EL GUSANO MUTANTE
 421	$twr	HABLAR CON EL PERGAMINO
 422	$vs1	HABLAR CON CLAVICUS VILE
@@ -391,12 +391,12 @@
 431	$xsh	EXAMINAR EL CABELLO DEL SANTO
 432	$xsl	EXAMINAR LA SALAMANDRA
 433	$xuh	EXAMINAR EL CUERNO DE UNICORNIO
-434	?3ac	No tengo mucho tiempo.
-435	?3bc	Ve al grano.
-436	?3cc	Sé más específico.
+434	?3ac	NO TENGO MUCHO TIEMPO.
+435	?3bc	VE AL GRANO.
+436	?3cc	SÉ MÁS ESPECÍFICO.
 437	?4ac	VAMOS, SÉ DEPORTIVO.
-438	?4bc	Tus gritos me molestan.
-439	?4cc	Por los dioses, qué confusión.
+438	?4bc	TUS GRITOS ME MOLestAN.
+439	?4cc	POR LOS DIoses, QUÉ CONFUSIÓN.
 440	?acc	ACUSACIÓN DE TRAICIÓN
 441	?ais	ISZARA DESAMPARADA
 442	?alc	ALQUIMISTA
@@ -895,7 +895,7 @@
 987	0g2a	¡>>SQUAWK<<! ¡HERMANA DICE! ¡>>SQUAWK<<! ¡LINDO PÁJARO FUERA FUERA!
 988	0g3a	¡ISZARA HERMOSA >>SQUAWK<< FUERA FUERA!
 989	0g4a	¡>>SQUAWK<<! ¡ROLLO GORDO Y PEREZOSO MIER--!
-990	0g5a	¡SIEMPRE UN MAPA! ¡>>SQUAWK<<>!
+990	0g5a	¡SIEMPRE UN MAPA! ¡>>SQUAWK!>>
 991	0g6a	¡CY<<SQUAWK!>>rus Cyrus bolsa de oro podrida!
 993	0g8a	¡Pobre belleza! ¡>>SQUAWK<<>!
 994	0g9a	¡>>SSSSQUAWKKK<< Sé cosas que tú no sabes! ¡>>SQUAWK<<! ¡SABE MÁS!
@@ -1398,54 +1398,54 @@
 1553	6gva	No quiero hablar de estas cosas.
 1554	6gvc	¿Es tan dura la vida bajo el Gobernador Imperial?
 1555	6h1a	¡No! ¡Bah! ¡Tú y tus preciosos elfos! ¡Largo!
-1556	6h1c	Maiko, ¿puedo hablar contigo un minuto?
-1557	6h2a	¡Vete, vete, estoy intentando trabajar! ¿Quieres que lo termine o no?
-1558	6h2c	Maiko, ¿ya está listo mi mapa?
-1559	6h3a	Sí, aquí está. Quienquiera que hiciera estas anotaciones era obviamente un cartógrafo entrenado, probablemente de la escuela de Mandri, a juzgar por las medidas de corrección del error transversal.
-1560	6h3b	Que este mapa le sirva bien, joven señor.
+1556	6h1c	MAIKO, ¿PUEDO HABLAR CONTIGO UN MINUTO?
+1557	6h2a	¡VETE, VETE, ESTOY INTENTANDO TRABAJAR! ¿QUIERES QUE LO TERMINE O NO?
+1558	6h2c	MAIKO, ¿YA ESTÁ LISTO MI MAPA?
+1559	6h3a	SÍ, AQUÍ ESTÁ. QUIENQUIERA QUE HICIERA ESTAS ANOTACIONES ERA OBVIAMENTE UN CARTOGRAFO ENTRENADO, PROBABLEMENTE DE LA ESCUELA DE MANDRI, A JUZGAR POR LAS MEDIDAS DE CORRECCIÓN DEL ERROR TRANSVERSAL.
+1560	6h3b	QUE ESTE MAPA LE SIRVA BIEN, JÓVEN SEÑOR.
 1561	6h3c	MAIKO, ¿YA ESTÁ LISTO MI MAPA?
-1562	6h4a	No hay muchos jóvenes por aquí estos días, especialmente no tan bien hablados como tú. Soy Maiko, la cartógrafa local. ¿En qué puedo ayudarte?
-1563	6h4c	Buenos días. Soy Cyrus.
-1564	6h5a	Hola, Cyrus. Algo que pueda hacer por ti.
-1565	6h5c	hola, MAIKO.
-1566	6isa	Me temo que no. Últimamente no conozco a muchos jóvenes de la ciudad. Prefiero pasar el tiempo con mis mapas.
-1567	6isc	¿Conoce a una joven llamada Iszara?
-1568	6iwa	¡CIRUS! POR FAVOR, ¡NO LA HE VISTO! PUEDE QUE TENGA OTROS CONTACTOS POR AQUI, PERO NO SE NADA DE ESO. INTENTO NO HACER PREGUNTAS. POR FAVOR, DEJADME CON MIS MAPAS.
-1569	6iwc	Mariah me dijo que vio a Iszara dirigiéndose hacia aquí. No pongas a prueba mi paciencia. ¿¡Qué sabes tú!?
-1570	6lga	Hmm... ¿La alianza entre Daggerfall, Wayrest y Balfiera contra los Cyrodiils durante la Primera Era? No, no, esa era la Liga Inquieta... Lo siento, no estoy familiarizado con ella.
-1571	6lgc	¿Me pregunto si has oído hablar de la Liga Revoltosa?
-1572	6lla	Nunca lo dijeron. Tal vez deberías bajar y preguntarles tú mismo.
-1573	6llc	Estos muchachos locales ... ¿Tienen nombres?
-1574	6msa	Los mapas son como las personas, ¿lo sabías Cyrus? Hay mapas buenos, malos e indiferentes.
-1575	6msb	No deberías confiar en la mayoría de los mapas, te llevarán por mal camino si les das una oportunidad. Un mapa honesto es más raro que un amigo verdadero, recuérdalo, joven señor.
-1576	6msc	¿Qué te dicen tus mapas?
-1577	6mya	Bueno, las cavernas, por ejemplo. No has oído hablar de ellas, ¿verdad? Ni tampoco de las Ruinas Enanas.
-1578	6myb	Pero son reales, joven señor, y tan llenas de misterio y aventura como se podría pedir.
-1579	6myc	¿A QUÉ SE REFIERE?
-1580	6nea	«Bueno... no importa. No es culpa tuya. Me estoy volviendo un poco gruñón en mi vejez, supongo.
+1562	6h4a	NO HAY MUCHOS JÓVENES POR AQUÍ ESTOS DÍAS, ESPECIALMENTE NO TAN BIEN HABLADOS COMO TÚ. SOY MAIKO, LA CARTOGRAFA LOCAL. ¿EN QUÉ PUEDO AYUDARTE?
+1563	6h4c	BUENOS DÍAS. SOY CYRUS.
+1564	6h5a	HOLA, CYRUS. ALGO QUE PUEDA HACER POR TI.
+1565	6h5c	HOLA, MAIKO.
+1566	6isa	ME TEMO QUE NO. ÚLTIMAMENTE NO CONOZCO A MUCHOS JÓVENES DE LA CIUDAD. PREFiero PASAR EL TIEMPO CON MIS MAPAS.
+1567	6isc	¿CONOCES A UNA JOVEN LLAMADA ISZARA?
+1568	6iwa	¡CYRUS! POR FAVOR, ¡NO LA HE VISTO! PUEDE QUE TENGA OTROS CONTACTOS POR AQUI, PERO NO SE NADA DE ESO. INTENTO NO HACER PREGUNTAS. POR FAVOR, DEJADME CON MIS MAPAS.
+1569	6iwc	MARIAH ME DIJO QUE VIO A ISZARA DIRIGIÉNDOSE HACIA AQUÍ. NO PONGAS A PRUEBA MI PACIENCIA. ¿¡QUÉ SABES TÚ!?
+1570	6lga	HMM... ¿LA ALIANZA ENTRE DAGGERFALL, WAYREST Y BALFIERA CONTRA LOS CYRODIILS DURANTE LA PRIMERA ERA? NO, NO, ESA ERA LA LIGA INQUIETA... LO SIENTO, NO ESTOY FAMILIARIZADO CON ELLA.
+1571	6lgc	¿ME PREGUNTO SI HAS OÍDO HABLAR DE LA LIGA REVOLTOSA?
+1572	6lla	NUNCA LO DIJERON. TAL VEZ DEBERÍAS BAJAR Y PREGUNTARLES TÚ MISMO.
+1573	6llc	ESTOS MUCHACHOS LOCALES ... ¿TIENEN NOMBRES?
+1574	6msa	LOS MAPAS SON COMO LAS PERSONAS, ¿LO SABÍAS CYRUS? HAY MAPAS BUENOS, MALOS E INDIFERENTES.
+1575	6msb	NO DEBERÍAS CONFIAR EN LA MAYORÍA DE LOS MAPAS, TE LLEVARÁN POR MAL CAMINO SI LES DAS UNA OPORTUNIDAD. UN MAPA HONESTO ES MÁS RARO QUE UN AMIGO VERDADERO, RECUÉRDALO, JÓVEN SEÑOR.
+1576	6msc	¿QUÉ TE DICEN TUS MAPAS?
+1577	6mya	BUENO, LAS CAVERNAS, POR EJEMPLO. NO HAS OÍDO HABLAR DE ELLAS, ¿VERDAD? NI TAMPOCO DE LAS RUINAS ENANAS.
+1578	6myb	PERO SON REALES, JÓVEN SEÑOR, Y TAN LLENAS DE MISTERIO Y AVENTURA COMO SE PODRÍA PEDIR.
+1579	6myc	¿A QUÉ TE REFIERES?
+1580	6nea	«BUENO... NO IMPORTA. NO ES CULPA TUYA. ME ESTOY VOLVIENDO UN POCO GRUÑÓN EN MI VEJEZ, SUPONGO.
 1581	6nec	Siento haberte molestado.
-1582	6nma	¡Gracias Arkay! A veces pienso que si oigo una palabra más sobre elfos ¡me volveré loco! No es que no haya muchos otros misterios interesantes alrededor de Stros M'Kai.
-1583	6nmc	Muy bien.
-1584	6noa	VMuy bien. Por favor, hágamelo saber si puedo ayudarle en algo.
-1585	6noc	NO, Gracias.
-1586	6nya	Persistente, ¿eh? Escucha, si me das el libro, lo haré para ti. Una última vez, gratis. Al menos así no tendré que volver a verlo.
-1587	6nyc	Estoy dispuesto a pagar por el mapa. Con mucho gusto. Sólo di tu precio.
-1588	6s2a	De los ojos del Gobernador, principalmente. Intento no involucrarme en todos esos problemas. He visto más que suficiente sufrimiento en mi vida. Sólo quiero pasar mis últimos días trabajando con mis mapas.
-1589	6s2c	¿De qué habla la gente por la ciudad estos días?
-1590	6sda	¿En serio? ¿Qué te parece? Alquilo el piso de abajo a unos chicos de la zona. Son tranquilos y siempre pagan puntualmente. No creo que hagan nada ilegal.
-1591	6sdc	He oído decir que tu sótano se usa como guarida de contrabandistas.
-1592	6sma	Solía hacerlos, pero no puedo competir con las grandes casas de cartografía de Hammerfell. Contratan a mendigos y vagabundos para copiar un mapa maestro.
-1593	6smb	Probablemente has visto sus mapas baratos de ciudades por ahí. No hay nada como un buen mapa dibujado a mano, pero parece que a la gente ya no le importa la artesanía.
-1594	6smc	Me vendría bien un mapa de la isla. 
-1595	6tma	Si hubiera un mapa real, ¿por qué nadie ha encontrado ya el frasco?
-1596	6tmb	Qué pérdida de tiempo y esfuerzo, ansiando un mítico frasco élfico, cuando la isla está llena de verdaderos misterios.
-1597	6tmc	¿Por qué no?
-1598	6zz1	Si?
-1599	6zz2	¿Y bien?
-1600	6zz3	Habla más alto. Tengo trabajo que hacer.
-1601	6zz4	Nada de armas aquí. Guárdala.
-1602	6zz5	¡Baja de ahí! ¿Qué te pasa?
-1603	710c	REZAD, DESENFUNDAD, CHICOS.
+1582	6nma	¡GRACIAS ARKAY! A VECES PIENSO QUE SI OIGO UNA PALABRA MÁS SOBRE ELFOS ¡ME VOLVERÉ LOCO! NO ES QUE NO HAYA MUCHOS OTROS MISTERIOS INTERESANTES ALREDEDOR DE STROS M'KAI.
+1583	6nmc	MUY BIEN.
+1584	6noa	VMUY BIEN. POR FAVOR, HÁGAMELO SABER SI PUEDO AYUDARTE EN ALGO.
+1585	6noc	NO, GRACIAS.
+1586	6nya	PERSISTENTE, ¿EH? ESCUCHA, SI ME DAS EL LIBRO, LO HARÉ PARA TI. UNA ÚLTIMA VEZ, GRATIS. AL MENOS ASÍ NO TENDRÉ QUE VOLVER A VERLO.
+1587	6nyc	ESTOY DISPUESTO A PAGAR POR EL MAPA. CON MUCHO GUSTO. SOLO DI TU PRECIO.
+1588	6s2a	DE LOS OJOS DEL GOBERNADOR, PRINCIPALMENTE. INTENTO NO INVOLUCRARME EN TODOS ESOS PROBLEMAS. HE VISTO MUCHO SUFRIMIENTO EN MI VIDA. SOLO QUIERO PASAR MIS ÚLTIMOS DÍAS TRABAJANDO CON MIS MAPAS.
+1589	6s2c	¿DE QUÉ HABLA LA GENTE POR LA CIUDAD ESTOS DÍAS?
+1590	6sda	¿EN SERIO? ¿QUÉ TE PARECE? ALQUILo EL PISO DE ABAJO A UNOS CHICOS DE LA ZONA. SON TRANQUILOS Y SIEMPRE PAGAN PUNTUALMENTE. NO CREO QUE HAGAN NADA ILEGAL.
+1591	6sdc	HE OÍDO DECIR QUE TU SÓTANO SE USA COMO GUARIDA DE CONTRABANDISTAS.
+1592	6sma	SOLÍA HACERLOS, PERO NO PUEDO COMPETIR CON LAS GRANDES CASAS DE CARTOGRAFÍA DE HAMMERFELL. CONTRATAN A MENDIGOS Y VAGABUNDOS PARA COPIAR UN MAPA MAESTRO.
+1593	6smb	PROBABLEMENTE HAYAS VISTO SUS MAPAS BARATOS DE CIUDADES POR AHÍ. NO HAY NADA COMO UN BUEN MAPA DIBUJADO A MANO, PERO PARECE QUE A LA GENTE YA NO LE IMPORTA LA ARTESANÍA.
+1594	6smc	ME VENDRÍA BIEN UN MAPA DE LA ISLA. 
+1595	6tma	SI HUBIERA UN MAPA REAL, ¿POR QUÉ NADIE HA ENCONTRADO YA EL FRASCO?
+1596	6tmb	QUÉ PÉRDIDA DE TIEMPO Y ESFUERZO, ANSIANDO UN MÍTICO FRASCO ÉLFICO, CUANDO LA ISLA ESTÁ LLENA DE VERDADEROS MISTERIOS.
+1597	6tmc	¿POR QUÉ NO?
+1598	6zz1	SI?
+1599	6zz2	¿Y BIEN?
+1600	6zz3	HABLA MÁS ALTO. TENGO TRABAJO QUE HACER.
+1601	6zz4	NADA DE ARMAS AQUÍ. GUÁRDALA.
+1602	6zz5	¡BAJA DE AHÍ! ¿QUÉ TE PASA?
+1603	710c	REZAD, DESENVAINAD, CHICOS.
 1604	711a	¿QUÉ, OTRA VEZ?
 1605	711c	¿POR QUÉ NO BAJÁIS LA VOZ?
 1606	712a	¿NO HAS APRENDIDO?
@@ -1453,12 +1453,12 @@
 1608	713a	Dagoo, mira cómo lo quiere más.
 1609	713c	¿ME HABLABAS A MÍ?
 1610	714c	¡CHICOS FEOS...!
-1611	715c	¡ARRIBA! ¡LEVÁNTATE Y DESENFUNDA!
+1611	715c	¡ARRIBA! ¡LEVÁNTATE Y DESENVAINA!
 1612	716c	¡VENID, BORRACHOS, DAOS PRISA!
 1614	718c	VEN, FEA, ESTOY AQUÍ OTRA VEZ.
 1615	719c	VAMOS.
 1616	71ac	¡ARRIBA! ¡BASTARDOS! ¡SORTEO!
-1617	71bc	¡Vamos!
+1617	71bc	¡VAMOS!
 1618	71cc	¿TE IMPORTARÍA SANGRAR?
 1619	71fa	A por él, chicos
 1620	71fb	Peleas como un príncipe muerto.
@@ -1709,7 +1709,7 @@
 1888	8rda	Y ahora que tengo su completa atención... están listos para su prueba. Pero, antes de empezar... Cyrus. ¿Tuviste una educación clásica?
 1889	8rdb	Biiiien, biiiien. Sólo comprobaba. Sólo que un hombre pensante, un hombre bien educado podría tener una ventaja injusta en esta prueba. ¡Pero no! Tú eres un héroe... un hombre de acción, ¿verdad?
 1890	8rdc	Hablas por ti, Vile. Yo estoy listo. Vámonos.
-1891	8rdd	Así que probablemente no reconocerás esta vieja castaña, sacada directamente de “Las estrellas sobre sus hombros” de Paulus. ¿Preparado? ¡Escuchad con atención! ¡No lo repetiré!
+1891	8rdd	Así que probablemente no reconocerás esta vieja castaña, sacada directamente de "Las estrellas sobre sus hombros" de Paulus. ¿Preparado? ¡Escuchad con atención! ¡No lo repetiré!
 1892	8rde	Dos puertas. Una conduce a la pérdida de tu alma, la otra lleva al retorno de la de Iszara.
 1893	8rdf	Dos guardianes. Uno siempre miente, el otro siempre dice la verdad.
 1894	8rdg	Puedes hacerle una sola pregunta a uno de ellos. Solo una. El juego comienza... elige sabiamente... ¡Je, je!
@@ -1734,7 +1734,7 @@
 1913	8w5c	Te agradan los regalos, ¿eh?
 1914	8wwa	¡No arruines la diversión, Cyrus! ¡Se supone que debes descubrirlo! Pero te daré una pista. ¡Tengo lo que deseas! ¿Entonces...?
 1915	8wwc	Por última vez, Vile... ¿Qué... es lo que... quieres?
-1916	8y7a	Un seguidor de mi hermano, Hermaeus Mora, dijo una vez: “El propósito último de los señores Daedra es instruir y mejorar el carácter generalmente deplorable de los mortales”
+1916	8y7a	Un seguidor de mi hermano, Hermaeus Mora, dijo una vez: "El propósito último de los señores Daedra es instruir y mejorar el carácter generalmente deplorable de los mortales"
 1917	8y1a	¡Excelente! ¡Tenía razón! No todos los héroes son unos cretinos estúpidos. Estoy encantado de aceptar tu alma como apuesta en un juego por el alma de tu hermana.
 1918	8y7b	Hermoso sentimiento. Pero, de hecho, observo a los mortales, y me entrometo de vez en cuando, por puro entretenimiento.
 1919	8y1b	Pero antes de empezar, hay un par de cosas que debemos aclarar.
@@ -2028,7 +2028,7 @@
 2223	bgr6	¡Largo!
 2224	bgr7	¡OS CONVERTIRÉ EN PICADILLO SI NO OS LARGÁIS DE AQUÍ!
 2225	bh1a	AH... POR FAVOR, LLÁMAME BRENNAN. ACABASTE CON ESOS RUFIANES TAN RÁPIDO QUE NI SIQUIERA TUVE TIEMPO DE RECUPERAR MI ESPADA DEL CAMAROTE.
-2226	bh1c	CAPITÁN, ME ALEGRA VERLO DE NUEVO AL MANDO.
+2226	bh1c	CAPITÁN, ME ALEGRO VERLO DE NUEVO AL MANDO.
 2227	bh2a	El valeroso espadachín regresa. ¿En qué puedo ayudarte?
 2228	bh2c	Nos volvemos a ver, Capitán Brennan.
 2229	bh3a	Lo que sea por ayudarte, Cyrus.
@@ -2463,7 +2463,7 @@
 2681	dv1a	Ese bicho también te ha atrapado, ¿eh? Mucha gente en esta isla lo está buscando... incluso el Imperio, según he oído
 2682	dv1b	¿El mago del Príncipe A'tor?
 2683	dv1c	Me he topado con la leyenda del Frasco de Lillandril
-2684	dv2a	El rumor es que lo quieren para una invasión a la Isla Summerset, les ayudaria a disipar sus defensas mágicas.
+2684	dv2a	El rumor es que lo quieren para una invasión a la Isla Summerset, les ayudaría a disipar sus defensas mágicas.
 2685	dv2b	Tal vez deberías preguntarle al Hermano Nidal al respecto.
 2686	dv2c	¿Para qué lo querrían?
 2687	dv3a	Al menos, ten en cuenta que el lugar donde está enterrado el frasco es bien buscado por partes más dudosas que tú
@@ -2527,7 +2527,7 @@
 2746	egec	¿Necesitas otro engranaje para arreglar el telescopio?
 2747	egga	¡Ah haaa! ¡Encontraste uno! Bien, bien. Pero no voy a volver a bajar a la sala de engranajes. Vas a tener que hacerlo... ¡poner el engranaje en el lado más lejano!
 2748	eggc	Aquí está el equipo enano que necesitas para arreglar el telescopio
-2749	egha	¡luzzz! ¡Fantasmas en ese faro! ¡Prendiendo la luz, luz! ¡luz! ¡luuuuz! ¡Gritandole "¡’Rasmo, despertate, carajo!"
+2749	egha	¡luzzz! ¡Fantasmas en ese faro! ¡Prendiendo la luz, luz! ¡luz! ¡luuuuz! ¡Gritándole "¡'Rasmo, despiértate, carajo!"
 2750	eghc	¿Fantasmas? ¿Qué fantasmas?
 2751	egra	¡Equipos! ¡luz! ¡Corre a toda velocidad, esos enanos tenían cerebros muy muy grandes! ¡Peligro! ¡Lugar aterrador!
 2752	egrc	Despacio, amigo. ¿Qué hay en la sala de engranajes?
@@ -2851,14 +2851,14 @@
 3076	hmpa	No. Desde que mi casa en el casco antiguo fue destruida, me he quedado en mi barco.
 3077	hmpb	Arriesgué mi vida para salvar ese mapa, y fui justamente recompensado por mi indigna obsesión cuando me lo robaron hace unas semanas. Me alegro de que ya no esté
 3078	hmpc	Tal vez, pero parece un reto digno. ¿Todavía tienes el mapa? 
-3079	hnca	Un mal del oeste, asentado en los bajios de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así que no te mueras
+3079	hnca	Un mal del oeste, asentado en los bajíos de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así que no te mueras
 3080	hncc	Háblame del nigromante
 3081	hnxc	YO NO ME PREOCUPARÍA POR ÉL NUNCA MÁS.
 3082	ho1a	Y así han caído los Guardia Rojos. Los ancianos enseñan a los jóvenes, ¿y quién puede culparlos por aprender? El verdadero Guardia Rojo arriesga su vida por honor, orgullo y espíritu.
 3083	ho1c	¿Por qué indigna? Un mapa a un artefacto mágico de valor incalculable parece un premio digno.
 3084	ho2a	Tanto como lo hace un mapa perdido, mercenario. Solo creí justo advertirte contra buscar la riqueza del frasco por avaricia. El mundo es más grande que tu bolsa de oro.
 3085	ho2c	La ideología no marca el lugar, viejo.
-3086	ho3c	Sí, sí. “Una espada vendida es una espada manchada contra la causa verdadera.” No importa por qué quiero el frasco, Trithik.
+3086	ho3c	Sí, sí. "Una espada vendida es una espada manchada contra la causa verdadera." No importa por qué quiero el frasco, Trithik.
 3087	hoqa	Fue la última resistencia de los leales a la Corona, y el gobernador Richton lo destruyó. Todavía arde, todo ceniza y fuego de dragón. Pocos escaparon al incidente
 3088	hoqc	¿Qué pasó con el casco antiguo?
 3089	hpia	No, muchacho, un trozo de un mapa, que supuestamente muestra su ubicación. Digo un trozo de verdad, pero eso no es más que un viejo hablando, pues el mapa puede no conducir a nada, aunque estuviera entero.
@@ -2886,7 +2886,7 @@
 3111	hsmb	Las Coronas ya no existen, tan desprovistas de rey como Yokuda, perdidas ahora en una canción que nadie cantará, no sea que Richton la oiga. Demasiado, el Gobernador es la razón de que Stros M'Kai esté tan callado
 3112	hsmc	Parece tranquilo aquí, especialmente para un puerto ciudad. ¿Cómo le va a Stros M'Kai bajo el dominio imperial?
 3113	hssa	La maldición del nigromante, que se retuerce en la cercanía, a solo una muerte de distancia. Su magia arrebata tu alma si pereces, para alimentar algún acto aún más oscuro.
-3114	hssc	¿Qué es el "lazo del alma”?
+3114	hssc	¿Qué es el "lazo del alma"?
 3115	htea	En la plaza del pueblo, a orillas del estanque
 3116	htec	¿Dónde está el templo?
 3117	hw1a	¿Por qué si no estarías aquí, en esta narración? Estás...
@@ -3349,7 +3349,7 @@
 3586	npta	Estaba... perdido en el mar, hijo mío. Eso es todo lo que sé. Y... que se rumoreaba que Iszara lo conocía personalmente
 3587	nptc	¿Qué hay del Príncipe A'tor?
 3588	nria	Que deberías mantenerte alejado de él, muchacho. No le importará si eres un Corona o no, si se entera de que eres el hermano de Iszara.
-3589	nrib	Sin embargo, probablemente estés a salvo en la ciudad por el momento, ya que parece que nunca abandona el Palacio.
+3589	nrib	Sin embargo, probablemente estás a salvo en la ciudad por el momento, ya que parece que nunca abandona el Palacio.
 3590	nric	¿Qué más sabes de Richton?
 3591	nrla	Yo... sé muy poco sobre sus actividades, Cyrus. Las historias comunes, claro, pero no mucho más
 3592	nrlc	¿Hay algo que puedas decirme sobre la Liga Inquieta, Hermano?
@@ -4391,7 +4391,7 @@
 4660	y1oc	Mira, si es oro lo que queréis los piratas...
 4661	y1wa	Aye, traté solo de evitarlos, no de enfrentarme a ellos barco contra barco.
 4662	y1wc	Seguro que has encontrado la forma de enfrentarte a la flota de Richton
-4663	y2oa	Búrlate si quieres, perro de orilla. Pero si voy a arriesgar mi cuello, llevándote a la Liga, tendrás que traerme una señal de confianza, no oro
+4663	y2oa	Búrlate si quieres, perro de orilla. Pero si voy a arriesgar mi cuello llevándote a la Liga, tendrás que traerme una señal de confianza, no oro
 4664	y2oc	vamos.
 4665	y2wa	Un astuto ataque nuestro. Tenemos la pasión, pero no los medios para enfrentarnos a sus barcos en mar abierto.
 4666	y2wc	Oí que incendiaste su buque insignia hace un tiempo.
@@ -4403,7 +4403,7 @@
 4672	ybda	Hmmm. Espero que lo hicieras con estilo, pero no es lo suficientemente bueno como para llevarte a la Liga
 4673	ybdc	Bueno, ya me he encargado de eso
 4674	ybsa	Basil no habla con cualquiera, especialmente con un tonto que usaría la señal durante el día, con todas las naves de guerra Imperiales alrededor
-4675	ybsb	Si encuentran nuestro escondite, bueno... ten por seguro que serás al primero que mataremos.
+4675	ybsb	Si encuentran nuestro escondite, bueno... ten por seguro que será al primero que mataremos.
 4676	ybsc	Llévame con Basil, si sólo eres su chica de correrías
 4677	yh1a	¿Y quién demonios eres tú?
 4678	yh1c	¿Dónde diablos está mi hermana?
