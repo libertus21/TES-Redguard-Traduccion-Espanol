@@ -5,20 +5,20 @@
 43	$005	Tobías dice que zarpará de Stros M'kai al anochecer para evitar ser arrestado por los imperiales.
 44	$006	Tobías sospecha que Richton está detrás de la desaparición de Iszara.
 45	$007	Tobías menciona que su amiga Siona, que está en los muelles, podría tener información sobre los Corona.
-46	$008	Dreekius dice que la Capitán Brennan me está buscando.
-47	$009	Dreekius dice que un borracho bretón, Crendal, alardeaba de tener un trozo de mapa del legendario Frasco de Lillandril.
-48	$010	Dreekius cree que un dragón guarda el soulgem en un tesoro secreto en las catacumbas. Dreekius dice que una punta de arma tostada en fuego de dragón atravesará a un dragón como ninguna otra.
-49	$011	Crendal dice que tiene un trozo del mapa del Frasco de Lillandril.
-50	$012	Trithik sólo recuerda que su trozo del mapa del Frasco de Lillandril tenía dos números, una «X» y la anotación «árbol largo».
-51	$013	Trithik dice que solía tener un trozo de mapa del Frasco de Lillandril, pero que se lo robaron hace varias semanas.
-52	$014	Siona dice que el Capitán Brennan quiere verme.
-53	$015	Aceptó el encargo de N'gasta de entregar un amuleto al gobernador Richton. Amuleto recibido. N'gasta ha dispuesto que un intermediario anónimo pague cuando se cumpla la tarea.
-54	$016	Favis dice que la campana está rota, o que no suena tan fuerte como antes.
-55	$017	Pagado por Kotaro por la entrega del amuleto.
-56	$018	Entrega del amuleto a Richton. Se enfrenta al gobernador en relación con Iszara. Richton dice que Iszara era una conocida consorte de la proscrita Liga Inquieta, pero niega conocimiento o responsabilidad en su desaparición. Richton amenazado. El agente elfo oscuro del gobernador, Dram, lanzó un hechizo mágico. Despertó despojada de sus posesiones y encarcelada.
-57	$019	Prisionero moribundo de la Liga Inquieta dijo algo de ir a un faro para hacer una señal a la Liga. Recibió una llave oxidada.
-58	$020	Se enteró de la existencia de un tesoro legendario llamado el Frasco de Lillandril.
-59	$021	Un joven Yokudan llamado Hayle fue asesinado por los Imperiales. Avik lo llama asesinato. La familia de Hayle acampa fuera de la ciudad a la espera de completar el ritual de enterramiento.
+46	$008	Dreekius me avisa que la Capitana Brennan me está buscando.
+47	$009	Dreekius cuenta que un bretón borracho, Crendal, se jactaba de tener un fragmento del mapa del legendario Frasco de Lillandril.
+48	$010	Dreekius cree que un dragón guarda la gema de alma en un tesoro oculto en las catacumbas. Añade que una punta de arma templada en fuego de dragón puede atravesar a un dragón como ninguna otra.
+49	$011	Crendal afirma tener un fragmento del mapa del Frasco de Lillandril.
+50	$012	Trithik solo recuerda que su fragmento del mapa del Frasco de Lillandril contenía dos números, una «X» y la anotación «árbol largo».
+51	$013	Trithik menciona que tenía un fragmento del mapa del Frasco de Lillandril, pero se lo robaron hace varias semanas.
+52	$014	Siona me informa que la Capitana Brennan quiere verme.
+53	$015	He aceptado el encargo de N'gasta de entregar un amuleto al gobernador Richton. Ya tengo el amuleto. N'gasta ha dispuesto que un intermediario anónimo realice el pago una vez completada la tarea.
+54	$016	Favis comenta que la campana está averiada, o que su sonido no es tan potente como antes.
+55	$017	Kotaro me ha pagado por la entrega del amuleto.
+56	$018	He entregado el amuleto a Richton. Me he enfrentado al gobernador por el asunto de Iszara. Richton afirma que Iszara era una conocida colaboradora de la proscrita Liga Revoltosa, pero niega saber algo sobre su desaparición o tener responsabilidad en ella. Tras amenazar a Richton, su agente elfo oscuro, Dram, me lanzó un hechizo. Desperté despojado de mis pertenencias y encarcelado.
+57	$019	Un prisionero moribundo de la Liga Revoltosa mencionó algo sobre ir a un faro para hacer una señal a la Liga. Me dio una llave oxidada.
+58	$020	Me he enterado de la existencia de un tesoro legendario conocido como el Frasco de Lillandril.
+59	$021	Los Imperiales han asesinado a un joven Yokudan llamado Hayle. Avik lo considera un asesinato a sangre fría. La familia de Hayle está acampada a las afueras de la ciudad, esperando poder completar el ritual de enterramiento.
 60	$022	Joto, miembro del Gremio de Magos y amigo de Avik, fue detenido por los imperiales.
 61	$023	Krisandra dice que Lakene, un manitas local, acudió a ella para sustituir un antiguo medallón de plata de su mujer que Lakene perdió mientras jugaba en el Smuggler's Den. Cuando Krisandra le dijo que no podía ayudarle, se sintió muy angustiado.
 62	$024	Prnell dice que contacte con la Liga Inquieta a través de la Guarida del Contrabandista bajo la tienda de Maiko, pero que necesito una contraseña para entrar.
