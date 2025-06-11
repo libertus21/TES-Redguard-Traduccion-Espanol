@@ -2293,7 +2293,7 @@
 2508	&022	NO, ESTÁ DESARMADA.
 2509	d12c	PENSÉ QUE PODRÍA ECHAR UNA MANO.
 2510	d1da	Creí que había un elfo chiflado trabajando en eso.
-2511	d1dc	Encontré este engranaje que podría servir. Creo que puedo reparar el Observatorio con él.
+2511	d1dc	Encontré este engranaje que podría servir. Creo que podré reparar el Observatorio con él.
 2512	d1ia	¿Y ahora qué?
 2513	d1ic	Iszara está a salvo, Dreekius, tan a salvo como se puede estar del Imperio. Está en el refugio junto con el resto de la Liga.
 2514	d1sa	Los otros, por supuesto... los que no han sido despojados de sus escamas. Vemos que las tribus de Septim no se contentarán por mucho tiempo con los tronos de los hombres y la raza mayor.
@@ -2735,7 +2735,7 @@
 2957	gf3c	Necesito más plumas.
 2958	gfla	¡EL FRASCO DE LILLANDRIL, FAMOSO EN CANCIONES Y LEYENDAS! DE MI PROPIA TIERRA NATAL DE LA ISLA SUMMERSET, YA SABES. Y DEBES HABER OÍDO HABLAR DEL MISTERIOSO MAPA.
 2959	gflb	--QUE SUPUESTAMENTE MUESTRA DÓNDE ESTÁ ENTERRADO EL FRASCO.
-2960	gflc	HE OÍDO HABLAR DE UN FRASCO MÁGICO ESCONDIDO EN ALGÚN LUGAR DE LA ISLA. ¿SABE USTED ALGO AL RESPECTO?
+2960	gflc	HE OÍDO HABLAR DE UN FRASCO MÁGICO ESCONDIDO EN ALGÚN LUGAR DE LA ISLA. ¿SABE USTED AL RESPECTO?
 2961	gh1a	ENCANTADO DE CONOCERLE, MI BUEN AMIGO. GERRICK, TU HUMILDE SERVIDOR.
 2962	gh1c	HOLA, TENDERO. ME LLAMO CYRUS.
 2963	gh2a	ESPLÉNDIDO, CYRUS. ¡ESPLENDIDO!
@@ -3655,15 +3655,15 @@
 3910	pzz4	¿QUÉ *ESTÁS* HACIENDO, MUCHACHO? ¿A QUÉ TE DEDICAS?
 3911	q505	Sí. Joto cree que el nigromante tiene a Iszara.
 3912	q507	Iszara le pidió ayuda a Joto, que usara su magia para restaurar al Príncipe A'tor de la gema del alma. Joto no pudo. Y sabe que nadie más en el gremio puede ayudarla.
-3913	q508	Joto solo conoce a un hechicero que puede hacer eso: N'Gasta, un nigromante poderoso.
-3914	q510	No, no, no. Joto no es tonto. Joto le advirtió a la hermana: no confíes en el gusano oscuro N'Gasta. Poderoso, sí, es N'Gasta... pero malvado. Ladrón de almas. Viejo y cruel.
-3915	q513	No. Es tu hermana. Tú la conoces. Y ama al Príncipe, así que... tenía que intentarlo. Entonces Joto le dijo: Joto conoce una precaución... protección contra el malvado N'Gasta.
-3916	q515	No. Pobre Iszara. Sin paciencia. Joto le dijo: el Frasco de Lillandril, magia élfica antigua, aquí en esta isla--
-3917	q516	¿Pero dónde? El frasco se perdió hace muchos, muchos años, así que buscamos y buscamos, pero... pocas pistas, muy lento, Iszara no podía esperar.
-3918	q517	Encontramos algo, un trozo de mapa, creo que muestra dónde buscar, pero solo un trozo --
-3919	q519	Sí, eso creo. Pero Joto siguió buscando, y encontró otro trozo del mapa.
-3920	q520	Pero antes de que Joto pudiera mostrárselo, Iszara desapareció. Luego los Imperiales encontraron a Joto y lo metieron aquí.
 3921	q521	Pero... Joto aún tiene el trozo de mapa. Lo escondió de los guardias. Aquí. Te lo muestro--
+3913	q510	No, no, no. Joto no es tonto. Joto le advirtió a la hermana: no confíes en el gusano oscuro N'Gasta. Poderoso, sí, es N'Gasta... pero malvado. Ladrón de almas. Viejo y cruel.
+3914	q513	No. Es tu hermana. Tú la conoces. Y ama al Príncipe, así que... tenía que intentarlo. Entonces Joto le dijo: Joto conoce una precaución... protección contra el malvado N'Gasta.
+3915	q515	No. Pobre Iszara. Sin paciencia. Joto le dijo: el Frasco de Lillandril, magia élfica antigua, aquí en esta isla--
+3916	q516	¿Pero dónde? El frasco se perdió hace muchos, muchos años, así que buscamos y buscamos, pero... pocas pistas, muy lento, Iszara no podía esperar.
+3917	q517	Encontramos algo, un trozo de mapa, creo que muestra dónde buscar, pero solo un trozo --
+3918	q519	Sí, eso creo. Pero Joto siguió buscando, y encontró otro trozo del mapa.
+3919	q520	Pero antes de que Joto pudiera mostrárselo, Iszara desapareció. Luego los Imperiales encontraron a Joto y lo metieron aquí.
+3920	q521	Pero... Joto aún tiene el trozo de mapa. Lo escondió de los guardias. Aquí. Te lo muestro--
 3922	q522	Toma esto, encuentra el frasco. Luego ve con N'Gasta, encuentra a Iszara allí, creo-- 
 3924	q524	Encuentra... a Iszara...
 3925	qc0c	Pero te juro que te sacaré de aquí si me ayudas a encontrar a Iszara.
@@ -3743,7 +3743,7 @@
 3999	scta	Ahí es donde Fatboy lanza las Coronas que puede atrapar. Bajo el Palacio... donde vive el dragón.
 4000	sctc	Estas catacumbas... ¿son una especie de mazmorra?
 4001	scwa	Bueno, no quiero divulgar chismes, y menos a su hermano, pero dicen que era amiga del Príncipe
-4002	scwb	Buenos amigos, ¿sabes? Así que no es de extrañar que desapareciera cuando el gordito  llegó a la ciudad
+4002	scwb	Buenos amigos, ¿sabes? Así que no es extrañar que desapareciera cuando el gordito  llegó a la ciudad
 4003	scwc	¿Estuvo mi hermana involucrada en la guerra civil de alguna manera?
 4004	scxc	Gracias, SIONA.
 4005	sdga	Así es como Fatboy venció a los Crowns. Los imperiales, al menos, creen que el dragón sigue ahí abajo, descansando en el mar real de monedas...
@@ -4541,21 +4541,21 @@
 4790	zc42	¡ENVAINALA Y VIVE!
 4791	zc43	¡MUERE, GUARDIA ROJO!
 4792	zc44	¡TOMA YA!
-4793	zd45	¡DEMASIADO RÁPIDO!
-4794	zd46	¡SOY RÁPIDO!
-4795	zd47	¡ESTÁS ABIERTO!
-4796	zd48	UN BUEN CORTE
-4797	zd49	SANGRE CON ELLA
-4798	zd50	¡NO HAY PARTIDO!
-4799	zd51	¡MÁS DESPACIO, papi!
+4793	zd45	¡ERES DEMASIADO RÁPIDO!
+4794	zd46	¡SOY MÁS VELOZ!
+4795	zd47	¡ESTÁS DESPROTEGIDO!
+4796	zd48	¡BUEN TAJO!
+4797	zd49	¡QUE CORRA LA SANGRE!
+4798	zd50	¡NO HAY RIVAL!
+4799	zd51	¡MÁS DESPACIO, AMIGO!
 4803	za55	¡BASTARDO!
-4804	za56	¡ME HAN CORTADO!
-4805	zb57	¡MALDITA SEA!
-4806	zb58	¡ME LAS PAGARÁS!
+4804	za56	¡ME HAN HERIDO!
+4805	zb57	¡MALDICIÓN!
+4806	zb58	¡ESTO NO QUEDARÁ ASÍ!
 4807	zb59	¡TE MATARÉ!
-4808	zb60	¡GUARDIA! ¡ESTOY ATRAPADO!
-4809	zb61	ENTRENÓ BIEN PERO NO PARA GANAR
-4810	zc62	¡NO CONSEGUIRÁS OTRA!
+4808	zb60	¡GUARDIA! ¡ESTOY ACORRALADO!
+4809	zb61	¡ENTRENASTE BIEN, PERO NO LO SUFICIENTE!
+4810	zc62	¡NO TENDRÁS OTRA OPORTUNIDAD!
 4811	zc63	¡DIOSES!
 4812	zc64	¡MALDITO SEAS!
 4813	zc65	¡MALDITO SEAS, GUARDIA ROJO!
@@ -4568,32 +4568,32 @@
 4820	za72	¡ES TUYO!
 4821	za73	¡LO TIENES!
 4822	za74	¡ESTOY EMPAREJADO!
-4823	zb75	¡UNA ayudita aca!
+4823	zb75	¡NECESITO AYUDA AQUÍ!
 4824	zb76	¡AQUÍ! ¡CÓGELO!
-4825	zb77	¡FUERA DE MI CAMINO ando cagao!
+4825	zb77	¡FUERA DE MI CAMINO, ESTOY EN APUROS!
 4826	zb78	¡YO ACABARÉ CON ÉL!
 4827	zc79	¡CRÚZATE CONMIGO, GUARDIA ROJO!
 4828	zc80	¡ES UNO SOLO!
 4829	zc81	¡ESTÁS JUGANDO CON ÉL! ¡ENTREGÁDMELO!
 4830	zd82	¡PRUÉBAME, GUARDIA ROJO!
 4831	zd83	¡TENGO ESTE REBELDE!
-4832	zd84	¡RETROCEDE Y DÉJAMElo A MÍ!
+4832	zd84	¡ATRÁS! ¡DÉJAMELO A MÍ!
 4833	zc91	¡GUARDIAS!
 4834	z101	Este hombre insistió en entregarle el amuleto él mismo, milord.
 4835	z108	¿Mi señor?
 4836	z201	¡Gobernador! ¡Tengo noticias del  Guardia Rojo!
 4837	z203	El que acaban de meter en las Catacumbas, señor. El que se llama Cyrus. ¡Se ha escapado!
-4838	z205	o se le encuentra por ninguna parte, señor. Estamos peinando las calles en su busca.
+4838	z205	No se le encuentra por ninguna parte, señor. Estamos registrando las calles en su búsqueda.
 4839	z902	Sí, milord. El dragón está muerto.
 4840	z904	No estamos seguros de que fuera el guardia rojo, milord--
-4841	zb01	El buque de asalto está listo, teniente; los hombres están a bordo. Nunca nos verán llega.
+4841	zb01	El buque de asalto está listo, teniente; los hombres están a bordo. No nos verán llegar.
 4842	zb03	¿QUÉ ERA ESO?
 4843	zb05	¡Están atacando el puerto!
 4844	zb07	¡Una turba de ellos, Gobernador! Nos han pillado desprevenidos-- 
 4845	za85	guardia rojo ¡IDIOTA! ¡DESENFUNDA Y MUERE!
 4846	zb86	BIEN. ES TU FUNERAL, GUARDIA ROJO.
 4847	zc87	SI LO QUE QUIERES ES PELEA, SOY TU HOMBRE.
-4848	zd88	VAMOS, ENTONCES.PUEDES USAR ESA COSA, ¿NO?
+4848	zd88	ADELANTE ENTONCES. SABES USAR ESO, ¿VERDAD?
 4849	z2jc	MANTENIENDO LA CÁRCEL LLENA?
 4850	z2sc	NECESITO VISITAR A UNO DE SUS PRISIONEROS
 4851	za1c	Un momento.
@@ -4608,6 +4608,6 @@
 4860	zakc	ENTONCES NUNCA VOLVERÁ A VER ESTE AMULETO.
 4861	zapc	ESTE ES EL PALACIO, ¿CORRECTO?
 4862	zarc	TENGO QUE HABLAR CON EL GOBERNADOR RICHTON.
-4863	zaza	VÁYASE. ¿ENTIENDES? VÁYASE.
+4863	zaza	LARGO DE AQUÍ. ¿ME OYES? FUERA.
 4864	zazb	GUARDA ESO, HIJO. ESTE NO ES EL MOMENTO NI EL LUGAR.
 4865	zbza	VUELVE A TU TARRO, ASQUEROSO.
