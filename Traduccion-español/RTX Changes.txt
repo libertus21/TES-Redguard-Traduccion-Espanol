@@ -896,17 +896,17 @@
 988	0g3a	¡ISZARA HERMOSA >>SQUAWK<< FUERA FUERA!
 989	0g4a	¡>>SQUAWK<<! ¡ROLLO GORDO Y PEREZOSO MIER--!
 990	0g5a	¡SIEMPRE UN MAPA! ¡>>SQUAWK!>>
-991	0g6a	¡CY<<SQUAWK!>>rus Cyrus bolsa de oro podrida!
-993	0g8a	¡Pobre belleza! ¡>>SQUAWK<<>!
+991	0g6a	¡CY<<SQUAWK!>>RUS! ¡CYRUS! ¡BOLSA DE ORO PODRIDA!
+993	0g8a	¡Pobre belleza! ¡>>SQUAWK<<!
 994	0g9a	¡>>SSSSQUAWKKK<< Sé cosas que tú no sabes! ¡>>SQUAWK<<! ¡SABE MÁS!
 995	0gaa	¡>>SQUAKKA-KA<<! ¡Hermana Rica, cara de horror!
-996	0gba	¡>>SQUAWK<<! ¡Viejo sucio dedos grasientos! ¡>>SQUAWK<<>!
-997	0gca	¡ROLLO >>¡KRAAAK!<< ROLLO sabe >>¡KRAAAAAAAK!<< HUESOS PODRIDOS!
+996	0gba	¡>>SQUAWK<<! ¡Viejo sucio dedos grasientos! ¡>>SQUAWK<<!
+997	0gca	¡ROLLO >>¡KRAAAK!<< ROLLO SABE >>¡KRAAAAAAAK!<< ¡HUESOS PODRIDOS!
 998	0gda	¡>>SQUAWK<<! ¡HERMANITA PLUMITAS! ¡HERMANITA ALAS ROTAS!
 999	0icc	¡HABLA DE UNA VEZ, MALDITA SEA!
 1000	0l5b	Señor, no puedo explicarlo.
 1001	0i5c	DANOS UN RESPIRO, AMIGO.
-1002	0l5a	¡A menos que hagas tú lo mismo!
+1002	0l5a	¡A menos que tú hagas lo mismo!
 1003	0idc	De todas las aves, tú eres la más noble.
 1004	0rcc	HE MATADO COSAS MÁS PEQUEÑAS QUE TÚ... 
 1005	0rdc	OYE, ¿QUÉ TAL SI TE PAGO?
@@ -914,7 +914,7 @@
 1007	0s5c	ESTOS ACERTIJOS NO SON LO MÍO.
 1008	0scc	VOLVAMOS AL TEMA DE ISZARA.
 1009	0sdc	¡ESTOY HARTO DE TODO ESTO!
-1010	0lm1	Tu astuta hermana trazó su plan.
+1010	0lm1	Tu astuta hermana trazó un plan.
 1011	0lm2	Buscando oro, como es natural.
 1012	0lm3	Veintiún pasos has de dar.
 1013	0lm4	Hacia donde mira la cabeza.
@@ -938,7 +938,7 @@
 1043	0209	SUBESTIMÉ AL GUARDIA ROJO.
 1044	0214	Dejádmelo a mí.
 1045	052a	Guardia Rojo. Solo hay una salida: a través de mí.
-1046	052b	Hablas más de la cuenta, gatito.
+1046	052b	Hablas demasiado, gatito.
 1047	0906	Tiene la gema del alma.
 1048	0908	Por mi aspecto aterrador, naturalmente.
 1049	0912	Y ahora las buenas nuevas. Quizás recuerdes a ese grupo de escoria que nos ha estado causando tantos problemas.
@@ -1071,13 +1071,13 @@
 1179	2617	o...?
 1180	2619	Ahora, ahora. Deja que tu hermana sirva como un cuento con moraleja, Cyrus. ¿Repetirías sus errores jugando con esta? ¿Y propones intimidar a Lord Vile para que renuncie al alma de tu hermana? Considera esto--
 1181	2621	¿De verdad...? ¿que podría molestar a este?
-1182	21da	¡ÉSTE ES EL MÁS COMPLACIDO!
+1182	21da	¡¡ÉSTE ESTÁ MUY COMPLACIDO!
 1183	21dc	ENTREGARÉ EL AMULETO POR TI.
-1184	21na	NO HABLES MAL, MORTAL, DEL SEÑOR DE ÉSTE, EL REY DE LOS GUSANOS, PUES SU GRACIA CONCEDE ESTAS COSTAS COMO PRÓDIGOS COTOS DE CAZA DE ÉSTE.
+1184	21na	NO HABLES MAL, MORTAL, DEL SEÑOR DE ÉSTE, EL REY DE LOS GUSANOS, PUES SU GRACIA CONCEDE ESTAS COSTAS COMO PRÓSPEROS COTOS DE CAZA PARA ÉSTE.
 1185	21nc	CREÍA QUE HAMMERFELL ESTABA PLAGADO DE NIGROMANCIA SÓLO EN EL NORTE, DONDE SENTINEL YACÍA EN UNA SOMBRA SIMILAR.
 1186	22da	Reconociendo la discreción del Gobernador en diversos asuntos, éste desea regalar a su eminencia un amuleto único que acredite su alta consideración en los asuntos del Imperio.
 1187	22dc	ENTREGALO.
-1188	22na	CYRUS. ¿QUÉ HOMBRES QUEDAN -SE PREGUNTA ÉSTE- O MUJERES AFINES -PARA VIOLENTARME? TODOS FUERON MUERTOS EN LA GUERRA, Y MUERTOS AHORA SIRVEN A ESTE SIN PROTESTAR.
+1188	22na	CYRUS. ¿QUÉ HOMBRES QUEDAN -SE PREGUNTA ÉSTE- O MUJERES CAPACES DE DESAFIARME? TODOS MURIERON EN LA GUERRA, Y AHORA SUS CADÁVERES SIRVEN A ÉSTE SIN PROTESTAR.
 1189	22nb	EL GREMIO DE MAGOS SE QUEJA, COMO ES SU COSTUMBRE, CUANDO LOS PRACTICANTES DE ESTE OFICIO DESAFÍAN SU DOMINIO, PERO EL GOBERNADOR SOPESA ASTUTAMENTE LAS PREOCUPACIONES DE ÉSTE POR ENCIMA DE LAS SUYAS.
 1190	22nc	¿ACASO LOS HOMBRES DE ESTA ISLA NO IMPUGNAN SU PRÁCTICA SUCIA?
 1191	23da	ÉSTE CONTRATÓ A UN TIPO COMO INTERMEDIARIO, SIN PREVER SU INICIATIVA DIRECTA... PERO DICHO COMPAÑERO TE PAGARÁ GENEROSAMENTE CUANDO HAYAS REALIZADO ESTE SERVICIO.
@@ -1085,12 +1085,12 @@
 1193	23na	ESTE ES MEJOR AMIGO QUE ENEMIGO.
 1194	23nc	¿A QUÉ SE DEBE?
 1196	260b	A cambio de su alma, ésta accedió a liberar a su amado Príncipe A'tor. Quizás consideres mis honorarios demasiado caros, pero ¿no puede el cliente juzgar mejor el verdadero valor de un servicio?
-1197	2a1a	PERECIÓ EN LA GUERRA PROTEGIENDO LA CORONA Y SE PERDIÓ EN EL MAR. LAMENTO QUE LA TRAMPA NO FUERA TENDIDA ENTONCES, PUES TAL ALMA HUBIERA SIDO APTA PARA... CULTIVAR... DURANTE NOCHES ENTERAS.
+1197	2a1a	PERECIÓ EN LA GUERRA DEFENDIENDO LA CORONA Y SE PERDIÓ EN EL MAR. LAMENTO QUE LA TRAMPA NO FUERA TENDIDA ENTONCES, PUES TAL ALMA HABRÍA SIDO PERFECTA PARA... CULTIVAR... DURANTE NOCHES ENTERAS.
 1198	2a1c	¿QUÉ LE PASÓ AL ARCHIMAGO?
 1199	2a2a	ESCASAMENTE. ERA CONOCIDO POR SUS ATRIBUTOS, NO POR SUS HABILIDADES TRIVIALES. SUS ARTEFACTOS MÁGICOS, SIN EMBARGO... PODRÍAN SER DIGNOS DE ATENCIÓN.
 1200	2a2c	¿ERA PODEROSO, ENTONCES, ESTE ARCHIMAGO?
 1201	2a3c	AHORA MISMO ME PONGO A ELLO.
-1202	2ama	UN DIAMANTE ROJO ÉSTE HA ENCONTRADO ENTRE MUCHOS TESOROS, Y JUZGA APROPIADO PARA UN SERVIDOR DEL IMPERIO, QUE PODRÍA ENARBOLAR TALES SÍMBOLOS EN SUS ESTANDARTES.
+1202	2ama	UN DIAMANTE ROJO HA ENCONTRADO ÉSTE ENTRE MUCHOS TESOROS, Y LO JUZGA APROPIADO PARA UN SERVIDOR DEL IMPERIO, QUE PODRÍA PORTAR TALES SÍMBOLOS EN SUS ESTANDARTES.
 1203	2amb	Y EL ESCENARIO DEL DRAGÓN ES MUY ADECUADO PARA HONRAR AL GOBERNADOR CUYO MANDO DE TAL BESTIA OBTUVO LA VICTORIA EN STROS M'KAI, Y PUSO A HAMMERFELL EN MANOS DEL EMPERADOR.
 1204	2amc	¿QUÉ ES ESE AMULETO QUE LE DAS AL GOBERNADOR?
 1205	2b1a	ADIÓS, CYRUS. UN PLACER HACER NEGOCIOS CONTIGO.
@@ -2851,7 +2851,7 @@
 3076	hmpa	No. Desde que mi casa en el casco antiguo fue destruida, me he quedado en mi barco.
 3077	hmpb	Arriesgué mi vida para salvar ese mapa, y fui justamente recompensado por mi indigna obsesión cuando me lo robaron hace unas semanas. Me alegro de que ya no esté
 3078	hmpc	Tal vez, pero parece un reto digno. ¿Todavía tienes el mapa? 
-3079	hnca	Un mal del oeste, asentado en los bajíos de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así que no te mueras
+3079	hnca	Un mal del oeste, asentado en los bajíos de ceniza gris. Desfilando ahora que el Imperio está aquí, muchacho, así no te mueras
 3080	hncc	Háblame del nigromante
 3081	hnxc	YO NO ME PREOCUPARÍA POR ÉL NUNCA MÁS.
 3082	ho1a	Y así han caído los Guardia Rojos. Los ancianos enseñan a los jóvenes, ¿y quién puede culparlos por aprender? El verdadero Guardia Rojo arriesga su vida por honor, orgullo y espíritu.
@@ -3132,7 +3132,7 @@
 3365	lp2c	No he podido conseguir el medallón. Dame la contraseña
 3366	lroa	Un tipo apestoso, tramposo en las cartas. ¡Ganó ese medallón con engaños, el asqueroso barriga de polvo!
 3368	lsca	Así es. Los enanos sabían cómo usar el vapor. Puedes reírte, pero es una fuerza poderosa y Richton tiene a sus chicos mirándolo ahora mismo.
-3369	lscb	Puede que el Imperio tenga lo que necesita para conquistar todo Tamriel antes de lo que crees
+3369	lscb	Puede que el Imperio tenga lo que necesita para conquistar todo Tamriel antes de que crees
 3370	lscc	Carruajes a vapor, ¿eh?
 3371	lsda	Nunca he estado allí.
 3372	lsdc	¿Qué sabes de la Guarida de los Contrabandistas?
@@ -3472,7 +3472,7 @@
 3715	oisa	¿Por qué iba a conocer a tu hermana? ¿Por qué no vuelves a la ciudad a la que perteneces?
 3716	oisc	Me pregunto si conoces a mi hermana...
 3717	ol2a	¡Claro! Son los Redguards más valientes de todos. Nunca se rendirán al Imperio.
-3718	ol2b	¡Incluso volaron el barco del Gobernador, justo en el puerto! ¿Sabes cómo puedo encontrarlos?
+3718	ol2b	¡Incluso volaron el barco del Gobernador, justo en el puerto! ¿Sabes cómo puedes encontrarlos?
 3719	ol2c	¿Sabes algo de la Liga Inquieta?
 3720	ol3a	No. Hayle dijo que nunca dejarían que un Yokudan se uniera, pero ¿por qué no?
 3721	ol3b	Supongo que ahora necesitan todos los hombres que puedan conseguir, y yo mismo soy un espadachín bastante bueno, ya sabes
@@ -3817,7 +3817,7 @@
 4073	szz4	Apuesto a que agitas esa cosa con todas las chicas.
 4074	t1ba	Te doy mi palabra. Fue de lo más servicial, pero parecía estar ocultando algo
 4075	t1bc	¿Entonces puedo contar con el Hermano Nidal como aliado?
-4076	t1la	Díselo a los que están al otro lado de la espada, muchacho. Apuesto a que ves más de ti mismo en los hombres de la Liga Revoltosa de lo que te gustaría admitir
+4076	t1la	Díselo a los que están al otro lado de la espada, muchacho. Apuesto a que ves más de ti en los hombres de la Liga Revoltosa de lo que te gustaría admitir
 4077	t1lc	Nunca fuimos bandidos cuando serví a sus órdenes, capitán, sólo mercenarios
 4078	t1ma	Rescate anónimo
 4079	t1mc	He vuelto a temer un encuentro con Iszara. Aún lo temo. Desearía encontrarla a salvo o salvarla desde lejos
@@ -4417,6 +4417,28 @@
 4686	yicc	Soy Cyrus, hermano de Iszara. Y exijo saber dónde está
 4687	yila	No estoy segura de por qué estoy hablando contigo. ¿Cómo sé siquiera que eres quien dices ser? Voy a necesitar alguna prueba
 4688	yilc	Sé que mi hermana está en la Liga. Ahora llévame con ella
+4668	y3wc	Así que los piratas de la Liga Inquieta son una amenaza real, ¿verdad?
+4669	y712	YA TE HAS PUESTO AL DÍA, ¿NO?
+4670	yb1c	Hablaremos más tarde.
+4671	yb2a	Te daré unas horas, no más. No voy a esperar a los imperiales.
+4672	yb2c	Volveré con tu prueba.
+4673	ybda	Hmmm. Espero que lo hicieras con estilo, pero no es lo suficientemente bueno como para llevarte a la Liga
+4674	ybdc	Bueno, ya me he encargado de eso
+4675	ybsa	Basil no habla con cualquiera, especialmente con un tonto que usaría la señal durante el día, con todas las naves de guerra Imperiales alrededor
+4676	ybsb	Si encuentran nuestro escondite, bueno... ten por seguro que será al primero que mataremos.
+4677	ybsc	Llévame con Basil, si sólo eres su chica de correrías
+4678	yh1a	¿Y quién demonios eres tú?
+4679	yh1c	¿Dónde diablos está mi hermana?
+4680	yh2a	Se te acaba el tiempo Cyrus
+4681	yh2c	Hablemos
+4682	yh4a	Más vale que esto sea bueno Cyrus
+4683	yh4c	Gracias por venir
+4684	yhda	Nadie conoce las aguas que rodean Stros M'Kai como la Liga revoltosa. Nos movemos entre sombras y líneas que ni siquiera saben que existen
+4685	yhdc	¿Por qué estás tan seguro de que los demás no saben dónde está tu escondite?
+4686	yica	Yo soy el que hace las preguntas. ¿Cómo entraste en el faro?
+4687	yicc	Soy Cyrus, hermano de Iszara. Y exijo saber dónde está
+4688	yila	No estoy segura de por qué estoy hablando contigo. ¿Cómo sé siquiera que eres quien dices ser? Voy a necesitar alguna prueba
+4689	yilc	Sé que mi hermana está en la Liga. Ahora llévame con ella
 4689	ylaa	"¿Fuiste tú? Eh. Una incursión necesaria, me temo. El Capitán Brennan ha estado moviendo muchas mercancías para el Imperio. Pero debido a tu implicación, tendremos que esperar
 4690	ylac	Creía que ya tenía tu atención. Un par de tus chicos intentaron tomar el barco en el que navegué
 4691	yn1a	Cyrus. Contamos contigo. Eres el único que puede conseguirla. Por favor. Encuentra la gema. Despierta a A'tor y reúne a las Coronas
