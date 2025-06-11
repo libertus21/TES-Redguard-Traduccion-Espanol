@@ -1,10 +1,10 @@
-39	$001	Derrotado ataque de piratas de la Liga Inquieta al barco de Brennan. Llegada al puerto de Stros M'kai. Tobías dice que nos encontremos en Draggin' Tale.
-40	$002	Acepta el encargo de Kotaro de entregar el amuleto al gobernador Richton en nombre de N'gasta. Recoge el amuleto de N'gasta. Pagado 100 de oro; recoger el saldo de 200 de oro de Kotaro después de la entrega.
-41	$003	Kotaro dice Draggin' Tale en la plaza del pueblo; sigue las rampas cuesta arriba.
-42	$004	Tobías dice que visites al Hermano Nidal en el templo para saber más sobre Iszara.
-43	$005	Tobías dice que zarpa de Stros M'kai al atardecer para evitar el riesgo de arresto imperial.
-44	$006	Tobías sospecha de Richton en la desaparición de Iszara.
-45	$007	Tobías dice que su amiga Siona, en los muelles, podría ayudar con información sobre los Crown.
+39	$001	Repelido el ataque de piratas de la Liga Revoltosa al barco de Brennan. Arribamos al puerto de Stros M'kai. Tobías sugiere encontrarnos en la taberna Draggin' Tale.
+40	$002	Aceptado el encargo de Kotaro de entregar el amuleto al gobernador Richton en nombre de N'gasta. He recogido el amuleto. Me pagó 100 monedas de oro; debo recoger el resto de 200 de oro de Kotaro tras la entrega.
+41	$003	Kotaro indica que la taberna Draggin' Tale está en la plaza del pueblo; hay que subir por las rampas.
+42	$004	Tobías aconseja visitar al Hermano Nidal en el templo para averiguar más sobre Iszara.
+43	$005	Tobías dice que zarpará de Stros M'kai al anochecer para evitar ser arrestado por los imperiales.
+44	$006	Tobías sospecha que Richton está detrás de la desaparición de Iszara.
+45	$007	Tobías menciona que su amiga Siona, que está en los muelles, podría tener información sobre los Corona.
 46	$008	Dreekius dice que la Capitán Brennan me está buscando.
 47	$009	Dreekius dice que un borracho bretón, Crendal, alardeaba de tener un trozo de mapa del legendario Frasco de Lillandril.
 48	$010	Dreekius cree que un dragón guarda el soulgem en un tesoro secreto en las catacumbas. Dreekius dice que una punta de arma tostada en fuego de dragón atravesará a un dragón como ninguna otra.
