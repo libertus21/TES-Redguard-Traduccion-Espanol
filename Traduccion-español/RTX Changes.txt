@@ -80,68 +80,68 @@
 118	$080	J'ffer me ha contado una leyenda sobre un mozo de cuadra que, usando el Frasco de Lillandril, logró derrotar al Gran Mago de Valenwood. Por lo que parece, el artefacto debe ser un poderoso objeto antimagia, capaz de absorber los hechizos.
 119	$081	Cuando le pregunté cómo llegar al Draggin Tale, la capitana Brennan me indicó que subiera por el puente de la derecha, cruzara la puerta de la plaza del pueblo y buscara el letrero.
 120	$082	S'rathra, mi contacto en Wayrest, me hizo llegar una carta de Tobías informándome sobre la desaparición de mi hermana Iszara. De inmediato, partí hacia la isla de Stros M'kai en Hammerfell.
-121	$083	Tras una reciente guerra civil, el Imperio de Tiber Septim gobierna Hammerfell. Una facción de la Guardia Roja, los Forebears, se alió con el Imperio para derrotar a la facción opuesta de la Guardia Roja, los Crowns, que favorecían el gobierno del Rey Thassad y su hijo y heredero, el Príncipe A'tor.
-122	$084	Con Thassad muerto, y el Príncipe A'tor derrotado por el Almirante Imperial Richton en la batalla final de Stros M'kai, las guarniciones Imperiales están estacionadas en cada ciudad de Hammerfell, y Lord Richton reina como Gobernador Provisional en Stros M'kai.
-123	$085	Por Trithik supe que el príncipe A'tor tenía tratos con la Liga Inquieta, aunque las Coronas consideraban que la Liga no era de fiar.
-124	$086	Trithik dice que el Gobernador Richton ordenó destruir el Casco Antiguo, refugio de los Corona, con fuego de dragón.
-125	$087	Según Trithik, aunque el cuerpo del príncipe A'tor se perdió en el mar, ya hay profecías de su regreso.
-126	$088	Cuando sugerí hablar con Richton, Trithik dijo que no se admiten Guardias Rojos en el palacio.
-127	$089	Falicia dice que oyó que el mapa del Frasco de Lillandril se rompió en cuatro pedazos. Dice que un trozo estaba inscrito en el fondo de una caja de plata con forma de barco.
-128	$090	El archimago Jaganvir sorprende a Falicia hablándole de Iszara, Joto y el soulgem. Jaganvir lanza un encantamiento convirtiéndome en gremlin para evitar que revele esta información a nadie.
-129	$091	Gremlin. Yuppee nub nub. Lalloo! Cha! Enj! buscar! regresar a negro forma!
-130	$092	Gremlin. Yuppee nub nub. Lalloo! Cha! Enj! Me! Bak! necesito! mago!
-131	$093	Siona dice que se puede contactar con la Liga Inquieta a través de la Guarida del Contrabandista en el sótano de Maiko.
-132	$094	Mariah dice que la Liga Revoltosa podría ser contactada a través de la Guarida del Contrabandista.
-133	$095	Aceptar ayudar a encontrar una manera de ayudar a la madre de Coyle completar el ritual que preservará el alma de su hermano de la nigromante soulsnare.
-134	$096	Colocar las piedras estelares correctamente permitió a Saban completar su ritual y garantizar un viaje seguro al otro mundo para el alma de Hayle.
-135	$097	La maldición de un nigromante afecta a Stros M'kai. Según Trithik, los bancos de arena donde se encuentra el nigromante están al oeste, a lo largo de un camino sobre un puente.
-136	$098	Siona dice que es amiga de Tobías y que está encantada de ayudarme.
-137	$099	Siona dice que Richton está acompañado por un asesino elfo oscuro de ojos rojos, Dram, de Morrowind.
-138	$100	Se necesita una contraseña para entrar en la Guarida del Contrabandista.
-139	$101	Siona insinúa que Iszara era amiga -BUENA amiga- del príncipe, y que quizá por eso desapareció cuando Richton llegó a la ciudad.
-140	$102	Siona dice que el palacio del gobernador está subiendo la colina -no tiene pérdida-, pero que no esperen colarse.
-141	$103	Según Siona, el dragón utilizado por los imperiales para derrotar a los coronas sigue en las catacumbas bajo el palacio.
-142	$104	El palacio del gobernador está «en lo alto de la colina... la estructura más grandiosa de Stros M'kai», según Kotaro.
-143	$105	Mariah dice que la última vez que vio a Iszara se dirigía al Cartographer's.
-144	$106	Mariah dice que ha visto a miembros de la Liga entrando y saliendo de la Guarida del Contrabandista, debajo de la del Cartógrafo.
-145	$107	A Gerrick le preocupa que Iszara haya buscado malaquita a través de la Guarida del Contrabandista.
-146	$108	Gerrick cree que la Liga Inquieta está relacionada con los contrabandistas que operan en la Guarida del Contrabandista, bajo la tienda del Cartógrafo.
-147	$109	Cuando Prnell ve un barco, sale a la pasarela y agita una bandera para que Favis sepa que debe tocar la campana.
-148	$110	Nidal sugiere que el anillo de Voa podría disipar un campo de estasis en el cuerpo de A'tor.
-149	$111	Nidal reveló que el cuerpo de A'tor está oculto en el templo, preservado de la descomposición por un hechizo de estasis. Nidal sugiere que el anillo de Voa podría disipar un campo de estasis en el cuerpo de A'tor, pero no da ninguna sugerencia de por qué Kithral o Iszara lo intentarían.
-150	$112	Nidal sugiere que Iszara y Kithral planeaban usar el anillo de Voa para disipar el campo de estasis en el cuerpo de A'tor, permitiendo así una transferencia del alma de A'tor desde el soulgem de nuevo al cuerpo del Príncipe...
-151	$113	Nidal estuvo de acuerdo en que Iszara y Kithral no planeaban disipar el campo de estasis del cuerpo preservado de A'tor sólo para dejar que el cuerpo del Príncipe se pudriera. Debían de tener en mente algún otro uso para el anillo.
-152	$114	Nidal reveló que el cuerpo de A'tor está oculto en el templo, preservado de la descomposición por un hechizo de estasis.
-153	$115	Nidal dice que no puede trabajar la magia del soulgem, que se necesita un mago.
-154	$116	Nidal dice que el campo de estasis bloquearía la magia del soulgem, incluso si un mago estuviera disponible. 
-155	$117	Nidal dice que necesito el anillo para disipar el campo de estasis, pero que el anillo también está más allá de su habilidad.
-156	$118	Nidal dice que no puede trabajar la magia del anillo, que se necesita un mago.
-157	$119	Nidal dice que necesitaría el soulgem para restaurar al Príncipe, y que la magia del soulgem está más allá de su habilidad.
-158	$120	Para restaurar al Príncipe, encuentra a un mago que pueda hacer funcionar la magia tanto del soulgem como del anillo.
-159	$121	Nidal dice que el anillo sólo disiparía el campo de estasis, haciendo que el cuerpo del Príncipe se convierta en polvo. Encuentra el soulgem para restaurar al Príncipe.
-160	$122	Coyle habla de los tres círculos de los cielos, y de los tres guardianes que protegen a sus tres cargos, cada uno a su círculo del cielo.
-161	$123	Erasmo dice que no bajará a la sala de engranajes. Ve a la sala de engranajes e instala el engranaje en el lado más alejado para arreglar el telescopio.
-162	$124	Erasmo dice que se necesita un engranaje enano para arreglar el telescopio... no cualquier engranaje.
-163	$125	Erasmo se alegra de que el telescopio esté arreglado.
-164	$126	Has usado el Frasco de Lillandril para derrotar al nigromante N'gasta.
-165	$127	Mezcla de pociones. Vierte las pociones en el sigilo mágico del suelo de la habitación de la torre de N'gasta para abrir una puerta al reino del Señor Daedra Clavicus Vile.
-166	$128	Kotaro identifica a N'gasta como un viejo ermitaño inofensivo que vive en la torre del viejo mago, en los bajíos del noroeste de la isla.
-167	$129	Kotaro dice que los supersticiosos lugareños llaman a N'gasta nigromante.
-168	$130	Mariah recuerda que vio al niño arkay, Kithral, visitando el parque, contemplando la cascada y escribiendo en su diario. También lo describe como un «Corona apasionado» y piensa que hace meses que no lo ve.
-169	$131	El parque está por la cascada, dice Mariah.
-170	$132	N'gasta dice que para entregar el amuleto al gobernador personalmente, y que el contratista pagará el resto de la tarifa después de la entrega.
-171	$133	Iszara está entre los vivos, le asegura N'gasta, o sabría lo contrario.
-172	$134	N'gasta concede que el Gremio de Magos se opone a la práctica de su oficio, pero que el gobernador le favorece frente a los del Gremio de Magos.
-173	$135	El atrapa alma de N'gasta captura los espíritus difuntos de los «tontos que descuidan la santidad de sus almas».
-174	$136	La trampa de almas captura únicamente a aquellos espíritus que no están protegidos por rituales sagrados, o que fueron sepultados en tierra profana, según N'gasta.
-175	$137	N'gasta sirve al Príncipe Daédrico Clavicus Vile, y afirma que Vile concede favores a cambio de cada alma que N'gasta le entrega. 
-176	$138	De paso, N'gasta menciona que sólo queda con vida un hermano de Arkay, ya que el otro cayó en su red hace tres lunas mayores… más o menos en la misma época en que Iszara desapareció.
-177	$139	De pasada, N'gasta menciona que sólo queda un hermano de Arkay con vida, pues el otro cayó en su red hace tres lunas mayores... más o menos al mismo tiempo en que Iszara desapareció.
-178	$140	Lakene dice que los Imperiales están buscando los tesoros tecnológicos antiguos de los Enanos en las ruinas de las montañas.
-179	$141	Hayle nació bajo el signo de la serpiente. Avik dice que los yokudanos creen que las estrellas guían tu destino desde el nacimiento hasta la muerte y más allá.
-180	$142	La madre de Hayle, Saban, no puede completar el ritual de enterramiento del niño asesinado porque tiene que proteger su espíritu de la trampa para almas tendida por N'gasta. Según Avik, esta trampa envía el espíritu del difunto a N'gasta a menos que la víctima sea enterrada en tierra consagrada.
+121	$083	Después de una guerra civil reciente, Hammerfell ha quedado bajo el control del Imperio de Tiber Septim. Los Precursores, una facción de los Guardias Rojos, se aliaron con el Imperio para derrotar a sus rivales, los Coronas, quienes apoyaban el gobierno del Rey Thassad y de su hijo y heredero, el Príncipe A'tor.
+122	$084	Tras la muerte de Thassad y la derrota del Príncipe A'tor a manos del Almirante Imperial Richton en la batalla final de Stros M'kai, el Imperio ha establecido guarniciones en todas las ciudades de Hammerfell. Lord Richton gobierna ahora como Gobernador Provisional en Stros M'kai.
+123	$085	Trithik me ha revelado que el príncipe A'tor mantenía relaciones con la Liga Revoltosa, aunque los Coronas desconfiaban de ella.
+124	$086	Trithik me ha contado que el Gobernador Richton dio la orden de arrasar el Casco Antiguo, donde se refugiaban los Coronas, utilizando el fuego de un dragón.
+125	$087	Trithik me ha dicho que, a pesar de que el cuerpo del príncipe A'tor se perdió en el mar, ya circulan profecías sobre su regreso.
+126	$088	Cuando propuse hablar directamente con Richton, Trithik me advirtió que no permiten la entrada de Guardias Rojos en el palacio.
+127	$089	Falicia me ha contado que escuchó que el mapa del Frasco de Lillandril está dividido en cuatro fragmentos. Me ha dicho que uno de ellos estaba grabado en el fondo de una caja plateada que tiene forma de barco.
+128	$090	El archimago Jaganvir ha sorprendido a Falicia hablando sobre Iszara, Joto y la gema de alma. Para evitar que pueda revelar esta información, Jaganvir me ha lanzado un hechizo que me ha transformado en un gremlin.
+129	$091	¡Gremlin! ¡Yupiii nub nub! ¡Lalú! ¡Cha! ¡Enj! ¡Buscar! ¡Volver a forma normal!
+130	$092	¡Gremlin! ¡Yupiii nub nub! ¡Lalú! ¡Cha! ¡Enj! ¡Yo! ¡Bak! ¡Necesitar! ¡Mago!
+131	$093	Siona me ha informado que es posible contactar con la Liga Revoltosa a través de la Guarida del Contrabandista, que se encuentra en el sótano de Maiko.
+132	$094	Mariah me ha dicho que podría ponerme en contacto con la Liga Revoltosa a través de la Guarida del Contrabandista.
+133	$095	He aceptado ayudar a encontrar una forma de asistir a la madre de Coyle para completar el ritual que protegerá el alma de su hermano de la trampa de almas del nigromante.
+134	$096	Al colocar las piedras estelares en la posición correcta, he permitido que Saban complete su ritual y asegure un paso seguro al más allá para el alma de Hayle.
+135	$097	Una maldición de un nigromante se ha extendido por Stros M'kai. Trithik me ha indicado que los bancos de arena donde habita el nigromante se encuentran al oeste, siguiendo un camino que cruza un puente.
+136	$098	Siona me ha dicho que es amiga de Tobías y que está más que dispuesta a ayudarme.
+137	$099	Siona me ha advertido que Richton va acompañado de Dram, un asesino elfo oscuro de ojos rojos proveniente de Morrowind.
+138	$100	Para poder entrar en la Guarida del Contrabandista necesito conocer una contraseña.
+139	$101	Siona me ha insinuado que Iszara y el príncipe eran más que amigos, y que esa podría ser la razón de su desaparición cuando Richton tomó el control de la ciudad.
+140	$102	Siona me ha explicado que el palacio del gobernador está en lo alto de la colina -imposible perderse-, aunque me ha advertido que no intente colarme.
+141	$103	Siona me ha revelado que el dragón que los imperiales usaron para derrotar a los Coronas aún se encuentra en las catacumbas bajo el palacio.
+142	$104	Kotaro me ha descrito el palacio del gobernador como "el edificio más imponente de Stros M'kai, ubicado en la cima de la colina".
+143	$105	Mariah me ha contado que la última vez que vio a Iszara, esta se dirigía a la tienda del Cartógrafo.
+144	$106	Mariah me ha dicho que ha visto a miembros de la Liga Revoltosa entrando y saliendo de la Guarida del Contrabandista, que está situada bajo la tienda del Cartógrafo.
+145	$107	Gerrick está preocupado ante la posibilidad de que Iszara haya intentado conseguir malaquita en la Guarida del Contrabandista.
+146	$108	Gerrick sospecha que la Liga Revoltosa mantiene vínculos con los contrabandistas que operan desde la Guarida del Contrabandista, ubicada bajo la tienda del Cartógrafo.
+147	$109	Cuando Prnell avista un barco, sale a la pasarela y ondea una bandera para indicarle a Favis que debe hacer sonar la campana.
+148	$110	Nidal me ha sugerido que el anillo de Voa podría tener el poder de disipar el campo de estasis que mantiene preservado el cuerpo de A'tor.
+149	$111	Nidal me ha revelado que mantiene oculto el cuerpo de A'tor en el templo, preservado de la descomposición mediante un hechizo de estasis. Me ha explicado que el anillo de Voa podría romper este campo de estasis, aunque no comprende por qué Kithral o Iszara querrían intentar algo así.
+150	$112	Nidal ha sugerido que Iszara y Kithral podrían haber planeado usar el anillo de Voa para disipar el campo de estasis que preserva el cuerpo de A'tor, lo que permitiría transferir su alma desde la gema de alma de vuelta a su cuerpo...
+151	$113	Nidal ha coincidido conmigo en que Iszara y Kithral no pretenderían romper el campo de estasis que preserva el cuerpo de A'tor solo para dejar que se deteriorara. Deben tener algún otro propósito para el anillo.
+152	$114	Nidal me ha confiado que mantiene el cuerpo de A'tor oculto en el templo, donde un hechizo de estasis lo protege de la descomposición.
+153	$115	Nidal me ha explicado que él no puede manipular la magia de la gema de alma, que para eso se necesitaría un mago.
+154	$116	Nidal me ha advertido que el campo de estasis bloquearía la magia de la gema de alma, incluso si contáramos con la ayuda de un mago.
+155	$117	Nidal me ha dicho que necesitaré el anillo para disipar el campo de estasis, pero que usar su magia también está fuera de sus capacidades.
+156	$118	Nidal me ha explicado que no puede utilizar la magia del anillo, que para eso necesitaríamos la ayuda de un mago.
+157	$119	Nidal me ha indicado que necesitaríamos la gema de alma para restaurar al Príncipe, pero que manipular su magia está más allá de sus capacidades.
+158	$120	Para poder restaurar al Príncipe, debo encontrar a un mago que sea capaz de manejar tanto la magia de la gema de alma como la del anillo.
+159	$121	Nidal me ha advertido que el anillo por sí solo solo disiparía el campo de estasis, lo que causaría que el cuerpo del Príncipe se redujera a polvo. Necesito encontrar la gema de alma para poder restaurarlo.
+160	$122	Coyle me ha hablado sobre los tres círculos celestiales y los tres guardianes que protegen sus dominios, cada uno vigilando su propio círculo en el firmamento.
+161	$123	Erasmo se niega a bajar a la sala de mecanismos. Tendré que ir yo mismo e instalar el engranaje en el extremo más alejado para reparar el telescopio.
+162	$124	Erasmo me ha explicado que necesitamos específicamente un mecanismo enano para reparar el telescopio... no servirá cualquier engranaje común.
+163	$125	Erasmo está muy contento de que hayamos conseguido reparar el telescopio.
+164	$126	He utilizado el Frasco de Lillandril para vencer al nigromante N'gasta.
+165	$127	He mezclado las pociones. Debo verterlas sobre el sello mágico en el suelo de la habitación de la torre de N'gasta para abrir un portal al reino del Príncipe Daédrico Clavicus Vile.
+166	$128	Kotaro me ha descrito a N'gasta como un anciano ermitaño aparentemente inofensivo que habita en la torre del antiguo mago, situada en los bajíos al noroeste de la isla.
+167	$129	Kotaro me ha comentado que los habitantes más supersticiosos de la isla se refieren a N'gasta como nigromante.
+168	$130	Mariah recuerda haber visto al joven sacerdote de Arkay, Kithral, visitando el parque, observando la cascada y escribiendo en su diario. Me lo ha descrito como un "ferviente seguidor de los Coronas" y me ha dicho que hace meses que no lo ve por la ciudad.
+169	$131	Mariah me ha indicado que el parque se encuentra cerca de la cascada.
+170	$132	N'gasta me ha dicho que debo entregar el amuleto al gobernador en persona, y que el contratista me pagará el resto de la recompensa después de completar la entrega.
+171	$133	N'gasta me ha asegurado que Iszara sigue con vida, pues de lo contrario él lo sabría.
+172	$134	N'gasta ha admitido que el Gremio de Magos se opone a sus prácticas, pero me ha asegurado que cuenta con el favor del gobernador por encima de los miembros del Gremio.
+173	$135	La trampa de almas de N'gasta atrapa los espíritus de aquellos "insensatos que no protegen la santidad de sus almas".
+174	$136	Según N'gasta, su trampa de almas solo puede capturar los espíritus de aquellos que no fueron protegidos mediante rituales sagrados o que recibieron sepultura en tierra profana.
+175	$137	N'gasta está al servicio del Príncipe Daédrico Clavicus Vile, y me ha revelado que este le otorga favores por cada alma que le entrega.
+176	$138	Durante nuestra conversación, N'gasta ha mencionado casualmente que solo queda vivo un sacerdote de Arkay, pues el otro cayó en sus redes hace tres lunas mayores... aproximadamente cuando Iszara desapareció.
+177	$139	[Esta entrada parece ser un duplicado de la anterior, podemos omitirla ya que la información ya está incluida en la entrada 176]
+178	$140	Lakene me ha contado que los Imperiales están buscando antiguos artefactos dwemer en las ruinas de las montañas.
+179	$141	Me he enterado de que Hayle nació bajo el signo de la Serpiente. Avik me explicó que los yokudanos creen que las estrellas guían nuestro destino desde el nacimiento hasta la muerte, y más allá.
+180	$142	Saban, la madre de Hayle, no puede completar el ritual funerario del niño asesinado porque debe proteger su espíritu de la trampa de almas de N'gasta. Avik me ha explicado que esta trampa envía el espíritu del difunto directamente a N'gasta, a menos que el cuerpo sea enterrado en tierra consagrada.
 181	$bel	EXAMINAR LA CAMPANA
-182	$but	ILUMINA AL TROLL CON LA ANTORCHA
+182	$but	ALUMBRAR AL TROLL CON LA ANTORCHA
 183	$can	VELA DE PRUEBA QUE CAE
 184	$ct1	INSERTA LA RUNA EN LA MUESCA
 185	$ct2	QUITAR RUNA DE LA MUESCA
