@@ -2048,20 +2048,20 @@
 2243	bnfa	MIS NUEVOS AMIGOS ESTARÁN ENCANTADOS DE QUE HAYAS DECIDIDO PASARTE POR AQUÍ.
 2244	bnfb	AGUARDA UN MOMENTO, TENGO ALGO PARA TI.
 2245	bnfd	¿¡QUÉ...!? ¡¿TÚ...!?
-2246	bnoc	MIS ENREDOS IMPERIALES NO SON DE TU INCUMBENCIA. ¿QUÉ ES LO QUE QUIERES?
-2247	bo1c	¿ASÍ ES, HM?
-2248	boca	Los lugareños aún se resisten, pero con el tiempo apreciarán las ventajas de pertenecer al Imperio. 
-2249	bocc	¿Cómo le ha ido a Stros M'Kai con sus nuevos amos imperiales? 
-2250	bpha	Eso parece. Se han vuelto audaces, atacando una nave tan adentro de la Bahía de Hunding. Pero dale tiempo, el Imperio sólo ha estado aquí unos meses.
-2251	bphc	Parece que el Imperio no ha eliminado a todos los piratas de Stros M'Kai.
-2252	b72c	Y FUISTE... DE GRAN AYUDA, BRENNAN.
-2253	b73c	¿QUIÉNES SON ESTOS TIPOS DE LA LIGA revoltosa?
-2254	b71a	¡BUEN TRABAJO, CYRUS! CONSIDERE SU PASAJE PAGADO.
-2256	b72a	¡MIRAD! ¡ALLÍ!
-2257	b72b	SE VA.
-2258	b73a	SIGAMOS ADELANTE, ANTES DE QUE APAREZCAN MÁS.
-2259	byx1	NO AGITES ESA ESPADA POR AQUÍ, MUCHACHO. MOLESTA A LOS CIVILES.
-2260	bysc	BUENA IDEA. MARCA EL CAMINO.
+2246	bnoc	MIS TRATOS CON LOS IMPERIALES NO SON ASUNTO TUYO. ¿QUÉ ES LO QUE QUIERES?
+2247	bo1c	¿ES ASÍ, EH?
+2248	boca	Los nativos aún se resisten, pero con el tiempo apreciarán los beneficios de pertenecer al Imperio. 
+2249	bocc	¿Cómo le va a Stros M'Kai bajo sus nuevos señores imperiales? 
+2250	bpha	Así parece. Se han vuelto osados, atacando un navío tan dentro de la Bahía de Hunding. Pero dale tiempo, el Imperio solo lleva aquí unos meses.
+2251	bphc	Parece que el Imperio no ha logrado eliminar a todos los piratas de Stros M'Kai.
+2252	b72c	Y HAS SIDO... DE GRAN AYUDA, BRENNAN.
+2253	b73c	¿QUIÉNES SON ESTOS TIPOS DE LA LIGA INQUIETA?
+2254	b71a	¡EXCELENTE TRABAJO, CYRUS! CONSIDERA TU PASAJE PAGADO.
+2256	b72a	¡MIRAD! ¡ALLÍ ESTÁ!
+2257	b72b	SE ESCAPA.
+2258	b73a	CONTINUEMOS, ANTES DE QUE APAREZCAN MÁS.
+2259	byx1	NO BLANDAS ESA ESPADA POR AQUÍ, MUCHACHO. INCOMODA A LOS CIVILES.
+2260	bysc	BUENA IDEA. GUÍA EL CAMINO.
 2261	bzz1	AH, CYRUS. ¿CÓMO ESTÁ USTED?
 2262	bzz2	A tu salud, muchacho.
 2263	bxz1	Sí, sí, sí.
@@ -2259,188 +2259,188 @@
 2471	cwht	QUE NO FUNCIONARÁ.
 2472	cwof	NO ENCAJA.
 2473	cxam	UN TROZO DE ÁMBAR.
-2474	cxcb	HUH. QUÉ ES UN MAGO SIN UNA BOLA DE CRISTAL.
-2475	cxdh	UN CORAZÓN DE DEADRA. TIENEN UN GRAN VALOR PARA LOS HECHICEROS.
-2476	cxgp	no puedo cargar mas oro o la anduana me roba.
-2477	cxld	ESTE BOTE PARECE CONTENER POLVO DE LICH. MUY RARO.
-2478	cxmb	VOLÚMENES SOBRE EL ARTE DE LA MAGIA. NUNCA TENDRÍA LA PACIENCIA.
-2479	cxmg	EL GREMIO DEBE USARLO EN SU MAGIA.
-2480	cxob	SEGURO QUE HUELE A SANGRE DE ORCO.
+2474	cxcb	BAH. ¿QUÉ ES UN MAGO SIN UNA BOLA DE CRISTAL?
+2475	cxdh	UN CORAZÓN DE DAEDRA. TIENEN UN GRAN VALOR PARA LOS HECHICEROS.
+2476	cxgp	No puedo cargar más oro o la aduana me lo confiscará.
+2477	cxld	ESTE FRASCO PARECE CONTENER POLVO DE LICHE. MUY RARO.
+2478	cxmb	TOMOS SOBRE EL ARTE DE LA MAGIA. NUNCA TENDRÍA LA PACIENCIA.
+2479	cxmg	EL GREMIO DEBE USARLO EN SUS RITUALES.
+2480	cxob	SEGURO QUE APESTA A SANGRE DE ORCO.
 2481	cxpt	NO PUEDO LLEVAR MÁS DE ESTA POCIÓN.
-2482	cxse	ESTE TROZO DE MADERA PARECE SER UNA OREJA DE ESPRÍN. ES EXTRAÑO VER UNA DE ESTAS TAN LEJOS DE TIERRA FIRME...
+2482	cxse	ESTE TROZO DE MADERA PARECE SER UNA OREJA DE SPRIGGAN. ES EXTRAÑO VER UNA DE ESTAS TAN LEJOS DEL CONTINENTE...
 2483	cxsh	MECHONES DE PELO DE SANTO.
-2484	cxsl	ES UNA PEQUEÑA SALAMANDRA PÚRPURA.
-2485	cxps	UN SACO SECO DE UN CERDO.
-2486	cxuh	ESTE CUERNO PARECE SER DE UN UNICORNIO.
-2487	&001	¿ES LO MEJOR QUE TIENES?
+2484	cxsl	ES UNA PEQUEÑA SALAMANDRA VIOLÁCEA.
+2485	cxps	UNA VEJIGA SECA DE CERDO.
+2486	cxuh	ESTE CUERNO PARECE SER DE UNICORNIO.
+2487	&001	¿ESO ES TODO LO QUE TIENES?
 2490	&004	NO, ESTÁ DESARMADO.
 2491	&005	ESO DEBE DOLER.
-2492	&006	DIABLO DESAGRADABLE, ¿VERDAD?
-2493	&007	¡Vamos!
+2492	&006	MALDITO DESAGRADABLE, ¿VERDAD?
+2493	&007	¡En guardia!
 2494	&008	¡PUEDES HACERLO MEJOR QUE ESO!
-2495	&009	TODO DEMASIADO FÁCIL.
-2497	&011	ESO ES CORRECTO.
-2498	&012	MÁS CERCA. MÁS CERCA.
-2499	&013	LA PRIMERA VEZ, EH.
+2495	&009	DEMASIADO FÁCIL, TODO ESTO.
+2497	&011	ASÍ ES COMO SE HACE.
+2498	&012	MÁS CERCA. AÚN MÁS CERCA.
+2499	&013	TU PRIMERA VEZ, ¿EH?
 2500	&014	NO ESTÁ MAL. ¡PRUEBA ESTO!
 2501	&015	DEMASIADO LENTO.
-2502	&016	NO ESTÁ MAL. PRUEBA ESTE.
-2503	&017	UN AFEITADO APURADO.
-2504	&018	OTRO PASE AMIGO.
-2505	&019	GRACIAS POR EL EJERCICIO.
-2506	&020	FÁCIL aqui.
-2507	&021	NO ESTA VEZ.
-2508	&022	NO, ELLA ESTÁ DESARMADA.
-2509	d12c	HE PENSADO QUE PODRÍA ECHAR UNA MANO.
-2510	d1da	Pensé que un elfo loco estaba trabajando en eso
-2511	d1dc	Encontré este engranaje que podría ser útil. Creo que puedo arreglar el Observatorio con él
+2502	&016	NADA MAL. AHORA PRUEBA ESTO.
+2503	&017	POR LOS PELOS.
+2504	&018	OTRA RONDA, AMIGO.
+2505	&019	GRACIAS POR EL ENTRENAMIENTO.
+2506	&020	Pan comido.
+2507	&021	ESTA VEZ NO.
+2508	&022	NO, ESTÁ DESARMADA.
+2509	d12c	PENSÉ QUE PODRÍA ECHAR UNA MANO.
+2510	d1da	Creí que había un elfo chiflado trabajando en eso.
+2511	d1dc	Encontré este engranaje que podría servir. Creo que puedo reparar el Observatorio con él.
 2512	d1ia	¿Y ahora qué?
-2513	d1ic	Iszara está a salvo, Dreekius, tanto como cualquiera puede estarlo del Imperio. Ella está en el escondite junto con el resto de la Liga
-2514	d1sa	Los otros, por supuesto... los que no están despellejados a escala. Vemos que las tribus de Septim no estarán mucho tiempo satisfechas con los tronos de los hombres y la raza mayor.
-2515	d1sc	¿Cuál es su especialidad?
-2516	d2ia	¿Qué te hace falta?
-2517	d2ic	Están esperandome a que consiga todo lo necesario para que el Príncipe regrese
-2518	d2sa	Un día vendrán al Pantano Negro. Los argonianos ya perdimos tierras una vez cuando no conocíamos a nuestro enemigo
+2513	d1ic	Iszara está a salvo, Dreekius, tan a salvo como se puede estar del Imperio. Está en el refugio junto con el resto de la Liga.
+2514	d1sa	Los otros, por supuesto... los que no han sido despojados de sus escamas. Vemos que las tribus de Septim no se contentarán por mucho tiempo con los tronos de los hombres y la raza mayor.
+2515	d1sc	¿Cuál es tu especialidad?
+2516	d2ia	¿Qué necesitas?
+2517	d2ic	Están esperando a que consiga todo lo necesario para que el Príncipe regrese.
+2518	d2sa	Un día vendrán al Pantano Negro. Los argonianos ya perdimos tierras una vez por no conocer a nuestro enemigo.
 2519	d3ia	Ya veo.
-2520	d3ic	Necesito un hechicero lo suficientemente poderoso para extraer el alma del Príncipe de la gema
-2521	d3sa	Hay otros lugares como universidades, el ejército, el gremio mágico, pero mi objetivo es trazar la geografía del deseo del hombre, que se traza más fácilmente cuando está borracho y parloteando.
-2522	d3sc	Ya veo. ¿Y qué mejor lugar para aprender las necesidades de los hombres que en la barra?
-2523	d4ia	Ya veo
-2524	d4ic	Necesito la gema misma.
+2520	d3ic	Necesito un hechicero con el poder suficiente para extraer el alma del Príncipe de la gema.
+2521	d3sa	Hay otros lugares como universidades, el ejército, el gremio de magos, pero mi objetivo es trazar el mapa de los deseos del hombre, algo que se revela más fácilmente cuando está ebrio y parlanchín.
+2522	d3sc	Ya veo. ¿Y qué mejor lugar para conocer las necesidades de los hombres que en la taberna?
+2523	d4ia	Ya entiendo.
+2524	d4ic	Necesito conseguir la gema.
 2525	da1a	¿Qué vas a entregar?
-2526	da1c	Oye, Dreekius, tengo un trabajo de entrega que me llevará al Palacio seguro
+2526	da1c	Oye, Dreekius, tengo un encargo que me dará acceso seguro al Palacio.
 2527	da2a	¿Ya lo tienes?
 2528	da2c	Un amuleto para el Gobernador.
-2529	da3a	No olvides traer algo de oro para pagar al barquero, Cyrus. Y ten cuidado
-2530	da3c	Todavía no. Tengo que recogerlo en la isla del nigromante
-2531	da4c	Gracias, Dreekius, lo haré
-2532	da5a	Entonces entrégalo, y quizás mientras estés allí puedas hacer algunas preguntas sobre tu hermana
-2533	da5c	Sí, lo conseguí del nigromante yo mismo.
-2534	dara	Mil millas de pantano, ciénaga y hedor no son atractivas para la mayoría de los humanos, y el terror a la gripe Knahaten aún mantiene a raya a la mayoría. Pero nuestros días de prueba llegarán.
-2535	darc	¿Cómo han resistido tanto tiempo al Imperio los habitantes de Black Marsh?
-2536	dbma	Sí, lo hizo, y luego se ocultó bien después de todo eso, hasta hace tres meses.
+2529	da3a	No olvides llevar algo de oro para pagar al barquero, Cyrus. Y sé precavido.
+2530	da3c	Todavía no. Tengo que recogerlo en la isla del nigromante.
+2531	da4c	Gracias, Dreekius, así lo haré.
+2532	da5a	Entonces entrégalo, y quizás mientras estés allí puedas hacer algunas preguntas sobre tu hermana.
+2533	da5c	Sí, se lo conseguí al nigromante en persona.
+2534	dara	Mil millas de pantano, ciénaga y pestilencia no resultan atractivas para la mayoría de los humanos, y el temor a la plaga Knahaten aún mantiene alejados a muchos. Pero nuestros días de prueba llegarán.
+2535	darc	¿Cómo han resistido tanto tiempo al Imperio los habitantes del Pantano Negro?
+2536	dbma	Sí, lo hizo, y después se mantuvo bien oculta tras todo aquello, hasta hace tres meses.
 2537	dbmc	Así que Iszara sí sobrevivió a la Batalla de Stros M'Kai.
-2538	dbyc	Será mejor que me vaya. ¿Podemos hablar más tarde?
-2539	dbya	Cuando quieras, cuando quieras.
-2540	dc1a	País de goblins
-2541	dc1c	Descubrí las cavernas bajo la ciudad.
-2542	dc2c	Sí, pero no he ido muy lejos. Tengo la sensación de que volveré
-2543	dcla	Prueba en el faro de Saintsport
-2544	dclc	Dreekius, necesito ponerme en contacto con la Liga Restless.
-2545	dcra	Su fuego ha desaparecido desde que perdieron al Príncipe. Pocos muestran sus caras en Stros M'Kai. Algunos se han marchado a tierra firme. Algunos pocos conspiran y planean todavía, alimentando sueños desvanecidos.
-2546	dcrc	Háblame de las Coronas.
-2547	dd1a	PRÁCTICA HABITUAL.
-2548	dd1c	HE ESTADO EN LAS RUINAS ENANAS, PERO NO PUEDO ENTRAR. HAY UN ACERTIJO EN EL FRENTE DE LA PUERTA...
-2549	dd2c	Y ESTÁ ESCRITO EN ENANO, ASÍ QUE NO PUEDO RESOLVERLO. TENDRÉ QUE ENCONTRAR UNA CLAVE SI QUIERO ENTRAR.
-2550	de1a	Un consejo: ten cuidado con la Tribu de Dragones del Emperador. El Rey Guerrero Tiber Septim no tolera la rebelión.
-2551	de2a	Y el Gobernador Richton ha prometido ejecución sumaria a cualquiera que tome las armas para oponerse a su gobierno.
-2552	de3a	Incluso si él fuera responsable, tal vez sería prudente proceder con cautela.
-2553	de3c	Ni lo soñaría. A menos que sea el responsable de la desaparición de mi hermana
-2554	de4c	Cautelosamente, ¿eh? Si supiera cómo hacerlo
-2555	df1a	¿Eres aficionado a la astrología?
-2556	df1c	El Observatorio está arreglado. Ahora puedo usar el telescopio
-2557	df2c	Me ayudará de alguna manera, estoy seguro
-2558	dfoa	El impuesto imperial sobre el licor me ha obligado a servir a todos, incluso a los villanos ancestrales de esta ciudad
-2559	dfoc	Los Antepasados parecen disfrutar de tu lugar
-2560	dg1c	Tengo la gema de alma, Dreekius. Y otra cabeza de dragón para tu pared que te traeré más tarde
+2538	dbyc	Será mejor que me marche. ¿Podemos hablar más tarde?
+2539	dbya	Cuando gustes, cuando gustes.
+2540	dc1a	Tierra de trasgos.
+2541	dc1c	He descubierto las cavernas bajo la ciudad.
+2542	dc2c	Sí, pero no me he adentrado mucho. Tengo el presentimiento de que volveré.
+2543	dcla	Prueba en el faro de Puerto Santo.
+2544	dclc	Dreekius, necesito contactar con la Liga Inquieta.
+2545	dcra	Su fuego se ha apagado desde que perdieron al Príncipe. Pocos se dejan ver en Stros M'Kai. Algunos han partido al continente. Unos pocos aún conspiran y traman, alimentando sueños marchitos.
+2546	dcrc	Cuéntame sobre las Coronas.
+2547	dd1a	COMO DE COSTUMBRE.
+2548	dd1c	HE ESTADO EN LAS RUINAS DWEMER, PERO NO PUEDO ENTRAR. HAY UN ENIGMA EN LA PUERTA...
+2549	dd2c	Y ESTÁ ESCRITO EN DWEMERICO, ASÍ QUE NO PUEDO DESCIFRARLO. TENDRÉ QUE ENCONTRAR UNA CLAVE SI QUIERO ENTRAR.
+2550	de1a	Un consejo: ten cuidado con la Tribu del Dragón del Emperador. El Rey Guerrero Tiber Septim no tolera la rebelión.
+2551	de2a	Y el Gobernador Richton ha prometido ejecución inmediata a cualquiera que empuñe las armas contra su gobierno.
+2552	de3a	Incluso si él fuera el responsable, quizás sería prudente actuar con cautela.
+2553	de3c	Ni lo soñaría. A menos que sea el responsable de la desaparición de mi hermana.
+2554	de4c	¿Con cautela, eh? Si supiera cómo hacerlo...
+2555	df1a	¿Te interesa la astrología?
+2556	df1c	El Observatorio está reparado. Ahora puedo usar el telescopio.
+2557	df2c	De alguna manera me será útil, estoy seguro.
+2558	dfoa	El impuesto imperial sobre el licor me ha obligado a servir a todos, incluso a los villanos ancestrales de esta ciudad.
+2559	dfoc	Los Antepasados parecen disfrutar de tu establecimiento.
+2560	dg1c	Tengo la gema de alma, Dreekius. Y otra cabeza de dragón para tu pared que te traeré después.
 2561	dg2a	Buena suerte, Cy.
-2562	dg2c	Ahora necesito encontrar a alguien que pueda hacer magia de gema de alma.
-2563	dg3a	Bien, bien
-2564	dg3c	Encontré una vieja gitana que puede hacer magia de gema de alma
-2565	dg4a	Estoy seguro de que encontrarás una manera.
-2566	dg4c	El cuerpo del Príncipe está cubierto por un hechizo de estasis. Necesito deshacerme de él.
-2567	dh0a	Por cierto, el capitán con el que viniste te estaba buscando. su nombre era Brennan.
-2568	dh1a	Lo sé. Tenía a Tobías hecho un tonto por creer que vendrías
-2569	dh1c	TABERNERO, BIENVENIDO. SOY CYRUS.
-2570	dh2a	Yo soy el que pasó de contrabando su carta para él. El Imperio ha estado vigilando todos los envíos desde este puerto; supuse que nuestras posibilidades eran escasas.
+2562	dg2c	Ahora necesito encontrar a alguien versado en la magia de las gemas de alma.
+2563	dg3a	Muy bien, muy bien.
+2564	dg3c	He encontrado a una vieja gitana que domina la magia de las gemas de alma.
+2565	dg4a	Estoy seguro de que hallarás la manera.
+2566	dg4c	El cuerpo del Príncipe está protegido por un hechizo de estasis. Necesito deshacerme de él.
+2567	dh0a	Por cierto, el capitán con el que llegaste te estaba buscando. Su nombre era Brennan.
+2568	dh1a	Lo sé. Tenía a Tobías convencido de que vendrías.
+2569	dh1c	TABERNERO, BIENVENIDO. ME LLAMO CYRUS.
+2570	dh2a	Yo fui quien pasó de contrabando su carta. El Imperio vigila todos los envíos desde este puerto; supuse que nuestras posibilidades eran escasas.
 2571	dh2c	¿Por qué?
-2572	dh3c	Muchas gracias, entonces.
-2574	dh5c	Muchas gracias entonces, Dreekius.
-2575	dh6a	¿Cómo estás, Cy?
+2572	dh3c	Te lo agradezco mucho.
+2574	dh5c	Muchas gracias, Dreekius.
+2575	dh6a	¿Qué tal estás, Cy?
 2576	dh6c	Hola, DREEKIUS.
-2577	dh7a	La Guardia Roja. Bien. Me alegro de verte, otra vez
-2578	dh7c	¿Cómo estás, Dreekius?
-2579	dh8a	AHÍ ESTÁ.
-2580	dh8b	ey, CY.
-2582	dh9a	¡Cyrus! Escuché que Lord Rotund te atrapó, pero que escapaste. Ten cuidado, sin embargo. Las patrullas imperiales están por todas partes ahora. Richton está furioso de nuevo. ¡JEJE! ¡Buen chico!
+2577	dh7a	El Guardia Rojo. Bien. Me alegra verte de nuevo.
+2578	dh7c	¿Qué tal, Dreekius?
+2579	dh8a	AQUÍ ESTÁ.
+2580	dh8b	¡Eh, CY!
+2582	dh9a	¡Cyrus! Me enteré de que Lord Rotund te capturó, pero que escapaste. Ten cuidado, no obstante. Las patrullas imperiales están por todas partes ahora. Richton está furioso otra vez. ¡JA! ¡Bien hecho, muchacho!
 2583	dh9c	Hola, Dreekius.
-2584	dhaa	Ah, y Siona también quiere verte. Se está convirtiendo en el tipo más buscado de la ciudad, ahora, eh?
-2585	dhba	Esperaba que pudieras estar allí para despedirlo, pero sin duda estabas demasiado ocupado; de todos modos, dejó esto para ti.
-2586	dhbc	Confío en que nuestro capitán haya logrado salir de la ciudad, sano y salvo.
+2584	dhaa	Ah, y Siona también quiere verte. Te estás convirtiendo en el hombre más buscado de la ciudad, ¿eh?
+2585	dhba	Esperaba que pudieras estar presente para despedirlo, pero seguramente estabas demasiado ocupado; de cualquier modo, dejó esto para ti.
+2586	dhbc	Espero que nuestro capitán haya logrado salir de la ciudad sin contratiempos.
 2587	dhcc	Gracias.
-2588	dhda	Tobías dijo que eso podría facilitar tu búsqueda. ¿Cómo va, entonces?
-2589	dhka	Nunca está de más tener un mago de tu lado.
-2590	dhkc	He ayudado a los yokudanos a resolver su problema. La gitana cree que ahora me debe una.
-2591	di1a	Frecuentaba mucho este establecimiento antes de la batalla en la bahía de Hunding; no tanto después, por supuesto.
-2592	di1c	¿QUÉ PUEDE DECIRME DE ISZARA?
-2593	di2a	Era muy ferviente, tu cría, y odiaba al Imperio sin disimularlo. Después de la ocupación, desapareció por un tiempo...
-2594	di2c	Por supuesto...?
-2595	di3a	No, estoy hablando de antes de eso, justo después de la batalla. Muchos Coronas se hicieron desaparecer entonces.
-2596	di3b	Iszara fue una de ellas; no la vi durante varias semanas después. Más tarde apareció, necesitada de un trago y divagando, decidida a tomar alguna decisión
+2588	dhda	Tobías dijo que eso podría ayudarte en tu búsqueda. ¿Cómo va todo?
+2589	dhka	Nunca viene mal tener un mago de tu parte.
+2590	dhkc	He ayudado a los yokudanos a resolver su dilema. La gitana siente que ahora está en deuda conmigo.
+2591	di1a	Solía frecuentar mucho este lugar antes de la batalla en la bahía de Hunding; después, no tanto, como es natural.
+2592	di1c	¿QUÉ PUEDES CONTARME DE ISZARA?
+2593	di2a	Era muy apasionada, tu hermana, y no ocultaba su odio hacia el Imperio. Tras la ocupación, desapareció por un tiempo...
+2594	di2c	¿Por supuesto...?
+2595	di3a	No, me refiero a antes de eso, justo después de la batalla. Muchas Coronas se esfumaron entonces.
+2596	di3b	Iszara fue una de ellas; no la vi durante varias semanas. Más tarde apareció, necesitando un trago y divagando, decidida a tomar alguna decisión.
 2597	di3c	Desapareció hace tres meses.
-2598	di4a	Vinieron los imperiales y la dejé salir por atras. No la he visto desde entonces
-2599	di4c	¿Y entonces?
-2600	dima	No específicamente por Iszara... los imperiales tenían una lista de disidentes que buscaban. Su nombre estaba allí, con nombres de muchas otras Coronas. Desde entonces sólo veo Antepasados aquí.
-2601	dimc	¿Dijiste que los imperiales vinieron aquí buscando a Iszara la última noche que la viste?
-2602	dj1a	¿En serio? Muy patriótico para alguien que cree que, veamos, Hammerfell sin rey ha seguido su camino
-2603	dj1c	He hecho mía la causa de la Liga, Dreekius
-2604	dj2a	¿Qué planea hacer la Liga?
-2605	dj2c	Las cosas son diferentes ahora
-2606	dj3c	Vamos a traer de vuelta al Príncipe A'tor y recuperar el reino, por supuesto.
-2607	dk1a	¿QUÉ HACÍA ALLÍ EL POBRE DESGRACIADO?
+2598	di4a	Llegaron los imperiales y la ayudé a escapar por la puerta trasera. No la he vuelto a ver desde entonces.
+2599	di4c	¿Y qué pasó?
+2600	dima	No buscaban específicamente a Iszara... los imperiales tenían una lista de disidentes. Su nombre aparecía allí, junto con el de muchas otras Coronas. Desde entonces solo veo Antepasados por aquí.
+2601	dimc	¿Has dicho que los imperiales vinieron buscando a Iszara la última noche que la viste?
+2602	dj1a	¿En serio? Muy patriótico viniendo de alguien que cree que, veamos, Hammerfell sin rey ha seguido su curso.
+2603	dj1c	He abrazado la causa de la Liga, Dreekius.
+2604	dj2a	¿Qué pretende hacer la Liga?
+2605	dj2c	Las cosas han cambiado ahora.
+2606	dj3c	Vamos a traer de vuelta al Príncipe A'tor y recuperar el reino, naturalmente.
+2607	dk1a	¿QUÉ HACÍA ALLÍ EL POBRE INFELIZ?
 2608	dk1c	ENCONTRÉ EL DIARIO DEL HERMANO KITHRAL EN LAS CAVERNAS SUBTERRÁNEAS.
-2609	dk2c	BUSCANDO ALGÚN TIPO DE ANILLO. Y TAMBIÉN MENCIONA A ISZARA. SUPONGO QUE TENDRÉ QUE BUSCAR LA COSA AHORA... 
-2610	dl1a	Hay un bretón en la ciudad, completamente ebrio, llamado Crendal. Hace unas semanas estuvo aquí jactándose de tener una parte del mapa.
-2611	dl1c	Mucha gente está buscando el frasco. ¿Alguien en particular?
-2612	dl2a	Sí, pero Crendal es un borracho, así que haz de ello lo que quieras.
-2613	dl2c	Un mapa que muestra dónde está enterrado el frasco.
-2614	dm1a	Y?
-2615	dm1c	Bueno, conocí a la Liga
-2616	dm2a	¿Qué dijeron de tu hermana?
-2617	dm2c	Evidentemente, Iszara era un miembro importante. Parecen un poco desarrapados, pero hay algo en su líder que me preocupa
-2618	dm3c	Llevan un tiempo buscándola ellos mismos. Sólo me dejaron entrar en el escondite para averiguar lo que sabía
-2619	do1a	Hammerfell es aún una frontera confrictiva del territorio humano. Dicen que algunos todavía luchan contra el Imperio en el continente.
-2620	do1c	La ocupación, al parecer, está tardando en consolidarse, con la Liga rondando y los Imperiales aún a la caza de Coronas rebeldes... 
-2621	do2a	Todo el mundo salvaje, como los Reinos Elfos y las Tierras Bestiales... esperan a ver qué ocurre finalmente aquí, en la última región de los hombres
-2622	do2c	¿Se demora así la expansión del Imperio?
-2623	doba	No sé mucho acerca de los enanos, Cyrus, nadie realmente lo sabe. Tal vez quieras hablar con Lakene, sin embargo. Es más enano que el Gobernador
-2624	dobc	He estado en el Observatorio Enano. Este elfo loco de allí necesita que lo arreglen. Creo que puedo sacar algo de él una vez que esté hecho
-2625	dpaa	Quita esa mirada de tu cara, Cyrus. Si hay que hacerlo, encuentra la forma de que te inviten a entrar, no de que te arrastren como a un lisiado maltrecho
-2626	dpac	Quizá debería echar un vistazo al Palacio
-2627	dq1a	Nunca lo contaré.
-2628	dq1c	Le enseñé al hermano Nidal el diario de Kithral que encontré en las cavernas. Se molesto, pero me contó un secreto
-2629	dq2c	El sacerdote tiene el cuerpo del príncipe A'tor escondido en el templo.
-2630	dq3c	Y está cubierto por una especie de barrera mágica para evitar que sufra daño, algo que el Archimago lanzó sobre el Príncipe justo antes de que ambos fueran asesinados por el dragón
-2631	dq4c	Kithral menciona el anillo del Archimago en su diario, y que tuvo que encontrarlo para Iszara. Supongo que debería volver y buscarlo antes de terminar
-2632	dr1a	Sospecho que fui más un obstáculo que una víctima. Las incursiones parecían cosa del pasado; pero tu desventura podría ser un presagio de los nuevos problemas de los que murmuran los marineros.
-2633	dr1c	Yo mismo fui víctima de estas redadas.
-2634	dr2a	La Liga está reuniendo de nuevo sus fuerzas... o eso dicen los rumores
-2636	dr3a	Es cierto, suena poco probable. Pero son Daggerlads, la Liga Restless, y juran volver a hacer la guerra
-2637	dr3c	¿Una segunda batalla de Stros M'Kai?
-2638	drla	Una tribu humana de mala reputación, pero cuya determinación es algo que puedo comprender.
-2639	drlb	Sus incursiones perturban mis operaciones de contrabando, y a menudo mi naturaleza justa; el vino de Valenwood es difícil de conseguir, ya ves, pero sobre eso no tengo nada peor que decir
-2640	drlc	¿Qué opina de la Liga de los revoltosos?
-2641	drt1	¡HEMOS OÍDO LO DE TU CAPTURA, CYRUS!
-2642	drt2	FRECUENTABA MUCHO ESTE ESTABLECIMIENTO ANTES DE LA BATALLA DE HUNDING BAY; MENOS DESPUÉS, CLARO.
-2643	drt3	ERA UNA FERVIENTE, SU NIDO, QUE ODIABA AL IMPERIO NO EN VOZ BAJA. DESPUÉS DE LA OCUPACIÓN, ELLA DESAPARECIÓ POR UN TIEMPO--
-2644	drt4	NO, HABLO DE ANTES, JUSTO DESPUÉS DE LA BATALLA. MUCHAS CORONAS SE HABÍAN DISPERSADO ENTONCES, ESCONDIÉNDOSE DONDE PODÍAN.
-2645	drt0	NO LA VI DURANTE VARIOS DÍAS DESPUÉS, PERO ENTONCES APARECIÓ, NECESITANDO UNA COPA Y DIVAGANDO, TENSA POR ALGUNA DECISIÓN.
-2646	drt5	LLEGARON LOS IMPERIALES Y LA DEJÉ SALIR POR LA PARTE DE ATRÁS. NO LA HE VISTO DESDE ENTONCES.
-2647	drt6	¿OTRO PIEL SUAVE QUE SUEÑA CON LA INESTIMABLE JOYA DEL REY DEL ANTIGUO PANTANO NEGRO? TÚ TAMBIÉN TIENES ESE ASPECTO, TODO ESPADA Y FANFARRONERÍA. TOBÍAS TE DESCRIBIÓ BIEN.
-2648	drt7	LO QUE tu  DIGA.
-2649	drt8	LO QUE SIGNIFICA QUE TIENE MUCHO ESPACIO PARA MANIOBRAR.
-2650	drt9	LO SIENTO, CYRUS, YO TAMPOCO.
-2651	ds1a	Oh, no. Simplemente observé sus impulsos de clan, que cualquier argoniano podría admirar, estando acostumbrados, como estamos, a honrar los intereses del clan sobre nuestros propios asuntos privados.
-2652	ds1b	¿Es tu primera visita a Stros M'Kai, Cyrus?
-2653	ds1c	¿Simpatizas con la Liga, entonces?
-2654	ds2a	¿Pero para el malestar de la sangre similar...?
-2655	ds2c	Sí, pero la ocupación hace que no lo parezca tanto. Con los estandartes imperiales en alto en el puerto parece cualquier otra ciudad vasalla de Cyrodiil
-2656	ds3a	Tu apatía es decididamente reptiliana...
-2657	ds3c	La única sangre que me importa es la de mi hermana. Por lo que a mí respecta, la nueva Hammerfell sin rey ha seguido su camino
-2658	ds4c	No sé cómo tomarme eso, viniendo de ti
-2659	ds7a	¿Te refieres a mí? Yo no vago, Redguard; esto es un estudio asentado para mí, del que añadiré riqueza de sabiduría cuando regrese a mi clan.
-2660	ds7c	¿Cómo, entonces, se las arregla un argoniano para abandonar su tribu y vagar por Tamriel?
-2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era anterior, porque esa magia era muy propensa al error
+2609	dk2c	BUSCABA UNA ESPECIE DE ANILLO. Y TAMBIÉN MENCIONA A ISZARA. SUPONGO QUE TENDRÉ QUE BUSCAR ESE OBJETO AHORA...
+2610	dl1a	Hay un bretón en la ciudad, completamente borracho, llamado Crendal. Hace unas semanas estuvo aquí alardeando de tener una parte del mapa.
+2611	dl1c	Mucha gente anda tras el frasco. ¿Alguien en particular?
+2612	dl2a	Sí, pero Crendal es un borracho, así que tómalo como quieras.
+2613	dl2c	Un mapa que señala dónde está enterrado el frasco.
+2614	dm1a	¿Y bien?
+2615	dm1c	Bueno, me he reunido con la Liga.
+2616	dm2a	¿Qué te dijeron sobre tu hermana?
+2617	dm2c	Por lo visto, Iszara era un miembro importante. Parecen algo desaliñados, pero hay algo en su líder que me inquieta.
+2618	dm3c	Llevan tiempo buscándola ellos también. Solo me permitieron entrar en el refugio para averiguar lo que yo sabía.
+2619	do1a	Hammerfell sigue siendo una frontera conflictiva del territorio humano. Dicen que algunos aún resisten contra el Imperio en el continente.
+2620	do1c	La ocupación, según parece, está costando consolidarse, con la Liga merodeando y los Imperiales todavía persiguiendo a las Coronas rebeldes...
+2621	do2a	Todo el mundo salvaje, como los Reinos Élficos y las Tierras Bestiales... aguarda para ver qué sucede finalmente aquí, en la última región de los hombres.
+2622	do2c	¿Así se retrasa la expansión del Imperio?
+2623	doba	No sé mucho sobre los dwemer, Cyrus, nadie realmente lo sabe. Aunque quizás deberías hablar con Lakene. Sabe más de los dwemer que el Gobernador.
+2624	dobc	He estado en el Observatorio Dwemer. Ese elfo chiflado de allí necesita que lo reparen. Creo que podré obtener algo de él una vez esté arreglado.
+2625	dpaa	Borra esa expresión de tu rostro, Cyrus. Si hay que hacerlo, consigue que te inviten a entrar, no que te arrastren como un tullido malherido.
+2626	dpac	Tal vez debería inspeccionar el Palacio.
+2627	dq1a	Jamás lo revelaré.
+2628	dq1c	Le mostré al hermano Nidal el diario de Kithral que encontré en las cavernas. Se enfadó, pero me reveló un secreto.
+2629	dq2c	El sacerdote mantiene oculto el cuerpo del príncipe A'tor en el templo.
+2630	dq3c	Y está protegido por una especie de barrera mágica para evitar que sufra daño, un hechizo que el Archimago lanzó sobre el Príncipe justo antes de que ambos perecieran por el dragón.
+2631	dq4c	Kithral menciona el anillo del Archimago en su diario, y que debía encontrarlo para Iszara. Supongo que debería volver y buscarlo antes de concluir.
+2632	dr1a	Sospecho que fui más un estorbo que una víctima. Los asaltos parecían cosa del pasado; pero tu infortunio podría ser un presagio de los nuevos problemas de los que murmuran los marineros.
+2633	dr1c	Yo mismo fui víctima de esos asaltos.
+2634	dr2a	La Liga está reagrupando sus fuerzas... o eso dicen los rumores.
+2636	dr3a	Es cierto, parece improbable. Pero son los Daggerlads, la Liga Inquieta, y juran volver a la guerra.
+2637	dr3c	¿Una segunda batalla por Stros M'Kai?
+2638	drla	Un grupo humano de dudosa reputación, pero cuya determinación es algo que puedo entender.
+2639	drlb	Sus incursiones interfieren con mis operaciones de contrabando, y a menudo con mi sentido de la justicia; el vino de Valenwood es difícil de conseguir, como verás, pero no tengo nada más grave que decir al respecto.
+2640	drlc	¿Qué piensas de la Liga Inquieta?
+2641	drt1	¡NOS HEMOS ENTERADO DE TU CAPTURA, CYRUS!
+2642	drt2	SOLÍA FRECUENTAR MUCHO ESTE LUGAR ANTES DE LA BATALLA DE LA BAHÍA DE HUNDING; DESPUÉS, NO TANTO, CLARO.
+2643	drt3	ERA UNA APASIONADA, TU HERMANA, QUE NO OCULTABA SU ODIO AL IMPERIO. TRAS LA OCUPACIÓN, DESAPARECIÓ POR UN TIEMPO...
+2644	drt4	NO, ME REFIERO A ANTES, JUSTO DESPUÉS DE LA BATALLA. MUCHAS CORONAS SE DISPERSARON ENTONCES, OCULTÁNDOSE DONDE PODÍAN.
+2645	drt0	NO LA VI DURANTE VARIOS DÍAS, PERO LUEGO APARECIÓ, NECESITANDO UNA COPA Y DIVAGANDO, ANGUSTIADA POR ALGUNA DECISIÓN.
+2646	drt5	LLEGARON LOS IMPERIALES Y LA AYUDÉ A ESCAPAR POR LA PUERTA TRASERA. NO LA HE VUELTO A VER DESDE ENTONCES.
+2647	drt6	¿OTRO PIEL SUAVE QUE SUEÑA CON LA JOYA INVALUABLE DEL REY DEL ANTIGUO PANTANO NEGRO? TÚ TAMBIÉN TIENES ESE AIRE, TODO ESPADA Y BRAVUCONERÍA. TOBÍAS TE DESCRIBIÓ BIEN.
+2648	drt7	LO QUE TÚ DIGAS.
+2649	drt8	LO QUE SIGNIFICA QUE TIENE MUCHO MARGEN DE MANIOBRA.
+2650	drt9	LO LAMENTO, CYRUS, YO TAMPOCO.
+2651	ds1a	Oh, no. Simplemente observé su espíritu de clan, algo que cualquier argoniano puede admirar, pues estamos acostumbrados a anteponer los intereses del clan a nuestros asuntos personales.
+2652	ds1b	¿Es esta tu primera vez en Stros M'Kai, Cyrus?
+2653	ds1c	¿Así que simpatizas con la Liga?
+2654	ds2a	¿Pero ante el sufrimiento de tu propia sangre...?
+2655	ds2c	Sí, pero la ocupación hace que no lo parezca. Con los estandartes imperiales ondeando en el puerto, parece cualquier otra ciudad vasalla de Cyrodiil.
+2656	ds3a	Tu indiferencia es típicamente reptiliana...
+2657	ds3c	La única sangre que me importa es la de mi hermana. Por lo que a mí respecta, la nueva Hammerfell sin rey ha tomado su rumbo.
+2658	ds4c	No sé cómo interpretar eso, viniendo de ti.
+2659	ds7a	¿Te refieres a mí? Yo no vagabundeo, Guardia Rojo; esto es un estudio establecido para mí, del que extraeré valiosa sabiduría cuando regrese a mi clan.
+2660	ds7c	¿Cómo es que un argoniano abandona su tribu para vagar por Tamriel?
+2661	dsla	Esas artes se practican en el Pantano Negro, pero usamos huevos sin eclosionar en lugar de gemas. La práctica estuvo prohibida durante un tiempo en la era pasada, pues esa magia era muy propensa a fallar.
 2662	dslb	Pero tras la fundación de los gremios de magos, se levantó la prohibición de las gemas de alma. Deberías preguntar a alguien del gremio para saber más
 2663	dslc	¿Has oído hablar de las gemas del alma, Dreekius? Necesito hacerme con una
 2664	dsrc	ENTRÉ EN LAS RUINAS, PERO NO LO HE EXPLORADO TODO. DEBERÍA VOLVER Y VER QUÉ PUEDO ENCONTRAR.
